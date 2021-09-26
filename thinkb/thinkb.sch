@@ -1692,8 +1692,6 @@ Connection ~ 4100 1500
 Wire Wire Line
 	4100 2100 5200 2100
 Wire Wire Line
-	4100 2700 5200 2700
-Wire Wire Line
 	4100 3300 5200 3300
 Wire Wire Line
 	4100 3900 5200 3900
@@ -1710,24 +1708,59 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1350 
 	1    1350 3150
 	0    -1   -1   0   
 $EndComp
+Text GLabel 4850 4300 1    50   Input ~ 0
+encA
+NoConn ~ 4750 4300
+Text GLabel 4650 4300 1    50   Input ~ 0
+encB
+$Comp
+L Diode:1N4148 D61
+U 1 1 616F71C2
+P 4650 5050
+F 0 "D61" V 4650 4970 50  0000 R CNN
+F 1 "1N4148" H 4650 5176 50  0001 C CNN
+F 2 "footprints:diode_TH_SMD" H 4650 4875 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4650 5050 50  0001 C CNN
+	1    4650 5050
+	0    -1   -1   0   
+$EndComp
 $Comp
 L Device:Rotary_Encoder_Switch ENC1
 U 1 1 616135F5
-P 4850 4700
-F 0 "ENC1" H 4850 5067 50  0000 C CNN
-F 1 "Rotary_Encoder_Switch" H 4850 4976 50  0000 C CNN
-F 2 "footprints:RotaryEncoder_Alps_EC11E" H 4700 4860 50  0001 C CNN
-F 3 "~" H 4850 4960 50  0001 C CNN
-	1    4850 4700
+P 4750 4600
+F 0 "ENC1" V 4500 4850 50  0000 C CNN
+F 1 "Rotary_Encoder_Switch" V 4500 5200 50  0001 C CNN
+F 2 "footprints:RotaryEncoder_Alps_EC11E" H 4600 4760 50  0001 C CNN
+F 3 "~" H 4750 4860 50  0001 C CNN
+	1    4750 4600
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4650 5200 4250 5200
+Wire Wire Line
+	4850 5200 4850 4900
+Wire Wire Line
+	4100 2700 5200 2700
+Text GLabel 1100 4300 0    50   Input ~ 0
+row5
+Wire Wire Line
+	1100 4300 4250 4300
+Wire Wire Line
+	4250 4300 4250 5200
+Wire Wire Line
+	5600 3600 5600 5200
+Wire Wire Line
+	5600 5200 4850 5200
+Connection ~ 5600 3600
+$Comp
+L promicro_2:ProMicro_2 U1
+U 1 1 6198CAAD
+P 2200 5700
+F 0 "U1" H 2200 6515 50  0000 C CNN
+F 1 "ProMicro_2" H 2200 6424 50  0000 C CNN
+F 2 "footprints:ProMicro" H 2150 5800 50  0001 C CNN
+F 3 "" H 2150 5800 50  0001 C CNN
+	1    2200 5700
 	1    0    0    -1  
 $EndComp
-Text GLabel 5150 4600 2    50   Input ~ 0
-row2
-Text GLabel 5150 4800 2    50   Input ~ 0
-col12
-Text GLabel 4550 4600 0    50   Input ~ 0
-encA
-NoConn ~ 4550 4700
-Text GLabel 4550 4800 0    50   Input ~ 0
-encB
 $EndSCHEMATC
