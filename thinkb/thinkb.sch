@@ -175,17 +175,6 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2800 
 $EndComp
 Connection ~ 2250 2500
 $Comp
-L Switch:SW_Push SW10
-U 1 1 61529B5C
-P 3550 2200
-F 0 "SW10" H 3550 2393 50  0000 C CNN
-F 1 "SW_Push" H 3550 2394 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 3550 2400 50  0001 C CNN
-F 3 "~" H 3550 2400 50  0001 C CNN
-	1    3550 2200
-	1    0    0    -1  
-$EndComp
-$Comp
 L Diode:1N4148 D10
 U 1 1 61529B62
 P 3350 2350
@@ -1701,7 +1690,6 @@ Text GLabel 4350 1200 1    50   Input ~ 0
 encA
 Wire Wire Line
 	3350 1800 3350 2200
-Connection ~ 3350 2200
 Wire Wire Line
 	4850 1300 4850 2800
 Wire Wire Line
