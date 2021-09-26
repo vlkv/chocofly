@@ -125,32 +125,31 @@ Wire Wire Line
 $Comp
 L Switch:SW_Push SW5
 U 1 1 6150B4C2
-P 3750 1200
-F 0 "SW5" H 3750 1393 50  0000 C CNN
-F 1 "SW_Push" H 3750 1394 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 3750 1400 50  0001 C CNN
-F 3 "~" H 3750 1400 50  0001 C CNN
-	1    3750 1200
+P 4300 1200
+F 0 "SW5" H 4300 1393 50  0000 C CNN
+F 1 "SW_Push" H 4300 1394 50  0001 C CNN
+F 2 "footprints:Choc_PG1350_Choc_Spacing" H 4300 1400 50  0001 C CNN
+F 3 "~" H 4300 1400 50  0001 C CNN
+	1    4300 1200
 	1    0    0    -1  
 $EndComp
 $Comp
 L Diode:1N4148 D5
 U 1 1 6150B4C8
-P 3550 1350
-F 0 "D5" V 3550 1270 50  0000 R CNN
-F 1 "1N4148" H 3550 1476 50  0001 C CNN
-F 2 "footprints:diode_TH_SMD" H 3550 1175 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3550 1350 50  0001 C CNN
-	1    3550 1350
+P 4100 1350
+F 0 "D5" V 4100 1270 50  0000 R CNN
+F 1 "1N4148" H 4100 1476 50  0001 C CNN
+F 2 "footprints:diode_TH_SMD" H 4100 1175 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4100 1350 50  0001 C CNN
+	1    4100 1350
 	0    -1   -1   0   
 $EndComp
-Text GLabel 3950 900  1    50   Input ~ 0
+Text GLabel 4500 900  1    50   Input ~ 0
 col4
 Wire Wire Line
-	3950 900  3950 1200
-Text GLabel 4500 900  1    50   Input ~ 0
+	4500 900  4500 1200
+Text GLabel 5050 900  1    50   Input ~ 0
 col5
-Connection ~ 3000 1500
 Connection ~ 2450 1500
 $Comp
 L Switch:SW_Push SW13
@@ -249,27 +248,26 @@ $EndComp
 $Comp
 L Switch:SW_Push SW17
 U 1 1 61529B69
-P 3750 1800
-F 0 "SW17" H 3750 1993 50  0000 C CNN
-F 1 "SW_Push" H 3750 1994 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 3750 2000 50  0001 C CNN
-F 3 "~" H 3750 2000 50  0001 C CNN
-	1    3750 1800
+P 4300 1800
+F 0 "SW17" H 4300 1993 50  0000 C CNN
+F 1 "SW_Push" H 4300 1994 50  0001 C CNN
+F 2 "footprints:Choc_PG1350_Choc_Spacing" H 4300 2000 50  0001 C CNN
+F 3 "~" H 4300 2000 50  0001 C CNN
+	1    4300 1800
 	1    0    0    -1  
 $EndComp
 $Comp
 L Diode:1N4148 D17
 U 1 1 61529B6F
-P 3550 1950
-F 0 "D17" V 3550 1870 50  0000 R CNN
-F 1 "1N4148" H 3550 2076 50  0001 C CNN
-F 2 "footprints:diode_TH_SMD" H 3550 1775 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3550 1950 50  0001 C CNN
-	1    3550 1950
+P 4100 1950
+F 0 "D17" V 4100 1870 50  0000 R CNN
+F 1 "1N4148" H 4100 2076 50  0001 C CNN
+F 2 "footprints:diode_TH_SMD" H 4100 1775 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4100 1950 50  0001 C CNN
+	1    4100 1950
 	0    -1   -1   0   
 $EndComp
-Connection ~ 3550 2100
-Connection ~ 3000 2100
+Connection ~ 4100 2100
 Connection ~ 2450 2100
 $Comp
 L Switch:SW_Push SW25
@@ -368,30 +366,8 @@ $EndComp
 $Comp
 L Switch:SW_Push SW29
 U 1 1 61532075
-P 3750 2400
-F 0 "SW29" H 3750 2593 50  0000 C CNN
-F 1 "SW_Push" H 3750 2594 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 3750 2600 50  0001 C CNN
-F 3 "~" H 3750 2600 50  0001 C CNN
-	1    3750 2400
-	1    0    0    -1  
-$EndComp
-$Comp
-L Diode:1N4148 D29
-U 1 1 6153207B
-P 3550 2550
-F 0 "D29" V 3550 2470 50  0000 R CNN
-F 1 "1N4148" H 3550 2676 50  0001 C CNN
-F 2 "footprints:diode_TH_SMD" H 3550 2375 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3550 2550 50  0001 C CNN
-	1    3550 2550
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Switch:SW_Push SW30
-U 1 1 61532082
 P 4300 2400
-F 0 "SW30" H 4300 2593 50  0000 C CNN
+F 0 "SW29" H 4300 2593 50  0000 C CNN
 F 1 "SW_Push" H 4300 2594 50  0001 C CNN
 F 2 "footprints:Choc_PG1350_Choc_Spacing" H 4300 2600 50  0001 C CNN
 F 3 "~" H 4300 2600 50  0001 C CNN
@@ -399,18 +375,39 @@ F 3 "~" H 4300 2600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D30
-U 1 1 61532088
+L Diode:1N4148 D29
+U 1 1 6153207B
 P 4100 2550
-F 0 "D30" V 4100 2470 50  0000 R CNN
+F 0 "D29" V 4100 2470 50  0000 R CNN
 F 1 "1N4148" H 4100 2676 50  0001 C CNN
 F 2 "footprints:diode_TH_SMD" H 4100 2375 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4100 2550 50  0001 C CNN
 	1    4100 2550
 	0    -1   -1   0   
 $EndComp
-Connection ~ 3550 2700
-Connection ~ 3000 2700
+$Comp
+L Switch:SW_Push SW30
+U 1 1 61532082
+P 4850 2400
+F 0 "SW30" H 4850 2593 50  0000 C CNN
+F 1 "SW_Push" H 4850 2594 50  0001 C CNN
+F 2 "footprints:Choc_PG1350_Choc_Spacing" H 4850 2600 50  0001 C CNN
+F 3 "~" H 4850 2600 50  0001 C CNN
+	1    4850 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D30
+U 1 1 61532088
+P 4650 2550
+F 0 "D30" V 4650 2470 50  0000 R CNN
+F 1 "1N4148" H 4650 2676 50  0001 C CNN
+F 2 "footprints:diode_TH_SMD" H 4650 2375 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4650 2550 50  0001 C CNN
+	1    4650 2550
+	0    -1   -1   0   
+$EndComp
+Connection ~ 4100 2700
 Connection ~ 2450 2700
 $Comp
 L Switch:SW_Push SW37
@@ -498,30 +495,8 @@ $EndComp
 $Comp
 L Switch:SW_Push SW41
 U 1 1 6153B5EB
-P 3750 3000
-F 0 "SW41" H 3750 3193 50  0000 C CNN
-F 1 "SW_Push" H 3750 3194 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 3750 3200 50  0001 C CNN
-F 3 "~" H 3750 3200 50  0001 C CNN
-	1    3750 3000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Diode:1N4148 D41
-U 1 1 6153B5F1
-P 3550 3150
-F 0 "D41" V 3550 3070 50  0000 R CNN
-F 1 "1N4148" H 3550 3276 50  0001 C CNN
-F 2 "footprints:diode_TH_SMD" H 3550 2975 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3550 3150 50  0001 C CNN
-	1    3550 3150
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Switch:SW_Push SW42
-U 1 1 6153B5F8
 P 4300 3000
-F 0 "SW42" H 4300 3193 50  0000 C CNN
+F 0 "SW41" H 4300 3193 50  0000 C CNN
 F 1 "SW_Push" H 4300 3194 50  0001 C CNN
 F 2 "footprints:Choc_PG1350_Choc_Spacing" H 4300 3200 50  0001 C CNN
 F 3 "~" H 4300 3200 50  0001 C CNN
@@ -529,18 +504,39 @@ F 3 "~" H 4300 3200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D42
-U 1 1 6153B5FE
+L Diode:1N4148 D41
+U 1 1 6153B5F1
 P 4100 3150
-F 0 "D42" V 4100 3070 50  0000 R CNN
+F 0 "D41" V 4100 3070 50  0000 R CNN
 F 1 "1N4148" H 4100 3276 50  0001 C CNN
 F 2 "footprints:diode_TH_SMD" H 4100 2975 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4100 3150 50  0001 C CNN
 	1    4100 3150
 	0    -1   -1   0   
 $EndComp
-Connection ~ 3550 3300
-Connection ~ 3000 3300
+$Comp
+L Switch:SW_Push SW42
+U 1 1 6153B5F8
+P 4850 3000
+F 0 "SW42" H 4850 3193 50  0000 C CNN
+F 1 "SW_Push" H 4850 3194 50  0001 C CNN
+F 2 "footprints:Choc_PG1350_Choc_Spacing" H 4850 3200 50  0001 C CNN
+F 3 "~" H 4850 3200 50  0001 C CNN
+	1    4850 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D42
+U 1 1 6153B5FE
+P 4650 3150
+F 0 "D42" V 4650 3070 50  0000 R CNN
+F 1 "1N4148" H 4650 3276 50  0001 C CNN
+F 2 "footprints:diode_TH_SMD" H 4650 2975 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4650 3150 50  0001 C CNN
+	1    4650 3150
+	0    -1   -1   0   
+$EndComp
+Connection ~ 4100 3300
 Connection ~ 2450 3300
 $Comp
 L Switch:SW_Push SW49
@@ -605,30 +601,8 @@ $EndComp
 $Comp
 L Switch:SW_Push SW53
 U 1 1 6154EEB1
-P 3750 3600
-F 0 "SW53" H 3750 3793 50  0000 C CNN
-F 1 "SW_Push" H 3750 3794 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 3750 3800 50  0001 C CNN
-F 3 "~" H 3750 3800 50  0001 C CNN
-	1    3750 3600
-	1    0    0    -1  
-$EndComp
-$Comp
-L Diode:1N4148 D53
-U 1 1 6154EEB7
-P 3550 3750
-F 0 "D53" V 3550 3670 50  0000 R CNN
-F 1 "1N4148" H 3550 3876 50  0001 C CNN
-F 2 "footprints:diode_TH_SMD" H 3550 3575 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3550 3750 50  0001 C CNN
-	1    3550 3750
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Switch:SW_Push SW54
-U 1 1 6154EEBE
 P 4300 3600
-F 0 "SW54" H 4300 3793 50  0000 C CNN
+F 0 "SW53" H 4300 3793 50  0000 C CNN
 F 1 "SW_Push" H 4300 3794 50  0001 C CNN
 F 2 "footprints:Choc_PG1350_Choc_Spacing" H 4300 3800 50  0001 C CNN
 F 3 "~" H 4300 3800 50  0001 C CNN
@@ -636,20 +610,41 @@ F 3 "~" H 4300 3800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D54
-U 1 1 6154EEC4
+L Diode:1N4148 D53
+U 1 1 6154EEB7
 P 4100 3750
-F 0 "D54" V 4100 3670 50  0000 R CNN
+F 0 "D53" V 4100 3670 50  0000 R CNN
 F 1 "1N4148" H 4100 3876 50  0001 C CNN
 F 2 "footprints:diode_TH_SMD" H 4100 3575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4100 3750 50  0001 C CNN
 	1    4100 3750
 	0    -1   -1   0   
 $EndComp
+$Comp
+L Switch:SW_Push SW54
+U 1 1 6154EEBE
+P 4850 3600
+F 0 "SW54" H 4850 3793 50  0000 C CNN
+F 1 "SW_Push" H 4850 3794 50  0001 C CNN
+F 2 "footprints:Choc_PG1350_Choc_Spacing" H 4850 3800 50  0001 C CNN
+F 3 "~" H 4850 3800 50  0001 C CNN
+	1    4850 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D54
+U 1 1 6154EEC4
+P 4650 3750
+F 0 "D54" V 4650 3670 50  0000 R CNN
+F 1 "1N4148" H 4650 3876 50  0001 C CNN
+F 2 "footprints:diode_TH_SMD" H 4650 3575 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4650 3750 50  0001 C CNN
+	1    4650 3750
+	0    -1   -1   0   
+$EndComp
 Wire Wire Line
-	4100 3900 3550 3900
-Connection ~ 3550 3900
-Connection ~ 3000 3900
+	4650 3900 4100 3900
+Connection ~ 4100 3900
 Connection ~ 1750 3000
 Wire Wire Line
 	1350 3300 1900 3300
@@ -672,11 +667,11 @@ Wire Wire Line
 Wire Wire Line
 	1750 2400 1750 3000
 Wire Wire Line
-	4500 2400 4500 3000
-Connection ~ 4500 2400
+	5050 2400 5050 3000
+Connection ~ 5050 2400
 Wire Wire Line
-	4500 3000 4500 3600
-Connection ~ 4500 3000
+	5050 3000 5050 3600
+Connection ~ 5050 3000
 Connection ~ 2300 1200
 Connection ~ 2300 1800
 Connection ~ 2300 2400
@@ -688,9 +683,9 @@ Connection ~ 3400 1200
 Connection ~ 3400 1800
 Connection ~ 3400 2400
 Connection ~ 3400 3000
-Connection ~ 3950 2400
-Connection ~ 3950 1800
-Connection ~ 3950 1200
+Connection ~ 4500 2400
+Connection ~ 4500 1800
+Connection ~ 4500 1200
 Wire Wire Line
 	1900 1500 2450 1500
 Wire Wire Line
@@ -722,73 +717,73 @@ Wire Wire Line
 Wire Wire Line
 	2850 3000 2850 3600
 Wire Wire Line
-	3950 1200 3950 1800
+	4500 1200 4500 1800
 Wire Wire Line
-	3950 1800 3950 2400
-Connection ~ 3950 3000
+	4500 1800 4500 2400
+Connection ~ 4500 3000
 Wire Wire Line
-	3550 2700 4100 2700
+	4100 2700 4650 2700
 Wire Wire Line
-	3950 2400 3950 3000
+	4500 2400 4500 3000
 Wire Wire Line
-	3550 3300 4100 3300
+	4100 3300 4650 3300
 Wire Wire Line
-	3950 3000 3950 3600
-Connection ~ 3550 1500
+	4500 3000 4500 3600
+Connection ~ 4100 1500
 Wire Wire Line
-	3550 2100 4100 2100
+	4100 2100 4650 2100
 Wire Wire Line
-	3550 1500 4100 1500
+	4100 1500 4650 1500
 $Comp
 L Diode:1N4148 D18
 U 1 1 61529B7C
-P 4100 1950
-F 0 "D18" V 4100 1870 50  0000 R CNN
-F 1 "1N4148" H 4100 2076 50  0001 C CNN
-F 2 "footprints:diode_TH_SMD" H 4100 1775 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4100 1950 50  0001 C CNN
-	1    4100 1950
+P 4650 1950
+F 0 "D18" V 4650 1870 50  0000 R CNN
+F 1 "1N4148" H 4650 2076 50  0001 C CNN
+F 2 "footprints:diode_TH_SMD" H 4650 1775 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4650 1950 50  0001 C CNN
+	1    4650 1950
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	4500 1800 4500 2400
-Connection ~ 4500 1800
+	5050 1800 5050 2400
+Connection ~ 5050 1800
 $Comp
 L Switch:SW_Push SW18
 U 1 1 61529B76
-P 4300 1800
-F 0 "SW18" H 4300 1993 50  0000 C CNN
-F 1 "SW_Push" H 4300 1994 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 4300 2000 50  0001 C CNN
-F 3 "~" H 4300 2000 50  0001 C CNN
-	1    4300 1800
+P 4850 1800
+F 0 "SW18" H 4850 1993 50  0000 C CNN
+F 1 "SW_Push" H 4850 1994 50  0001 C CNN
+F 2 "footprints:Choc_PG1350_Choc_Spacing" H 4850 2000 50  0001 C CNN
+F 3 "~" H 4850 2000 50  0001 C CNN
+	1    4850 1800
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	4500 900  4500 1200
+	5050 900  5050 1200
 Wire Wire Line
-	4500 1200 4500 1800
-Connection ~ 4500 1200
+	5050 1200 5050 1800
+Connection ~ 5050 1200
 $Comp
 L Switch:SW_Push SW6
 U 1 1 6150BF45
-P 4300 1200
-F 0 "SW6" H 4300 1393 50  0000 C CNN
-F 1 "SW_Push" H 4300 1394 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 4300 1400 50  0001 C CNN
-F 3 "~" H 4300 1400 50  0001 C CNN
-	1    4300 1200
+P 4850 1200
+F 0 "SW6" H 4850 1393 50  0000 C CNN
+F 1 "SW_Push" H 4850 1394 50  0001 C CNN
+F 2 "footprints:Choc_PG1350_Choc_Spacing" H 4850 1400 50  0001 C CNN
+F 3 "~" H 4850 1400 50  0001 C CNN
+	1    4850 1200
 	1    0    0    -1  
 $EndComp
 $Comp
 L Diode:1N4148 D6
 U 1 1 6150BF4B
-P 4100 1350
-F 0 "D6" V 4100 1270 50  0000 R CNN
-F 1 "1N4148" H 4100 1476 50  0001 C CNN
-F 2 "footprints:diode_TH_SMD" H 4100 1175 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4100 1350 50  0001 C CNN
-	1    4100 1350
+P 4650 1350
+F 0 "D6" V 4650 1270 50  0000 R CNN
+F 1 "1N4148" H 4650 1476 50  0001 C CNN
+F 2 "footprints:diode_TH_SMD" H 4650 1175 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4650 1350 50  0001 C CNN
+	1    4650 1350
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
@@ -835,200 +830,22 @@ Connection ~ 1900 3900
 Wire Wire Line
 	1900 3900 2450 3900
 Connection ~ 2300 3000
-Connection ~ 4100 2100
-Connection ~ 4100 2700
-Connection ~ 4100 3300
-Connection ~ 4100 3900
-Wire Wire Line
-	3550 3900 3000 3900
+Connection ~ 4650 2100
+Connection ~ 4650 2700
+Connection ~ 4650 3300
+Connection ~ 4650 3900
 Wire Wire Line
 	3400 3000 3400 3600
 Wire Wire Line
-	3000 3300 3550 3300
-Wire Wire Line
 	3400 2400 3400 3000
-Wire Wire Line
-	3000 2700 3550 2700
 Wire Wire Line
 	3400 1800 3400 2400
 Wire Wire Line
-	3000 2100 3550 2100
-Wire Wire Line
 	3400 1200 3400 1800
-Wire Wire Line
-	3000 1500 3550 1500
 Connection ~ 5200 3900
 Connection ~ 5200 3300
 Connection ~ 5200 2700
 Connection ~ 5200 2100
-Wire Wire Line
-	7400 3900 7950 3900
-Connection ~ 7400 3900
-Connection ~ 7800 3000
-$Comp
-L Diode:1N4148 D59
-U 1 1 61549E33
-P 7400 3750
-F 0 "D59" V 7400 3670 50  0000 R CNN
-F 1 "1N4148" H 7400 3876 50  0001 C CNN
-F 2 "footprints:diode_TH_SMD" H 7400 3575 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7400 3750 50  0001 C CNN
-	1    7400 3750
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	7800 3000 7800 3600
-$Comp
-L Switch:SW_Push SW59
-U 1 1 61549E2C
-P 7600 3600
-F 0 "SW59" H 7600 3793 50  0000 C CNN
-F 1 "SW_Push" H 7600 3794 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 7600 3800 50  0001 C CNN
-F 3 "~" H 7600 3800 50  0001 C CNN
-	1    7600 3600
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	6850 3900 7400 3900
-Connection ~ 7400 1500
-Wire Wire Line
-	7400 1500 7950 1500
-Connection ~ 7400 2100
-Wire Wire Line
-	7400 2100 7950 2100
-Connection ~ 7400 2700
-Wire Wire Line
-	7400 2700 7950 2700
-Connection ~ 7400 3300
-Wire Wire Line
-	7950 3300 7400 3300
-$Comp
-L Switch:SW_Push SW12
-U 1 1 619F3178
-P 8150 1200
-F 0 "SW12" H 8150 1393 50  0000 C CNN
-F 1 "SW_Push" H 8150 1394 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 8150 1400 50  0001 C CNN
-F 3 "~" H 8150 1400 50  0001 C CNN
-	1    8150 1200
-	1    0    0    -1  
-$EndComp
-Connection ~ 8350 1200
-Wire Wire Line
-	8350 900  8350 1200
-Wire Wire Line
-	8350 1200 8350 1800
-$Comp
-L Diode:1N4148 D12
-U 1 1 619F316F
-P 7950 1350
-F 0 "D12" V 7950 1270 50  0000 R CNN
-F 1 "1N4148" H 7950 1476 50  0001 C CNN
-F 2 "footprints:diode_TH_SMD" H 7950 1175 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7950 1350 50  0001 C CNN
-	1    7950 1350
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Diode:1N4148 D24
-U 1 1 619F3169
-P 7950 1950
-F 0 "D24" V 7950 1870 50  0000 R CNN
-F 1 "1N4148" H 7950 2076 50  0001 C CNN
-F 2 "footprints:diode_TH_SMD" H 7950 1775 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7950 1950 50  0001 C CNN
-	1    7950 1950
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Switch:SW_Push SW24
-U 1 1 619F3163
-P 8150 1800
-F 0 "SW24" H 8150 1993 50  0000 C CNN
-F 1 "SW_Push" H 8150 1994 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 8150 2000 50  0001 C CNN
-F 3 "~" H 8150 2000 50  0001 C CNN
-	1    8150 1800
-	1    0    0    -1  
-$EndComp
-Connection ~ 8350 1800
-Wire Wire Line
-	8350 1800 8350 2400
-Connection ~ 8350 3000
-Wire Wire Line
-	8350 3000 8350 3600
-Connection ~ 8350 2400
-Wire Wire Line
-	8350 2400 8350 3000
-$Comp
-L Diode:1N4148 D60
-U 1 1 619F3157
-P 7950 3750
-F 0 "D60" V 7950 3670 50  0000 R CNN
-F 1 "1N4148" H 7950 3876 50  0001 C CNN
-F 2 "footprints:diode_TH_SMD" H 7950 3575 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7950 3750 50  0001 C CNN
-	1    7950 3750
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Switch:SW_Push SW60
-U 1 1 619F3151
-P 8150 3600
-F 0 "SW60" H 8150 3793 50  0000 C CNN
-F 1 "SW_Push" H 8150 3794 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 8150 3800 50  0001 C CNN
-F 3 "~" H 8150 3800 50  0001 C CNN
-	1    8150 3600
-	1    0    0    -1  
-$EndComp
-$Comp
-L Diode:1N4148 D48
-U 1 1 619F314B
-P 7950 3150
-F 0 "D48" V 7950 3070 50  0000 R CNN
-F 1 "1N4148" H 7950 3276 50  0001 C CNN
-F 2 "footprints:diode_TH_SMD" H 7950 2975 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7950 3150 50  0001 C CNN
-	1    7950 3150
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Switch:SW_Push SW48
-U 1 1 619F3145
-P 8150 3000
-F 0 "SW48" H 8150 3193 50  0000 C CNN
-F 1 "SW_Push" H 8150 3194 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 8150 3200 50  0001 C CNN
-F 3 "~" H 8150 3200 50  0001 C CNN
-	1    8150 3000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Diode:1N4148 D36
-U 1 1 619F313F
-P 7950 2550
-F 0 "D36" V 7950 2470 50  0000 R CNN
-F 1 "1N4148" H 7950 2676 50  0001 C CNN
-F 2 "footprints:diode_TH_SMD" H 7950 2375 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7950 2550 50  0001 C CNN
-	1    7950 2550
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Switch:SW_Push SW36
-U 1 1 619F3139
-P 8150 2400
-F 0 "SW36" H 8150 2593 50  0000 C CNN
-F 1 "SW_Push" H 8150 2594 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 8150 2600 50  0001 C CNN
-F 3 "~" H 8150 2600 50  0001 C CNN
-	1    8150 2400
-	1    0    0    -1  
-$EndComp
-Text GLabel 8350 900  1    50   Input ~ 0
-col11
 $Comp
 L Diode:1N4148 D55
 U 1 1 619F3132
@@ -1056,108 +873,14 @@ $EndComp
 Wire Wire Line
 	5600 3000 5600 3600
 Connection ~ 5600 3000
-$Comp
-L Diode:1N4148 D11
-U 1 1 619F3121
-P 7400 1350
-F 0 "D11" V 7400 1270 50  0000 R CNN
-F 1 "1N4148" H 7400 1476 50  0001 C CNN
-F 2 "footprints:diode_TH_SMD" H 7400 1175 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7400 1350 50  0001 C CNN
-	1    7400 1350
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Switch:SW_Push SW11
-U 1 1 619F311B
-P 7600 1200
-F 0 "SW11" H 7600 1393 50  0000 C CNN
-F 1 "SW_Push" H 7600 1394 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 7600 1400 50  0001 C CNN
-F 3 "~" H 7600 1400 50  0001 C CNN
-	1    7600 1200
-	1    0    0    -1  
-$EndComp
-Connection ~ 7800 1200
-Wire Wire Line
-	7800 1200 7800 1800
-Wire Wire Line
-	7800 900  7800 1200
-$Comp
-L Switch:SW_Push SW23
-U 1 1 619F3112
-P 7600 1800
-F 0 "SW23" H 7600 1993 50  0000 C CNN
-F 1 "SW_Push" H 7600 1994 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 7600 2000 50  0001 C CNN
-F 3 "~" H 7600 2000 50  0001 C CNN
-	1    7600 1800
-	1    0    0    -1  
-$EndComp
-Connection ~ 7800 1800
-Wire Wire Line
-	7800 1800 7800 2400
-$Comp
-L Diode:1N4148 D23
-U 1 1 619F310A
-P 7400 1950
-F 0 "D23" V 7400 1870 50  0000 R CNN
-F 1 "1N4148" H 7400 2076 50  0001 C CNN
-F 2 "footprints:diode_TH_SMD" H 7400 1775 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7400 1950 50  0001 C CNN
-	1    7400 1950
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	6850 1500 7400 1500
-Wire Wire Line
-	6850 2100 7400 2100
-Connection ~ 6850 1500
-Wire Wire Line
-	7250 3000 7250 3600
-Wire Wire Line
-	6850 3300 7400 3300
-Wire Wire Line
-	7250 2400 7250 3000
-Wire Wire Line
-	6850 2700 7400 2700
-Connection ~ 7250 3000
-Wire Wire Line
-	7250 1800 7250 2400
-Wire Wire Line
-	7250 1200 7250 1800
-Wire Wire Line
-	6700 1200 6700 1800
-Wire Wire Line
-	6300 1500 6850 1500
-Wire Wire Line
-	6700 1800 6700 2400
-Wire Wire Line
-	6300 2100 6850 2100
-Wire Wire Line
-	6700 2400 6700 3000
-Wire Wire Line
-	6300 2700 6850 2700
-Wire Wire Line
-	6700 3000 6700 3600
-Wire Wire Line
-	6300 3300 6850 3300
 Wire Wire Line
 	6150 3000 6150 3600
 Wire Wire Line
-	5750 3300 6300 3300
-Wire Wire Line
 	6150 2400 6150 3000
-Wire Wire Line
-	5750 2700 6300 2700
 Wire Wire Line
 	6150 1800 6150 2400
 Wire Wire Line
-	5750 2100 6300 2100
-Wire Wire Line
 	6150 1200 6150 1800
-Wire Wire Line
-	5750 1500 6300 1500
 Wire Wire Line
 	5200 3300 5750 3300
 Wire Wire Line
@@ -1172,13 +895,6 @@ Wire Wire Line
 	5600 1200 5600 1800
 Wire Wire Line
 	5200 1500 5750 1500
-Connection ~ 7250 1200
-Connection ~ 7250 1800
-Connection ~ 7250 2400
-Connection ~ 6700 3000
-Connection ~ 6700 2400
-Connection ~ 6700 1800
-Connection ~ 6700 1200
 Connection ~ 6150 1200
 Connection ~ 6150 1800
 Connection ~ 6150 2400
@@ -1186,60 +902,6 @@ Connection ~ 6150 3000
 Connection ~ 5600 2400
 Connection ~ 5600 1800
 Connection ~ 5600 1200
-Connection ~ 7800 2400
-Wire Wire Line
-	7800 2400 7800 3000
-Connection ~ 5750 3900
-Connection ~ 6300 3900
-Wire Wire Line
-	6300 3900 5750 3900
-Connection ~ 6850 3900
-Wire Wire Line
-	6850 3900 6300 3900
-$Comp
-L Diode:1N4148 D58
-U 1 1 619F30B2
-P 6850 3750
-F 0 "D58" V 6850 3670 50  0000 R CNN
-F 1 "1N4148" H 6850 3876 50  0001 C CNN
-F 2 "footprints:diode_TH_SMD" H 6850 3575 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6850 3750 50  0001 C CNN
-	1    6850 3750
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Switch:SW_Push SW58
-U 1 1 619F30AC
-P 7050 3600
-F 0 "SW58" H 7050 3793 50  0000 C CNN
-F 1 "SW_Push" H 7050 3794 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 7050 3800 50  0001 C CNN
-F 3 "~" H 7050 3800 50  0001 C CNN
-	1    7050 3600
-	1    0    0    -1  
-$EndComp
-$Comp
-L Diode:1N4148 D57
-U 1 1 619F30A6
-P 6300 3750
-F 0 "D57" V 6300 3670 50  0000 R CNN
-F 1 "1N4148" H 6300 3876 50  0001 C CNN
-F 2 "footprints:diode_TH_SMD" H 6300 3575 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6300 3750 50  0001 C CNN
-	1    6300 3750
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Switch:SW_Push SW57
-U 1 1 619F30A0
-P 6500 3600
-F 0 "SW57" H 6500 3793 50  0000 C CNN
-F 1 "SW_Push" H 6500 3794 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 6500 3800 50  0001 C CNN
-F 3 "~" H 6500 3800 50  0001 C CNN
-	1    6500 3600
-	1    0    0    -1  
-$EndComp
 $Comp
 L Diode:1N4148 D56
 U 1 1 619F309A
@@ -1260,75 +922,6 @@ F 1 "SW_Push" H 5950 3794 50  0001 C CNN
 F 2 "footprints:Choc_PG1350_Choc_Spacing" H 5950 3800 50  0001 C CNN
 F 3 "~" H 5950 3800 50  0001 C CNN
 	1    5950 3600
-	1    0    0    -1  
-$EndComp
-Connection ~ 5750 3300
-Connection ~ 6300 3300
-Connection ~ 6850 3300
-$Comp
-L Diode:1N4148 D47
-U 1 1 619F307D
-P 7400 3150
-F 0 "D47" V 7400 3070 50  0000 R CNN
-F 1 "1N4148" H 7400 3276 50  0001 C CNN
-F 2 "footprints:diode_TH_SMD" H 7400 2975 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7400 3150 50  0001 C CNN
-	1    7400 3150
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Switch:SW_Push SW47
-U 1 1 619F3077
-P 7600 3000
-F 0 "SW47" H 7600 3193 50  0000 C CNN
-F 1 "SW_Push" H 7600 3194 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 7600 3200 50  0001 C CNN
-F 3 "~" H 7600 3200 50  0001 C CNN
-	1    7600 3000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Diode:1N4148 D46
-U 1 1 619F3071
-P 6850 3150
-F 0 "D46" V 6850 3070 50  0000 R CNN
-F 1 "1N4148" H 6850 3276 50  0001 C CNN
-F 2 "footprints:diode_TH_SMD" H 6850 2975 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6850 3150 50  0001 C CNN
-	1    6850 3150
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Switch:SW_Push SW46
-U 1 1 619F306B
-P 7050 3000
-F 0 "SW46" H 7050 3193 50  0000 C CNN
-F 1 "SW_Push" H 7050 3194 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 7050 3200 50  0001 C CNN
-F 3 "~" H 7050 3200 50  0001 C CNN
-	1    7050 3000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Diode:1N4148 D45
-U 1 1 619F3065
-P 6300 3150
-F 0 "D45" V 6300 3070 50  0000 R CNN
-F 1 "1N4148" H 6300 3276 50  0001 C CNN
-F 2 "footprints:diode_TH_SMD" H 6300 2975 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6300 3150 50  0001 C CNN
-	1    6300 3150
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Switch:SW_Push SW45
-U 1 1 619F305F
-P 6500 3000
-F 0 "SW45" H 6500 3193 50  0000 C CNN
-F 1 "SW_Push" H 6500 3194 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 6500 3200 50  0001 C CNN
-F 3 "~" H 6500 3200 50  0001 C CNN
-	1    6500 3000
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1375,75 +968,6 @@ F 3 "~" H 5400 3200 50  0001 C CNN
 	1    5400 3000
 	1    0    0    -1  
 $EndComp
-Connection ~ 5750 2700
-Connection ~ 6300 2700
-Connection ~ 6850 2700
-$Comp
-L Diode:1N4148 D35
-U 1 1 619F302F
-P 7400 2550
-F 0 "D35" V 7400 2470 50  0000 R CNN
-F 1 "1N4148" H 7400 2676 50  0001 C CNN
-F 2 "footprints:diode_TH_SMD" H 7400 2375 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7400 2550 50  0001 C CNN
-	1    7400 2550
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Switch:SW_Push SW35
-U 1 1 619F3029
-P 7600 2400
-F 0 "SW35" H 7600 2593 50  0000 C CNN
-F 1 "SW_Push" H 7600 2594 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 7600 2600 50  0001 C CNN
-F 3 "~" H 7600 2600 50  0001 C CNN
-	1    7600 2400
-	1    0    0    -1  
-$EndComp
-$Comp
-L Diode:1N4148 D34
-U 1 1 619F3023
-P 6850 2550
-F 0 "D34" V 6850 2470 50  0000 R CNN
-F 1 "1N4148" H 6850 2676 50  0001 C CNN
-F 2 "footprints:diode_TH_SMD" H 6850 2375 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6850 2550 50  0001 C CNN
-	1    6850 2550
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Switch:SW_Push SW34
-U 1 1 619F301D
-P 7050 2400
-F 0 "SW34" H 7050 2593 50  0000 C CNN
-F 1 "SW_Push" H 7050 2594 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 7050 2600 50  0001 C CNN
-F 3 "~" H 7050 2600 50  0001 C CNN
-	1    7050 2400
-	1    0    0    -1  
-$EndComp
-$Comp
-L Diode:1N4148 D33
-U 1 1 619F3017
-P 6300 2550
-F 0 "D33" V 6300 2470 50  0000 R CNN
-F 1 "1N4148" H 6300 2676 50  0001 C CNN
-F 2 "footprints:diode_TH_SMD" H 6300 2375 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6300 2550 50  0001 C CNN
-	1    6300 2550
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Switch:SW_Push SW33
-U 1 1 619F3011
-P 6500 2400
-F 0 "SW33" H 6500 2593 50  0000 C CNN
-F 1 "SW_Push" H 6500 2594 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 6500 2600 50  0001 C CNN
-F 3 "~" H 6500 2600 50  0001 C CNN
-	1    6500 2400
-	1    0    0    -1  
-$EndComp
 $Comp
 L Diode:1N4148 D32
 U 1 1 619F300A
@@ -1488,53 +1012,6 @@ F 3 "~" H 5400 2600 50  0001 C CNN
 	1    5400 2400
 	1    0    0    -1  
 $EndComp
-Connection ~ 5750 2100
-Connection ~ 6300 2100
-Connection ~ 6850 2100
-$Comp
-L Diode:1N4148 D22
-U 1 1 619F2FE1
-P 6850 1950
-F 0 "D22" V 6850 1870 50  0000 R CNN
-F 1 "1N4148" H 6850 2076 50  0001 C CNN
-F 2 "footprints:diode_TH_SMD" H 6850 1775 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6850 1950 50  0001 C CNN
-	1    6850 1950
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Switch:SW_Push SW22
-U 1 1 619F2FDB
-P 7050 1800
-F 0 "SW22" H 7050 1993 50  0000 C CNN
-F 1 "SW_Push" H 7050 1994 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 7050 2000 50  0001 C CNN
-F 3 "~" H 7050 2000 50  0001 C CNN
-	1    7050 1800
-	1    0    0    -1  
-$EndComp
-$Comp
-L Diode:1N4148 D21
-U 1 1 619F2FD5
-P 6300 1950
-F 0 "D21" V 6300 1870 50  0000 R CNN
-F 1 "1N4148" H 6300 2076 50  0001 C CNN
-F 2 "footprints:diode_TH_SMD" H 6300 1775 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6300 1950 50  0001 C CNN
-	1    6300 1950
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Switch:SW_Push SW21
-U 1 1 619F2FCF
-P 6500 1800
-F 0 "SW21" H 6500 1993 50  0000 C CNN
-F 1 "SW_Push" H 6500 1994 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 6500 2000 50  0001 C CNN
-F 3 "~" H 6500 2000 50  0001 C CNN
-	1    6500 1800
-	1    0    0    -1  
-$EndComp
 $Comp
 L Diode:1N4148 D20
 U 1 1 619F2FC8
@@ -1577,62 +1054,6 @@ F 1 "SW_Push" H 5400 1994 50  0001 C CNN
 F 2 "footprints:Choc_PG1350_Choc_Spacing" H 5400 2000 50  0001 C CNN
 F 3 "~" H 5400 2000 50  0001 C CNN
 	1    5400 1800
-	1    0    0    -1  
-$EndComp
-Connection ~ 5750 1500
-Connection ~ 6300 1500
-Text GLabel 7800 900  1    50   Input ~ 0
-col10
-Wire Wire Line
-	7250 900  7250 1200
-Text GLabel 7250 900  1    50   Input ~ 0
-col9
-$Comp
-L Diode:1N4148 D10
-U 1 1 619F2F9D
-P 6850 1350
-F 0 "D10" V 6850 1270 50  0000 R CNN
-F 1 "1N4148" H 6850 1476 50  0001 C CNN
-F 2 "footprints:diode_TH_SMD" H 6850 1175 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6850 1350 50  0001 C CNN
-	1    6850 1350
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Switch:SW_Push SW10
-U 1 1 619F2F97
-P 7050 1200
-F 0 "SW10" H 7050 1393 50  0000 C CNN
-F 1 "SW_Push" H 7050 1394 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 7050 1400 50  0001 C CNN
-F 3 "~" H 7050 1400 50  0001 C CNN
-	1    7050 1200
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	6700 900  6700 1200
-Text GLabel 6700 900  1    50   Input ~ 0
-col8
-$Comp
-L Diode:1N4148 D9
-U 1 1 619F2F8F
-P 6300 1350
-F 0 "D9" V 6300 1270 50  0000 R CNN
-F 1 "1N4148" H 6300 1476 50  0001 C CNN
-F 2 "footprints:diode_TH_SMD" H 6300 1175 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6300 1350 50  0001 C CNN
-	1    6300 1350
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Switch:SW_Push SW9
-U 1 1 619F2F89
-P 6500 1200
-F 0 "SW9" H 6500 1393 50  0000 C CNN
-F 1 "SW_Push" H 6500 1394 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 6500 1400 50  0001 C CNN
-F 3 "~" H 6500 1400 50  0001 C CNN
-	1    6500 1200
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -1688,15 +1109,7 @@ F 3 "~" H 5400 1400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Connection ~ 5200 1500
-Connection ~ 4100 1500
-Wire Wire Line
-	4100 2100 5200 2100
-Wire Wire Line
-	4100 3300 5200 3300
-Wire Wire Line
-	4100 3900 5200 3900
-Wire Wire Line
-	4100 1500 5200 1500
+Connection ~ 4650 1500
 $Comp
 L Diode:1N4148 D37
 U 1 1 6153B5B7
@@ -1708,59 +1121,715 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1350 
 	1    1350 3150
 	0    -1   -1   0   
 $EndComp
-Text GLabel 4850 4300 1    50   Input ~ 0
+Text GLabel 2900 6700 3    50   Input ~ 0
 encA
-NoConn ~ 4750 4300
-Text GLabel 4650 4300 1    50   Input ~ 0
+NoConn ~ 3000 6700
+Text GLabel 3100 6700 3    50   Input ~ 0
 encB
-$Comp
-L Diode:1N4148 D61
-U 1 1 616F71C2
-P 4650 5050
-F 0 "D61" V 4650 4970 50  0000 R CNN
-F 1 "1N4148" H 4650 5176 50  0001 C CNN
-F 2 "footprints:diode_TH_SMD" H 4650 4875 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4650 5050 50  0001 C CNN
-	1    4650 5050
-	0    -1   -1   0   
-$EndComp
 $Comp
 L Device:Rotary_Encoder_Switch ENC1
 U 1 1 616135F5
-P 4750 4600
-F 0 "ENC1" V 4500 4850 50  0000 C CNN
-F 1 "Rotary_Encoder_Switch" V 4500 5200 50  0001 C CNN
-F 2 "footprints:RotaryEncoder_Alps_EC11E" H 4600 4760 50  0001 C CNN
-F 3 "~" H 4750 4860 50  0001 C CNN
-	1    4750 4600
-	0    1    1    0   
+P 3000 6400
+F 0 "ENC1" V 3250 6150 50  0000 C CNN
+F 1 "Rotary_Encoder_Switch" V 2750 7000 50  0001 C CNN
+F 2 "footprints:RotaryEncoder_Alps_EC11E" H 2850 6560 50  0001 C CNN
+F 3 "~" H 3000 6660 50  0001 C CNN
+	1    3000 6400
+	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	4650 5200 4250 5200
-Wire Wire Line
-	4850 5200 4850 4900
-Wire Wire Line
-	4100 2700 5200 2700
-Text GLabel 1100 4300 0    50   Input ~ 0
-row5
-Wire Wire Line
-	1100 4300 4250 4300
-Wire Wire Line
-	4250 4300 4250 5200
-Wire Wire Line
-	5600 3600 5600 5200
-Wire Wire Line
-	5600 5200 4850 5200
-Connection ~ 5600 3600
 $Comp
 L promicro_2:ProMicro_2 U1
 U 1 1 6198CAAD
-P 2200 5700
-F 0 "U1" H 2200 6515 50  0000 C CNN
-F 1 "ProMicro_2" H 2200 6424 50  0000 C CNN
-F 2 "" H 2150 5800 50  0001 C CNN
-F 3 "" H 2150 5800 50  0001 C CNN
-	1    2200 5700
+P 10150 5150
+F 0 "U1" H 10150 5965 50  0000 C CNN
+F 1 "ProMicro_2" H 10150 5874 50  0000 C CNN
+F 2 "footprints:ProMicro" H 10100 5250 50  0001 C CNN
+F 3 "" H 10100 5250 50  0001 C CNN
+	1    10150 5150
 	1    0    0    -1  
 $EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 61662475
+P 1550 4200
+F 0 "SW?" H 1550 4393 50  0000 C CNN
+F 1 "SW_Push" H 1550 4394 50  0001 C CNN
+F 2 "footprints:Choc_PG1350_Choc_Spacing" H 1550 4400 50  0001 C CNN
+F 3 "~" H 1550 4400 50  0001 C CNN
+	1    1550 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6166247B
+P 1350 4350
+F 0 "D?" V 1350 4270 50  0000 R CNN
+F 1 "1N4148" H 1350 4476 50  0001 C CNN
+F 2 "footprints:diode_TH_SMD" H 1350 4175 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1350 4350 50  0001 C CNN
+	1    1350 4350
+	0    -1   -1   0   
+$EndComp
+Text GLabel 1100 4500 0    50   Input ~ 0
+row5
+Connection ~ 1350 4500
+Wire Wire Line
+	1100 4500 1350 4500
+$Comp
+L Switch:SW_Push SW?
+U 1 1 61662484
+P 2650 4200
+F 0 "SW?" H 2650 4393 50  0000 C CNN
+F 1 "SW_Push" H 2650 4394 50  0001 C CNN
+F 2 "footprints:Choc_PG1350_Choc_Spacing" H 2650 4400 50  0001 C CNN
+F 3 "~" H 2650 4400 50  0001 C CNN
+	1    2650 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 6166248A
+P 3200 4200
+F 0 "SW?" H 3200 4393 50  0000 C CNN
+F 1 "SW_Push" H 3200 4394 50  0001 C CNN
+F 2 "footprints:Choc_PG1350_Choc_Spacing" H 3200 4400 50  0001 C CNN
+F 3 "~" H 3200 4400 50  0001 C CNN
+	1    3200 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 61662490
+P 3000 4350
+F 0 "D?" V 3000 4270 50  0000 R CNN
+F 1 "1N4148" H 3000 4476 50  0001 C CNN
+F 2 "footprints:diode_TH_SMD" H 3000 4175 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3000 4350 50  0001 C CNN
+	1    3000 4350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 61662496
+P 4300 4200
+F 0 "SW?" H 4300 4393 50  0000 C CNN
+F 1 "SW_Push" H 4300 4394 50  0001 C CNN
+F 2 "footprints:Choc_PG1350_Choc_Spacing" H 4300 4400 50  0001 C CNN
+F 3 "~" H 4300 4400 50  0001 C CNN
+	1    4300 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6166249C
+P 4100 4350
+F 0 "D?" V 4100 4270 50  0000 R CNN
+F 1 "1N4148" H 4100 4476 50  0001 C CNN
+F 2 "footprints:diode_TH_SMD" H 4100 4175 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4100 4350 50  0001 C CNN
+	1    4100 4350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 616624A2
+P 4850 4200
+F 0 "SW?" H 4850 4393 50  0000 C CNN
+F 1 "SW_Push" H 4850 4394 50  0001 C CNN
+F 2 "footprints:Choc_PG1350_Choc_Spacing" H 4850 4400 50  0001 C CNN
+F 3 "~" H 4850 4400 50  0001 C CNN
+	1    4850 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 616624A8
+P 4650 4350
+F 0 "D?" V 4650 4270 50  0000 R CNN
+F 1 "1N4148" H 4650 4476 50  0001 C CNN
+F 2 "footprints:diode_TH_SMD" H 4650 4175 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4650 4350 50  0001 C CNN
+	1    4650 4350
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4650 4500 4100 4500
+Connection ~ 4100 4500
+Wire Wire Line
+	1750 3600 1750 4200
+Wire Wire Line
+	5050 3600 5050 4200
+Wire Wire Line
+	2850 3600 2850 4200
+Wire Wire Line
+	4500 3600 4500 4200
+Wire Wire Line
+	1350 4500 1900 4500
+Wire Wire Line
+	3000 4500 2450 4500
+Connection ~ 2450 4500
+$Comp
+L Diode:1N4148 D?
+U 1 1 616624B8
+P 2450 4350
+F 0 "D?" V 2450 4270 50  0000 R CNN
+F 1 "1N4148" H 2450 4476 50  0001 C CNN
+F 2 "footprints:diode_TH_SMD" H 2450 4175 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2450 4350 50  0001 C CNN
+	1    2450 4350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 616624BE
+P 2100 4200
+F 0 "SW?" H 2100 4393 50  0000 C CNN
+F 1 "SW_Push" H 2100 4394 50  0001 C CNN
+F 2 "footprints:Choc_PG1350_Choc_Spacing" H 2100 4400 50  0001 C CNN
+F 3 "~" H 2100 4400 50  0001 C CNN
+	1    2100 4200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2300 3600 2300 4200
+$Comp
+L Diode:1N4148 D?
+U 1 1 616624C5
+P 1900 4350
+F 0 "D?" V 1900 4270 50  0000 R CNN
+F 1 "1N4148" H 1900 4476 50  0001 C CNN
+F 2 "footprints:diode_TH_SMD" H 1900 4175 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1900 4350 50  0001 C CNN
+	1    1900 4350
+	0    -1   -1   0   
+$EndComp
+Connection ~ 1900 4500
+Wire Wire Line
+	1900 4500 2450 4500
+Connection ~ 4650 4500
+Wire Wire Line
+	3400 3600 3400 4200
+Connection ~ 5200 4500
+$Comp
+L Diode:1N4148 D?
+U 1 1 616624EE
+P 5200 4350
+F 0 "D?" V 5200 4270 50  0000 R CNN
+F 1 "1N4148" H 5200 4476 50  0001 C CNN
+F 2 "footprints:diode_TH_SMD" H 5200 4175 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5200 4350 50  0001 C CNN
+	1    5200 4350
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5200 4500 5750 4500
+$Comp
+L Switch:SW_Push SW?
+U 1 1 616624F5
+P 5400 4200
+F 0 "SW?" H 5400 4393 50  0000 C CNN
+F 1 "SW_Push" H 5400 4394 50  0001 C CNN
+F 2 "footprints:Choc_PG1350_Choc_Spacing" H 5400 4400 50  0001 C CNN
+F 3 "~" H 5400 4400 50  0001 C CNN
+	1    5400 4200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5600 3600 5600 4200
+Wire Wire Line
+	6150 3600 6150 4200
+$Comp
+L Diode:1N4148 D?
+U 1 1 6166251C
+P 5750 4350
+F 0 "D?" V 5750 4270 50  0000 R CNN
+F 1 "1N4148" H 5750 4476 50  0001 C CNN
+F 2 "footprints:diode_TH_SMD" H 5750 4175 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5750 4350 50  0001 C CNN
+	1    5750 4350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 61662522
+P 5950 4200
+F 0 "SW?" H 5950 4393 50  0000 C CNN
+F 1 "SW_Push" H 5950 4394 50  0001 C CNN
+F 2 "footprints:Choc_PG1350_Choc_Spacing" H 5950 4400 50  0001 C CNN
+F 3 "~" H 5950 4400 50  0001 C CNN
+	1    5950 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 61676B55
+P 1550 4800
+F 0 "SW?" H 1550 4993 50  0000 C CNN
+F 1 "SW_Push" H 1550 4994 50  0001 C CNN
+F 2 "footprints:Choc_PG1350_Choc_Spacing" H 1550 5000 50  0001 C CNN
+F 3 "~" H 1550 5000 50  0001 C CNN
+	1    1550 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 61676B5B
+P 1350 4950
+F 0 "D?" V 1350 4870 50  0000 R CNN
+F 1 "1N4148" H 1350 5076 50  0001 C CNN
+F 2 "footprints:diode_TH_SMD" H 1350 4775 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1350 4950 50  0001 C CNN
+	1    1350 4950
+	0    -1   -1   0   
+$EndComp
+Text GLabel 1100 5100 0    50   Input ~ 0
+row6
+Connection ~ 1350 5100
+Wire Wire Line
+	1100 5100 1350 5100
+$Comp
+L Switch:SW_Push SW?
+U 1 1 61676B64
+P 2650 4800
+F 0 "SW?" H 2650 4993 50  0000 C CNN
+F 1 "SW_Push" H 2650 4994 50  0001 C CNN
+F 2 "footprints:Choc_PG1350_Choc_Spacing" H 2650 5000 50  0001 C CNN
+F 3 "~" H 2650 5000 50  0001 C CNN
+	1    2650 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 61676B6A
+P 3200 4800
+F 0 "SW?" H 3200 4993 50  0000 C CNN
+F 1 "SW_Push" H 3200 4994 50  0001 C CNN
+F 2 "footprints:Choc_PG1350_Choc_Spacing" H 3200 5000 50  0001 C CNN
+F 3 "~" H 3200 5000 50  0001 C CNN
+	1    3200 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 61676B70
+P 3000 4950
+F 0 "D?" V 3000 4870 50  0000 R CNN
+F 1 "1N4148" H 3000 5076 50  0001 C CNN
+F 2 "footprints:diode_TH_SMD" H 3000 4775 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3000 4950 50  0001 C CNN
+	1    3000 4950
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 61676B76
+P 4300 4800
+F 0 "SW?" H 4300 4993 50  0000 C CNN
+F 1 "SW_Push" H 4300 4994 50  0001 C CNN
+F 2 "footprints:Choc_PG1350_Choc_Spacing" H 4300 5000 50  0001 C CNN
+F 3 "~" H 4300 5000 50  0001 C CNN
+	1    4300 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 61676B7C
+P 4100 4950
+F 0 "D?" V 4100 4870 50  0000 R CNN
+F 1 "1N4148" H 4100 5076 50  0001 C CNN
+F 2 "footprints:diode_TH_SMD" H 4100 4775 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4100 4950 50  0001 C CNN
+	1    4100 4950
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 61676B82
+P 4850 4800
+F 0 "SW?" H 4850 4993 50  0000 C CNN
+F 1 "SW_Push" H 4850 4994 50  0001 C CNN
+F 2 "footprints:Choc_PG1350_Choc_Spacing" H 4850 5000 50  0001 C CNN
+F 3 "~" H 4850 5000 50  0001 C CNN
+	1    4850 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 61676B88
+P 4650 4950
+F 0 "D?" V 4650 4870 50  0000 R CNN
+F 1 "1N4148" H 4650 5076 50  0001 C CNN
+F 2 "footprints:diode_TH_SMD" H 4650 4775 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4650 4950 50  0001 C CNN
+	1    4650 4950
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4650 5100 4100 5100
+Connection ~ 4100 5100
+Wire Wire Line
+	1750 4200 1750 4800
+Wire Wire Line
+	5050 4200 5050 4800
+Wire Wire Line
+	2850 4200 2850 4800
+Wire Wire Line
+	4500 4200 4500 4800
+Wire Wire Line
+	1350 5100 1900 5100
+Wire Wire Line
+	3000 5100 2450 5100
+Connection ~ 2450 5100
+$Comp
+L Diode:1N4148 D?
+U 1 1 61676B98
+P 2450 4950
+F 0 "D?" V 2450 4870 50  0000 R CNN
+F 1 "1N4148" H 2450 5076 50  0001 C CNN
+F 2 "footprints:diode_TH_SMD" H 2450 4775 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2450 4950 50  0001 C CNN
+	1    2450 4950
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 61676B9E
+P 2100 4800
+F 0 "SW?" H 2100 4993 50  0000 C CNN
+F 1 "SW_Push" H 2100 4994 50  0001 C CNN
+F 2 "footprints:Choc_PG1350_Choc_Spacing" H 2100 5000 50  0001 C CNN
+F 3 "~" H 2100 5000 50  0001 C CNN
+	1    2100 4800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2300 4200 2300 4800
+$Comp
+L Diode:1N4148 D?
+U 1 1 61676BA5
+P 1900 4950
+F 0 "D?" V 1900 4870 50  0000 R CNN
+F 1 "1N4148" H 1900 5076 50  0001 C CNN
+F 2 "footprints:diode_TH_SMD" H 1900 4775 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1900 4950 50  0001 C CNN
+	1    1900 4950
+	0    -1   -1   0   
+$EndComp
+Connection ~ 1900 5100
+Wire Wire Line
+	1900 5100 2450 5100
+Connection ~ 4650 5100
+Wire Wire Line
+	3400 4200 3400 4800
+Connection ~ 5200 5100
+$Comp
+L Diode:1N4148 D?
+U 1 1 61676BCE
+P 5200 4950
+F 0 "D?" V 5200 4870 50  0000 R CNN
+F 1 "1N4148" H 5200 5076 50  0001 C CNN
+F 2 "footprints:diode_TH_SMD" H 5200 4775 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5200 4950 50  0001 C CNN
+	1    5200 4950
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5200 5100 5750 5100
+$Comp
+L Switch:SW_Push SW?
+U 1 1 61676BD5
+P 5400 4800
+F 0 "SW?" H 5400 4993 50  0000 C CNN
+F 1 "SW_Push" H 5400 4994 50  0001 C CNN
+F 2 "footprints:Choc_PG1350_Choc_Spacing" H 5400 5000 50  0001 C CNN
+F 3 "~" H 5400 5000 50  0001 C CNN
+	1    5400 4800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5600 4200 5600 4800
+Wire Wire Line
+	6150 4200 6150 4800
+$Comp
+L Diode:1N4148 D?
+U 1 1 61676BFC
+P 5750 4950
+F 0 "D?" V 5750 4870 50  0000 R CNN
+F 1 "1N4148" H 5750 5076 50  0001 C CNN
+F 2 "footprints:diode_TH_SMD" H 5750 4775 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5750 4950 50  0001 C CNN
+	1    5750 4950
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 61676C02
+P 5950 4800
+F 0 "SW?" H 5950 4993 50  0000 C CNN
+F 1 "SW_Push" H 5950 4994 50  0001 C CNN
+F 2 "footprints:Choc_PG1350_Choc_Spacing" H 5950 5000 50  0001 C CNN
+F 3 "~" H 5950 5000 50  0001 C CNN
+	1    5950 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 61696782
+P 1550 5400
+F 0 "SW?" H 1550 5593 50  0000 C CNN
+F 1 "SW_Push" H 1550 5594 50  0001 C CNN
+F 2 "footprints:Choc_PG1350_Choc_Spacing" H 1550 5600 50  0001 C CNN
+F 3 "~" H 1550 5600 50  0001 C CNN
+	1    1550 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 61696788
+P 1350 5550
+F 0 "D?" V 1350 5470 50  0000 R CNN
+F 1 "1N4148" H 1350 5676 50  0001 C CNN
+F 2 "footprints:diode_TH_SMD" H 1350 5375 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1350 5550 50  0001 C CNN
+	1    1350 5550
+	0    -1   -1   0   
+$EndComp
+Text GLabel 1100 5700 0    50   Input ~ 0
+row7
+Connection ~ 1350 5700
+Wire Wire Line
+	1100 5700 1350 5700
+$Comp
+L Switch:SW_Push SW?
+U 1 1 61696791
+P 2650 5400
+F 0 "SW?" H 2650 5593 50  0000 C CNN
+F 1 "SW_Push" H 2650 5594 50  0001 C CNN
+F 2 "footprints:Choc_PG1350_Choc_Spacing" H 2650 5600 50  0001 C CNN
+F 3 "~" H 2650 5600 50  0001 C CNN
+	1    2650 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 61696797
+P 3200 5400
+F 0 "SW?" H 3200 5593 50  0000 C CNN
+F 1 "SW_Push" H 3200 5594 50  0001 C CNN
+F 2 "footprints:Choc_PG1350_Choc_Spacing" H 3200 5600 50  0001 C CNN
+F 3 "~" H 3200 5600 50  0001 C CNN
+	1    3200 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 616967AF
+P 4850 5400
+F 0 "SW?" H 4850 5593 50  0000 C CNN
+F 1 "SW_Push" H 4850 5594 50  0001 C CNN
+F 2 "footprints:Choc_PG1350_Choc_Spacing" H 4850 5600 50  0001 C CNN
+F 3 "~" H 4850 5600 50  0001 C CNN
+	1    4850 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 616967B5
+P 4650 5550
+F 0 "D?" V 4650 5470 50  0000 R CNN
+F 1 "1N4148" H 4650 5676 50  0001 C CNN
+F 2 "footprints:diode_TH_SMD" H 4650 5375 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4650 5550 50  0001 C CNN
+	1    4650 5550
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	1750 4800 1750 5400
+Wire Wire Line
+	5050 4800 5050 5400
+Wire Wire Line
+	2850 4800 2850 5400
+Wire Wire Line
+	1350 5700 1900 5700
+$Comp
+L Diode:1N4148 D?
+U 1 1 616967C5
+P 2450 5550
+F 0 "D?" V 2450 5470 50  0000 R CNN
+F 1 "1N4148" H 2450 5676 50  0001 C CNN
+F 2 "footprints:diode_TH_SMD" H 2450 5375 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2450 5550 50  0001 C CNN
+	1    2450 5550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 616967CB
+P 2100 5400
+F 0 "SW?" H 2100 5593 50  0000 C CNN
+F 1 "SW_Push" H 2100 5594 50  0001 C CNN
+F 2 "footprints:Choc_PG1350_Choc_Spacing" H 2100 5600 50  0001 C CNN
+F 3 "~" H 2100 5600 50  0001 C CNN
+	1    2100 5400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2300 4800 2300 5400
+$Comp
+L Diode:1N4148 D?
+U 1 1 616967D2
+P 1900 5550
+F 0 "D?" V 1900 5470 50  0000 R CNN
+F 1 "1N4148" H 1900 5676 50  0001 C CNN
+F 2 "footprints:diode_TH_SMD" H 1900 5375 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1900 5550 50  0001 C CNN
+	1    1900 5550
+	0    -1   -1   0   
+$EndComp
+Connection ~ 1900 5700
+Wire Wire Line
+	1900 5700 2450 5700
+Connection ~ 4650 5700
+Wire Wire Line
+	3400 4800 3400 5400
+Connection ~ 5200 5700
+$Comp
+L Diode:1N4148 D?
+U 1 1 616967FB
+P 5200 5550
+F 0 "D?" V 5200 5470 50  0000 R CNN
+F 1 "1N4148" H 5200 5676 50  0001 C CNN
+F 2 "footprints:diode_TH_SMD" H 5200 5375 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5200 5550 50  0001 C CNN
+	1    5200 5550
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5200 5700 5750 5700
+$Comp
+L Switch:SW_Push SW?
+U 1 1 61696802
+P 5400 5400
+F 0 "SW?" H 5400 5593 50  0000 C CNN
+F 1 "SW_Push" H 5400 5594 50  0001 C CNN
+F 2 "footprints:Choc_PG1350_Choc_Spacing" H 5400 5600 50  0001 C CNN
+F 3 "~" H 5400 5600 50  0001 C CNN
+	1    5400 5400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5600 4800 5600 5400
+Wire Wire Line
+	6150 4800 6150 5400
+$Comp
+L Diode:1N4148 D?
+U 1 1 61696829
+P 5750 5550
+F 0 "D?" V 5750 5470 50  0000 R CNN
+F 1 "1N4148" H 5750 5676 50  0001 C CNN
+F 2 "footprints:diode_TH_SMD" H 5750 5375 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5750 5550 50  0001 C CNN
+	1    5750 5550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 6169682F
+P 5950 5400
+F 0 "SW?" H 5950 5593 50  0000 C CNN
+F 1 "SW_Push" H 5950 5594 50  0001 C CNN
+F 2 "footprints:Choc_PG1350_Choc_Spacing" H 5950 5600 50  0001 C CNN
+F 3 "~" H 5950 5600 50  0001 C CNN
+	1    5950 5400
+	1    0    0    -1  
+$EndComp
+Connection ~ 5600 3600
+Connection ~ 5600 4200
+Connection ~ 5600 4800
+Connection ~ 6150 3600
+Connection ~ 6150 4200
+Connection ~ 6150 4800
+Wire Wire Line
+	4650 2100 5200 2100
+Wire Wire Line
+	4650 2700 5200 2700
+Wire Wire Line
+	4650 3300 5200 3300
+Wire Wire Line
+	4650 3900 5200 3900
+Wire Wire Line
+	4650 1500 5200 1500
+Wire Wire Line
+	4650 4500 5200 4500
+Wire Wire Line
+	4650 5100 5200 5100
+Wire Wire Line
+	4650 5700 5200 5700
+Connection ~ 4500 3600
+Connection ~ 4500 4200
+Connection ~ 5050 3600
+Connection ~ 5050 4200
+Connection ~ 5050 4800
+Wire Wire Line
+	3000 1500 4100 1500
+Connection ~ 3000 1500
+Wire Wire Line
+	3000 2100 4100 2100
+Connection ~ 3000 2100
+Wire Wire Line
+	3000 2700 4100 2700
+Connection ~ 3000 2700
+Wire Wire Line
+	3000 3300 4100 3300
+Connection ~ 3000 3300
+Wire Wire Line
+	3000 3900 4100 3900
+Connection ~ 3000 3900
+Wire Wire Line
+	3000 4500 4100 4500
+Connection ~ 3000 4500
+Wire Wire Line
+	3000 5100 4100 5100
+Connection ~ 3000 5100
+Connection ~ 2450 5700
+$Comp
+L Diode:1N4148 D?
+U 1 1 6169679D
+P 3000 5550
+F 0 "D?" V 3000 5470 50  0000 R CNN
+F 1 "1N4148" H 3000 5676 50  0001 C CNN
+F 2 "footprints:diode_TH_SMD" H 3000 5375 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3000 5550 50  0001 C CNN
+	1    3000 5550
+	0    -1   -1   0   
+$EndComp
+Connection ~ 1750 3600
+Connection ~ 2300 3600
+Connection ~ 2850 3600
+Connection ~ 3400 3600
+Connection ~ 1750 4200
+Connection ~ 2300 4200
+Connection ~ 2850 4200
+Connection ~ 3400 4200
+Connection ~ 1750 4800
+Connection ~ 2300 4800
+Connection ~ 2850 4800
+Connection ~ 3400 4800
+Wire Wire Line
+	3400 5400 3400 5900
+Wire Wire Line
+	3100 5900 3100 6100
+Connection ~ 3400 5400
+Wire Wire Line
+	2450 5700 3000 5700
+Wire Wire Line
+	3000 5400 2900 5400
+Connection ~ 3000 5400
+Wire Wire Line
+	2900 5400 2900 6100
+Wire Wire Line
+	3100 5900 3400 5900
+Connection ~ 3000 5700
+Wire Wire Line
+	3000 5700 4650 5700
 $EndSCHEMATC

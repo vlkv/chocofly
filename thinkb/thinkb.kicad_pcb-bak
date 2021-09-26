@@ -4874,7 +4874,7 @@
     )
   )
 
-  (gr_line (start 166.77 12.35) (end 166.77 135.85) (layer Cmts.User) (width 0.15))
+  (gr_line (start 166.77 40.3) (end 166.77 135.85) (layer Cmts.User) (width 0.15))
   (gr_line (start 143.084219 47.114191) (end 190.474216 47.114192) (layer Edge.Cuts) (width 0.05))
 
 )

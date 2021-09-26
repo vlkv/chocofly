@@ -1,4 +1,4 @@
-19215493013315106
+19207329790550106
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -83025,39 +83025,4 @@ Varistor, diameter 21.5mm, width 11.4mm, pitch 10mm
 varistor SIOV
 0
 2
-2
-footprints
-Choc_PG1350_Choc_Spacing
-Kailh "Choc" PG1350 keyswitch
-kailh,choc
-0
-2
-2
-footprints
-RotaryEncoder_Alps_EC11E
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-7
-6
-footprints
-Switch_MSK-12C01-07
-
-
-0
-14
-4
-footprints
-Switch_Reset_THT
-
-
-0
-2
-2
-footprints
-diode_TH_SMD
-Resitance 3 pas
-R
-0
-4
 2
