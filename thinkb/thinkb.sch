@@ -1032,17 +1032,6 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1700 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L promicro_2:ProMicro_2 U1
-U 1 1 6198CAAD
-P 10150 5150
-F 0 "U1" H 10150 5965 50  0000 C CNN
-F 1 "ProMicro_2" H 10150 5874 50  0000 C CNN
-F 2 "footprints:ProMicro" H 10100 5250 50  0001 C CNN
-F 3 "" H 10100 5250 50  0001 C CNN
-	1    10150 5150
-	1    0    0    -1  
-$EndComp
-$Comp
 L Switch:SW_Push SW38
 U 1 1 61662475
 P 1900 4600
@@ -1773,4 +1762,115 @@ Connection ~ 4450 6100
 Wire Wire Line
 	4450 6100 5000 6100
 Connection ~ 4850 5200
+$Comp
+L promicro:ProMicro_2 MCU1
+U 1 1 6156E83C
+P 7950 4250
+F 0 "MCU1" H 7950 5065 50  0000 C CNN
+F 1 "ProMicro" H 7950 4974 50  0000 C CNN
+F 2 "footprints:ProMicro" H 7900 4350 50  0001 C CNN
+F 3 "" H 7900 4350 50  0001 C CNN
+	1    7950 4250
+	1    0    0    -1  
+$EndComp
+Text GLabel 7300 4100 0    50   Input ~ 0
+row0
+Text GLabel 7300 4200 0    50   Input ~ 0
+row1
+Text GLabel 7300 4300 0    50   Input ~ 0
+row2
+Text GLabel 7300 4400 0    50   Input ~ 0
+row3
+Text GLabel 7300 4500 0    50   Input ~ 0
+row4
+Text GLabel 7300 4600 0    50   Input ~ 0
+row5
+Text GLabel 7300 4700 0    50   Input ~ 0
+row6
+Text GLabel 7300 4800 0    50   Input ~ 0
+row7
+Text GLabel 8600 4100 2    50   Input ~ 0
+col0
+Text GLabel 8600 4200 2    50   Input ~ 0
+col1
+Text GLabel 8600 4300 2    50   Input ~ 0
+col2
+Text GLabel 8600 4400 2    50   Input ~ 0
+col3
+Text GLabel 8600 4500 2    50   Input ~ 0
+col4
+Text GLabel 8600 4600 2    50   Input ~ 0
+col5
+Text GLabel 8600 4700 2    50   Input ~ 0
+col6
+Text GLabel 8600 4800 2    50   Input ~ 0
+col7
+Text GLabel 7300 3700 0    50   Input ~ 0
+encA
+Text GLabel 7300 3800 0    50   Input ~ 0
+encB
+$Comp
+L Switch:SW_Push SW62
+U 1 1 615EC03C
+P 9250 4350
+F 0 "SW62" H 9250 4500 50  0000 C CNN
+F 1 "Reset" H 9250 4250 50  0000 C CNN
+F 2 "footprints:Switch_Reset_THT" H 9250 4550 50  0001 C CNN
+F 3 "~" H 9250 4550 50  0001 C CNN
+	1    9250 4350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8600 3900 9050 3900
+Text GLabel 9450 4350 2    50   Input ~ 0
+GND
+Text GLabel 7300 3900 0    50   Input ~ 0
+GND
+Text GLabel 7300 4000 0    50   Input ~ 0
+GND
+NoConn ~ 8600 4000
+$Comp
+L Switch:SW_DPDT_x2 SW63
+U 1 1 6164490B
+P 9350 3700
+F 0 "SW63" H 9350 3985 50  0000 C CNN
+F 1 "Power" H 9350 3894 50  0000 C CNN
+F 2 "footprints:Switch_MSK-12C01-07" H 9350 3700 50  0001 C CNN
+F 3 "~" H 9350 3700 50  0001 C CNN
+	1    9350 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L pin_pad:i2c_pin P1
+U 1 1 6151B959
+P 9750 3600
+F 0 "P1" H 9830 3642 50  0000 L CNN
+F 1 "battery+" H 9830 3551 50  0000 L CNN
+F 2 "footprints:1pin_conn" H 9750 3600 50  0001 C CNN
+F 3 "" H 9750 3600 50  0001 C CNN
+	1    9750 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L pin_pad:i2c_pin P2
+U 1 1 6151CDBA
+P 9750 4000
+F 0 "P2" H 9830 4042 50  0000 L CNN
+F 1 "battery-" H 9830 3951 50  0000 L CNN
+F 2 "footprints:1pin_conn" H 9750 4000 50  0001 C CNN
+F 3 "" H 9750 4000 50  0001 C CNN
+	1    9750 4000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9050 3900 9050 4350
+Wire Wire Line
+	9150 3700 8600 3700
+NoConn ~ 9550 3800
+Wire Wire Line
+	9550 4000 9150 4000
+Wire Wire Line
+	9150 4000 9150 3800
+Wire Wire Line
+	9150 3800 8600 3800
 $EndSCHEMATC
