@@ -255,7 +255,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 615205C9)
-    (at 247 112)
+    (at 248 112)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /619F3151)
@@ -291,7 +291,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 615205B2)
-    (at 229 112)
+    (at 230 112)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /61549E2C)
@@ -327,7 +327,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 6152059B)
-    (at 211 112)
+    (at 212 112)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /619F30AC)
@@ -363,7 +363,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 61520584)
-    (at 193 112)
+    (at 194 112)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /619F30A0)
@@ -399,7 +399,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 6150863F)
-    (at 175 112)
+    (at 203 95)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /619F3094)
@@ -435,7 +435,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 61520556)
-    (at 157 112)
+    (at 185 95)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /619F3129)
@@ -471,7 +471,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 6152053F)
-    (at 139 112)
+    (at 150 95)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /6154EEBE)
@@ -507,7 +507,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 61520528)
-    (at 121 112)
+    (at 132 95)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /6154EEB1)
@@ -543,7 +543,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 61520511)
-    (at 103 112)
+    (at 141 112)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /6154EEA4)
@@ -579,7 +579,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 615204FA)
-    (at 85 112)
+    (at 123 112)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /6154EE95)
@@ -615,7 +615,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 615204E3)
-    (at 67 112)
+    (at 105 112)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /61530C37)
@@ -651,7 +651,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 615204CC)
-    (at 49 112)
+    (at 87 112)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /6154EE77)
@@ -687,7 +687,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 615204B5)
-    (at 247 95)
+    (at 311 95)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /619F3145)
@@ -723,7 +723,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 6152049E)
-    (at 229 95)
+    (at 293 95)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /619F3077)
@@ -759,7 +759,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 61520487)
-    (at 211 95)
+    (at 275 95)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /619F306B)
@@ -795,7 +795,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 61520470)
-    (at 193 95)
+    (at 257 95)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /619F305F)
@@ -831,7 +831,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 61520459)
-    (at 175 95)
+    (at 239 95)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /619F3052)
@@ -867,7 +867,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 61520442)
-    (at 157 95)
+    (at 221 95)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /619F3044)
@@ -903,7 +903,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 6152042B)
-    (at 139 95)
+    (at 114 95)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /6153B5F8)
@@ -939,7 +939,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 61520414)
-    (at 121 95)
+    (at 96 95)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /6153B5EB)
@@ -975,7 +975,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 615203FD)
-    (at 103 95)
+    (at 78 95)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /6153B5DE)
@@ -1011,7 +1011,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 615203E6)
-    (at 85 95)
+    (at 60 95)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /6153B5CF)
@@ -1047,7 +1047,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 615203CF)
-    (at 67 95)
+    (at 42 95)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /6153B5BF)
@@ -1083,7 +1083,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 615203B8)
-    (at 49 95)
+    (at 24 95)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /6153B5B1)
@@ -1119,7 +1119,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 615203A1)
-    (at 247 78)
+    (at 311 78)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /619F3139)
@@ -1155,7 +1155,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 6152038A)
-    (at 229 78)
+    (at 293 78)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /619F3029)
@@ -1191,7 +1191,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 615214FA)
-    (at 211 78)
+    (at 275 78)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /619F301D)
@@ -1227,7 +1227,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 6152035C)
-    (at 193 78)
+    (at 257 78)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /619F3011)
@@ -1263,7 +1263,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 61520345)
-    (at 175 78)
+    (at 239 78)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /619F3004)
@@ -1299,7 +1299,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 6152032E)
-    (at 157 78)
+    (at 221 78)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /619F2FF6)
@@ -1335,7 +1335,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 61520317)
-    (at 139 78)
+    (at 114 78)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /61532082)
@@ -1371,7 +1371,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 61520300)
-    (at 121 78)
+    (at 96 78)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /61532075)
@@ -1407,7 +1407,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 615202E9)
-    (at 103 78)
+    (at 78 78)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /61532068)
@@ -1443,7 +1443,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 615202D2)
-    (at 85 78)
+    (at 60 78)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /61532059)
@@ -1479,7 +1479,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 615202BB)
-    (at 67 78)
+    (at 42 78)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /61532049)
@@ -1515,7 +1515,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 615202A4)
-    (at 49 78)
+    (at 24 78)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /6153203B)
@@ -1551,7 +1551,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 6152028D)
-    (at 247 61)
+    (at 311 61)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /619F3163)
@@ -1587,7 +1587,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 615077CA)
-    (at 229 61)
+    (at 293 61)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /619F3112)
@@ -1623,7 +1623,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 6152025F)
-    (at 211 61)
+    (at 275 61)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /619F2FDB)
@@ -1659,7 +1659,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 61520248)
-    (at 193 61)
+    (at 257 61)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /619F2FCF)
@@ -1695,7 +1695,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 61520231)
-    (at 175 61)
+    (at 239 61)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /619F2FC2)
@@ -1730,8 +1730,8 @@
     (pad "" np_thru_hole circle (at -5.5 0) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
   )
 
-  (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 6152021A)
-    (at 157 61)
+  (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 61508A75)
+    (at 221 61)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /619F2FB4)
@@ -1767,7 +1767,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 61520203)
-    (at 139 61)
+    (at 114 61)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /61529B76)
@@ -1803,7 +1803,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 615201EC)
-    (at 121 61)
+    (at 96 61)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /61529B69)
@@ -1839,7 +1839,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 615201D5)
-    (at 103 61)
+    (at 78 61)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /61529B5C)
@@ -1875,7 +1875,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 615201BE)
-    (at 85 61)
+    (at 60 61)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /61529B4D)
@@ -1911,7 +1911,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 615201A7)
-    (at 67 61)
+    (at 42 61)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /61529B3D)
@@ -1947,7 +1947,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 61520190)
-    (at 49 61)
+    (at 24 61)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /61529B2F)
@@ -1983,7 +1983,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 61520179)
-    (at 247 44)
+    (at 311 44)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /619F3178)
@@ -2019,7 +2019,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 61520162)
-    (at 229 44)
+    (at 293 44)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /619F311B)
@@ -2055,7 +2055,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 6152014B)
-    (at 211 44)
+    (at 275 44)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /619F2F97)
@@ -2091,7 +2091,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 61520134)
-    (at 193 44)
+    (at 257 44)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /619F2F89)
@@ -2127,7 +2127,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 615071D2)
-    (at 175 44)
+    (at 239 44)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /619F2F7B)
@@ -2163,7 +2163,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 61520106)
-    (at 157 44)
+    (at 221 44)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /619F2F6B)
@@ -2199,7 +2199,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 615200EF)
-    (at 139 44)
+    (at 114 44)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /6150BF45)
@@ -2235,7 +2235,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 615200D8)
-    (at 121 44)
+    (at 96 44)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /6150B4C2)
@@ -2271,7 +2271,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 615200C1)
-    (at 103 44)
+    (at 78 44)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /615098BF)
@@ -2307,7 +2307,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 615200AA)
-    (at 85 44)
+    (at 60 44)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /6150471E)
@@ -2343,7 +2343,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 61520093)
-    (at 67 44)
+    (at 42 44)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /614F674A)
@@ -2379,7 +2379,7 @@
   )
 
   (module footprints:Choc_PG1350_Choc_Spacing (layer F.Cu) (tedit 6150329D) (tstamp 615045D3)
-    (at 49 44)
+    (at 24 44)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags kailh,choc)
     (path /614F025C)
@@ -2415,7 +2415,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 61520065)
-    (at 255 112 270)
+    (at 256 112 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F3157)
@@ -2453,7 +2453,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 61520054)
-    (at 237 112 270)
+    (at 238 112 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /61549E33)
@@ -2491,7 +2491,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 61520043)
-    (at 219 112 270)
+    (at 220 112 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F30B2)
@@ -2529,7 +2529,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 61520032)
-    (at 201 112 270)
+    (at 202 112 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F30A6)
@@ -2567,7 +2567,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 61520021)
-    (at 183 112 270)
+    (at 211 95 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F309A)
@@ -2605,7 +2605,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 61520010)
-    (at 165 112 270)
+    (at 193 95 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F3132)
@@ -2643,7 +2643,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FFFF)
-    (at 147 112 270)
+    (at 158 95 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /6154EEC4)
@@ -2681,7 +2681,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FFEE)
-    (at 129 112 270)
+    (at 140 95 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /6154EEB7)
@@ -2719,7 +2719,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FFDD)
-    (at 111 112 270)
+    (at 149 112 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /6154EEAA)
@@ -2757,7 +2757,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FFCC)
-    (at 93 112 270)
+    (at 131 112 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /6154EE9B)
@@ -2795,7 +2795,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FFBB)
-    (at 75 112 270)
+    (at 113 112 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /61530C3E)
@@ -2833,7 +2833,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FFAA)
-    (at 57 112 270)
+    (at 95 112 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /6154EE7D)
@@ -2871,7 +2871,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FF99)
-    (at 255 95 270)
+    (at 319 95 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F314B)
@@ -2909,7 +2909,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FF88)
-    (at 237 95 270)
+    (at 301 95 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F307D)
@@ -2947,7 +2947,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FF77)
-    (at 219 95 270)
+    (at 283 95 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F3071)
@@ -2985,7 +2985,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FF66)
-    (at 201 95 270)
+    (at 265 95 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F3065)
@@ -3023,7 +3023,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FF55)
-    (at 183 95 270)
+    (at 247 95 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F3058)
@@ -3061,7 +3061,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FF44)
-    (at 165 95 270)
+    (at 229 95 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F304A)
@@ -3099,7 +3099,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FF33)
-    (at 147 95 270)
+    (at 122 95 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /6153B5FE)
@@ -3137,7 +3137,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FF22)
-    (at 129 95 270)
+    (at 104 95 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /6153B5F1)
@@ -3175,7 +3175,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FF11)
-    (at 111 95 270)
+    (at 86 95 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /6153B5E4)
@@ -3213,7 +3213,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FF00)
-    (at 93 95 270)
+    (at 68 95 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /6153B5D5)
@@ -3251,7 +3251,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 61522597)
-    (at 75 95 270)
+    (at 50 95 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /6153B5C5)
@@ -3289,7 +3289,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FEDE)
-    (at 57 95 270)
+    (at 32 95 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /6153B5B7)
@@ -3327,7 +3327,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FECD)
-    (at 255 78 270)
+    (at 319 78 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F313F)
@@ -3365,7 +3365,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FEBC)
-    (at 237 78 270)
+    (at 301 78 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F302F)
@@ -3403,7 +3403,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FEAB)
-    (at 219 78 270)
+    (at 283 78 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F3023)
@@ -3441,7 +3441,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FE9A)
-    (at 201 78 270)
+    (at 265 78 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F3017)
@@ -3479,7 +3479,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FE89)
-    (at 183 78 270)
+    (at 247 78 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F300A)
@@ -3517,7 +3517,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FE78)
-    (at 165 78 270)
+    (at 229 78 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F2FFC)
@@ -3555,7 +3555,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FE67)
-    (at 147 78 270)
+    (at 122 78 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /61532088)
@@ -3593,7 +3593,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FE56)
-    (at 129 78 270)
+    (at 104 78 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /6153207B)
@@ -3631,7 +3631,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FE45)
-    (at 111 78 270)
+    (at 86 78 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /6153206E)
@@ -3669,7 +3669,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FE34)
-    (at 93 78 270)
+    (at 68 78 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /6153205F)
@@ -3707,7 +3707,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FE23)
-    (at 75 78 270)
+    (at 50 78 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /6153204F)
@@ -3745,7 +3745,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FE12)
-    (at 57 78 270)
+    (at 32 78 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /61532041)
@@ -3783,7 +3783,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FE01)
-    (at 255 61 270)
+    (at 319 61 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F3169)
@@ -3821,7 +3821,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FDF0)
-    (at 237 61 270)
+    (at 301 61 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F310A)
@@ -3859,7 +3859,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FDDF)
-    (at 219 61 270)
+    (at 283 61 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F2FE1)
@@ -3897,7 +3897,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 61522535)
-    (at 201 61 270)
+    (at 265 61 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F2FD5)
@@ -3935,7 +3935,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FDBD)
-    (at 183 61 270)
+    (at 247 61 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F2FC8)
@@ -3973,7 +3973,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FDAC)
-    (at 165 61 270)
+    (at 229 61 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F2FBA)
@@ -4011,7 +4011,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FD9B)
-    (at 147 61 270)
+    (at 122 61 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /61529B7C)
@@ -4049,7 +4049,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FD8A)
-    (at 129 61 270)
+    (at 104 61 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /61529B6F)
@@ -4087,7 +4087,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FD79)
-    (at 111 61 270)
+    (at 86 61 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /61529B62)
@@ -4125,7 +4125,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FD68)
-    (at 93 61 270)
+    (at 68 61 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /61529B53)
@@ -4163,7 +4163,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FD57)
-    (at 75 61 270)
+    (at 50 61 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /61529B43)
@@ -4201,7 +4201,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FD46)
-    (at 57 61 270)
+    (at 32 61 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /61529B35)
@@ -4239,7 +4239,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FD35)
-    (at 255 44 270)
+    (at 319 44 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F316F)
@@ -4277,7 +4277,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FD24)
-    (at 237 44 270)
+    (at 301 44 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F3121)
@@ -4315,7 +4315,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FD13)
-    (at 219 44 270)
+    (at 283 44 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F2F9D)
@@ -4353,7 +4353,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FD02)
-    (at 201 44 270)
+    (at 265 44 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F2F8F)
@@ -4391,7 +4391,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FCF1)
-    (at 183 44 270)
+    (at 247 44 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F2F81)
@@ -4429,7 +4429,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FCE0)
-    (at 165 44 270)
+    (at 229 44 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F2F71)
@@ -4467,7 +4467,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FCCF)
-    (at 147 44 270)
+    (at 122 44 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /6150BF4B)
@@ -4505,7 +4505,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FCBE)
-    (at 129 44 270)
+    (at 104 44 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /6150B4C8)
@@ -4543,7 +4543,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FCAD)
-    (at 111 44 270)
+    (at 86 44 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /615098C5)
@@ -4581,7 +4581,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FC9C)
-    (at 93 44 270)
+    (at 68 44 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /61504724)
@@ -4619,7 +4619,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FC8B)
-    (at 75 44 270)
+    (at 50 44 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614F6750)
@@ -4657,7 +4657,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 615030DA) (tstamp 6151FC7A)
-    (at 57 44 270)
+    (at 32 44 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614F0CC8)
