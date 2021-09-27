@@ -19,7 +19,7 @@ U 1 1 614F025C
 P 1900 1600
 F 0 "SW1" H 1900 1793 50  0000 C CNN
 F 1 "SW_Push" H 1900 1794 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 1900 1800 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 1900 1800 50  0001 C CNN
 F 3 "~" H 1900 1800 50  0001 C CNN
 	1    1900 1600
 	1    0    0    -1  
@@ -47,7 +47,7 @@ U 1 1 614F674A
 P 2450 1600
 F 0 "SW2" H 2450 1793 50  0000 C CNN
 F 1 "SW_Push" H 2450 1794 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 2450 1800 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 2450 1800 50  0001 C CNN
 F 3 "~" H 2450 1800 50  0001 C CNN
 	1    2450 1600
 	1    0    0    -1  
@@ -76,7 +76,7 @@ U 1 1 6150471E
 P 3000 1600
 F 0 "SW3" H 3000 1793 50  0000 C CNN
 F 1 "SW_Push" H 3000 1794 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 3000 1800 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 3000 1800 50  0001 C CNN
 F 3 "~" H 3000 1800 50  0001 C CNN
 	1    3000 1600
 	1    0    0    -1  
@@ -108,7 +108,7 @@ U 1 1 61529B2F
 P 1900 2200
 F 0 "SW7" H 1900 2393 50  0000 C CNN
 F 1 "SW_Push" H 1900 2394 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 1900 2400 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 1900 2400 50  0001 C CNN
 F 3 "~" H 1900 2400 50  0001 C CNN
 	1    1900 2200
 	1    0    0    -1  
@@ -132,7 +132,7 @@ U 1 1 61529B3D
 P 2450 2200
 F 0 "SW8" H 2450 2393 50  0000 C CNN
 F 1 "SW_Push" H 2450 2394 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 2450 2400 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 2450 2400 50  0001 C CNN
 F 3 "~" H 2450 2400 50  0001 C CNN
 	1    2450 2200
 	1    0    0    -1  
@@ -157,7 +157,7 @@ U 1 1 61529B4D
 P 3000 2200
 F 0 "SW9" H 3000 2393 50  0000 C CNN
 F 1 "SW_Push" H 3000 2394 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 3000 2400 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 3000 2400 50  0001 C CNN
 F 3 "~" H 3000 2400 50  0001 C CNN
 	1    3000 2200
 	1    0    0    -1  
@@ -174,17 +174,6 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2800 
 	0    -1   -1   0   
 $EndComp
 Connection ~ 2250 2500
-$Comp
-L Switch:SW_Push SW10
-U 1 1 61529B5C
-P 3550 2200
-F 0 "SW10" H 3550 2393 50  0000 C CNN
-F 1 "SW_Push" H 3550 2394 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 3550 2400 50  0001 C CNN
-F 3 "~" H 3550 2400 50  0001 C CNN
-	1    3550 2200
-	1    0    0    -1  
-$EndComp
 $Comp
 L Diode:1N4148 D10
 U 1 1 61529B62
@@ -203,7 +192,7 @@ U 1 1 6153203B
 P 1900 2800
 F 0 "SW14" H 1900 2993 50  0000 C CNN
 F 1 "SW_Push" H 1900 2994 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 1900 3000 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 1900 3000 50  0001 C CNN
 F 3 "~" H 1900 3000 50  0001 C CNN
 	1    1900 2800
 	1    0    0    -1  
@@ -227,7 +216,7 @@ U 1 1 61532049
 P 2450 2800
 F 0 "SW15" H 2450 2993 50  0000 C CNN
 F 1 "SW_Push" H 2450 2994 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 2450 3000 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 2450 3000 50  0001 C CNN
 F 3 "~" H 2450 3000 50  0001 C CNN
 	1    2450 2800
 	1    0    0    -1  
@@ -252,7 +241,7 @@ U 1 1 61532059
 P 3000 2800
 F 0 "SW16" H 3000 2993 50  0000 C CNN
 F 1 "SW_Push" H 3000 2994 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 3000 3000 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 3000 3000 50  0001 C CNN
 F 3 "~" H 3000 3000 50  0001 C CNN
 	1    3000 2800
 	1    0    0    -1  
@@ -275,7 +264,7 @@ U 1 1 61532068
 P 3550 2800
 F 0 "SW17" H 3550 2993 50  0000 C CNN
 F 1 "SW_Push" H 3550 2994 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 3550 3000 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 3550 3000 50  0001 C CNN
 F 3 "~" H 3550 3000 50  0001 C CNN
 	1    3550 2800
 	1    0    0    -1  
@@ -297,7 +286,7 @@ U 1 1 61532075
 P 4650 2800
 F 0 "SW18" H 4650 2993 50  0000 C CNN
 F 1 "SW_Push" H 4650 2994 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 4650 3000 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 4650 3000 50  0001 C CNN
 F 3 "~" H 4650 3000 50  0001 C CNN
 	1    4650 2800
 	1    0    0    -1  
@@ -319,7 +308,7 @@ U 1 1 61532082
 P 5200 2800
 F 0 "SW19" H 5200 2993 50  0000 C CNN
 F 1 "SW_Push" H 5200 2994 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 5200 3000 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 5200 3000 50  0001 C CNN
 F 3 "~" H 5200 3000 50  0001 C CNN
 	1    5200 2800
 	1    0    0    -1  
@@ -343,7 +332,7 @@ U 1 1 6153B5B1
 P 1900 3400
 F 0 "SW22" H 1900 3593 50  0000 C CNN
 F 1 "SW_Push" H 1900 3594 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 1900 3600 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 1900 3600 50  0001 C CNN
 F 3 "~" H 1900 3600 50  0001 C CNN
 	1    1900 3400
 	1    0    0    -1  
@@ -356,7 +345,7 @@ U 1 1 6153B5BF
 P 2450 3400
 F 0 "SW23" H 2450 3593 50  0000 C CNN
 F 1 "SW_Push" H 2450 3594 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 2450 3600 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 2450 3600 50  0001 C CNN
 F 3 "~" H 2450 3600 50  0001 C CNN
 	1    2450 3400
 	1    0    0    -1  
@@ -381,7 +370,7 @@ U 1 1 6153B5CF
 P 3000 3400
 F 0 "SW24" H 3000 3593 50  0000 C CNN
 F 1 "SW_Push" H 3000 3594 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 3000 3600 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 3000 3600 50  0001 C CNN
 F 3 "~" H 3000 3600 50  0001 C CNN
 	1    3000 3400
 	1    0    0    -1  
@@ -404,7 +393,7 @@ U 1 1 6153B5DE
 P 3550 3400
 F 0 "SW25" H 3550 3593 50  0000 C CNN
 F 1 "SW_Push" H 3550 3594 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 3550 3600 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 3550 3600 50  0001 C CNN
 F 3 "~" H 3550 3600 50  0001 C CNN
 	1    3550 3400
 	1    0    0    -1  
@@ -426,7 +415,7 @@ U 1 1 6153B5EB
 P 4650 3400
 F 0 "SW26" H 4650 3593 50  0000 C CNN
 F 1 "SW_Push" H 4650 3594 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 4650 3600 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 4650 3600 50  0001 C CNN
 F 3 "~" H 4650 3600 50  0001 C CNN
 	1    4650 3400
 	1    0    0    -1  
@@ -448,7 +437,7 @@ U 1 1 6153B5F8
 P 5200 3400
 F 0 "SW27" H 5200 3593 50  0000 C CNN
 F 1 "SW_Push" H 5200 3594 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 5200 3600 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 5200 3600 50  0001 C CNN
 F 3 "~" H 5200 3600 50  0001 C CNN
 	1    5200 3400
 	1    0    0    -1  
@@ -472,7 +461,7 @@ U 1 1 6154EE77
 P 1900 4000
 F 0 "SW30" H 1900 4193 50  0000 C CNN
 F 1 "SW_Push" H 1900 4194 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 1900 4200 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 1900 4200 50  0001 C CNN
 F 3 "~" H 1900 4200 50  0001 C CNN
 	1    1900 4000
 	1    0    0    -1  
@@ -499,7 +488,7 @@ U 1 1 6154EE95
 P 3000 4000
 F 0 "SW32" H 3000 4193 50  0000 C CNN
 F 1 "SW_Push" H 3000 4194 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 3000 4200 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 3000 4200 50  0001 C CNN
 F 3 "~" H 3000 4200 50  0001 C CNN
 	1    3000 4000
 	1    0    0    -1  
@@ -510,7 +499,7 @@ U 1 1 6154EEA4
 P 3550 4000
 F 0 "SW33" H 3550 4193 50  0000 C CNN
 F 1 "SW_Push" H 3550 4194 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 3550 4200 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 3550 4200 50  0001 C CNN
 F 3 "~" H 3550 4200 50  0001 C CNN
 	1    3550 4000
 	1    0    0    -1  
@@ -532,7 +521,7 @@ U 1 1 6154EEB1
 P 4650 4000
 F 0 "SW34" H 4650 4193 50  0000 C CNN
 F 1 "SW_Push" H 4650 4194 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 4650 4200 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 4650 4200 50  0001 C CNN
 F 3 "~" H 4650 4200 50  0001 C CNN
 	1    4650 4000
 	1    0    0    -1  
@@ -554,7 +543,7 @@ U 1 1 6154EEBE
 P 5200 4000
 F 0 "SW35" H 5200 4193 50  0000 C CNN
 F 1 "SW_Push" H 5200 4194 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 5200 4200 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 5200 4200 50  0001 C CNN
 F 3 "~" H 5200 4200 50  0001 C CNN
 	1    5200 4000
 	1    0    0    -1  
@@ -668,7 +657,7 @@ U 1 1 61529B76
 P 5200 2200
 F 0 "SW11" H 5200 2393 50  0000 C CNN
 F 1 "SW_Push" H 5200 2394 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 5200 2400 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 5200 2400 50  0001 C CNN
 F 3 "~" H 5200 2400 50  0001 C CNN
 	1    5200 2200
 	1    0    0    -1  
@@ -684,7 +673,7 @@ U 1 1 6150BF45
 P 5200 1600
 F 0 "SW4" H 5200 1793 50  0000 C CNN
 F 1 "SW_Push" H 5200 1794 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 5200 1800 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 5200 1800 50  0001 C CNN
 F 3 "~" H 5200 1800 50  0001 C CNN
 	1    5200 1600
 	1    0    0    -1  
@@ -722,7 +711,7 @@ U 1 1 61530C37
 P 2450 4000
 F 0 "SW31" H 2450 4193 50  0000 C CNN
 F 1 "SW_Push" H 2450 4194 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 2450 4200 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 2450 4200 50  0001 C CNN
 F 3 "~" H 2450 4200 50  0001 C CNN
 	1    2450 4000
 	1    0    0    -1  
@@ -776,7 +765,7 @@ U 1 1 619F3129
 P 5750 4000
 F 0 "SW36" H 5750 4193 50  0000 C CNN
 F 1 "SW_Push" H 5750 4194 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 5750 4200 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 5750 4200 50  0001 C CNN
 F 3 "~" H 5750 4200 50  0001 C CNN
 	1    5750 4000
 	1    0    0    -1  
@@ -830,7 +819,7 @@ U 1 1 619F3094
 P 6300 4000
 F 0 "SW37" H 6300 4193 50  0000 C CNN
 F 1 "SW_Push" H 6300 4194 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 6300 4200 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 6300 4200 50  0001 C CNN
 F 3 "~" H 6300 4200 50  0001 C CNN
 	1    6300 4000
 	1    0    0    -1  
@@ -852,7 +841,7 @@ U 1 1 619F3052
 P 6300 3400
 F 0 "SW29" H 6300 3593 50  0000 C CNN
 F 1 "SW_Push" H 6300 3594 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 6300 3600 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 6300 3600 50  0001 C CNN
 F 3 "~" H 6300 3600 50  0001 C CNN
 	1    6300 3400
 	1    0    0    -1  
@@ -874,7 +863,7 @@ U 1 1 619F3044
 P 5750 3400
 F 0 "SW28" H 5750 3593 50  0000 C CNN
 F 1 "SW_Push" H 5750 3594 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 5750 3600 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 5750 3600 50  0001 C CNN
 F 3 "~" H 5750 3600 50  0001 C CNN
 	1    5750 3400
 	1    0    0    -1  
@@ -896,7 +885,7 @@ U 1 1 619F3004
 P 6300 2800
 F 0 "SW21" H 6300 2993 50  0000 C CNN
 F 1 "SW_Push" H 6300 2994 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 6300 3000 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 6300 3000 50  0001 C CNN
 F 3 "~" H 6300 3000 50  0001 C CNN
 	1    6300 2800
 	1    0    0    -1  
@@ -918,7 +907,7 @@ U 1 1 619F2FF6
 P 5750 2800
 F 0 "SW20" H 5750 2993 50  0000 C CNN
 F 1 "SW_Push" H 5750 2994 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 5750 3000 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 5750 3000 50  0001 C CNN
 F 3 "~" H 5750 3000 50  0001 C CNN
 	1    5750 2800
 	1    0    0    -1  
@@ -940,7 +929,7 @@ U 1 1 619F2FC2
 P 6300 2200
 F 0 "SW13" H 6300 2393 50  0000 C CNN
 F 1 "SW_Push" H 6300 2394 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 6300 2400 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 6300 2400 50  0001 C CNN
 F 3 "~" H 6300 2400 50  0001 C CNN
 	1    6300 2200
 	1    0    0    -1  
@@ -962,7 +951,7 @@ U 1 1 619F2FB4
 P 5750 2200
 F 0 "SW12" H 5750 2393 50  0000 C CNN
 F 1 "SW_Push" H 5750 2394 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 5750 2400 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 5750 2400 50  0001 C CNN
 F 3 "~" H 5750 2400 50  0001 C CNN
 	1    5750 2200
 	1    0    0    -1  
@@ -988,7 +977,7 @@ U 1 1 619F2F7B
 P 6300 1600
 F 0 "SW6" H 6300 1793 50  0000 C CNN
 F 1 "SW_Push" H 6300 1794 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 6300 1800 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 6300 1800 50  0001 C CNN
 F 3 "~" H 6300 1800 50  0001 C CNN
 	1    6300 1600
 	1    0    0    -1  
@@ -1014,7 +1003,7 @@ U 1 1 619F2F6B
 P 5750 1600
 F 0 "SW5" H 5750 1793 50  0000 C CNN
 F 1 "SW_Push" H 5750 1794 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 5750 1800 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 5750 1800 50  0001 C CNN
 F 3 "~" H 5750 1800 50  0001 C CNN
 	1    5750 1600
 	1    0    0    -1  
@@ -1037,7 +1026,7 @@ U 1 1 61662475
 P 1900 4600
 F 0 "SW38" H 1900 4793 50  0000 C CNN
 F 1 "SW_Push" H 1900 4794 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 1900 4800 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 1900 4800 50  0001 C CNN
 F 3 "~" H 1900 4800 50  0001 C CNN
 	1    1900 4600
 	1    0    0    -1  
@@ -1064,7 +1053,7 @@ U 1 1 61662484
 P 3000 4600
 F 0 "SW40" H 3000 4793 50  0000 C CNN
 F 1 "SW_Push" H 3000 4794 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 3000 4800 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 3000 4800 50  0001 C CNN
 F 3 "~" H 3000 4800 50  0001 C CNN
 	1    3000 4600
 	1    0    0    -1  
@@ -1075,7 +1064,7 @@ U 1 1 6166248A
 P 3550 4600
 F 0 "SW41" H 3550 4793 50  0000 C CNN
 F 1 "SW_Push" H 3550 4794 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 3550 4800 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 3550 4800 50  0001 C CNN
 F 3 "~" H 3550 4800 50  0001 C CNN
 	1    3550 4600
 	1    0    0    -1  
@@ -1097,7 +1086,7 @@ U 1 1 61662496
 P 4650 4600
 F 0 "SW42" H 4650 4793 50  0000 C CNN
 F 1 "SW_Push" H 4650 4794 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 4650 4800 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 4650 4800 50  0001 C CNN
 F 3 "~" H 4650 4800 50  0001 C CNN
 	1    4650 4600
 	1    0    0    -1  
@@ -1119,7 +1108,7 @@ U 1 1 616624A2
 P 5200 4600
 F 0 "SW43" H 5200 4793 50  0000 C CNN
 F 1 "SW_Push" H 5200 4794 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 5200 4800 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 5200 4800 50  0001 C CNN
 F 3 "~" H 5200 4800 50  0001 C CNN
 	1    5200 4600
 	1    0    0    -1  
@@ -1168,7 +1157,7 @@ U 1 1 616624BE
 P 2450 4600
 F 0 "SW39" H 2450 4793 50  0000 C CNN
 F 1 "SW_Push" H 2450 4794 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 2450 4800 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 2450 4800 50  0001 C CNN
 F 3 "~" H 2450 4800 50  0001 C CNN
 	1    2450 4600
 	1    0    0    -1  
@@ -1212,7 +1201,7 @@ U 1 1 616624F5
 P 5750 4600
 F 0 "SW44" H 5750 4793 50  0000 C CNN
 F 1 "SW_Push" H 5750 4794 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 5750 4800 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 5750 4800 50  0001 C CNN
 F 3 "~" H 5750 4800 50  0001 C CNN
 	1    5750 4600
 	1    0    0    -1  
@@ -1238,7 +1227,7 @@ U 1 1 61662522
 P 6300 4600
 F 0 "SW45" H 6300 4793 50  0000 C CNN
 F 1 "SW_Push" H 6300 4794 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 6300 4800 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 6300 4800 50  0001 C CNN
 F 3 "~" H 6300 4800 50  0001 C CNN
 	1    6300 4600
 	1    0    0    -1  
@@ -1249,7 +1238,7 @@ U 1 1 61676B55
 P 1900 5200
 F 0 "SW46" H 1900 5393 50  0000 C CNN
 F 1 "SW_Push" H 1900 5394 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 1900 5400 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 1900 5400 50  0001 C CNN
 F 3 "~" H 1900 5400 50  0001 C CNN
 	1    1900 5200
 	1    0    0    -1  
@@ -1276,7 +1265,7 @@ U 1 1 61676B64
 P 3000 5200
 F 0 "SW48" H 3000 5393 50  0000 C CNN
 F 1 "SW_Push" H 3000 5394 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 3000 5400 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 3000 5400 50  0001 C CNN
 F 3 "~" H 3000 5400 50  0001 C CNN
 	1    3000 5200
 	1    0    0    -1  
@@ -1287,7 +1276,7 @@ U 1 1 61676B6A
 P 3550 5200
 F 0 "SW49" H 3550 5393 50  0000 C CNN
 F 1 "SW_Push" H 3550 5394 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 3550 5400 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 3550 5400 50  0001 C CNN
 F 3 "~" H 3550 5400 50  0001 C CNN
 	1    3550 5200
 	1    0    0    -1  
@@ -1309,7 +1298,7 @@ U 1 1 61676B76
 P 4650 5200
 F 0 "SW50" H 4650 5393 50  0000 C CNN
 F 1 "SW_Push" H 4650 5394 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 4650 5400 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 4650 5400 50  0001 C CNN
 F 3 "~" H 4650 5400 50  0001 C CNN
 	1    4650 5200
 	1    0    0    -1  
@@ -1331,7 +1320,7 @@ U 1 1 61676B82
 P 5200 5200
 F 0 "SW51" H 5200 5393 50  0000 C CNN
 F 1 "SW_Push" H 5200 5394 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 5200 5400 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 5200 5400 50  0001 C CNN
 F 3 "~" H 5200 5400 50  0001 C CNN
 	1    5200 5200
 	1    0    0    -1  
@@ -1380,7 +1369,7 @@ U 1 1 61676B9E
 P 2450 5200
 F 0 "SW47" H 2450 5393 50  0000 C CNN
 F 1 "SW_Push" H 2450 5394 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 2450 5400 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 2450 5400 50  0001 C CNN
 F 3 "~" H 2450 5400 50  0001 C CNN
 	1    2450 5200
 	1    0    0    -1  
@@ -1424,7 +1413,7 @@ U 1 1 61676BD5
 P 5750 5200
 F 0 "SW52" H 5750 5393 50  0000 C CNN
 F 1 "SW_Push" H 5750 5394 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 5750 5400 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 5750 5400 50  0001 C CNN
 F 3 "~" H 5750 5400 50  0001 C CNN
 	1    5750 5200
 	1    0    0    -1  
@@ -1450,7 +1439,7 @@ U 1 1 61676C02
 P 6300 5200
 F 0 "SW53" H 6300 5393 50  0000 C CNN
 F 1 "SW_Push" H 6300 5394 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 6300 5400 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 6300 5400 50  0001 C CNN
 F 3 "~" H 6300 5400 50  0001 C CNN
 	1    6300 5200
 	1    0    0    -1  
@@ -1461,7 +1450,7 @@ U 1 1 61696782
 P 1900 5800
 F 0 "SW54" H 1900 5993 50  0000 C CNN
 F 1 "SW_Push" H 1900 5994 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 1900 6000 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 1900 6000 50  0001 C CNN
 F 3 "~" H 1900 6000 50  0001 C CNN
 	1    1900 5800
 	1    0    0    -1  
@@ -1488,7 +1477,7 @@ U 1 1 61696791
 P 3000 5800
 F 0 "SW56" H 3000 5993 50  0000 C CNN
 F 1 "SW_Push" H 3000 5994 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 3000 6000 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 3000 6000 50  0001 C CNN
 F 3 "~" H 3000 6000 50  0001 C CNN
 	1    3000 5800
 	1    0    0    -1  
@@ -1499,7 +1488,7 @@ U 1 1 61696797
 P 3550 5800
 F 0 "SW57" H 3550 5993 50  0000 C CNN
 F 1 "SW_Push" H 3550 5994 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 3550 6000 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 3550 6000 50  0001 C CNN
 F 3 "~" H 3550 6000 50  0001 C CNN
 	1    3550 5800
 	1    0    0    -1  
@@ -1510,7 +1499,7 @@ U 1 1 616967AF
 P 5200 5800
 F 0 "SW59" H 5200 5993 50  0000 C CNN
 F 1 "SW_Push" H 5200 5994 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 5200 6000 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 5200 6000 50  0001 C CNN
 F 3 "~" H 5200 6000 50  0001 C CNN
 	1    5200 5800
 	1    0    0    -1  
@@ -1551,7 +1540,7 @@ U 1 1 616967CB
 P 2450 5800
 F 0 "SW55" H 2450 5993 50  0000 C CNN
 F 1 "SW_Push" H 2450 5994 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 2450 6000 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 2450 6000 50  0001 C CNN
 F 3 "~" H 2450 6000 50  0001 C CNN
 	1    2450 5800
 	1    0    0    -1  
@@ -1595,7 +1584,7 @@ U 1 1 61696802
 P 5750 5800
 F 0 "SW60" H 5750 5993 50  0000 C CNN
 F 1 "SW_Push" H 5750 5994 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 5750 6000 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 5750 6000 50  0001 C CNN
 F 3 "~" H 5750 6000 50  0001 C CNN
 	1    5750 5800
 	1    0    0    -1  
@@ -1621,7 +1610,7 @@ U 1 1 6169682F
 P 6300 5800
 F 0 "SW61" H 6300 5993 50  0000 C CNN
 F 1 "SW_Push" H 6300 5994 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 6300 6000 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 6300 6000 50  0001 C CNN
 F 3 "~" H 6300 6000 50  0001 C CNN
 	1    6300 5800
 	1    0    0    -1  
@@ -1701,7 +1690,6 @@ Text GLabel 4350 1200 1    50   Input ~ 0
 encA
 Wire Wire Line
 	3350 1800 3350 2200
-Connection ~ 3350 2200
 Wire Wire Line
 	4850 1300 4850 2800
 Wire Wire Line
@@ -1740,7 +1728,7 @@ U 1 1 61D55066
 P 4650 5800
 F 0 "SW58" H 4650 5993 50  0000 C CNN
 F 1 "SW_Push" H 4650 5994 50  0001 C CNN
-F 2 "footprints:Choc_PG1350_Choc_Spacing" H 4650 6000 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 4650 6000 50  0001 C CNN
 F 3 "~" H 4650 6000 50  0001 C CNN
 	1    4650 5800
 	1    0    0    -1  
