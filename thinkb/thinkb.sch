@@ -1861,4 +1861,11 @@ Wire Wire Line
 	9150 4000 9150 3800
 Wire Wire Line
 	9150 3800 8600 3800
+Text GLabel 9600 4150 2    50   Input ~ 0
+GND
+Wire Wire Line
+	9600 4150 9550 4150
+Wire Wire Line
+	9550 4150 9550 4000
+Connection ~ 9550 4000
 $EndSCHEMATC
