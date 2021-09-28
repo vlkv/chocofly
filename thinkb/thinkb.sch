@@ -1868,4 +1868,235 @@ Wire Wire Line
 Wire Wire Line
 	9550 4150 9550 4000
 Connection ~ 9550 4000
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 6153F96B
+P 7600 950
+F 0 "H1" H 7700 996 50  0000 L CNN
+F 1 "MountingHole" H 7700 905 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 7600 950 50  0001 C CNN
+F 3 "~" H 7600 950 50  0001 C CNN
+	1    7600 950 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H5
+U 1 1 61545B9C
+P 7600 1150
+F 0 "H5" H 7700 1196 50  0000 L CNN
+F 1 "MountingHole" H 7700 1105 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 7600 1150 50  0001 C CNN
+F 3 "~" H 7600 1150 50  0001 C CNN
+	1    7600 1150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H8
+U 1 1 6154A57C
+P 7600 1350
+F 0 "H8" H 7700 1396 50  0000 L CNN
+F 1 "MountingHole" H 7700 1305 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 7600 1350 50  0001 C CNN
+F 3 "~" H 7600 1350 50  0001 C CNN
+	1    7600 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H11
+U 1 1 6154EEAB
+P 7600 1550
+F 0 "H11" H 7700 1596 50  0000 L CNN
+F 1 "MountingHole" H 7700 1505 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 7600 1550 50  0001 C CNN
+F 3 "~" H 7600 1550 50  0001 C CNN
+	1    7600 1550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H17
+U 1 1 6155803C
+P 7600 1950
+F 0 "H17" H 7700 1996 50  0000 L CNN
+F 1 "MountingHole" H 7700 1905 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 7600 1950 50  0001 C CNN
+F 3 "~" H 7600 1950 50  0001 C CNN
+	1    7600 1950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H20
+U 1 1 6155DE5B
+P 7600 2150
+F 0 "H20" H 7700 2196 50  0000 L CNN
+F 1 "MountingHole" H 7700 2105 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 7600 2150 50  0001 C CNN
+F 3 "~" H 7600 2150 50  0001 C CNN
+	1    7600 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 6158B5E4
+P 8400 950
+F 0 "H2" H 8500 996 50  0000 L CNN
+F 1 "MountingHole" H 8500 905 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 8400 950 50  0001 C CNN
+F 3 "~" H 8400 950 50  0001 C CNN
+	1    8400 950 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H6
+U 1 1 6158B5EA
+P 8400 1150
+F 0 "H6" H 8500 1196 50  0000 L CNN
+F 1 "MountingHole" H 8500 1105 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 8400 1150 50  0001 C CNN
+F 3 "~" H 8400 1150 50  0001 C CNN
+	1    8400 1150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H9
+U 1 1 6158B5F0
+P 8400 1350
+F 0 "H9" H 8500 1396 50  0000 L CNN
+F 1 "MountingHole" H 8500 1305 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 8400 1350 50  0001 C CNN
+F 3 "~" H 8400 1350 50  0001 C CNN
+	1    8400 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H12
+U 1 1 6158B5F6
+P 8400 1550
+F 0 "H12" H 8500 1596 50  0000 L CNN
+F 1 "MountingHole" H 8500 1505 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 8400 1550 50  0001 C CNN
+F 3 "~" H 8400 1550 50  0001 C CNN
+	1    8400 1550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H15
+U 1 1 6158B5FC
+P 8400 1750
+F 0 "H15" H 8500 1796 50  0000 L CNN
+F 1 "MountingHole" H 8500 1705 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 8400 1750 50  0001 C CNN
+F 3 "~" H 8400 1750 50  0001 C CNN
+	1    8400 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H18
+U 1 1 6158B602
+P 8400 1950
+F 0 "H18" H 8500 1996 50  0000 L CNN
+F 1 "MountingHole" H 8500 1905 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 8400 1950 50  0001 C CNN
+F 3 "~" H 8400 1950 50  0001 C CNN
+	1    8400 1950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H21
+U 1 1 6158B608
+P 8400 2150
+F 0 "H21" H 8500 2196 50  0000 L CNN
+F 1 "MountingHole" H 8500 2105 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 8400 2150 50  0001 C CNN
+F 3 "~" H 8400 2150 50  0001 C CNN
+	1    8400 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 61591EB2
+P 9200 950
+F 0 "H3" H 9300 996 50  0000 L CNN
+F 1 "MountingHole" H 9300 905 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 9200 950 50  0001 C CNN
+F 3 "~" H 9200 950 50  0001 C CNN
+	1    9200 950 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H7
+U 1 1 61591EB8
+P 9200 1150
+F 0 "H7" H 9300 1196 50  0000 L CNN
+F 1 "MountingHole" H 9300 1105 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 9200 1150 50  0001 C CNN
+F 3 "~" H 9200 1150 50  0001 C CNN
+	1    9200 1150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H10
+U 1 1 61591EBE
+P 9200 1350
+F 0 "H10" H 9300 1396 50  0000 L CNN
+F 1 "MountingHole" H 9300 1305 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 9200 1350 50  0001 C CNN
+F 3 "~" H 9200 1350 50  0001 C CNN
+	1    9200 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H13
+U 1 1 61591EC4
+P 9200 1550
+F 0 "H13" H 9300 1596 50  0000 L CNN
+F 1 "MountingHole" H 9300 1505 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 9200 1550 50  0001 C CNN
+F 3 "~" H 9200 1550 50  0001 C CNN
+	1    9200 1550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H16
+U 1 1 61591ECA
+P 9200 1750
+F 0 "H16" H 9300 1796 50  0000 L CNN
+F 1 "MountingHole" H 9300 1705 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 9200 1750 50  0001 C CNN
+F 3 "~" H 9200 1750 50  0001 C CNN
+	1    9200 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H19
+U 1 1 61591ED0
+P 9200 1950
+F 0 "H19" H 9300 1996 50  0000 L CNN
+F 1 "MountingHole" H 9300 1905 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 9200 1950 50  0001 C CNN
+F 3 "~" H 9200 1950 50  0001 C CNN
+	1    9200 1950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H22
+U 1 1 61591ED6
+P 9200 2150
+F 0 "H22" H 9300 2196 50  0000 L CNN
+F 1 "MountingHole" H 9300 2105 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 9200 2150 50  0001 C CNN
+F 3 "~" H 9200 2150 50  0001 C CNN
+	1    9200 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 6159B775
+P 7600 1750
+F 0 "H4" H 7700 1796 50  0000 L CNN
+F 1 "MountingHole" H 7700 1705 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 7600 1750 50  0001 C CNN
+F 3 "~" H 7600 1750 50  0001 C CNN
+	1    7600 1750
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
