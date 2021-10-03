@@ -1,4 +1,4 @@
-19254674284593309
+19256307576633309
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -83061,6 +83061,13 @@ ProMicro_20_pins
 0
 26
 26
+footprints
+RollerEncoder_Panasonic_EVQWGD001
+
+
+0
+6
+6
 footprints
 RotaryEncoder_Alps_EC11E
 Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
