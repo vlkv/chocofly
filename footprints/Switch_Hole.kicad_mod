@@ -1,0 +1,16 @@
+(module Switch_Hole (layer F.Cu) (tedit 615E185C)
+  (fp_text reference SW44 (at -0.97 0.28 -180) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value "Switch Hole" (at -0.72 -3.67 180) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
+  (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
+  (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
+  (fp_line (start -9 -8.5) (end 9 -8.5) (layer Cmts.User) (width 0.12))
+  (fp_line (start -8.75 -8.25) (end 8.75 -8.25) (layer Eco1.User) (width 0.12))
+  (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
+  (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
+  (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+)
