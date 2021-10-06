@@ -1,5 +1,5 @@
-(module Switch_Hole (layer F.Cu) (tedit 615E185C)
-  (fp_text reference SW44 (at -0.97 0.28 -180) (layer F.SilkS) hide
+(module Switch_Hole (layer F.Cu) (tedit 615E2804)
+  (fp_text reference "   " (at -0.97 0.28 180) (layer Dwgs.User) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value "Switch Hole" (at -0.72 -3.67 180) (layer F.Fab) hide
