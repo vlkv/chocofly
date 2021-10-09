@@ -1672,17 +1672,6 @@ Connection ~ 2850 5850
 Connection ~ 3400 5850
 Wire Wire Line
 	3400 1950 3400 2850
-$Comp
-L Device:Rotary_Encoder_Switch ENC1
-U 1 1 616135F5
-P 3500 1400
-F 0 "ENC1" H 3550 1150 50  0000 C CNN
-F 1 "Rotary_Encoder_Switch" V 3250 2000 50  0001 C CNN
-F 2 "footprints:RotaryEncoder_Alps_EC11E" H 3350 1560 50  0001 C CNN
-F 3 "~" H 3500 1660 50  0001 C CNN
-	1    3500 1400
-	1    0    0    -1  
-$EndComp
 Text GLabel 2900 850  0    50   Input ~ 0
 encB
 Text GLabel 2900 750  0    50   Input ~ 0
@@ -2097,54 +2086,13 @@ $EndComp
 Text GLabel 2900 950  0    50   Input ~ 0
 GND
 Wire Wire Line
-	3200 750  3150 750 
-Wire Wire Line
-	3200 850  3050 850 
-Wire Wire Line
-	3200 950  3100 950 
-Wire Wire Line
-	3200 1300 3150 1300
-Wire Wire Line
-	3150 1300 3150 750 
-Connection ~ 3150 750 
-Wire Wire Line
-	3150 750  2900 750 
-Wire Wire Line
-	3200 1400 3100 1400
-Wire Wire Line
-	3100 1400 3100 950 
-Connection ~ 3100 950 
-Wire Wire Line
-	3100 950  2900 950 
-Wire Wire Line
-	3200 1500 3050 1500
-Wire Wire Line
-	3050 1500 3050 850 
-Connection ~ 3050 850 
-Wire Wire Line
-	3050 850  2900 850 
-Wire Wire Line
 	3550 600  4000 600 
-Wire Wire Line
-	4000 600  4000 1500
-Wire Wire Line
-	4000 1500 3800 1500
 Wire Wire Line
 	3450 600  3450 550 
 Wire Wire Line
 	3450 550  3900 550 
 Wire Wire Line
-	3900 550  3900 1300
-Wire Wire Line
-	3900 1300 3800 1300
-Wire Wire Line
-	4000 1500 4000 2850
-Connection ~ 4000 1500
-Wire Wire Line
-	3900 1300 3900 2450
-Wire Wire Line
 	3000 2450 3900 2450
-Connection ~ 3900 1300
 $Comp
 L Mechanical:MountingHole H21
 U 1 1 6158B608
@@ -2157,4 +2105,14 @@ F 3 "~" H 8400 2150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 NoConn ~ 3200 1050
+Wire Wire Line
+	3900 550  3900 2450
+Wire Wire Line
+	4000 600  4000 2850
+Wire Wire Line
+	2900 850  3200 850 
+Wire Wire Line
+	2900 950  3200 950 
+Wire Wire Line
+	2900 750  3200 750 
 $EndSCHEMATC
