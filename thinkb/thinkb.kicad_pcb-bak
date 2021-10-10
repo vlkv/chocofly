@@ -269,7 +269,7 @@
   )
 
   (module MountingHole:MountingHole_2.2mm_M2 (layer F.Cu) (tedit 61636528) (tstamp 61760133)
-    (at 11.6 -24.4)
+    (at 11.5 -26.1)
     (descr "Mounting Hole 2.2mm, no annular, M2")
     (tags "mounting hole 2.2mm no annular m2")
     (path /61621F0C)
@@ -9580,7 +9580,7 @@
   )
 
   (module MountingHole:MountingHole_2.2mm_M2 (layer F.Cu) (tedit 61636538) (tstamp 615C73B4)
-    (at -11.6 -24.4)
+    (at -11.5 -26.1)
     (descr "Mounting Hole 2.2mm, no annular, M2")
     (tags "mounting hole 2.2mm no annular m2")
     (path /6155803C)

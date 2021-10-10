@@ -2115,4 +2115,15 @@ Wire Wire Line
 	2900 950  3200 950 
 Wire Wire Line
 	2900 750  3200 750 
+$Comp
+L Mechanical:MountingHole H23
+U 1 1 61621F0C
+P 9200 2350
+F 0 "H23" H 9300 2396 50  0000 L CNN
+F 1 "MountingHole" H 9300 2305 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 9200 2350 50  0001 C CNN
+F 3 "~" H 9200 2350 50  0001 C CNN
+	1    9200 2350
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

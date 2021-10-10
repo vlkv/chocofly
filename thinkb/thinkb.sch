@@ -1864,17 +1864,6 @@ F 3 "~" H 7600 950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H5
-U 1 1 61545B9C
-P 7600 1150
-F 0 "H5" H 7700 1196 50  0000 L CNN
-F 1 "MountingHole" H 7700 1105 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 7600 1150 50  0001 C CNN
-F 3 "~" H 7600 1150 50  0001 C CNN
-	1    7600 1150
-	1    0    0    -1  
-$EndComp
-$Comp
 L Mechanical:MountingHole H8
 U 1 1 6154A57C
 P 7600 1350
@@ -1938,17 +1927,6 @@ F 1 "MountingHole" H 8500 1105 50  0000 L CNN
 F 2 "MountingHole:MountingHole_2.2mm_M2" H 8400 1150 50  0001 C CNN
 F 3 "~" H 8400 1150 50  0001 C CNN
 	1    8400 1150
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H9
-U 1 1 6158B5F0
-P 8400 1350
-F 0 "H9" H 8500 1396 50  0000 L CNN
-F 1 "MountingHole" H 8500 1305 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 8400 1350 50  0001 C CNN
-F 3 "~" H 8400 1350 50  0001 C CNN
-	1    8400 1350
 	1    0    0    -1  
 $EndComp
 $Comp
