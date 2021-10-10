@@ -2,10 +2,10 @@
 
   (general
     (thickness 1.6)
-    (drawings 130)
+    (drawings 132)
     (tracks 0)
     (zones 0)
-    (modules 75)
+    (modules 76)
     (nets 1)
   )
 
@@ -100,6 +100,206 @@
     (uvia_drill 0.1)
   )
 
+  (module MountingHole:MountingHole_2.2mm_M2 (layer F.Cu) (tedit 56D1B4CB) (tstamp 61635ED4)
+    (at 101.6 46.5 180)
+    (descr "Mounting Hole 2.2mm, no annular, M2")
+    (tags "mounting hole 2.2mm no annular m2")
+    (path /6155803C)
+    (attr virtual)
+    (fp_text reference H17 (at 0 -3.2) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value MountingHole (at 0 3.2) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_circle (center 0 0) (end 2.2 0) (layer Cmts.User) (width 0.15))
+    (fp_circle (center 0 0) (end 2.45 0) (layer F.CrtYd) (width 0.05))
+    (fp_text user %R (at 0.3 0) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 np_thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask))
+  )
+
+  (module MountingHole:MountingHole_2.2mm_M2 (layer B.Cu) (tedit 56D1B4CB) (tstamp 61635ECD)
+    (at 146.1 -58.1 180)
+    (descr "Mounting Hole 2.2mm, no annular, M2")
+    (tags "mounting hole 2.2mm no annular m2")
+    (path /6158B5F6)
+    (attr virtual)
+    (fp_text reference H12 (at 0 3.2) (layer B.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text value MountingHole (at 0 -3.2) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_circle (center 0 0) (end 2.45 0) (layer B.CrtYd) (width 0.05))
+    (fp_circle (center 0 0) (end 2.2 0) (layer Cmts.User) (width 0.15))
+    (fp_text user %R (at 0.3 0) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (pad 1 np_thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask))
+  )
+
+  (module MountingHole:MountingHole_2.2mm_M2 (layer F.Cu) (tedit 56D1B4CB) (tstamp 61635EC6)
+    (at 11.500004 -26.1 180)
+    (descr "Mounting Hole 2.2mm, no annular, M2")
+    (tags "mounting hole 2.2mm no annular m2")
+    (path /6155DE5B)
+    (attr virtual)
+    (fp_text reference H20 (at 0 -3.2) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value MountingHole (at 0 3.2) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_circle (center 0 0) (end 2.45 0) (layer F.CrtYd) (width 0.05))
+    (fp_circle (center 0 0) (end 2.2 0) (layer Cmts.User) (width 0.15))
+    (fp_text user %R (at 0.3 0) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 np_thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask))
+  )
+
+  (module MountingHole:MountingHole_2.2mm_M2 (layer F.Cu) (tedit 56D1B4CB) (tstamp 61635EBF)
+    (at 144.1 27.1 180)
+    (descr "Mounting Hole 2.2mm, no annular, M2")
+    (tags "mounting hole 2.2mm no annular m2")
+    (path /61591EB2)
+    (attr virtual)
+    (fp_text reference H3 (at 0 -3.2) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value MountingHole (at 0 3.2) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_circle (center 0 0) (end 2.45 0) (layer F.CrtYd) (width 0.05))
+    (fp_circle (center 0 0) (end 2.2 0) (layer Cmts.User) (width 0.15))
+    (fp_text user %R (at 0.3 0) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 np_thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask))
+  )
+
+  (module MountingHole:MountingHole_2.2mm_M2 (layer F.Cu) (tedit 56D1B4CB) (tstamp 61635EB7)
+    (at 56.6 67.2 180)
+    (descr "Mounting Hole 2.2mm, no annular, M2")
+    (tags "mounting hole 2.2mm no annular m2")
+    (path /6155803C)
+    (attr virtual)
+    (fp_text reference H17 (at 0 -3.2) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value MountingHole (at 0 3.2) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_circle (center 0 0) (end 2.2 0) (layer Cmts.User) (width 0.15))
+    (fp_circle (center 0 0) (end 2.45 0) (layer F.CrtYd) (width 0.05))
+    (fp_text user %R (at 0.3 0) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 np_thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask))
+  )
+
+  (module MountingHole:MountingHole_2.2mm_M2 (layer F.Cu) (tedit 56D1B4CB) (tstamp 61635EB0)
+    (at 73.2 -51.9 180)
+    (descr "Mounting Hole 2.2mm, no annular, M2")
+    (tags "mounting hole 2.2mm no annular m2")
+    (path /6154A57C)
+    (attr virtual)
+    (fp_text reference H8 (at 0 -3.2) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value MountingHole (at 0 3.2) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_circle (center 0 0) (end 2.45 0) (layer F.CrtYd) (width 0.05))
+    (fp_circle (center 0 0) (end 2.2 0) (layer Cmts.User) (width 0.15))
+    (fp_text user %R (at 0.3 0) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 np_thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask))
+  )
+
+  (module MountingHole:MountingHole_2.2mm_M2 (layer F.Cu) (tedit 56D1B4CB) (tstamp 61635EA9)
+    (at 159.2 -17.9 180)
+    (descr "Mounting Hole 2.2mm, no annular, M2")
+    (tags "mounting hole 2.2mm no annular m2")
+    (path /61591ECA)
+    (attr virtual)
+    (fp_text reference H16 (at 0 -3.2) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value MountingHole (at 0 3.2) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_circle (center 0 0) (end 2.45 0) (layer F.CrtYd) (width 0.05))
+    (fp_circle (center 0 0) (end 2.2 0) (layer Cmts.User) (width 0.15))
+    (fp_text user %R (at 0.3 0) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 np_thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask))
+  )
+
+  (module MountingHole:MountingHole_2.2mm_M2 (layer F.Cu) (tedit 56D1B4CB) (tstamp 61635D92)
+    (at -101.6 46.5)
+    (descr "Mounting Hole 2.2mm, no annular, M2")
+    (tags "mounting hole 2.2mm no annular m2")
+    (path /6155803C)
+    (attr virtual)
+    (fp_text reference H17 (at 0 -3.2) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value MountingHole (at 0 3.2) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_circle (center 0 0) (end 2.2 0) (layer Cmts.User) (width 0.15))
+    (fp_circle (center 0 0) (end 2.45 0) (layer F.CrtYd) (width 0.05))
+    (fp_text user %R (at 0.3 0) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask))
+  )
+
+  (module MountingHole:MountingHole_2.2mm_M2 (layer F.Cu) (tedit 56D1B4CB) (tstamp 6161E17E)
+    (at -73.2 -51.9)
+    (descr "Mounting Hole 2.2mm, no annular, M2")
+    (tags "mounting hole 2.2mm no annular m2")
+    (path /6154A57C)
+    (attr virtual)
+    (fp_text reference H8 (at 0 -3.2) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value MountingHole (at 0 3.2) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_circle (center 0 0) (end 2.45 0) (layer F.CrtYd) (width 0.05))
+    (fp_circle (center 0 0) (end 2.2 0) (layer Cmts.User) (width 0.15))
+    (fp_text user %R (at 0.3 0) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask))
+  )
+
+  (module MountingHole:MountingHole_2.2mm_M2 (layer F.Cu) (tedit 56D1B4CB) (tstamp 6161E00D)
+    (at -11.5 -26.1)
+    (descr "Mounting Hole 2.2mm, no annular, M2")
+    (tags "mounting hole 2.2mm no annular m2")
+    (path /6155DE5B)
+    (attr virtual)
+    (fp_text reference H20 (at 0 -3.2) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value MountingHole (at 0 3.2) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_circle (center 0 0) (end 2.45 0) (layer F.CrtYd) (width 0.05))
+    (fp_circle (center 0 0) (end 2.2 0) (layer Cmts.User) (width 0.15))
+    (fp_text user %R (at 0.3 0) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask))
+  )
+
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DACA)
     (at 28.392637 37.207859 40.5)
     (path /6153B5EB)
@@ -109,12 +309,6 @@
     (fp_text value SW_Push (at 0 8.25 40.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 220.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 40.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -123,6 +317,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 220.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 40.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161D9B7)
@@ -153,12 +353,6 @@
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 193.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -167,6 +361,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 193.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DBE1)
@@ -178,12 +378,6 @@
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -192,6 +386,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DA28)
@@ -203,12 +403,6 @@
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -217,6 +411,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161E24A)
@@ -228,12 +428,6 @@
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -242,6 +436,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161D9DA)
@@ -253,12 +453,6 @@
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -267,6 +461,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DB42)
@@ -278,12 +478,6 @@
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -292,6 +486,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DA01)
@@ -303,12 +503,6 @@
     (fp_text value SW_Push (at 0 8.25 126) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5.000001 306) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 126) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -317,6 +511,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5.000001 306) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 126) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DCE0)
@@ -328,12 +528,6 @@
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -342,6 +536,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DE78)
@@ -353,12 +553,6 @@
     (fp_text value SW_Push (at 0 8.25 54) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 234) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.540001 -0.635 54) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -367,6 +561,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 234) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.540001 -0.635 54) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DD07)
@@ -378,12 +578,6 @@
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -392,6 +586,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DB69)
@@ -403,12 +603,6 @@
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -417,6 +611,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161E358)
@@ -428,12 +628,6 @@
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -442,6 +636,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161D91D)
@@ -453,12 +653,6 @@
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -467,6 +661,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161D8F6)
@@ -478,12 +678,6 @@
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -492,6 +686,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DA52)
@@ -503,12 +703,6 @@
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -517,6 +711,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161E127)
@@ -528,12 +728,6 @@
     (fp_text value SW_Push (at 0 8.25 139.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 319.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 139.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -542,6 +736,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 319.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 139.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DE27)
@@ -553,12 +753,6 @@
     (fp_text value SW_Push (at 0 8.25 40.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 220.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 40.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -567,6 +761,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 220.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 40.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161E0B2)
@@ -578,12 +778,6 @@
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -592,6 +786,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DA7C)
@@ -603,12 +803,6 @@
     (fp_text value SW_Push (at 0 8.25 126) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5.000001 306) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 126) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -617,6 +811,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5.000001 306) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 126) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DC08)
@@ -628,12 +828,6 @@
     (fp_text value SW_Push (at 0 8.25 27) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 207) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 27) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -642,6 +836,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 207) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 27) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161D8A8)
@@ -653,12 +853,6 @@
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -667,6 +861,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DD82)
@@ -678,12 +878,6 @@
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -692,6 +886,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161E15D)
@@ -703,12 +903,6 @@
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -717,6 +911,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161E304)
@@ -728,12 +928,6 @@
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -742,6 +936,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DFE9)
@@ -753,12 +953,6 @@
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -767,6 +961,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161E028)
@@ -778,12 +978,6 @@
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -792,6 +986,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161E289)
@@ -803,12 +1003,6 @@
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -817,6 +1011,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DAF4)
@@ -828,12 +1028,6 @@
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -842,6 +1036,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161E32B)
@@ -853,12 +1053,6 @@
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -867,6 +1061,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DE51)
@@ -878,12 +1078,6 @@
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -892,6 +1086,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DC7D)
@@ -903,12 +1103,6 @@
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -917,6 +1111,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161E1E4)
@@ -928,12 +1128,6 @@
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -942,6 +1136,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DBBA)
@@ -953,12 +1153,6 @@
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -967,6 +1161,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161D830)
@@ -978,12 +1178,6 @@
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -992,6 +1186,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161D857)
@@ -1003,12 +1203,6 @@
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -1017,6 +1211,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DDEB)
@@ -1028,12 +1228,6 @@
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -1042,6 +1236,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161D992)
@@ -1053,12 +1253,6 @@
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -1067,6 +1261,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DAA3)
@@ -1078,12 +1278,6 @@
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -1092,6 +1286,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DE9F)
@@ -1103,12 +1303,6 @@
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -1117,6 +1311,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DC56)
@@ -1128,12 +1328,6 @@
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -1142,6 +1336,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DEFF)
@@ -1153,12 +1353,6 @@
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -1167,6 +1361,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DC2F)
@@ -1178,12 +1378,6 @@
     (fp_text value SW_Push (at 0 8.25 54) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 234) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.540001 -0.635 54) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -1192,6 +1386,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 234) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.540001 -0.635 54) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161E0D9)
@@ -1203,12 +1403,6 @@
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -1217,6 +1411,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DD2E)
@@ -1228,12 +1428,6 @@
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -1242,6 +1436,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DB1B)
@@ -1253,12 +1453,6 @@
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -1267,6 +1461,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DD55)
@@ -1278,12 +1478,6 @@
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -1292,6 +1486,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161E08B)
@@ -1303,12 +1503,6 @@
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -1317,6 +1511,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DED8)
@@ -1328,12 +1528,6 @@
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -1342,6 +1536,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161E3C7)
@@ -1353,12 +1553,6 @@
     (fp_text value SW_Push (at 0 8.25 139.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 319.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 139.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -1367,6 +1561,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 319.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 139.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161E2DA)
@@ -1378,12 +1578,6 @@
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -1392,6 +1586,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DCB9)
@@ -1403,12 +1603,6 @@
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -1417,6 +1611,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161E100)
@@ -1428,12 +1628,6 @@
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -1442,6 +1636,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161D96B)
@@ -1453,12 +1653,6 @@
     (fp_text value SW_Push (at 0 8.25 153) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5.000001 333) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 153) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -1467,6 +1661,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5.000001 333) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 153) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161D944)
@@ -1478,12 +1678,6 @@
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -1492,6 +1686,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DDBE)
@@ -1503,12 +1703,6 @@
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -1517,6 +1711,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161E04F)
@@ -1528,12 +1728,6 @@
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -1542,6 +1736,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161E2B3)
@@ -1553,12 +1753,6 @@
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -1567,6 +1761,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 193.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 13.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DFBF)
@@ -1578,12 +1778,6 @@
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -1592,6 +1786,12 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161D8CF)
@@ -1603,12 +1803,6 @@
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
     (fp_line (start -9 8.5) (end -9 -8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 8.5) (end -9 8.5) (layer Cmts.User) (width 0.12))
     (fp_line (start 9 -8.5) (end 9 8.5) (layer Cmts.User) (width 0.12))
@@ -1617,150 +1811,36 @@
     (fp_line (start 8.75 -8.25) (end 8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start 8.75 8.25) (end -8.75 8.25) (layer Eco1.User) (width 0.12))
     (fp_line (start -8.75 8.25) (end -8.75 -8.25) (layer Eco1.User) (width 0.12))
+    (fp_text user %R (at 3 -5 346.5) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at 2.54 -0.635 166.5) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
   )
 
-  (module MountingHole:MountingHole_2.2mm_M2 (layer B.Cu) (tedit 56D1B4CB) (tstamp 6165797B)
-    (at 146.700004 -58.3 180)
-    (descr "Mounting Hole 2.2mm, no annular, M2")
-    (tags "mounting hole 2.2mm no annular m2")
-    (path /6158B5F6)
-    (attr virtual)
-    (fp_text reference H12 (at 0 3.2) (layer B.SilkS) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text value MountingHole (at 0 -3.2) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_circle (center 0 0) (end 2.45 0) (layer B.CrtYd) (width 0.05))
-    (fp_circle (center 0 0) (end 2.2 0) (layer Cmts.User) (width 0.15))
-    (fp_text user %R (at 0.3 0) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (pad 1 np_thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask))
-  )
-
-  (module MountingHole:MountingHole_2.2mm_M2 (layer B.Cu) (tedit 56D1B4CB) (tstamp 61657973)
-    (at 99.700003 -54.8 180)
-    (descr "Mounting Hole 2.2mm, no annular, M2")
-    (tags "mounting hole 2.2mm no annular m2")
-    (path /6154A57C)
-    (attr virtual)
-    (fp_text reference H8 (at 0 3.2) (layer B.SilkS) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text value MountingHole (at 0 -3.2) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_circle (center 0 0) (end 2.45 0) (layer B.CrtYd) (width 0.05))
-    (fp_circle (center 0 0) (end 2.2 0) (layer Cmts.User) (width 0.15))
-    (fp_text user %R (at 0.3 0) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (pad 1 np_thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask))
-  )
-
-  (module MountingHole:MountingHole_2.2mm_M2 (layer B.Cu) (tedit 56D1B4CB) (tstamp 6165796C)
-    (at 159.400004 -9.9 180)
-    (descr "Mounting Hole 2.2mm, no annular, M2")
-    (tags "mounting hole 2.2mm no annular m2")
-    (path /61591ECA)
-    (attr virtual)
-    (fp_text reference H16 (at 0 3.2) (layer B.SilkS) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text value MountingHole (at 0 -3.2) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_circle (center 0 0) (end 2.45 0) (layer B.CrtYd) (width 0.05))
-    (fp_circle (center 0 0) (end 2.2 0) (layer Cmts.User) (width 0.15))
-    (fp_text user %R (at 0.3 0) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (pad 1 np_thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask))
-  )
-
-  (module MountingHole:MountingHole_2.2mm_M2 (layer B.Cu) (tedit 56D1B4CB) (tstamp 61657965)
-    (at 47.000004 -43.6 180)
-    (descr "Mounting Hole 2.2mm, no annular, M2")
-    (tags "mounting hole 2.2mm no annular m2")
-    (path /6155DE5B)
-    (attr virtual)
-    (fp_text reference H20 (at 0 3.2) (layer B.SilkS) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text value MountingHole (at 0 -3.2) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_circle (center 0 0) (end 2.45 0) (layer B.CrtYd) (width 0.05))
-    (fp_circle (center 0 0) (end 2.2 0) (layer Cmts.User) (width 0.15))
-    (fp_text user %R (at 0.3 0) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (pad 1 np_thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask))
-  )
-
-  (module MountingHole:MountingHole_2.2mm_M2 (layer B.Cu) (tedit 56D1B4CB) (tstamp 6165795E)
-    (at 129.100004 34.1 180)
-    (descr "Mounting Hole 2.2mm, no annular, M2")
-    (tags "mounting hole 2.2mm no annular m2")
-    (path /61591EB2)
-    (attr virtual)
-    (fp_text reference H3 (at 0 3.2) (layer B.SilkS) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text value MountingHole (at 0 -3.2) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_circle (center 0 0) (end 2.45 0) (layer B.CrtYd) (width 0.05))
-    (fp_circle (center 0 0) (end 2.2 0) (layer Cmts.User) (width 0.15))
-    (fp_text user %R (at 0.3 0) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (pad 1 np_thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask))
-  )
-
-  (module MountingHole:MountingHole_2.2mm_M2 (layer B.Cu) (tedit 56D1B4CB) (tstamp 61657957)
-    (at 16.100004 79.6 180)
+  (module MountingHole:MountingHole_2.2mm_M2 (layer F.Cu) (tedit 56D1B4CB) (tstamp 61657957)
+    (at 0 79.6 180)
     (descr "Mounting Hole 2.2mm, no annular, M2")
     (tags "mounting hole 2.2mm no annular m2")
     (path /6158B5F0)
     (attr virtual)
-    (fp_text reference H9 (at 0 3.2) (layer B.SilkS) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    (fp_text reference H9 (at 0 -3.2) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value MountingHole (at 0 -3.2) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_circle (center 0 0) (end 2.2 0) (layer Cmts.User) (width 0.15))
-    (fp_circle (center 0 0) (end 2.45 0) (layer B.CrtYd) (width 0.05))
-    (fp_text user %R (at 0.3 0) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (pad 1 np_thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask))
-  )
-
-  (module MountingHole:MountingHole_2.2mm_M2 (layer B.Cu) (tedit 56D1B4CB) (tstamp 61657950)
-    (at 78.300005 57.5 180)
-    (descr "Mounting Hole 2.2mm, no annular, M2")
-    (tags "mounting hole 2.2mm no annular m2")
-    (path /6155803C)
-    (attr virtual)
-    (fp_text reference H17 (at 0 3.2) (layer B.SilkS) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text value MountingHole (at 0 -3.2) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    (fp_text value MountingHole (at 0 3.2) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_circle (center 0 0) (end 2.2 0) (layer Cmts.User) (width 0.15))
-    (fp_circle (center 0 0) (end 2.45 0) (layer B.CrtYd) (width 0.05))
-    (fp_text user %R (at 0.3 0) (layer B.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    (fp_circle (center 0 0) (end 2.45 0) (layer F.CrtYd) (width 0.05))
+    (fp_text user %R (at 0.3 0) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 np_thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask))
   )
 
   (module MountingHole:MountingHole_2.2mm_M2 (layer F.Cu) (tedit 56D1B4CB) (tstamp 61621243)
-    (at -78.300001 57.5)
+    (at -56.6 67.2)
     (descr "Mounting Hole 2.2mm, no annular, M2")
     (tags "mounting hole 2.2mm no annular m2")
     (path /6155803C)
@@ -1780,7 +1860,7 @@
   )
 
   (module MountingHole:MountingHole_2.2mm_M2 (layer F.Cu) (tedit 56D1B4CB) (tstamp 6161DC9E)
-    (at -159.4 -9.9)
+    (at -159.2 -17.9)
     (descr "Mounting Hole 2.2mm, no annular, M2")
     (tags "mounting hole 2.2mm no annular m2")
     (path /61591ECA)
@@ -1799,48 +1879,8 @@
     (pad 1 np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask))
   )
 
-  (module MountingHole:MountingHole_2.2mm_M2 (layer F.Cu) (tedit 56D1B4CB) (tstamp 6161E424)
-    (at -16.1 79.6)
-    (descr "Mounting Hole 2.2mm, no annular, M2")
-    (tags "mounting hole 2.2mm no annular m2")
-    (path /6158B5F0)
-    (attr virtual)
-    (fp_text reference H9 (at 0 -3.2) (layer F.SilkS) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (fp_text value MountingHole (at 0 3.2) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (fp_circle (center 0 0) (end 2.2 0) (layer Cmts.User) (width 0.15))
-    (fp_circle (center 0 0) (end 2.45 0) (layer F.CrtYd) (width 0.05))
-    (fp_text user %R (at 0.3 0) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (pad 1 np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask))
-  )
-
-  (module MountingHole:MountingHole_2.2mm_M2 (layer F.Cu) (tedit 56D1B4CB) (tstamp 6161E17E)
-    (at -99.699999 -54.8)
-    (descr "Mounting Hole 2.2mm, no annular, M2")
-    (tags "mounting hole 2.2mm no annular m2")
-    (path /6154A57C)
-    (attr virtual)
-    (fp_text reference H8 (at 0 -3.2) (layer F.SilkS) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (fp_text value MountingHole (at 0 3.2) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (fp_circle (center 0 0) (end 2.45 0) (layer F.CrtYd) (width 0.05))
-    (fp_circle (center 0 0) (end 2.2 0) (layer Cmts.User) (width 0.15))
-    (fp_text user %R (at 0.3 0) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (pad 1 np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask))
-  )
-
   (module MountingHole:MountingHole_2.2mm_M2 (layer F.Cu) (tedit 56D1B4CB) (tstamp 6161E26B)
-    (at -129.1 34.1)
+    (at -144.1 27.1)
     (descr "Mounting Hole 2.2mm, no annular, M2")
     (tags "mounting hole 2.2mm no annular m2")
     (path /61591EB2)
@@ -1859,28 +1899,8 @@
     (pad 1 np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask))
   )
 
-  (module MountingHole:MountingHole_2.2mm_M2 (layer F.Cu) (tedit 56D1B4CB) (tstamp 6161E00D)
-    (at -47 -43.6)
-    (descr "Mounting Hole 2.2mm, no annular, M2")
-    (tags "mounting hole 2.2mm no annular m2")
-    (path /6155DE5B)
-    (attr virtual)
-    (fp_text reference H20 (at 0 -3.2) (layer F.SilkS) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (fp_text value MountingHole (at 0 3.2) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (fp_circle (center 0 0) (end 2.45 0) (layer F.CrtYd) (width 0.05))
-    (fp_circle (center 0 0) (end 2.2 0) (layer Cmts.User) (width 0.15))
-    (fp_text user %R (at 0.3 0) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (pad 1 np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask))
-  )
-
   (module MountingHole:MountingHole_2.2mm_M2 (layer F.Cu) (tedit 56D1B4CB) (tstamp 6161E3F7)
-    (at -146.7 -58.3)
+    (at -146.1 -58.1)
     (descr "Mounting Hole 2.2mm, no annular, M2")
     (tags "mounting hole 2.2mm no annular m2")
     (path /6158B5F6)
@@ -1899,6 +1919,8 @@
     (pad 1 np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask))
   )
 
+  (gr_circle (center 0.000004 0) (end 0.999993 0.000004) (layer Cmts.User) (width 0.15) (tstamp 61635EDB))
+  (gr_circle (center 0 0) (end -0.999989 0.000004) (layer Cmts.User) (width 0.15) (tstamp 61635EBE))
   (gr_circle (center 0 0) (end -0.999989 0.000004) (layer Cmts.User) (width 0.15) (tstamp 6165797A))
   (gr_line (start -0.1 56.399999) (end 0.100001 56.399998) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 38.226779 62.789713) (end 27.587867 77.432916) (layer Edge.Cuts) (width 0.05) (tstamp 616200FB))
