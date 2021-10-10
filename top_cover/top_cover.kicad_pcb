@@ -372,7 +372,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DBE1)
     (at 70.789016 -22.219185 13.5)
     (path /619F3044)
-    (fp_text reference SW28 (at 0.000001 -8.255 13.5) (layer F.SilkS)
+    (fp_text reference SW28 (at 0.000001 -8.255 13.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
@@ -397,7 +397,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DA28)
     (at 107.428452 -23.816641 13.5)
     (path /619F3052)
-    (fp_text reference SW29 (at 0.000001 -8.255 13.5) (layer F.SilkS)
+    (fp_text reference SW29 (at 0.000001 -8.255 13.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
@@ -422,7 +422,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161E24A)
     (at -128.893792 -11.492928 346.5)
     (path /6154EE77)
-    (fp_text reference SW30 (at -0.000001 -8.255 166.5) (layer F.SilkS)
+    (fp_text reference SW30 (at -0.000001 -8.255 166.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
@@ -447,7 +447,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161D9DA)
     (at -92.837969 -7.464547 346.5)
     (path /61530C37)
-    (fp_text reference SW31 (at -0.000001 -8.255 166.5) (layer F.SilkS)
+    (fp_text reference SW31 (at -0.000001 -8.255 166.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
@@ -472,7 +472,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DB42)
     (at -57.832642 0.939472 346.5)
     (path /6154EE95)
-    (fp_text reference SW32 (at -0.000001 -8.255 166.5) (layer F.SilkS)
+    (fp_text reference SW32 (at -0.000001 -8.255 166.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
@@ -497,7 +497,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DA01)
     (at -25.935271 64.721954 306)
     (path /6154EEA4)
-    (fp_text reference SW33 (at -0.000001 -8.255 126) (layer F.SilkS)
+    (fp_text reference SW33 (at -0.000001 -8.255 126) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 126) (layer F.Fab) hide
@@ -522,7 +522,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DCE0)
     (at -49.895497 -32.121105 346.5)
     (path /6150471E)
-    (fp_text reference SW3 (at -0.000001 -8.255 166.5) (layer F.SilkS)
+    (fp_text reference SW3 (at -0.000001 -8.255 166.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
@@ -547,7 +547,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DE78)
     (at 25.941167 64.726519 54)
     (path /6154EEB1)
-    (fp_text reference SW34 (at 0 -8.255001 54) (layer F.SilkS)
+    (fp_text reference SW34 (at 0 -8.255001 54) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 54) (layer F.Fab) hide
@@ -597,7 +597,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DB69)
     (at 92.843867 -7.459992 13.5)
     (path /619F3129)
-    (fp_text reference SW36 (at 0.000001 -8.255 13.5) (layer F.SilkS)
+    (fp_text reference SW36 (at 0.000001 -8.255 13.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
@@ -622,7 +622,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161E358)
     (at 128.899665 -11.488355 13.5)
     (path /619F3094)
-    (fp_text reference SW37 (at 0.000001 -8.255 13.5) (layer F.SilkS)
+    (fp_text reference SW37 (at 0.000001 -8.255 13.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
@@ -647,7 +647,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161D91D)
     (at -111.391098 -7.290908 346.5)
     (path /61662475)
-    (fp_text reference SW38 (at -0.000001 -8.255 166.5) (layer F.SilkS)
+    (fp_text reference SW38 (at -0.000001 -8.255 166.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
@@ -672,7 +672,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161D8F6)
     (at -74.751675 -5.693469 346.5)
     (path /616624BE)
-    (fp_text reference SW39 (at -0.000001 -8.255 166.5) (layer F.SilkS)
+    (fp_text reference SW39 (at -0.000001 -8.255 166.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
@@ -697,7 +697,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DA52)
     (at -40.796883 7.086225 346.5)
     (path /61662484)
-    (fp_text reference SW40 (at -0.000001 -8.255 166.5) (layer F.SilkS)
+    (fp_text reference SW40 (at -0.000001 -8.255 166.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
@@ -722,7 +722,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161E127)
     (at -39.427353 50.130194 319.5)
     (path /6166248A)
-    (fp_text reference SW41 (at 0 -8.255 139.5) (layer F.SilkS)
+    (fp_text reference SW41 (at 0 -8.255 139.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 139.5) (layer F.Fab) hide
@@ -747,7 +747,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DE27)
     (at 39.433244 50.134737 40.5)
     (path /61662496)
-    (fp_text reference SW42 (at 0.000001 -8.255 40.5) (layer F.SilkS)
+    (fp_text reference SW42 (at 0.000001 -8.255 40.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 40.5) (layer F.Fab) hide
@@ -797,7 +797,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DA7C)
     (at -12.181992 54.729611 306)
     (path /61532068)
-    (fp_text reference SW17 (at -0.000001 -8.255 126) (layer F.SilkS)
+    (fp_text reference SW17 (at -0.000001 -8.255 126) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 126) (layer F.Fab) hide
@@ -822,7 +822,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DC08)
     (at 55.956674 39.093294 27)
     (path /61676B76)
-    (fp_text reference SW50 (at 0 -8.255001 27) (layer F.SilkS)
+    (fp_text reference SW50 (at 0 -8.255001 27) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 27) (layer F.Fab) hide
@@ -847,7 +847,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161D8A8)
     (at 111.397019 -7.286331 13.5)
     (path /61662522)
-    (fp_text reference SW45 (at 0.000001 -8.255 13.5) (layer F.SilkS)
+    (fp_text reference SW45 (at 0.000001 -8.255 13.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
@@ -872,7 +872,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DD82)
     (at 96.81243 9.070296 13.5)
     (path /61676BD5)
-    (fp_text reference SW52 (at 0.000001 -8.255 13.5) (layer F.SilkS)
+    (fp_text reference SW52 (at 0.000001 -8.255 13.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
@@ -897,7 +897,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161E15D)
     (at -61.801208 17.469773 346.5)
     (path /61676B64)
-    (fp_text reference SW48 (at -0.000001 -8.255 166.5) (layer F.SilkS)
+    (fp_text reference SW48 (at -0.000001 -8.255 166.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
@@ -922,7 +922,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161E304)
     (at 132.868252 5.041947 13.5)
     (path /61676C02)
-    (fp_text reference SW53 (at 0.000001 -8.255 13.5) (layer F.SilkS)
+    (fp_text reference SW53 (at 0.000001 -8.255 13.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
@@ -947,7 +947,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DFE9)
     (at 74.757587 -5.688911 13.5)
     (path /616624F5)
-    (fp_text reference SW44 (at 0.000001 -8.255 13.5) (layer F.SilkS)
+    (fp_text reference SW44 (at 0.000001 -8.255 13.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
@@ -972,7 +972,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161E028)
     (at -96.806527 9.065741 346.5)
     (path /61676B9E)
-    (fp_text reference SW47 (at -0.000001 -8.255 166.5) (layer F.SilkS)
+    (fp_text reference SW47 (at -0.000001 -8.255 166.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
@@ -997,7 +997,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161E289)
     (at -78.720249 10.836825 346.5)
     (path /616967CB)
-    (fp_text reference SW55 (at -0.000001 -8.255 166.5) (layer F.SilkS)
+    (fp_text reference SW55 (at -0.000001 -8.255 166.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
@@ -1022,7 +1022,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DAF4)
     (at -120.956642 -44.553509 346.5)
     (path /614F025C)
-    (fp_text reference SW1 (at -0.000001 -8.255 166.5) (layer F.SilkS)
+    (fp_text reference SW1 (at -0.000001 -8.255 166.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
@@ -1047,7 +1047,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161E32B)
     (at -84.900805 -40.525131 346.5)
     (path /614F674A)
-    (fp_text reference SW2 (at -0.000001 -8.255 166.5) (layer F.SilkS)
+    (fp_text reference SW2 (at -0.000001 -8.255 166.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
@@ -1122,7 +1122,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161E1E4)
     (at 120.962544 -44.548938 13.5)
     (path /619F2F7B)
-    (fp_text reference SW6 (at 0.000001 -8.255 13.5) (layer F.SilkS)
+    (fp_text reference SW6 (at 0.000001 -8.255 13.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
@@ -1147,7 +1147,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DBBA)
     (at -103.453965 -40.351477 346.5)
     (path /61529B2F)
-    (fp_text reference SW7 (at -0.000001 -8.255 166.5) (layer F.SilkS)
+    (fp_text reference SW7 (at -0.000001 -8.255 166.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
@@ -1172,7 +1172,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161D830)
     (at -66.81455 -38.75405 346.5)
     (path /61529B3D)
-    (fp_text reference SW8 (at -0.000001 -8.255 166.5) (layer F.SilkS)
+    (fp_text reference SW8 (at -0.000001 -8.255 166.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
@@ -1197,7 +1197,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161D857)
     (at -32.85974 -25.974354 346.5)
     (path /61529B4D)
-    (fp_text reference SW9 (at -0.000001 -8.255 166.5) (layer F.SilkS)
+    (fp_text reference SW9 (at -0.000001 -8.255 166.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
@@ -1272,7 +1272,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DAA3)
     (at 103.459883 -40.346907 13.5)
     (path /619F2FC2)
-    (fp_text reference SW13 (at 0.000001 -8.255 13.5) (layer F.SilkS)
+    (fp_text reference SW13 (at 0.000001 -8.255 13.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
@@ -1297,7 +1297,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DE9F)
     (at -124.925196 -28.023196 346.5)
     (path /6153203B)
-    (fp_text reference SW14 (at -0.000001 -8.255 166.5) (layer F.SilkS)
+    (fp_text reference SW14 (at -0.000001 -8.255 166.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
@@ -1322,7 +1322,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DC56)
     (at -88.869395 -23.994844 346.5)
     (path /61532049)
-    (fp_text reference SW15 (at -0.000001 -8.255 166.5) (layer F.SilkS)
+    (fp_text reference SW15 (at -0.000001 -8.255 166.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
@@ -1347,7 +1347,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DEFF)
     (at -53.864071 -15.5908 346.5)
     (path /61532059)
-    (fp_text reference SW16 (at -0.000001 -8.255 166.5) (layer F.SilkS)
+    (fp_text reference SW16 (at -0.000001 -8.255 166.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
@@ -1372,7 +1372,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DC2F)
     (at 12.187885 54.734192 54)
     (path /61532075)
-    (fp_text reference SW18 (at 0 -8.255001 54) (layer F.SilkS)
+    (fp_text reference SW18 (at 0 -8.255001 54) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 54) (layer F.Fab) hide
@@ -1422,7 +1422,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DD2E)
     (at 88.875277 -23.990292 13.5)
     (path /619F2FF6)
-    (fp_text reference SW20 (at 0.000001 -8.255 13.5) (layer F.SilkS)
+    (fp_text reference SW20 (at 0.000001 -8.255 13.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
@@ -1447,7 +1447,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DB1B)
     (at 124.9311 -28.01864 13.5)
     (path /619F3004)
-    (fp_text reference SW21 (at 0.000001 -8.255 13.5) (layer F.SilkS)
+    (fp_text reference SW21 (at 0.000001 -8.255 13.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
@@ -1472,7 +1472,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DD55)
     (at -107.422558 -23.821197 346.5)
     (path /6153B5B1)
-    (fp_text reference SW22 (at -0.000001 -8.255 166.5) (layer F.SilkS)
+    (fp_text reference SW22 (at -0.000001 -8.255 166.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
@@ -1497,7 +1497,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161E08B)
     (at -70.783109 -22.223756 346.5)
     (path /6153B5BF)
-    (fp_text reference SW23 (at -0.000001 -8.255 166.5) (layer F.SilkS)
+    (fp_text reference SW23 (at -0.000001 -8.255 166.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
@@ -1522,7 +1522,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DED8)
     (at -36.828306 -9.444038 346.5)
     (path /6153B5CF)
-    (fp_text reference SW24 (at -0.000001 -8.255 166.5) (layer F.SilkS)
+    (fp_text reference SW24 (at -0.000001 -8.255 166.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
@@ -1547,7 +1547,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161E3C7)
     (at -28.386725 37.203301 319.5)
     (path /6153B5DE)
-    (fp_text reference SW25 (at 0 -8.255 139.5) (layer F.SilkS)
+    (fp_text reference SW25 (at 0 -8.255 139.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 139.5) (layer F.Fab) hide
@@ -1572,7 +1572,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161E2DA)
     (at -115.359684 9.239374 346.5)
     (path /61696782)
-    (fp_text reference SW54 (at -0.000001 -8.255 166.5) (layer F.SilkS)
+    (fp_text reference SW54 (at -0.000001 -8.255 166.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
@@ -1597,7 +1597,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DCB9)
     (at -132.862361 5.03738 346.5)
     (path /61676B55)
-    (fp_text reference SW46 (at -0.000001 -8.255 166.5) (layer F.SilkS)
+    (fp_text reference SW46 (at -0.000001 -8.255 166.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
@@ -1647,7 +1647,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161D96B)
     (at -55.950795 39.088725 333)
     (path /61676B6A)
-    (fp_text reference SW49 (at 0.000001 -8.254999 153) (layer F.SilkS)
+    (fp_text reference SW49 (at 0.000001 -8.254999 153) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 153) (layer F.Fab) hide
@@ -1672,7 +1672,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161D944)
     (at 115.365599 9.243938 13.5)
     (path /6169682F)
-    (fp_text reference SW61 (at 0.000001 -8.255 13.5) (layer F.SilkS)
+    (fp_text reference SW61 (at 0.000001 -8.255 13.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
@@ -1747,7 +1747,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161E2B3)
     (at 78.726147 10.841384 13.5)
     (path /61696802)
-    (fp_text reference SW60 (at 0.000001 -8.255 13.5) (layer F.SilkS)
+    (fp_text reference SW60 (at 0.000001 -8.255 13.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 13.5) (layer F.Fab) hide
@@ -1772,7 +1772,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161DFBF)
     (at -74.595813 32.210205 346.5)
     (path /61696797)
-    (fp_text reference SW57 (at -0.000001 -8.255 166.5) (layer F.SilkS)
+    (fp_text reference SW57 (at -0.000001 -8.255 166.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
@@ -1797,7 +1797,7 @@
   (module footprints:Switch_Hole (layer F.Cu) (tedit 615E2804) (tstamp 6161D8CF)
     (at -44.76546 23.616524 346.5)
     (path /61696791)
-    (fp_text reference SW56 (at -0.000001 -8.255 166.5) (layer F.SilkS)
+    (fp_text reference SW56 (at -0.000001 -8.255 166.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push (at 0 8.25 166.5) (layer F.Fab) hide
@@ -1919,6 +1919,8 @@
     (pad 1 np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask))
   )
 
+  (gr_line (start 36.787103 -42.825663) (end 72.699999 -54.325676) (layer Edge.Cuts) (width 0.05) (tstamp 61636EC2))
+  (gr_line (start 72.699999 -54.325676) (end 129.999999 -60.700004) (layer Edge.Cuts) (width 0.05) (tstamp 61636EC1))
   (gr_circle (center 0.000004 0) (end 0.999993 0.000004) (layer Cmts.User) (width 0.15) (tstamp 61635EDB))
   (gr_circle (center 0 0) (end -0.999989 0.000004) (layer Cmts.User) (width 0.15) (tstamp 61635EBE))
   (gr_circle (center 0 0) (end -0.999989 0.000004) (layer Cmts.User) (width 0.15) (tstamp 6165797A))
@@ -1998,8 +2000,6 @@
   (gr_line (start -131.986898 -59.171202) (end -149.347265 13.139907) (layer Dwgs.User) (width 0.05) (tstamp 6161E3E2))
   (gr_line (start 30.653848 81.523037) (end 41.372207 66.724077) (layer Dwgs.User) (width 0.05) (tstamp 6161E211))
   (gr_line (start 20.900001 -37.099998) (end 36.787103 -42.825663) (layer Edge.Cuts) (width 0.05) (tstamp 6161E20E))
-  (gr_line (start 36.787103 -42.825663) (end 72.6 -54.3) (layer Edge.Cuts) (width 0.05) (tstamp 6161E20B))
-  (gr_line (start 72.6 -54.3) (end 129.999999 -60.700004) (layer Edge.Cuts) (width 0.05) (tstamp 6161E208))
   (gr_line (start -20.900002 -37.100008) (end -37.212902 -43.075673) (layer Edge.Cuts) (width 0.05) (tstamp 6161E205))
   (gr_line (start -37.212902 -43.075673) (end -72.712892 -54.325668) (layer Edge.Cuts) (width 0.05) (tstamp 6161DEC9))
   (gr_line (start -72.712892 -54.325668) (end -129.799996 -60.7) (layer Edge.Cuts) (width 0.05) (tstamp 6161DEC6))

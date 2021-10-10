@@ -141,7 +141,7 @@
   )
 
   (module MountingHole:MountingHole_2.2mm_M2 (layer F.Cu) (tedit 56D1B4CB) (tstamp 61635EC6)
-    (at 11.500004 -26.1 180)
+    (at 11.5 -26.1 180)
     (descr "Mounting Hole 2.2mm, no annular, M2")
     (tags "mounting hole 2.2mm no annular m2")
     (path /6155DE5B)
@@ -1919,6 +1919,8 @@
     (pad 1 np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask))
   )
 
+  (gr_line (start 36.787103 -42.825663) (end 72.699999 -54.325676) (layer Edge.Cuts) (width 0.05) (tstamp 61636EC2))
+  (gr_line (start 72.699999 -54.325676) (end 129.999999 -60.700004) (layer Edge.Cuts) (width 0.05) (tstamp 61636EC1))
   (gr_circle (center 0.000004 0) (end 0.999993 0.000004) (layer Cmts.User) (width 0.15) (tstamp 61635EDB))
   (gr_circle (center 0 0) (end -0.999989 0.000004) (layer Cmts.User) (width 0.15) (tstamp 61635EBE))
   (gr_circle (center 0 0) (end -0.999989 0.000004) (layer Cmts.User) (width 0.15) (tstamp 6165797A))
@@ -1998,8 +2000,6 @@
   (gr_line (start -131.986898 -59.171202) (end -149.347265 13.139907) (layer Dwgs.User) (width 0.05) (tstamp 6161E3E2))
   (gr_line (start 30.653848 81.523037) (end 41.372207 66.724077) (layer Dwgs.User) (width 0.05) (tstamp 6161E211))
   (gr_line (start 20.900001 -37.099998) (end 36.787103 -42.825663) (layer Edge.Cuts) (width 0.05) (tstamp 6161E20E))
-  (gr_line (start 36.787103 -42.825663) (end 72.6 -54.3) (layer Edge.Cuts) (width 0.05) (tstamp 6161E20B))
-  (gr_line (start 72.6 -54.3) (end 129.999999 -60.700004) (layer Edge.Cuts) (width 0.05) (tstamp 6161E208))
   (gr_line (start -20.900002 -37.100008) (end -37.212902 -43.075673) (layer Edge.Cuts) (width 0.05) (tstamp 6161E205))
   (gr_line (start -37.212902 -43.075673) (end -72.712892 -54.325668) (layer Edge.Cuts) (width 0.05) (tstamp 6161DEC9))
   (gr_line (start -72.712892 -54.325668) (end -129.799996 -60.7) (layer Edge.Cuts) (width 0.05) (tstamp 6161DEC6))
