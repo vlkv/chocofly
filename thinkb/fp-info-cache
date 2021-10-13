@@ -1,4 +1,4 @@
-19257940872430309
+19261210075772309
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -83083,12 +83083,26 @@ rotary encoder
 7
 6
 footprints
+Switch_Hole
+
+
+0
+0
+0
+footprints
 Switch_MSK-12C01-07
 
 
 0
 7
 4
+footprints
+Switch_Optional_Hole
+
+
+0
+0
+0
 footprints
 Switch_Reset_THT
 
