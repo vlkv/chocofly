@@ -1864,17 +1864,6 @@ F 3 "~" H 7600 950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H8
-U 1 1 6154A57C
-P 7600 1350
-F 0 "H8" H 7700 1396 50  0000 L CNN
-F 1 "MountingHole" H 7700 1305 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 7600 1350 50  0001 C CNN
-F 3 "~" H 7600 1350 50  0001 C CNN
-	1    7600 1350
-	1    0    0    -1  
-$EndComp
-$Comp
 L Mechanical:MountingHole H11
 U 1 1 6154EEAB
 P 7600 1550
@@ -1883,17 +1872,6 @@ F 1 "MountingHole" H 7700 1505 50  0000 L CNN
 F 2 "MountingHole:MountingHole_2.2mm_M2" H 7600 1550 50  0001 C CNN
 F 3 "~" H 7600 1550 50  0001 C CNN
 	1    7600 1550
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H17
-U 1 1 6155803C
-P 7600 1950
-F 0 "H17" H 7700 1996 50  0000 L CNN
-F 1 "MountingHole" H 7700 1905 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 7600 1950 50  0001 C CNN
-F 3 "~" H 7600 1950 50  0001 C CNN
-	1    7600 1950
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1974,17 +1952,6 @@ F 3 "~" H 9200 950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H7
-U 1 1 61591EB8
-P 9200 1150
-F 0 "H7" H 9300 1196 50  0000 L CNN
-F 1 "MountingHole" H 9300 1105 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 9200 1150 50  0001 C CNN
-F 3 "~" H 9200 1150 50  0001 C CNN
-	1    9200 1150
-	1    0    0    -1  
-$EndComp
-$Comp
 L Mechanical:MountingHole H10
 U 1 1 61591EBE
 P 9200 1350
@@ -2018,17 +1985,6 @@ F 3 "~" H 9200 1750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H19
-U 1 1 61591ED0
-P 9200 1950
-F 0 "H19" H 9300 1996 50  0000 L CNN
-F 1 "MountingHole" H 9300 1905 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 9200 1950 50  0001 C CNN
-F 3 "~" H 9200 1950 50  0001 C CNN
-	1    9200 1950
-	1    0    0    -1  
-$EndComp
-$Comp
 L Mechanical:MountingHole H22
 U 1 1 61591ED6
 P 9200 2150
@@ -2051,10 +2007,10 @@ F 3 "~" H 7600 1750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L evqwgd001:EVQWGD001 ENC2
+L evqwgd001:EVQWGD001 ENC1
 U 1 1 615A9AC4
 P 3550 850
-F 0 "ENC2" H 3828 904 50  0000 L CNN
+F 0 "ENC1" H 3828 904 50  0000 L CNN
 F 1 "EVQWGD001" H 3828 813 50  0000 L CNN
 F 2 "footprints:EVQWGD001" H 3550 850 50  0001 C CNN
 F 3 "" H 3550 850 50  0001 C CNN
@@ -2093,15 +2049,4 @@ Wire Wire Line
 	2900 950  3200 950 
 Wire Wire Line
 	2900 750  3200 750 
-$Comp
-L Mechanical:MountingHole H23
-U 1 1 61621F0C
-P 9200 2350
-F 0 "H23" H 9300 2396 50  0000 L CNN
-F 1 "MountingHole" H 9300 2305 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 9200 2350 50  0001 C CNN
-F 3 "~" H 9200 2350 50  0001 C CNN
-	1    9200 2350
-	1    0    0    -1  
-$EndComp
 $EndSCHEMATC
