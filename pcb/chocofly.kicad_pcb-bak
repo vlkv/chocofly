@@ -9304,8 +9304,8 @@
   )
 
   (gr_line (start 91.725467 36.324347) (end 135.287639 25.865994) (layer Dwgs.User) (width 0.15))
-  (gr_text "Chocofly v1.0 by vitvlkv\nhttps://github.com/vlkv/chocofly" (at 95.8 32.55 13.5) (layer F.SilkS) (tstamp 616A4E89)
-    (effects (font (size 1.5 1.5) (thickness 0.3)) (justify left))
+  (gr_text "Chocofly v1.0 by vitvlkv\nhttps://github.com/vlkv/chocofly" (at 94.55 31.9 13.5) (layer F.SilkS) (tstamp 616A4E89)
+    (effects (font (size 2 2) (thickness 0.3)) (justify left))
   )
   (gr_circle (center 3.498313 56.333424) (end 4.498313 56.333423) (layer Cmts.User) (width 0.15) (tstamp 616A0B51))
   (gr_circle (center -3.498303 56.333428) (end -2.498304 56.333429) (layer Cmts.User) (width 0.15))
