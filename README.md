@@ -11,7 +11,7 @@ Some features:
 - Non-agressive in general (almost Corne-like) column stagger with just a little bit of a "pinky stagger" for the 5th and 6th columns.
 
 ![The Chocofly keyboard v1](/images/chocofly_v1-0.jpg)
-Chocofly v1
+Chocofly v1.
 
 
 ## Support the project
@@ -29,7 +29,7 @@ TODO
 * [Version 1.0](https://github.com/vlkv/chocofly/tree/v1.0).
   * Known issues:
     * https://github.com/vlkv/chocofly/issues/2
-  * [PCB](https://github.com/vlkv/avalanche/blob/v1.0/pcb/chocofly_v1_0_pcb.zip)
+  * [PCB](https://github.com/vlkv/avalanche/blob/v1.0/pcb/chocofly_v1_0_pcb.zip).
 
 
 ## Parts list
