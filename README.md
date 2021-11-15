@@ -26,7 +26,10 @@ TODO
 
 ## Gerber files
 
-TODO
+* [Version 1.0](https://github.com/vlkv/chocofly/tree/v1.0).
+  * Known issues:
+    * https://github.com/vlkv/chocofly/issues/2
+  * [PCB](https://github.com/vlkv/avalanche/blob/v1.0/pcb/chocofly_v1_0_pcb.zip)
 
 
 ## Parts list
