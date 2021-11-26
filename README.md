@@ -48,6 +48,7 @@ TODO
 ## Firmware
 
 * [QMK](https://github.com/vlkv/qmk_firmware/tree/master/keyboards/chocofly).
+* [ZMK](https://github.com/vlkv/chocofly-zmk-config).
 
 
 ## Chat group
