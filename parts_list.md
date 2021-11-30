@@ -12,7 +12,6 @@
 | 8  | Kailh Choc hotswap sockets (optional)      | 60       | https://aliexpress.ru/item/33023283633.html           |
 | 9  | Keycaps set (Kailh Choc V1 compatible)     | 1        | https://mkultra.click/mbk-choc-keycaps                |
 | 10 | Bumpons for bottom plate (set)             | 1        | https://aliexpress.ru/item/32680543746.html           |
-|----|--------------------------------------------|----------|-------------------------------------------------------|
 
 
 If you want wireless build, then instead of ProMicro you need nice!nano or
@@ -23,7 +22,6 @@ nRFMicro or some other compartible wireless ProMicro drop-in replacement. And al
 | 11 | nice!nano controller                       | 1        | https://nicekeyboards.com/nice-nano                   |
 | 12 | nRFMicro                                   | 1        | https://github.com/joric/nrfmicro                     |
 | 13 | Power micro switch MSK-12C01-07            | 1        | https://aliexpress.ru/item/32963237441.html           |
-|----|--------------------------------------------|----------|-------------------------------------------------------|
 
 
 If you want sandwich "case", then you will need some of:
@@ -34,4 +32,4 @@ If you want sandwich "case", then you will need some of:
 | 15 | Bottom plate                               | 1        | https://github.com/vlkv/chocofly/tree/master/bottom_plate |
 | 16 | M2 screws 3mm                              | 15       | https://aliexpress.ru/item/32976056190.html               |
 | 17 | M2 standoffs ?mm                           | 15       | https://aliexpress.ru/item/32597776358.html               |
-|----|--------------------------------------------|----------|-----------------------------------------------------------|
+
