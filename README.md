@@ -37,7 +37,7 @@ TODO
 
 ## Parts list
 
-TODO
+Is [here](parts_list.md).
 
 
 ## Build instructions
