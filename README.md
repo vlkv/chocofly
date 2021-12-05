@@ -29,10 +29,16 @@ TODO
 
 ## Gerber files
 
+* [Version 1.1](https://github.com/vlkv/chocofly/tree/v1.1).
+  * [PCB](https://github.com/vlkv/chocofly/blob/v1.1/pcb/chocofly_v1_1_pcb.zip).
+  * [top cover](https://github.com/vlkv/chocofly/blob/v1.0/top_cover/chocofly_v1_0_top_cover.zip) (Same as v1.0).
+  * TODO: bottom plate.
 * [Version 1.0](https://github.com/vlkv/chocofly/tree/v1.0).
   * Known issues:
     * https://github.com/vlkv/chocofly/issues/2
   * [PCB](https://github.com/vlkv/chocofly/blob/v1.0/pcb/chocofly_v1_0_pcb.zip).
+  * [top cover](https://github.com/vlkv/chocofly/blob/v1.0/top_cover/chocofly_v1_0_top_cover.zip).
+  * TODO: bottom plate.
 
 
 ## Parts list
