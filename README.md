@@ -2,13 +2,14 @@
 
 The Chocofly is an ergonomic keyboard with 4x6 column staggered keys,
 4 thumb keys and 2 additional inner keys for the index finger (60 keys total) plus one rotary encoder.
-The main idea of the Chocofly is to be thin and suitable for "sonshi"-style usage (putting it ontop the laptop keyboard). It is also pretty minimalistic - no LEDs, OLEDs and in my build it even has no case. It's just a pcb with switches on top of it and small silicone legs on the bottom. And this setup works pefectly! Well, for me at least.
+The main idea of the Chocofly is to be thin and suitable for "sonshi"-style usage (putting it ontop the laptop keyboard). It is also pretty minimalistic - no LEDs/OLEDs/labels on keycaps/wires... and in my build it even has no case. It's just a pcb with switches on top of it and small silicone legs on the bottom. And this setup works pefectly! Well, for me at least.
 
 Some features:
-- Kailh Choc switches support (both hotswap and non-hotswap - in one PCB)
+- Kailh Choc V1 switches support (both hotswap and non-hotswap - in one PCB).
 - Not very common 19x18mm switch spacing, which gives even gaps between the switches horizontally and vertically,
   but keeping the overal size similar to layouts with Cherry MX spacing.
-- Non-agressive in general (almost Corne-like) column stagger with just a little bit of a "pinky stagger" for the 5th and 6th columns.
+- Non-agressive column stagger with just a little bit fan-angled 5th and 6th columns.
+- Fancy-shmancy "flying" design.
 
 ![The Chocofly keyboard v1](/images/chocofly_v1-0.jpg)
 Chocofly v1.
@@ -24,7 +25,7 @@ To support this project, you may donate via PayPal link [![Donate](https://img.s
 
 ## Layout tester
 
-TODO
+TODO.
 
 
 ## Gerber files
@@ -48,13 +49,13 @@ Is [here](parts_list.md).
 
 ## Build instructions
 
-TODO
+TODO.
 
 
 ## Firmware
 
-* [QMK](https://github.com/vlkv/qmk_firmware/tree/master/keyboards/chocofly).
-* [ZMK](https://github.com/vlkv/chocofly-zmk-config).
+* [ZMK](https://github.com/vlkv/chocofly-zmk-config) for wireless builds.
+* [QMK](https://github.com/vlkv/qmk_firmware/tree/master/keyboards/chocofly) for wired builds.
 
 
 ## Chat group

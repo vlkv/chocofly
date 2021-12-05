@@ -2,7 +2,7 @@
 
 | #  | Name                                       | Quantity | Example URL                                           |
 |----|--------------------------------------------|----------|-------------------------------------------------------|
-| 1  | PCB                                        | 1        | https://github.com/vlkv/chocofly/tree/master/pcb      |
+| 1  | The Chocofly PCB                           | 1        | https://github.com/vlkv/chocofly/tree/master/pcb      |
 | 2  | ProMicro (ATmega32U4 5V/16MHz)             | 1        | https://aliexpress.ru/item/2010847161.html            |
 | 3  | Sockets for ProMicro 3.5mm                 | 2        | https://aliexpress.ru/item/32360715483.html           |
 | 4  | Diode 1N4148 (SMD or through hole)         | 61       | https://aliexpress.ru/item/32881432301.html           |
@@ -10,7 +10,7 @@
 | 6  | Rotary encoder EVQWGD001 (optional)        | 1        | https://aliexpress.ru/item/4001293888953.html         |
 | 7  | Keyboard switch (Kailh Choc V1)            | 60       | https://aliexpress.ru/item/32838369089.html           |
 | 8  | Kailh Choc hotswap sockets (optional)      | 60       | https://aliexpress.ru/item/33023283633.html           |
-| 9  | Keycaps set (Kailh Choc V1 compatible)     | 1        | https://mkultra.click/mbk-choc-keycaps                |
+| 9  | Keycaps set (Kailh Choc V1 compatible)     | 1        | https://mkultra.click/mbk-choc-keycaps (recommended) or cheaper https://aliexpress.ru/item/32979973961.html (take white or black, but not transparent)                |
 | 10 | Bumpons for bottom plate (set)             | 1        | https://aliexpress.ru/item/32680543746.html           |
 
 
