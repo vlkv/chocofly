@@ -1,4 +1,4 @@
-21222928594112
+16336555458112
 footprints
 1pin_conn
 Resitance 3 pas
@@ -6,13 +6,6 @@ R
 0
 1
 1
-footprints
-Choc_PG1350_Choc_Spacing
-Kailh "Choc" PG1350 keyswitch
-kailh,choc
-0
-2
-2
 footprints
 EVQWGD001
 
@@ -35,27 +28,6 @@ ProMicro
 24
 24
 footprints
-ProMicro_20_pins
-
-
-0
-26
-26
-footprints
-RollerEncoder_Panasonic_EVQWGD001
-
-
-0
-6
-6
-footprints
-RotaryEncoder_Alps_EC11E
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-7
-6
-footprints
 Switch_Hole
 
 
@@ -69,6 +41,13 @@ Switch_MSK-12C01-07
 0
 7
 4
+footprints
+Switch_Optional_Hole
+
+
+0
+0
+0
 footprints
 Switch_Reset_THT
 
