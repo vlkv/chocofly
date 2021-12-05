@@ -2,7 +2,7 @@
 
 The Chocofly is an ergonomic keyboard with 4x6 column staggered keys,
 4 thumb keys and 2 additional inner keys for the index finger (60 keys total) plus one rotary encoder.
-The main idea of the Chocofly is to be [thin](https://imgur.com/a/kJ5HPdX) and suitable for "sonshi"-style usage (putting it [ontop the laptop keyboard](https://imgur.com/a/XxbiVRK)). It is also pretty minimalistic - no LEDs, OLEDs and in my build it even has no case. It's just a pcb with switches on top of it and small silicone legs on the bottom. And this setup works pefectly! Well, for me at least.
+The main idea of the Chocofly is to be [thin](https://imgur.com/a/kJ5HPdX) and suitable for "sonshi"-style usage (putting it [ontop the laptop keyboard](https://imgur.com/gallery/Bps65YA)). It is also pretty minimalistic - no LEDs, OLEDs and in my build it even has no case. It's just a pcb with switches on top of it and small silicone legs on the bottom. And this setup works pefectly! Well, for me at least.
 
 Some features:
 - Kailh Choc switches support (both hotswap and non-hotswap - in one PCB)
