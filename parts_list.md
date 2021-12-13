@@ -22,14 +22,15 @@ nRFMicro or some other compartible wireless ProMicro drop-in replacement. And al
 | 11 | nice!nano controller                       | 1        | https://nicekeyboards.com/nice-nano                   |
 | 12 | nRFMicro                                   | 1        | https://github.com/joric/nrfmicro                     |
 | 13 | Power micro switch MSK-12C01-07            | 1        | https://aliexpress.ru/item/32963237441.html           |
+| 14 | Li-Po Rechargeable Battery                 | 1        | https://aliexpress.ru/item/32831998939.html           | 
 
 
 If you want sandwich "case", then you will need some of:
 
 | #  | Name                                       | Quantity | Example URL                                               |
 |----|--------------------------------------------|----------|-----------------------------------------------------------|
-| 14 | Top cover                                  | 1        | https://github.com/vlkv/chocofly/tree/master/top_cover    |
-| 15 | Bottom plate                               | 1        | https://github.com/vlkv/chocofly/tree/master/bottom_plate |
-| 16 | M2 screws 3mm                              | 15       | https://aliexpress.ru/item/32976056190.html               |
-| 17 | M2 standoffs ?mm                           | 15       | https://aliexpress.ru/item/32597776358.html               |
+| 15 | Top cover                                  | 1        | https://github.com/vlkv/chocofly/tree/master/top_cover    |
+| 16 | Bottom plate                               | 1        | https://github.com/vlkv/chocofly/tree/master/bottom_plate |
+| 17 | M2 screws 3mm                              | 15       | https://aliexpress.ru/item/32976056190.html               |
+| 18 | M2 standoffs ?mm                           | 15       | https://aliexpress.ru/item/32597776358.html               |
 
