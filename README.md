@@ -52,6 +52,8 @@ Is [here](parts_list.md).
 
 TODO.
 
+See similar https://github.com/vlkv/avalanche#build-instructions
+
 
 ## Firmware
 
