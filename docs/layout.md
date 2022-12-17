@@ -3,7 +3,7 @@
 The Chocofly's layout is a result of my living/working with an ergo keyboard for several years for now. I started to experiment with keyboard layouts since I've got my first Pok3r 60% keyboard (in around 2019) which allowed rebinding most of it's keys. Since then, I modified this or that in my layout, constantly improving it. The layout migrated from keyboard to keyboard which I changed from time to time. By now, the layout has stabilized, so I introduce new changes into it very rarely. Even if I do, these are minor changes.
 
 Keyboard layout is a very personal and subjective thing. I find my layout very comfortable for typing text and especially _writing computer code_. 
-Most of current mainstream programming languages there are a lot of punctuation, special symbols, braces, brackets etc. and a good keyboard layout 
+Most of current mainstream programming languages have a lot of punctuation, special symbols, braces, brackets etc. and a good keyboard layout 
 should make it easier to type all this stuff. Having this idea in my mind I tried to make the layout _intuitive to learn and use_. This document describes the motivation behind the desisions of placing this or that particular key to a so and so location in the layout.
 
 Also, I know there are tons of other very good layouts for ergo keyboards, which some people love and use everyday. There are totally different 
