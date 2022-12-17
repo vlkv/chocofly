@@ -168,7 +168,7 @@ NOTE2: There is no logic about placing `{` and `}` on below and `[` and `]` - ab
 ## Numbers
 - Zeros under the pinky on every row
 - One handed numbers input: additional Fn, backspace and floating point dot
-- I don't know why on the standard keyboard numpads numbers go in a backward order (going left-right/up-down), i.e. `98765431`. 
+- I don't know why on the standard keyboard numpads numbers go in a backward order (going left-right/up-down), i.e. `987654321`. 
   I use (yes, more intuitive!) order of `123456789` if you go left-right/up-down. If you get used to standard keyboard numpad order then, 
   it is not a problem to use it on the Chocofly too.
 
