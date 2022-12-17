@@ -83,7 +83,7 @@ NOTE: LShift/RShift and LAlt/RAlt work in a tap-hold mode. It means that if you 
 - Tap(LAlt) is Esc
 - Tap(RAlt) is Enter
 
-NOTE2:
+NOTE2: As a result you also have:
 - Tap(LShift)+RShift is `+`
 - Tap(RShift)+LShift is `_`
 
