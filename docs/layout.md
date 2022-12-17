@@ -1,5 +1,12 @@
 # Notes about the Chocofly's default layout
 
+## Main layer is QWERTY
+QWERTY is my personal choice. I know that Dvorak or Colemak layouts are more effective, but:
+- standard keyboards use QWERTY and sometimes I have to use them. I think it is less painfull to switch between the Chocofly and a standard keyboard 
+  if both use QWERTY for the main layer
+- I am too lazy to learn Dvorak/Colemak/whatever layout
+If you like Dvorak/Colemak/whatever more than QWERTY, then, just do it. There are no limitations for that on Chocofly.
+
 ## Two additional layers only: Lower and Raise
 - LOWER layer activates with a right thumb.
 - RAISE layer activates with a left thumb.
