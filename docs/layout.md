@@ -38,7 +38,7 @@ NOTE: Additionally, the encoder wheel in both LOWER and RAISE layers acts as PgU
 - Backspace: LOWER/RAISE+`h`
 - Delete: LOWER/RAISE+`g`
 
-![Fig. 4. Backspace and Delete](/docs/images/chocofly_backspace_and_delete.png)
+![Fig. 4. Backspace and Delete](/docs/images/chocofly_backspace_delete.png)
 
 Again, the placement of Backspace/Delete keys are not random. The intuition is the following:
 - The LOWER+`j` key moves text cursor _to the left_. Backspace erases symbol _to the left_ of the cursor. So, it is very intuitive to have Backspace on the LOWER+`h` key which is right on the left from LOWER+`j` key!
