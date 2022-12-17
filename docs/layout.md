@@ -1,21 +1,36 @@
 # Notes about the Chocofly's default layout
 
 ## Main layer is QWERTY
-QWERTY is my personal choice. I know that Dvorak or Colemak layouts are more effective, but:
+QWERTY is my personal choice. I know that Dvorak or Colemak layouts are more efficient, but:
 - standard keyboards use QWERTY and sometimes I have to use them. I think it is less painfull to switch between the Chocofly and a standard keyboard 
   if both use QWERTY for the main layer
 - I am too lazy to learn Dvorak/Colemak/whatever layout
-If you like Dvorak/Colemak/whatever more than QWERTY, then, just do it. There are no limitations for that on Chocofly.
+If you like Dvorak/Colemak/whatever more than QWERTY, then, just use it. There are no limitations for that on Chocofly.
+
+![Fig. 1. Main QWERTY layout](/docs/images/chocofly_qwerty.png)
+
+NOTE: The key `\`(`|`) is located on the left of the `a` key, this is the only difference from the standard ANSI layout here.
 
 ## Two additional layers only: Lower and Raise
-- LOWER layer activates with a right thumb.
-- RAISE layer activates with a left thumb.
+- LOWER layer is activated with a right thumb (red on Fig. 2).
+- RAISE layer is activated with a left thumb (blue on Fig. 2).
+
+![Fig. 2. Keys to activate LOWER and RAISE layers](/docs/images/chocofly_lower_raise_activation.png)
 
 
-## Arrows and text navigation
+## Arrows and other navigation keys
 - Arrows are: Up: `i`, Left: `j`, Down: `k`, Right: `l`.
 - Home: LOWER+`u`, End: LOWER+`o`
 - PgUp: LOWER+`m`, PgDown: LOWER+`.`
+
+![Fig. 3. Arrows and other navigation keys](/docs/images/chocofly_arrows_etc.png)
+
+The `ijkl` arrows are super intuitive and this is almost a standart in the world of ergonomic keyboards. Some folks use `kj,l` instead (which is OKay especially if your keyboard have more agressive vertical stagger), vim users may want to use `hjkl` (and this is completely non intuitive to me).
+
+The intuition for the placement of Home/End and PgUp/PgDown paired keys is the following:
+- In most text editors the Home key moves caret to the leftmost position (which is the line start). That is why the Home is somewhat 'on the left' at the `u` key.
+- In most text editors the End key moves caret to the rightmost position (which is the line end). That is why the End is somewhat 'on the right' at the `o` key.
+- Why PgUp is 'on the left' and PgDown is 'on the right' you may wonder? This is easy. If Home moves cursor to the line start, Ctr+Home moves to the document start, document start is the topmost caret position in the text editor's buffer. PgUp key moves caret in the direction of the document start, or upwards. That is why PgUp is somewhat 'on the left' at the key `m`. Same but mirrored logic is for PgDown key, which is somewhat 'on the right' at the key `.`.
 
 
 ## Delete and backspace
