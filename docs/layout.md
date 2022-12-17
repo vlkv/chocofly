@@ -12,8 +12,8 @@ If you like Dvorak/Colemak/whatever more than QWERTY, then, just use it. There a
 NOTE: The key `\`(`|`) is located on the left of the `a` key, this is the only difference from the standard ANSI layout here.
 
 ## Two additional layers only: Lower and Raise
-- LOWER layer is activated with a right thumb (red on Fig. 2).
-- RAISE layer is activated with a left thumb (blue on Fig. 2).
+- LOWER layer (🔴 on Fig. 2) is activated with a right thumb.
+- RAISE layer (🔵 on Fig. 2) is activated with a left thumb.
 
 ![Fig. 2. Keys to activate LOWER and RAISE layers](/docs/images/chocofly_lower_raise_activation.png)
 
