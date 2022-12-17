@@ -1,6 +1,6 @@
 # Notes about the Chocofly's default layout
 
-The Chocofly's layout is a result of my living/working with an ergo keyboard for several years for now. I started to experiment with keyboard layouts since I've got my first Pok3r 60% keyboard (in around 2019) which allowed rebinding most of it's keys. Since then, I modified this or that in my layout, constantly improving it. The layout migrated from keyboard to keyboard which I changed from time to time. By now, the layout has stabilized, so I introduce new changes into it very rarely. Even if I do, these are minor changes.
+The [Chocofly's layout](https://github.com/vlkv/chocofly#firmware) is a result of my living/working with an ergo keyboard for several years for now. I started to experiment with keyboard layouts since I've got my first Pok3r 60% keyboard (in around 2019) which allowed rebinding most of it's keys. Since then, I modified this or that in my layout, constantly improving it. The layout migrated from keyboard to keyboard which I changed from time to time. By now, the layout has stabilized, so I introduce new changes into it very rarely. Even if I do, these are minor changes.
 
 Keyboard layout is a very personal and subjective thing. I find my layout very comfortable for typing text and especially _writing computer code_. 
 Most of current mainstream programming languages have a lot of punctuation, special symbols, braces, brackets etc. and a good keyboard layout 
