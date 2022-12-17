@@ -140,7 +140,7 @@ would become a 1 key longer. Which will make their usage worse.
 
 
 ## Language layout switch (EN-RU)
-- The keyboard shortcut that toggles the language layout consists of **one** key. I use LWin key for this, but it could be a CapsLock as well.
+- The keyboard shortcut that toggles the language layout consists of **one** key. I use LWin key for this, but it could be a (useless) CapsLock as well.
 - We need to have two independent language toggle keys: one on the left half and another one on the right half of the keyboard.
   Because we want equal comfort for both of our hands.
 
