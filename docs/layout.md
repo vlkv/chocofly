@@ -40,7 +40,7 @@ NOTE: Additionally, the encoder wheel in both LOWER and RAISE layers acts as PgU
 
 ![Fig. 4. Backspace and Delete](/docs/images/chocofly_backspace_delete.png)
 
-Again, the placement of Backspace/Delete keys are not random. The intuition is the following:
+Again, the placement of Backspace/Delete keys is not random. The intuition is the following:
 - The LOWER+`j` key moves text cursor _to the left_. Backspace erases symbol _to the left_ of the cursor. So, it is very intuitive to have Backspace on the LOWER+`h` key which is right on the left from LOWER+`j` key!
 - In most text editors, Delete is symmetric to the Backspace, because it erases symbols _to the right_ of the cursor. So, it would be rather intuitive 
   to place Delete on the LOWER+`g` - symmetrically to the Backspace but on the left half of the keyboard. Another symmetric placement for Delete could 
