@@ -186,8 +186,8 @@ Same symmetrical to numbers ideas here, look at the image:
 
 
 ## Tilde and backtick
-Both `~` and `\`` are very important characters for programmers. For example tilde is an alias for $HOME directory,
-and backtick is used to format code blocks when writing some Markdown text. Also, `Ctr+\`` is often used as a
+Both `~` and \` are very important characters for programmers. For example tilde is an alias for $HOME directory,
+and backtick is used to format code blocks when writing some Markdown text. Also, Ctr+\` is often used as a
 keyboard shortcut to show/hide a console terminal.
 
 Also: in RU-layout there is a Yo-letter (`ё`) on this key.
