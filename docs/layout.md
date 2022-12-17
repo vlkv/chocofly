@@ -30,14 +30,25 @@ The `ijkl` arrows are super intuitive and this is almost a standart in the world
 The intuition for the placement of Home/End and PgUp/PgDown paired keys is the following:
 - In most text editors the Home key moves caret to the leftmost position (which is the line start). That is why the Home is somewhat 'on the left' at the `u` key.
 - In most text editors the End key moves caret to the rightmost position (which is the line end). That is why the End is somewhat 'on the right' at the `o` key.
-- Why PgUp is 'on the left' and PgDown is 'on the right' you may wonder? This is easy. If Home moves cursor to the line start, Ctr+Home moves to the document start, document start is the topmost caret position in the text editor's buffer. PgUp key moves caret in the direction of the document start, or upwards. That is why PgUp is somewhat 'on the left' at the key `m`. Same but mirrored logic is for PgDown key, which is somewhat 'on the right' at the key `.`.
+- Why PgUp is 'on the left' and PgDown is 'on the right' you may wonder? This is easy. If Home moves cursor to the line start, Ctr+Home moves to the document start, document start is the topmost caret position in the text editor's buffer. PgUp key moves caret in the direction of the document start, or upwards. That is why it is more intuitive to have PgUp somewhat 'on the left' at the key `m`. Same but mirrored logic is for PgDown key, which is somewhat 'on the right' at the key `.`.
 
+NOTE: Additionally, the encoder wheel in both LOWER and RAISE layers acts as PgUp/PgDown. I use encoder a lot and like it very much.
 
-## Delete and backspace
-- Backspace: LOWER+`h` or RAISE+`h`
-- Delete: LOWER+`g` or RAISE+`g`
+## Backspace and Delete
+- Backspace: LOWER/RAISE+`h`
+- Delete: LOWER/RAISE+`g`
 
-NOTE: There are additional Backspace and Delete keys for one-handed input of numbers/punctuations.
+![Fig. 4. Backspace and Delete](/docs/images/chocofly_backspace_and_delete.png)
+
+Again, the placement of Backspace/Delete keys are not random. The intuition is the following:
+- The LOWER+`j` key moves text cursor _to the left_. Backspace erases symbol _to the left_ of the cursor. So, it is very intuitive to have Backspace on the LOWER+`h` key which is right on the left from LOWER+`j` key!
+- In most text editors, Delete is symmetric to the Backspace, because it erases symbols _to the right_ of the cursor. So, it would be rather intuitive 
+  to place Delete on the LOWER+`g` - symmetrically to the Backspace but on the left half of the keyboard. Another symmetric placement for Delete could 
+  be LOWER+`;`, but it encorporates pinky, which is a weak finger, so this idea looked less interested to me.
+- Both LOWER and RAISE layers have Backspace and Delete on the same keys under `h` and `g` correspondingly.
+
+NOTE: There are additional Backspace (LOWER/RAISE+`y`) and Delete (LOWER/RAISE+`t`) keys for one-handed input of numbers/punctuations. 
+I use them rarely, to be honest. But I don't think they are completely useless.
 
 
 ## Standard modifiers (Ctr, Alt, Shift)
@@ -115,5 +126,5 @@ Also: in RU-layout there is a Yo-letter ('ё') on this key.
 ## Rare but important keys: PrintScreen, Insert
 
 
-## Encoder (the clickable wheel)
-
+## Volume Up/Down/Mute
+Well, encoder controls Volume in the main layer.
