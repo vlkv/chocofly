@@ -203,7 +203,7 @@ Well, nothing special about them, here they are:
 
 NOTE: Tab is where you probably expect it should be. 
 
-NOTE2: PrintScreen and Insert are rarely used keys, so the are placed on the two completely non-ergo key positions. It's OK for them to be there.
+NOTE2: PrintScreen and Insert are rarely used keys, so they are placed on the two completely non-ergo key positions. It's OK for them to be there.
 
 
 ## Volume Up/Down/Mute
