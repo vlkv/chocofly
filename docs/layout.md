@@ -4,7 +4,7 @@ The Chocofly's layout is a result of my living/working with an ergo keyboard for
 
 Keyboard layout is a very personal and subjective thing. I find my layout very comfortable for typing text and especially _writing computer code_. 
 Most of current mainstream programming languages have a lot of punctuation, special symbols, braces, brackets etc. and a good keyboard layout 
-should make it easier to type all this stuff. Having this idea in my mind I tried to make the layout _intuitive to learn and use_. This document describes the motivation behind the desisions of placing this or that particular key to a so and so location in the layout.
+should make it easier to type all this stuff. Having this idea in my mind I tried to make the layout _intuitive to learn and use_. This document describes the motivation behind the desicions of placing this or that particular key to a so and so location in the layout.
 
 Also, I know there are tons of other very good layouts for ergo keyboards, which some people love and use everyday. There are totally different 
 concepts like 'home row mods' for example. My layout works good for me in the first place. You may find it anti-intuitive, even if I say 
