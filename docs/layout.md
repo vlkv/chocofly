@@ -174,6 +174,9 @@ NOTE2: There is no logic about placing `{` and `}` on below and `[` and `]` - ab
 
 ![Fig. 10. Numbers](/docs/images/chocofly_numbers.png)
 
+NOTE: Maybe I should have placed numbers on the right half of the keyboard. And punctuation characters on the right. Why? Because on a 
+standard keyboard we have numpad on the right... But, by some random reason, I did not do it in that way))
+
 
 ## Punctuation characters (!@#$%^&*)
 
