@@ -45,7 +45,7 @@ NOTE2: Actually there is a third additional layer, but, it is super rare. There 
 
 ![Fig. 3. Arrows and other navigation keys](/docs/images/chocofly_arrows_etc.png)
 
-The `ijkl` arrows are super intuitive and this is almost a standart in the world of ergonomic keyboards. Some folks use `kj,l` instead (which is OKay especially if your keyboard have more agressive vertical stagger), vim users may want to use `hjkl` (and this is completely non intuitive to me).
+The `ijkl` arrows are super intuitive and this is almost a standard in the world of ergonomic keyboards. Some folks use `kj,l` instead (which is OKay especially if your keyboard have more agressive vertical stagger), vim users may want to use `hjkl` (and this is completely non intuitive to me).
 
 The intuition for the placement of Home/End and PgUp/PgDown paired keys is the following:
 - In most text editors the Home key moves caret to the leftmost position (which is the line start). That is why the Home is somewhat 'on the left' at the `u` key.
@@ -64,7 +64,7 @@ Again, the placement of Backspace/Delete keys is not random. The intuition is th
 - The LOWER+`j` key moves text cursor _to the left_. Backspace erases symbol _to the left_ of the cursor. So, it is very intuitive to have Backspace on the LOWER+`h` key which is right on the left from LOWER+`j` key!
 - In most text editors, Delete is symmetric to the Backspace, because it erases symbols _to the right_ of the cursor. So, it would be rather intuitive 
   to place Delete on the LOWER+`g` - symmetrically to the Backspace but on the left half of the keyboard. Another symmetric placement for Delete could 
-  be LOWER+`;`, but it encorporates pinky, which is a weak finger, so this idea looked less interested to me.
+  be LOWER+`;`, but it encorporates pinky, which is a weak finger, so this idea looked less interesting to me.
 - Both LOWER and RAISE layers have Backspace and Delete on the same keys under `h` and `g` correspondingly.
 
 NOTE: There are additional Backspace (LOWER/RAISE+`y`) and Delete (LOWER/RAISE+`t`) keys for one-handed input of numbers/punctuations. 
