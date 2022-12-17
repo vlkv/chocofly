@@ -153,6 +153,8 @@ I believe that it is much better to have `ъ` and `ё` letters on the main layer
 
 ![Fig. 8. The F-row](/docs/images/chocofly_solid_sign_yo.png)
 
+NOTE: Similar situation we may have with umlauted characters ä, ö, ü, etc. in some European languages. There is no universal solution here.
+
 
 ## Braces and brackets: (), [], {}
 
