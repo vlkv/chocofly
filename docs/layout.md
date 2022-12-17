@@ -202,6 +202,7 @@ Well, nothing special about them, here they are:
 ![Fig. 13. Other keys](/docs/images/chocofly_other.png)
 
 NOTE: Tab is where you probably expect it should be. 
+
 NOTE2: PrintScreen and Insert are rarely used keys, so the are placed on the two completely non-ergo key positions. It's OK for them to be there.
 
 
