@@ -1,7 +1,7 @@
-(module footprints:Kailh_socket_PG1350_optional (layer F.Cu) (tedit 638CE9F3)
+(module Kailh_socket_PG1350_optional_chosfox (layer F.Cu) (tedit 63B91AD5)
   (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
   (tags kailh,choc)
-  (fp_text reference SW24 (at -0.000001 -8.255) (layer F.SilkS)
+  (fp_text reference REF** (at -0.000001 -8.255) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value SW_Push (at 0 8.25) (layer F.Fab) hide
