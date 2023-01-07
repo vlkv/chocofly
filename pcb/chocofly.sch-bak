@@ -19,7 +19,7 @@ U 1 1 614F025C
 P 1550 2250
 F 0 "SW1" H 1550 2443 50  0000 C CNN
 F 1 "SW_Push" H 1550 2444 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 1550 2450 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 1550 2450 50  0001 C CNN
 F 3 "~" H 1550 2450 50  0001 C CNN
 	1    1550 2250
 	1    0    0    -1  
@@ -47,7 +47,7 @@ U 1 1 614F674A
 P 2100 2250
 F 0 "SW2" H 2100 2443 50  0000 C CNN
 F 1 "SW_Push" H 2100 2444 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 2100 2450 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 2100 2450 50  0001 C CNN
 F 3 "~" H 2100 2450 50  0001 C CNN
 	1    2100 2250
 	1    0    0    -1  
@@ -76,7 +76,7 @@ U 1 1 6150471E
 P 2650 2250
 F 0 "SW3" H 2650 2443 50  0000 C CNN
 F 1 "SW_Push" H 2650 2444 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 2650 2450 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 2650 2450 50  0001 C CNN
 F 3 "~" H 2650 2450 50  0001 C CNN
 	1    2650 2250
 	1    0    0    -1  
@@ -108,7 +108,7 @@ U 1 1 61529B2F
 P 1550 2850
 F 0 "SW7" H 1550 3043 50  0000 C CNN
 F 1 "SW_Push" H 1550 3044 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 1550 3050 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 1550 3050 50  0001 C CNN
 F 3 "~" H 1550 3050 50  0001 C CNN
 	1    1550 2850
 	1    0    0    -1  
@@ -132,7 +132,7 @@ U 1 1 61529B3D
 P 2100 2850
 F 0 "SW8" H 2100 3043 50  0000 C CNN
 F 1 "SW_Push" H 2100 3044 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 2100 3050 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 2100 3050 50  0001 C CNN
 F 3 "~" H 2100 3050 50  0001 C CNN
 	1    2100 2850
 	1    0    0    -1  
@@ -157,7 +157,7 @@ U 1 1 61529B4D
 P 2650 2850
 F 0 "SW9" H 2650 3043 50  0000 C CNN
 F 1 "SW_Push" H 2650 3044 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 2650 3050 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 2650 3050 50  0001 C CNN
 F 3 "~" H 2650 3050 50  0001 C CNN
 	1    2650 2850
 	1    0    0    -1  
@@ -192,7 +192,7 @@ U 1 1 6153203B
 P 1550 3450
 F 0 "SW14" H 1550 3643 50  0000 C CNN
 F 1 "SW_Push" H 1550 3644 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 1550 3650 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 1550 3650 50  0001 C CNN
 F 3 "~" H 1550 3650 50  0001 C CNN
 	1    1550 3450
 	1    0    0    -1  
@@ -216,7 +216,7 @@ U 1 1 61532049
 P 2100 3450
 F 0 "SW15" H 2100 3643 50  0000 C CNN
 F 1 "SW_Push" H 2100 3644 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 2100 3650 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 2100 3650 50  0001 C CNN
 F 3 "~" H 2100 3650 50  0001 C CNN
 	1    2100 3450
 	1    0    0    -1  
@@ -241,7 +241,7 @@ U 1 1 61532059
 P 2650 3450
 F 0 "SW16" H 2650 3643 50  0000 C CNN
 F 1 "SW_Push" H 2650 3644 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 2650 3650 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 2650 3650 50  0001 C CNN
 F 3 "~" H 2650 3650 50  0001 C CNN
 	1    2650 3450
 	1    0    0    -1  
@@ -264,7 +264,7 @@ U 1 1 61532068
 P 3200 3450
 F 0 "SW17" H 3200 3643 50  0000 C CNN
 F 1 "SW_Push" H 3200 3644 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 3200 3650 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 3200 3650 50  0001 C CNN
 F 3 "~" H 3200 3650 50  0001 C CNN
 	1    3200 3450
 	1    0    0    -1  
@@ -286,7 +286,7 @@ U 1 1 61532075
 P 4300 3450
 F 0 "SW18" H 4300 3643 50  0000 C CNN
 F 1 "SW_Push" H 4300 3644 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 4300 3650 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 4300 3650 50  0001 C CNN
 F 3 "~" H 4300 3650 50  0001 C CNN
 	1    4300 3450
 	1    0    0    -1  
@@ -308,7 +308,7 @@ U 1 1 61532082
 P 4850 3450
 F 0 "SW19" H 4850 3643 50  0000 C CNN
 F 1 "SW_Push" H 4850 3644 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 4850 3650 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 4850 3650 50  0001 C CNN
 F 3 "~" H 4850 3650 50  0001 C CNN
 	1    4850 3450
 	1    0    0    -1  
@@ -332,7 +332,7 @@ U 1 1 6153B5B1
 P 1550 4050
 F 0 "SW22" H 1550 4243 50  0000 C CNN
 F 1 "SW_Push" H 1550 4244 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 1550 4250 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 1550 4250 50  0001 C CNN
 F 3 "~" H 1550 4250 50  0001 C CNN
 	1    1550 4050
 	1    0    0    -1  
@@ -345,7 +345,7 @@ U 1 1 6153B5BF
 P 2100 4050
 F 0 "SW23" H 2100 4243 50  0000 C CNN
 F 1 "SW_Push" H 2100 4244 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 2100 4250 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 2100 4250 50  0001 C CNN
 F 3 "~" H 2100 4250 50  0001 C CNN
 	1    2100 4050
 	1    0    0    -1  
@@ -370,7 +370,7 @@ U 1 1 6153B5CF
 P 2650 4050
 F 0 "SW24" H 2650 4243 50  0000 C CNN
 F 1 "SW_Push" H 2650 4244 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 2650 4250 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 2650 4250 50  0001 C CNN
 F 3 "~" H 2650 4250 50  0001 C CNN
 	1    2650 4050
 	1    0    0    -1  
@@ -393,7 +393,7 @@ U 1 1 6153B5DE
 P 3200 4050
 F 0 "SW25" H 3200 4243 50  0000 C CNN
 F 1 "SW_Push" H 3200 4244 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 3200 4250 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 3200 4250 50  0001 C CNN
 F 3 "~" H 3200 4250 50  0001 C CNN
 	1    3200 4050
 	1    0    0    -1  
@@ -415,7 +415,7 @@ U 1 1 6153B5EB
 P 4300 4050
 F 0 "SW26" H 4300 4243 50  0000 C CNN
 F 1 "SW_Push" H 4300 4244 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 4300 4250 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 4300 4250 50  0001 C CNN
 F 3 "~" H 4300 4250 50  0001 C CNN
 	1    4300 4050
 	1    0    0    -1  
@@ -437,7 +437,7 @@ U 1 1 6153B5F8
 P 4850 4050
 F 0 "SW27" H 4850 4243 50  0000 C CNN
 F 1 "SW_Push" H 4850 4244 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 4850 4250 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 4850 4250 50  0001 C CNN
 F 3 "~" H 4850 4250 50  0001 C CNN
 	1    4850 4050
 	1    0    0    -1  
@@ -461,7 +461,7 @@ U 1 1 6154EE77
 P 1550 4650
 F 0 "SW30" H 1550 4843 50  0000 C CNN
 F 1 "SW_Push" H 1550 4844 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 1550 4850 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 1550 4850 50  0001 C CNN
 F 3 "~" H 1550 4850 50  0001 C CNN
 	1    1550 4650
 	1    0    0    -1  
@@ -488,7 +488,7 @@ U 1 1 6154EE95
 P 2650 4650
 F 0 "SW32" H 2650 4843 50  0000 C CNN
 F 1 "SW_Push" H 2650 4844 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 2650 4850 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 2650 4850 50  0001 C CNN
 F 3 "~" H 2650 4850 50  0001 C CNN
 	1    2650 4650
 	1    0    0    -1  
@@ -499,7 +499,7 @@ U 1 1 6154EEA4
 P 3200 4650
 F 0 "SW33" H 3200 4843 50  0000 C CNN
 F 1 "SW_Push" H 3200 4844 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 3200 4850 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 3200 4850 50  0001 C CNN
 F 3 "~" H 3200 4850 50  0001 C CNN
 	1    3200 4650
 	1    0    0    -1  
@@ -521,7 +521,7 @@ U 1 1 6154EEB1
 P 4300 4650
 F 0 "SW34" H 4300 4843 50  0000 C CNN
 F 1 "SW_Push" H 4300 4844 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 4300 4850 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 4300 4850 50  0001 C CNN
 F 3 "~" H 4300 4850 50  0001 C CNN
 	1    4300 4650
 	1    0    0    -1  
@@ -543,7 +543,7 @@ U 1 1 6154EEBE
 P 4850 4650
 F 0 "SW35" H 4850 4843 50  0000 C CNN
 F 1 "SW_Push" H 4850 4844 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 4850 4850 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 4850 4850 50  0001 C CNN
 F 3 "~" H 4850 4850 50  0001 C CNN
 	1    4850 4650
 	1    0    0    -1  
@@ -657,7 +657,7 @@ U 1 1 61529B76
 P 4850 2850
 F 0 "SW11" H 4850 3043 50  0000 C CNN
 F 1 "SW_Push" H 4850 3044 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 4850 3050 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 4850 3050 50  0001 C CNN
 F 3 "~" H 4850 3050 50  0001 C CNN
 	1    4850 2850
 	1    0    0    -1  
@@ -673,7 +673,7 @@ U 1 1 6150BF45
 P 4850 2250
 F 0 "SW4" H 4850 2443 50  0000 C CNN
 F 1 "SW_Push" H 4850 2444 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 4850 2450 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 4850 2450 50  0001 C CNN
 F 3 "~" H 4850 2450 50  0001 C CNN
 	1    4850 2250
 	1    0    0    -1  
@@ -711,7 +711,7 @@ U 1 1 61530C37
 P 2100 4650
 F 0 "SW31" H 2100 4843 50  0000 C CNN
 F 1 "SW_Push" H 2100 4844 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 2100 4850 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 2100 4850 50  0001 C CNN
 F 3 "~" H 2100 4850 50  0001 C CNN
 	1    2100 4650
 	1    0    0    -1  
@@ -765,7 +765,7 @@ U 1 1 619F3129
 P 5400 4650
 F 0 "SW36" H 5400 4843 50  0000 C CNN
 F 1 "SW_Push" H 5400 4844 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 5400 4850 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 5400 4850 50  0001 C CNN
 F 3 "~" H 5400 4850 50  0001 C CNN
 	1    5400 4650
 	1    0    0    -1  
@@ -819,7 +819,7 @@ U 1 1 619F3094
 P 5950 4650
 F 0 "SW37" H 5950 4843 50  0000 C CNN
 F 1 "SW_Push" H 5950 4844 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 5950 4850 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 5950 4850 50  0001 C CNN
 F 3 "~" H 5950 4850 50  0001 C CNN
 	1    5950 4650
 	1    0    0    -1  
@@ -841,7 +841,7 @@ U 1 1 619F3052
 P 5950 4050
 F 0 "SW29" H 5950 4243 50  0000 C CNN
 F 1 "SW_Push" H 5950 4244 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 5950 4250 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 5950 4250 50  0001 C CNN
 F 3 "~" H 5950 4250 50  0001 C CNN
 	1    5950 4050
 	1    0    0    -1  
@@ -863,7 +863,7 @@ U 1 1 619F3044
 P 5400 4050
 F 0 "SW28" H 5400 4243 50  0000 C CNN
 F 1 "SW_Push" H 5400 4244 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 5400 4250 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 5400 4250 50  0001 C CNN
 F 3 "~" H 5400 4250 50  0001 C CNN
 	1    5400 4050
 	1    0    0    -1  
@@ -885,7 +885,7 @@ U 1 1 619F3004
 P 5950 3450
 F 0 "SW21" H 5950 3643 50  0000 C CNN
 F 1 "SW_Push" H 5950 3644 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 5950 3650 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 5950 3650 50  0001 C CNN
 F 3 "~" H 5950 3650 50  0001 C CNN
 	1    5950 3450
 	1    0    0    -1  
@@ -907,7 +907,7 @@ U 1 1 619F2FF6
 P 5400 3450
 F 0 "SW20" H 5400 3643 50  0000 C CNN
 F 1 "SW_Push" H 5400 3644 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 5400 3650 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 5400 3650 50  0001 C CNN
 F 3 "~" H 5400 3650 50  0001 C CNN
 	1    5400 3450
 	1    0    0    -1  
@@ -929,7 +929,7 @@ U 1 1 619F2FC2
 P 5950 2850
 F 0 "SW13" H 5950 3043 50  0000 C CNN
 F 1 "SW_Push" H 5950 3044 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 5950 3050 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 5950 3050 50  0001 C CNN
 F 3 "~" H 5950 3050 50  0001 C CNN
 	1    5950 2850
 	1    0    0    -1  
@@ -951,7 +951,7 @@ U 1 1 619F2FB4
 P 5400 2850
 F 0 "SW12" H 5400 3043 50  0000 C CNN
 F 1 "SW_Push" H 5400 3044 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 5400 3050 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 5400 3050 50  0001 C CNN
 F 3 "~" H 5400 3050 50  0001 C CNN
 	1    5400 2850
 	1    0    0    -1  
@@ -977,7 +977,7 @@ U 1 1 619F2F7B
 P 5950 2250
 F 0 "SW6" H 5950 2443 50  0000 C CNN
 F 1 "SW_Push" H 5950 2444 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 5950 2450 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 5950 2450 50  0001 C CNN
 F 3 "~" H 5950 2450 50  0001 C CNN
 	1    5950 2250
 	1    0    0    -1  
@@ -1003,7 +1003,7 @@ U 1 1 619F2F6B
 P 5400 2250
 F 0 "SW5" H 5400 2443 50  0000 C CNN
 F 1 "SW_Push" H 5400 2444 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 5400 2450 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 5400 2450 50  0001 C CNN
 F 3 "~" H 5400 2450 50  0001 C CNN
 	1    5400 2250
 	1    0    0    -1  
@@ -1026,7 +1026,7 @@ U 1 1 61662475
 P 1550 5250
 F 0 "SW38" H 1550 5443 50  0000 C CNN
 F 1 "SW_Push" H 1550 5444 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 1550 5450 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 1550 5450 50  0001 C CNN
 F 3 "~" H 1550 5450 50  0001 C CNN
 	1    1550 5250
 	1    0    0    -1  
@@ -1053,7 +1053,7 @@ U 1 1 61662484
 P 2650 5250
 F 0 "SW40" H 2650 5443 50  0000 C CNN
 F 1 "SW_Push" H 2650 5444 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 2650 5450 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 2650 5450 50  0001 C CNN
 F 3 "~" H 2650 5450 50  0001 C CNN
 	1    2650 5250
 	1    0    0    -1  
@@ -1064,7 +1064,7 @@ U 1 1 6166248A
 P 3200 5250
 F 0 "SW41" H 3200 5443 50  0000 C CNN
 F 1 "SW_Push" H 3200 5444 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 3200 5450 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 3200 5450 50  0001 C CNN
 F 3 "~" H 3200 5450 50  0001 C CNN
 	1    3200 5250
 	1    0    0    -1  
@@ -1086,7 +1086,7 @@ U 1 1 61662496
 P 4300 5250
 F 0 "SW42" H 4300 5443 50  0000 C CNN
 F 1 "SW_Push" H 4300 5444 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 4300 5450 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 4300 5450 50  0001 C CNN
 F 3 "~" H 4300 5450 50  0001 C CNN
 	1    4300 5250
 	1    0    0    -1  
@@ -1108,7 +1108,7 @@ U 1 1 616624A2
 P 4850 5250
 F 0 "SW43" H 4850 5443 50  0000 C CNN
 F 1 "SW_Push" H 4850 5444 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 4850 5450 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 4850 5450 50  0001 C CNN
 F 3 "~" H 4850 5450 50  0001 C CNN
 	1    4850 5250
 	1    0    0    -1  
@@ -1157,7 +1157,7 @@ U 1 1 616624BE
 P 2100 5250
 F 0 "SW39" H 2100 5443 50  0000 C CNN
 F 1 "SW_Push" H 2100 5444 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 2100 5450 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 2100 5450 50  0001 C CNN
 F 3 "~" H 2100 5450 50  0001 C CNN
 	1    2100 5250
 	1    0    0    -1  
@@ -1201,7 +1201,7 @@ U 1 1 616624F5
 P 5400 5250
 F 0 "SW44" H 5400 5443 50  0000 C CNN
 F 1 "SW_Push" H 5400 5444 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 5400 5450 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 5400 5450 50  0001 C CNN
 F 3 "~" H 5400 5450 50  0001 C CNN
 	1    5400 5250
 	1    0    0    -1  
@@ -1227,7 +1227,7 @@ U 1 1 61662522
 P 5950 5250
 F 0 "SW45" H 5950 5443 50  0000 C CNN
 F 1 "SW_Push" H 5950 5444 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 5950 5450 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 5950 5450 50  0001 C CNN
 F 3 "~" H 5950 5450 50  0001 C CNN
 	1    5950 5250
 	1    0    0    -1  
@@ -1238,7 +1238,7 @@ U 1 1 61676B55
 P 1550 5850
 F 0 "SW46" H 1550 6043 50  0000 C CNN
 F 1 "SW_Push" H 1550 6044 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 1550 6050 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 1550 6050 50  0001 C CNN
 F 3 "~" H 1550 6050 50  0001 C CNN
 	1    1550 5850
 	1    0    0    -1  
@@ -1265,7 +1265,7 @@ U 1 1 61676B64
 P 2650 5850
 F 0 "SW48" H 2650 6043 50  0000 C CNN
 F 1 "SW_Push" H 2650 6044 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 2650 6050 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 2650 6050 50  0001 C CNN
 F 3 "~" H 2650 6050 50  0001 C CNN
 	1    2650 5850
 	1    0    0    -1  
@@ -1276,7 +1276,7 @@ U 1 1 61676B6A
 P 3200 5850
 F 0 "SW49" H 3200 6043 50  0000 C CNN
 F 1 "SW_Push" H 3200 6044 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 3200 6050 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 3200 6050 50  0001 C CNN
 F 3 "~" H 3200 6050 50  0001 C CNN
 	1    3200 5850
 	1    0    0    -1  
@@ -1298,7 +1298,7 @@ U 1 1 61676B76
 P 4300 5850
 F 0 "SW50" H 4300 6043 50  0000 C CNN
 F 1 "SW_Push" H 4300 6044 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 4300 6050 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 4300 6050 50  0001 C CNN
 F 3 "~" H 4300 6050 50  0001 C CNN
 	1    4300 5850
 	1    0    0    -1  
@@ -1320,7 +1320,7 @@ U 1 1 61676B82
 P 4850 5850
 F 0 "SW51" H 4850 6043 50  0000 C CNN
 F 1 "SW_Push" H 4850 6044 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 4850 6050 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 4850 6050 50  0001 C CNN
 F 3 "~" H 4850 6050 50  0001 C CNN
 	1    4850 5850
 	1    0    0    -1  
@@ -1369,7 +1369,7 @@ U 1 1 61676B9E
 P 2100 5850
 F 0 "SW47" H 2100 6043 50  0000 C CNN
 F 1 "SW_Push" H 2100 6044 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 2100 6050 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 2100 6050 50  0001 C CNN
 F 3 "~" H 2100 6050 50  0001 C CNN
 	1    2100 5850
 	1    0    0    -1  
@@ -1413,7 +1413,7 @@ U 1 1 61676BD5
 P 5400 5850
 F 0 "SW52" H 5400 6043 50  0000 C CNN
 F 1 "SW_Push" H 5400 6044 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 5400 6050 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 5400 6050 50  0001 C CNN
 F 3 "~" H 5400 6050 50  0001 C CNN
 	1    5400 5850
 	1    0    0    -1  
@@ -1439,7 +1439,7 @@ U 1 1 61676C02
 P 5950 5850
 F 0 "SW53" H 5950 6043 50  0000 C CNN
 F 1 "SW_Push" H 5950 6044 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 5950 6050 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 5950 6050 50  0001 C CNN
 F 3 "~" H 5950 6050 50  0001 C CNN
 	1    5950 5850
 	1    0    0    -1  
@@ -1450,7 +1450,7 @@ U 1 1 61696782
 P 1550 6450
 F 0 "SW54" H 1550 6643 50  0000 C CNN
 F 1 "SW_Push" H 1550 6644 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 1550 6650 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 1550 6650 50  0001 C CNN
 F 3 "~" H 1550 6650 50  0001 C CNN
 	1    1550 6450
 	1    0    0    -1  
@@ -1477,7 +1477,7 @@ U 1 1 61696791
 P 2650 6450
 F 0 "SW56" H 2650 6643 50  0000 C CNN
 F 1 "SW_Push" H 2650 6644 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 2650 6650 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 2650 6650 50  0001 C CNN
 F 3 "~" H 2650 6650 50  0001 C CNN
 	1    2650 6450
 	1    0    0    -1  
@@ -1488,7 +1488,7 @@ U 1 1 61696797
 P 3200 6450
 F 0 "SW57" H 3200 6643 50  0000 C CNN
 F 1 "SW_Push" H 3200 6644 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 3200 6650 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 3200 6650 50  0001 C CNN
 F 3 "~" H 3200 6650 50  0001 C CNN
 	1    3200 6450
 	1    0    0    -1  
@@ -1499,7 +1499,7 @@ U 1 1 616967AF
 P 4850 6450
 F 0 "SW59" H 4850 6643 50  0000 C CNN
 F 1 "SW_Push" H 4850 6644 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 4850 6650 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 4850 6650 50  0001 C CNN
 F 3 "~" H 4850 6650 50  0001 C CNN
 	1    4850 6450
 	1    0    0    -1  
@@ -1540,7 +1540,7 @@ U 1 1 616967CB
 P 2100 6450
 F 0 "SW55" H 2100 6643 50  0000 C CNN
 F 1 "SW_Push" H 2100 6644 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 2100 6650 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 2100 6650 50  0001 C CNN
 F 3 "~" H 2100 6650 50  0001 C CNN
 	1    2100 6450
 	1    0    0    -1  
@@ -1584,7 +1584,7 @@ U 1 1 61696802
 P 5400 6450
 F 0 "SW60" H 5400 6643 50  0000 C CNN
 F 1 "SW_Push" H 5400 6644 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 5400 6650 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 5400 6650 50  0001 C CNN
 F 3 "~" H 5400 6650 50  0001 C CNN
 	1    5400 6450
 	1    0    0    -1  
@@ -1610,7 +1610,7 @@ U 1 1 6169682F
 P 5950 6450
 F 0 "SW61" H 5950 6643 50  0000 C CNN
 F 1 "SW_Push" H 5950 6644 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 5950 6650 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 5950 6650 50  0001 C CNN
 F 3 "~" H 5950 6650 50  0001 C CNN
 	1    5950 6450
 	1    0    0    -1  
@@ -1712,7 +1712,7 @@ U 1 1 61D55066
 P 4300 6450
 F 0 "SW58" H 4300 6643 50  0000 C CNN
 F 1 "SW_Push" H 4300 6644 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 4300 6650 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional" H 4300 6650 50  0001 C CNN
 F 3 "~" H 4300 6650 50  0001 C CNN
 	1    4300 6450
 	1    0    0    -1  
