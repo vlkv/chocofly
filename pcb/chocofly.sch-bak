@@ -2123,10 +2123,10 @@ Wire Wire Line
 Wire Wire Line
 	4300 750  4300 2850
 $Comp
-L Device:Jumper_NO_Small JP?
+L Device:Jumper_NO_Small JP4
 U 1 1 63EC2670
 P 4900 1150
-F 0 "JP?" H 4950 1200 50  0000 C CNN
+F 0 "JP4" H 4950 1200 50  0000 C CNN
 F 1 "Jumper_NC_Small" H 4900 1271 50  0001 C CNN
 F 2 "footprints:avalanche_Jumper" H 4900 1150 50  0001 C CNN
 F 3 "~" H 4900 1150 50  0001 C CNN
@@ -2134,10 +2134,10 @@ F 3 "~" H 4900 1150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:Jumper_NO_Small JP?
+L Device:Jumper_NO_Small JP3
 U 1 1 63EC2676
 P 4900 1050
-F 0 "JP?" H 4950 1100 50  0000 C CNN
+F 0 "JP3" H 4950 1100 50  0000 C CNN
 F 1 "Jumper_NC_Small" H 4900 1171 50  0001 C CNN
 F 2 "footprints:avalanche_Jumper" H 4900 1050 50  0001 C CNN
 F 3 "~" H 4900 1050 50  0001 C CNN

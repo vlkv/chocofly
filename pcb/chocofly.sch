@@ -2065,8 +2065,6 @@ GND
 Wire Wire Line
 	5300 900  5300 850 
 NoConn ~ 1750 1650
-Wire Wire Line
-	4750 1250 5050 1250
 $Comp
 L Device:Jumper_NO_Small JP2
 U 1 1 63D764A1
@@ -2076,7 +2074,7 @@ F 1 "Jumper_NC_Small" H 2800 971 50  0001 C CNN
 F 2 "footprints:avalanche_Jumper" H 2800 850 50  0001 C CNN
 F 3 "~" H 2800 850 50  0001 C CNN
 	1    2800 850 
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:Jumper_NO_Small JP1
@@ -2087,7 +2085,7 @@ F 1 "Jumper_NC_Small" H 2800 871 50  0001 C CNN
 F 2 "footprints:avalanche_Jumper" H 2800 750 50  0001 C CNN
 F 3 "~" H 2800 750 50  0001 C CNN
 	1    2800 750 
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Diode:1N4148 D62
@@ -2131,7 +2129,7 @@ F 1 "Jumper_NC_Small" H 4900 1271 50  0001 C CNN
 F 2 "footprints:avalanche_Jumper" H 4900 1150 50  0001 C CNN
 F 3 "~" H 4900 1150 50  0001 C CNN
 	1    4900 1150
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:Jumper_NO_Small JP3
@@ -2142,7 +2140,7 @@ F 1 "Jumper_NC_Small" H 4900 1171 50  0001 C CNN
 F 2 "footprints:avalanche_Jumper" H 4900 1050 50  0001 C CNN
 F 3 "~" H 4900 1050 50  0001 C CNN
 	1    4900 1050
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 Wire Wire Line
 	5050 1050 5000 1050
@@ -2153,4 +2151,6 @@ Wire Wire Line
 Wire Wire Line
 	5050 1150 5000 1150
 NoConn ~ 5050 1350
+Wire Wire Line
+	4750 1250 5050 1250
 $EndSCHEMATC
