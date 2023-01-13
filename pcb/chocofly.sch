@@ -1672,14 +1672,14 @@ Connection ~ 2850 5850
 Connection ~ 3400 5850
 Wire Wire Line
 	3400 1950 3400 2850
-Text GLabel 2900 850  0    50   Input ~ 0
+Text GLabel 2700 850  0    50   Input ~ 0
 encB
-Text GLabel 2900 750  0    50   Input ~ 0
+Text GLabel 2700 750  0    50   Input ~ 0
 encA
 Wire Wire Line
 	3000 2450 3000 2850
 Wire Wire Line
-	4500 1950 4500 3450
+	4500 1950 4500 2850
 Wire Wire Line
 	2450 2550 4650 2550
 Connection ~ 2450 2550
@@ -1689,7 +1689,7 @@ Wire Wire Line
 Connection ~ 3000 3150
 Connection ~ 4650 3150
 Wire Wire Line
-	3000 3150 4650 3150
+	3000 3150 4100 3150
 Wire Wire Line
 	3000 6750 4100 6750
 Wire Wire Line
@@ -2040,13 +2040,117 @@ F 3 "~" H 8400 2150 50  0001 C CNN
 $EndComp
 NoConn ~ 3200 1050
 Wire Wire Line
-	3900 550  3900 2450
-Wire Wire Line
-	4000 600  4000 2850
-Wire Wire Line
 	2900 850  3200 850 
 Wire Wire Line
 	2900 950  3200 950 
 Wire Wire Line
 	2900 750  3200 750 
+Text GLabel 4750 1150 0    50   Input ~ 0
+encB
+Text GLabel 4750 1050 0    50   Input ~ 0
+encA
+$Comp
+L evqwgd001:EVQWGD001 ENC2
+U 1 1 63C5D79B
+P 5400 1150
+F 0 "ENC2" H 5678 1204 50  0000 L CNN
+F 1 "EVQWGD001" H 5678 1113 50  0000 L CNN
+F 2 "footprints:EVQWGD001" H 5400 1150 50  0001 C CNN
+F 3 "" H 5400 1150 50  0001 C CNN
+	1    5400 1150
+	1    0    0    -1  
+$EndComp
+Text GLabel 4750 1250 0    50   Input ~ 0
+GND
+Wire Wire Line
+	5300 900  5300 850 
+NoConn ~ 1750 1650
+Wire Wire Line
+	4750 1250 5050 1250
+$Comp
+L Device:Jumper_NO_Small JP2
+U 1 1 63D764A1
+P 2800 850
+F 0 "JP2" H 2850 900 50  0000 C CNN
+F 1 "Jumper_NC_Small" H 2800 971 50  0001 C CNN
+F 2 "footprints:avalanche_Jumper" H 2800 850 50  0001 C CNN
+F 3 "~" H 2800 850 50  0001 C CNN
+	1    2800 850 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Jumper_NO_Small JP1
+U 1 1 63DA7A93
+P 2800 750
+F 0 "JP1" H 2850 800 50  0000 C CNN
+F 1 "Jumper_NC_Small" H 2800 871 50  0001 C CNN
+F 2 "footprints:avalanche_Jumper" H 2800 750 50  0001 C CNN
+F 3 "~" H 2800 750 50  0001 C CNN
+	1    2800 750 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D62
+U 1 1 63DE32C4
+P 4100 3000
+F 0 "D62" V 4100 2920 50  0000 R CNN
+F 1 "1N4148" H 4100 3126 50  0001 C CNN
+F 2 "footprints:diode_TH_SMD" H 4100 2825 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4100 3000 50  0001 C CNN
+	1    4100 3000
+	0    -1   -1   0   
+$EndComp
+Connection ~ 4100 3150
+Wire Wire Line
+	4100 3150 4650 3150
+Wire Wire Line
+	3900 550  3900 2450
+Wire Wire Line
+	4000 600  4000 2850
+Wire Wire Line
+	4300 2850 4500 2850
+Connection ~ 4500 2850
+Wire Wire Line
+	4500 2850 4500 3450
+Wire Wire Line
+	5300 850  4100 850 
+Wire Wire Line
+	4100 850  4100 2850
+Wire Wire Line
+	5400 900  5400 750 
+Wire Wire Line
+	5400 750  4300 750 
+Wire Wire Line
+	4300 750  4300 2850
+$Comp
+L Device:Jumper_NO_Small JP4
+U 1 1 63EC2670
+P 4900 1150
+F 0 "JP4" H 4950 1200 50  0000 C CNN
+F 1 "Jumper_NC_Small" H 4900 1271 50  0001 C CNN
+F 2 "footprints:avalanche_Jumper" H 4900 1150 50  0001 C CNN
+F 3 "~" H 4900 1150 50  0001 C CNN
+	1    4900 1150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Jumper_NO_Small JP3
+U 1 1 63EC2676
+P 4900 1050
+F 0 "JP3" H 4950 1100 50  0000 C CNN
+F 1 "Jumper_NC_Small" H 4900 1171 50  0001 C CNN
+F 2 "footprints:avalanche_Jumper" H 4900 1050 50  0001 C CNN
+F 3 "~" H 4900 1050 50  0001 C CNN
+	1    4900 1050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5050 1050 5000 1050
+Wire Wire Line
+	4800 1050 4750 1050
+Wire Wire Line
+	4800 1150 4750 1150
+Wire Wire Line
+	5050 1150 5000 1150
+NoConn ~ 5050 1350
 $EndSCHEMATC
