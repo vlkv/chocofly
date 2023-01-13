@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 109)
+    (drawings 118)
     (tracks 1831)
     (zones 0)
     (modules 142)
@@ -9357,6 +9357,15 @@
     (pad 1 np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask))
   )
 
+  (gr_line (start 33.340543 374.072949) (end 35.01207 373.763163) (layer Edge.Cuts) (width 0.05) (tstamp 63C24648))
+  (gr_line (start -31.642843 374.161933) (end -33.340529 374.072956) (layer Edge.Cuts) (width 0.05) (tstamp 63C24647))
+  (gr_line (start -35.012059 373.76316) (end -160.881982 311.952978) (layer Edge.Cuts) (width 0.05) (tstamp 63C24646))
+  (gr_arc (start -152.45 295.824067) (end -170.65 295.824075) (angle -62.4) (layer Edge.Cuts) (width 0.05) (tstamp 63C24645))
+  (gr_line (start -33.340529 374.072956) (end -35.012059 373.76316) (layer Edge.Cuts) (width 0.05) (tstamp 63C24644))
+  (gr_arc (start 152.45001 295.824066) (end 170.650008 295.824067) (angle 62.4) (layer Edge.Cuts) (width 0.05) (tstamp 63C24643))
+  (gr_line (start 35.01207 373.763163) (end 160.881991 311.952971) (layer Edge.Cuts) (width 0.05) (tstamp 63C24642))
+  (gr_line (start 31.642848 374.161939) (end 33.340543 374.072949) (layer Edge.Cuts) (width 0.05) (tstamp 63C24641))
+  (gr_line (start 31.642848 374.161939) (end -31.642843 374.161933) (layer Edge.Cuts) (width 0.05) (tstamp 63C24640))
   (gr_circle (center 0 292) (end 1.000004 292.000003) (layer Cmts.User) (width 0.15) (tstamp 63C24503))
   (gr_line (start -158.5 292) (end 0 292) (layer Edge.Cuts) (width 0.05) (tstamp 63C24502))
   (gr_line (start 0 292) (end 158.5 292) (layer Edge.Cuts) (width 0.05) (tstamp 63C24501))

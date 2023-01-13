@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 101)
+    (drawings 109)
     (tracks 1831)
     (zones 0)
     (modules 142)
@@ -269,7 +269,7 @@
   )
 
   (module footprints:EVQWGD001 (layer F.Cu) (tedit 63B9AB92) (tstamp 615C52C4)
-    (at -61.079554 237.376848 139.5)
+    (at -29.079554 237.376848 139.5)
     (path /615A9AC4)
     (fp_text reference ENC1 (at 0 0.5 319.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -327,7 +327,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 63C14E9C)
-    (at 127.145274 222.84193 9.5)
+    (at 125.645274 222.84193 9.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /6169682F)
@@ -417,7 +417,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 617AB7EC)
-    (at 90.145708 224.116012 13.5)
+    (at 88.645708 224.116012 13.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /61696802)
@@ -507,7 +507,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 617ABA50)
-    (at 56.190895 236.89571 13.5)
+    (at 54.690895 236.89571 13.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /616967AF)
@@ -597,7 +597,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 615CAF1A)
-    (at 86.418375 245.301497 13.5)
+    (at 84.918375 245.301497 13.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /61D55066)
@@ -687,7 +687,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 63C17610)
-    (at -118.323684 245.310835 346.5)
+    (at -86.323684 245.310835 346.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /61696797)
@@ -777,7 +777,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 6176A3DA)
-    (at -88.135099 236.89571 346.5)
+    (at -56.135099 236.89571 346.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /61696791)
@@ -867,7 +867,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 6176A2F6)
-    (at -122.089912 224.116012 346.5)
+    (at -90.089912 224.116012 346.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /616967CB)
@@ -957,7 +957,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 63BB0AEA)
-    (at -159.08869 222.838599 350.5)
+    (at -127.08869 222.838599 350.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /61696782)
@@ -1047,7 +1047,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 63C14908)
-    (at 144.898415 219.871074 9.5)
+    (at 143.398415 219.871074 9.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /61676C02)
@@ -1137,7 +1137,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 617AB324)
-    (at 108.23198 222.34492 13.5)
+    (at 106.73198 222.34492 13.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /61676BD5)
@@ -1227,7 +1227,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 617ABB1C)
-    (at 73.226663 230.748954 13.5)
+    (at 71.726663 230.748954 13.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /61676B82)
@@ -1317,7 +1317,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 615CAAD3)
-    (at 67.752107 252.18582 27)
+    (at 66.252107 252.18582 27)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /61676B76)
@@ -1407,7 +1407,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 63C176DC)
-    (at -99.681387 252.189453 333)
+    (at -67.681387 252.189453 333)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /61676B6A)
@@ -1497,7 +1497,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 617697F8)
-    (at -105.170867 230.748953 346.5)
+    (at -73.170867 230.748953 346.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /61676B64)
@@ -1587,7 +1587,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 6176A035)
-    (at -140.176184 222.34492 346.5)
+    (at -108.176184 222.34492 346.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /61676B9E)
@@ -1677,7 +1677,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 63BB0FB2)
-    (at -176.841831 219.867741 350.5)
+    (at -144.841831 219.867741 350.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /61676B55)
@@ -1767,7 +1767,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 63C14DD0)
-    (at 124.339466 206.075074 9.5)
+    (at 122.839466 206.075074 9.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /61662522)
@@ -1857,7 +1857,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 617AB8B8)
-    (at 86.177137 207.585724 13.5)
+    (at 84.677137 207.585724 13.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /616624F5)
@@ -1947,7 +1947,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 617AB4BC)
-    (at 52.222324 220.365421 13.5)
+    (at 50.722324 220.365421 13.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /616624A2)
@@ -2037,7 +2037,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 615C5D7E)
-    (at 51.222658 263.227362 40.5)
+    (at 49.722658 263.227362 40.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /61662496)
@@ -2127,7 +2127,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 63C17544)
-    (at -83.160787 263.230651 319.5)
+    (at -51.160787 263.230651 319.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /6166248A)
@@ -2217,7 +2217,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 61769630)
-    (at -84.166528 220.365421 346.5)
+    (at -52.166528 220.365421 346.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /61662484)
@@ -2307,7 +2307,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 6176A4BE)
-    (at -118.121341 207.585723 346.5)
+    (at -86.121341 207.585723 346.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /616624BE)
@@ -2397,7 +2397,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 63BB0EE6)
-    (at -156.28288 206.071743 350.5)
+    (at -124.28288 206.071743 350.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /61662475)
@@ -2487,7 +2487,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 63C14D04)
-    (at 142.092606 203.104218 9.5)
+    (at 140.592606 203.104218 9.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /619F3094)
@@ -2577,7 +2577,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 617AAFF4)
-    (at 104.269547 205.8402 13.5)
+    (at 102.769547 205.8402 13.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /619F3129)
@@ -2667,7 +2667,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 617AB588)
-    (at 69.258092 214.218665 13.5)
+    (at 67.758092 214.218665 13.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /6154EEBE)
@@ -2757,7 +2757,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 615CA410)
-    (at 37.727644 277.823067 54)
+    (at 36.227644 277.823067 54)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /6154EEB1)
@@ -2847,7 +2847,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 63C177A8)
-    (at -69.670499 277.816398 306)
+    (at -37.670499 277.816398 306)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /6154EEA4)
@@ -2937,7 +2937,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 6176928B)
-    (at -101.202295 214.218665 346.5)
+    (at -69.202295 214.218665 346.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /6154EE95)
@@ -3027,7 +3027,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 61769C7B)
-    (at -136.252222 206.000443 346.5)
+    (at -104.252222 206.000443 346.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /61530C37)
@@ -3117,7 +3117,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 63BB0E1A)
-    (at -174.036021 203.100886 350.5)
+    (at -142.036021 203.100886 350.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /6154EE77)
@@ -3207,7 +3207,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 63C14C38)
-    (at 121.533656 189.308219 9.5)
+    (at 120.033656 189.308219 9.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /619F3052)
@@ -3297,7 +3297,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 617ABCB4)
-    (at 82.208565 191.055435 13.5)
+    (at 80.708565 191.055435 13.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /619F3044)
@@ -3387,7 +3387,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 617ABF18)
-    (at 48.253752 203.835133 13.5)
+    (at 46.753752 203.835133 13.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /6153B5F8)
@@ -3477,7 +3477,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 615C9C78)
-    (at 40.182042 250.300461 40.5)
+    (at 38.682042 250.300461 40.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /6153B5EB)
@@ -3567,7 +3567,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 63C17478)
-    (at -72.120171 250.30375 319.5)
+    (at -40.120171 250.30375 319.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /6153B5DE)
@@ -3657,7 +3657,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 61769E43)
-    (at -80.197956 203.835132 346.5)
+    (at -48.197956 203.835132 346.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /6153B5CF)
@@ -3747,7 +3747,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 6176954C)
-    (at -114.152769 191.055435 346.5)
+    (at -82.152769 191.055435 346.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /6153B5BF)
@@ -3837,7 +3837,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 63BB0D4E)
-    (at -153.477071 189.304888 350.5)
+    (at -121.477071 189.304888 350.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /6153B5B1)
@@ -3927,7 +3927,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 63C14B6C)
-    (at 139.286797 186.337363 9.5)
+    (at 137.786797 186.337363 9.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /619F3004)
@@ -4017,7 +4017,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 617ABD80)
-    (at 100.294837 189.284343 13.5)
+    (at 98.794837 189.284343 13.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /619F2FF6)
@@ -4107,7 +4107,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 617ABE4C)
-    (at 65.28952 197.688376 13.5)
+    (at 63.78952 197.688376 13.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /61532082)
@@ -4197,7 +4197,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 615C956A)
-    (at 23.974354 267.830718 54)
+    (at 22.474354 267.830718 54)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /61532075)
@@ -4287,7 +4287,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 63C173AC)
-    (at -55.917209 267.824049 306)
+    (at -23.917209 267.824049 306)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /61532068)
@@ -4377,7 +4377,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 61769468)
-    (at -97.233724 197.688376 346.5)
+    (at -65.233724 197.688376 346.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /61532059)
@@ -4467,7 +4467,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 6176A212)
-    (at -132.239041 189.284343 346.5)
+    (at -100.239041 189.284343 346.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /61532049)
@@ -4557,7 +4557,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 63BB0C82)
-    (at -171.230212 186.334031 350.5)
+    (at -139.230212 186.334031 350.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /6153203B)
@@ -4647,7 +4647,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 63C14AA0)
-    (at 118.727847 172.541365 9.5)
+    (at 117.227847 172.541365 9.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /619F2FC2)
@@ -4737,7 +4737,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 617AB18C)
-    (at 78.239994 174.525146 13.5)
+    (at 76.739994 174.525146 13.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /619F2FB4)
@@ -4827,7 +4827,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 617ABFE4)
-    (at 44.285181 187.304844 13.5)
+    (at 42.785181 187.304844 13.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /61529B76)
@@ -4917,7 +4917,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 6176A68C)
-    (at -76.229385 187.304844 346.5)
+    (at -44.229385 187.304844 346.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /61529B4D)
@@ -5007,7 +5007,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 61769D5F)
-    (at -110.184198 174.525146 346.5)
+    (at -78.184198 174.525146 346.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /61529B3D)
@@ -5097,7 +5097,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 63BB0BB6)
-    (at -150.671262 172.538033 350.5)
+    (at -118.671262 172.538033 350.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /61529B2F)
@@ -5187,7 +5187,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 63C149D4)
-    (at 136.480988 169.570507 9.5)
+    (at 134.980988 169.570507 9.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /619F2F7B)
@@ -5277,7 +5277,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 617AC0B0)
-    (at 96.326266 172.754055 13.5)
+    (at 94.826266 172.754055 13.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /619F2F6B)
@@ -5367,7 +5367,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 617ACDF4)
-    (at 61.320949 181.158088 13.5)
+    (at 59.820949 181.158088 13.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /6150BF45)
@@ -5457,7 +5457,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 61769384)
-    (at -93.265153 181.158087 346.5)
+    (at -61.265153 181.158087 346.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /6150471E)
@@ -5547,7 +5547,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 61769B97)
-    (at -128.27047 172.754054 346.5)
+    (at -96.27047 172.754054 346.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /614F674A)
@@ -5637,7 +5637,7 @@
   )
 
   (module footprints:Kailh_socket_PG1350_optional_mkultra (layer F.Cu) (tedit 63B919C4) (tstamp 63BB0A1E)
-    (at -168.424403 169.567176 350.5)
+    (at -136.424403 169.567176 350.5)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
     (tags kailh,choc)
     (path /614F025C)
@@ -5967,7 +5967,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 63C17334)
-    (at -53.095292 244.196053 229.5)
+    (at -21.095292 244.196053 229.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /61529B62)
@@ -6017,7 +6017,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 615C88AC)
-    (at 96.220208 247.576154 283.5)
+    (at 94.720208 247.576154 283.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /61D5506C)
@@ -6067,7 +6067,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 615C885E)
-    (at 77.814123 252.109435 297)
+    (at 76.314123 252.109435 297)
     (descr "Resitance 3 pas")
     (tags R)
     (path /61676B7C)
@@ -6117,7 +6117,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 615C8810)
-    (at 60.988827 260.804157 310.5)
+    (at 59.488827 260.804157 310.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /6166249C)
@@ -6167,7 +6167,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 615C87C2)
-    (at 46.658287 273.186948 324)
+    (at 45.158287 273.186948 324)
     (descr "Resitance 3 pas")
     (tags R)
     (path /6154EEB7)
@@ -6217,7 +6217,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 617ACC02)
-    (at 49.948211 247.877256 310.5)
+    (at 48.448211 247.877256 310.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /6153B5F1)
@@ -6267,7 +6267,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 615C8726)
-    (at 32.904998 263.194599 324)
+    (at 31.404998 263.194599 324)
     (descr "Resitance 3 pas")
     (tags R)
     (path /6153207B)
@@ -6317,7 +6317,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 63C172E6)
-    (at -54.267719 277.750235 216)
+    (at -22.267719 277.750235 216)
     (descr "Resitance 3 pas")
     (tags R)
     (path /6153206E)
@@ -6367,7 +6367,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 63C17298)
-    (at -68.199033 259.570609 229.5)
+    (at -36.199033 259.570609 229.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /6153B5E4)
@@ -6417,7 +6417,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 63C1724A)
-    (at -68.021007 287.742585 216)
+    (at -36.021007 287.742585 216)
     (descr "Resitance 3 pas")
     (tags R)
     (path /6154EEAA)
@@ -6467,7 +6467,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 63C171FC)
-    (at -79.239649 272.49751 229.5)
+    (at -47.239649 272.49751 229.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /61662490)
@@ -6517,7 +6517,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 63C171AE)
-    (at -93.705286 260.284897 243)
+    (at -61.705286 260.284897 243)
     (descr "Resitance 3 pas")
     (tags R)
     (path /61676B70)
@@ -6567,7 +6567,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 63C17160)
-    (at -110.622859 251.787508 256.5)
+    (at -78.622859 251.787508 256.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /6169679D)
@@ -6617,7 +6617,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 63C14890)
-    (at 154.517701 222.823931 279.5)
+    (at 153.017701 222.823931 279.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /61676BFC)
@@ -6667,7 +6667,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 63C14842)
-    (at 136.764559 225.794786 279.5)
+    (at 135.264559 225.794786 279.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /61696829)
@@ -6717,7 +6717,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 63BC91D7)
-    (at 118.033813 224.619577 283.5)
+    (at 116.533813 224.619577 283.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /61676BCE)
@@ -6767,7 +6767,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 617AC50C)
-    (at 99.947541 226.390669 283.5)
+    (at 98.447541 226.390669 283.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /616967FB)
@@ -6817,7 +6817,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 617AC176)
-    (at 83.028496 233.02361 283.5)
+    (at 81.528496 233.02361 283.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /61676B88)
@@ -6867,7 +6867,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 617AC362)
-    (at 65.992728 239.170366 283.5)
+    (at 64.492728 239.170366 283.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /616967B5)
@@ -6917,7 +6917,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 61766CAA)
-    (at -80.677366 243.314021 256.5)
+    (at -48.677366 243.314021 256.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /616967C5)
@@ -6967,7 +6967,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 61768372)
-    (at -97.713134 237.167265 256.5)
+    (at -65.713134 237.167265 256.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /61676B98)
@@ -7017,7 +7017,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 617688E2)
-    (at -114.389087 230.592685 256.5)
+    (at -82.389087 230.592685 256.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /616967D2)
@@ -7067,7 +7067,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 6176867B)
-    (at -132.475359 228.821593 256.5)
+    (at -100.475359 228.821593 256.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /61676BA5)
@@ -7117,7 +7117,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 63BB09A6)
-    (at -150.954833 228.762312 260.5)
+    (at -118.954833 228.762312 260.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /61696788)
@@ -7167,7 +7167,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 63BB0958)
-    (at -168.707974 225.791455 260.5)
+    (at -136.707974 225.791455 260.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /61676B5B)
@@ -7217,7 +7217,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 63C147F4)
-    (at 151.711891 206.057075 279.5)
+    (at 150.211891 206.057075 279.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F309A)
@@ -7267,7 +7267,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 63C147A6)
-    (at 133.95875 209.027931 279.5)
+    (at 132.45875 209.027931 279.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /6166251C)
@@ -7317,7 +7317,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 617AC296)
-    (at 114.065242 208.089288 283.5)
+    (at 112.565242 208.089288 283.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F3132)
@@ -7367,7 +7367,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 617AC1E8)
-    (at 95.97897 209.86038 283.5)
+    (at 94.47897 209.86038 283.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /616624EE)
@@ -7417,7 +7417,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 617AC64A)
-    (at 79.059925 216.493321 283.5)
+    (at 77.559925 216.493321 283.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /6154EEC4)
@@ -7467,7 +7467,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 617ACA58)
-    (at 62.024157 222.640078 283.5)
+    (at 60.524157 222.640078 283.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /616624A8)
@@ -7517,7 +7517,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 61768936)
-    (at -76.708795 226.783733 256.5)
+    (at -44.708795 226.783733 256.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /616624B8)
@@ -7567,7 +7567,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 617677F6)
-    (at -93.50147 220.695338 256.5)
+    (at -61.50147 220.695338 256.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /6154EE9B)
@@ -7617,7 +7617,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 61768783)
-    (at -110.420515 214.062396 256.5)
+    (at -78.420515 214.062396 256.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /616624C5)
@@ -7667,7 +7667,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 61766A73)
-    (at -128.506787 212.291304 256.5)
+    (at -96.506787 212.291304 256.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /61530C3E)
@@ -7717,7 +7717,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 63BB090A)
-    (at -148.149024 211.995457 260.5)
+    (at -116.149024 211.995457 260.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /6166247B)
@@ -7767,7 +7767,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 63BB08BC)
-    (at -165.902165 209.0246 260.5)
+    (at -133.902165 209.0246 260.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /6154EE7D)
@@ -7817,7 +7817,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 63C14758)
-    (at 148.906082 189.29022 279.5)
+    (at 147.406082 189.29022 279.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F300A)
@@ -7867,7 +7867,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 63C1470A)
-    (at 131.152941 192.261076 279.5)
+    (at 129.652941 192.261076 279.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F3058)
@@ -7917,7 +7917,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 617AC236)
-    (at 110.096671 191.559 283.5)
+    (at 108.596671 191.559 283.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F2FFC)
@@ -7967,7 +7967,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 617ACE96)
-    (at 92.010399 193.330091 283.5)
+    (at 90.510399 193.330091 283.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F304A)
@@ -8017,7 +8017,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 617ACD5E)
-    (at 75.091354 199.963033 283.5)
+    (at 73.591354 199.963033 283.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /61532088)
@@ -8067,7 +8067,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 617AC73A)
-    (at 58.055586 206.109789 283.5)
+    (at 56.555586 206.109789 283.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /6153B5FE)
@@ -8117,7 +8117,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 617686E4)
-    (at -72.740224 210.253444 256.5)
+    (at -40.740224 210.253444 256.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /6153B5D5)
@@ -8167,7 +8167,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 61766A22)
-    (at -89.532899 204.165049 256.5)
+    (at -57.532899 204.165049 256.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /6153205F)
@@ -8217,7 +8217,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 61766CFE)
-    (at -106.451944 197.532108 256.5)
+    (at -74.451944 197.532108 256.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /6153B5C5)
@@ -8267,7 +8267,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 61766D4C)
-    (at -124.538216 195.761016 256.5)
+    (at -92.538216 195.761016 256.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /6153204F)
@@ -8317,7 +8317,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 63BB086E)
-    (at -145.343214 195.228602 260.5)
+    (at -113.343214 195.228602 260.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /6153B5B7)
@@ -8367,7 +8367,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 63BB0820)
-    (at -163.096355 192.257744 260.5)
+    (at -131.096355 192.257744 260.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /61532041)
@@ -8417,7 +8417,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 63C146BC)
-    (at 146.100273 172.523365 279.5)
+    (at 144.600273 172.523365 279.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F2F81)
@@ -8467,7 +8467,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 63C1466E)
-    (at 128.335224 175.423069 279.5)
+    (at 126.835224 175.423069 279.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F2FC8)
@@ -8517,7 +8517,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 617ACC68)
-    (at 106.1281 175.028711 283.5)
+    (at 104.6281 175.028711 283.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F2F71)
@@ -8567,7 +8567,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 617AC803)
-    (at 88.041828 176.799803 283.5)
+    (at 86.541828 176.799803 283.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /619F2FBA)
@@ -8617,7 +8617,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 617AC8EA)
-    (at 71.122783 183.432744 283.5)
+    (at 69.622783 183.432744 283.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /6150BF4B)
@@ -8667,7 +8667,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 617AC938)
-    (at 54.087015 189.5795 283.5)
+    (at 52.587015 189.5795 283.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /61529B7C)
@@ -8717,7 +8717,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 617681A4)
-    (at -68.52856 193.781517 256.5)
+    (at -36.52856 193.781517 256.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /61529B53)
@@ -8767,7 +8767,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 617681F2)
-    (at -85.564328 187.63476 256.5)
+    (at -53.564328 187.63476 256.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /61504724)
@@ -8817,7 +8817,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 61768240)
-    (at -102.408569 180.690236 256.5)
+    (at -70.408569 180.690236 256.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /61529B43)
@@ -8867,7 +8867,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 61767949)
-    (at -120.569645 179.230727 256.5)
+    (at -88.569645 179.230727 256.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614F6750)
@@ -8917,7 +8917,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 63BB07D2)
-    (at -142.537405 178.461746 260.5)
+    (at -110.537405 178.461746 260.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /61529B35)
@@ -8967,7 +8967,7 @@
   )
 
   (module footprints:diode_TH_SMD (layer F.Cu) (tedit 607C6D7D) (tstamp 63BB0784)
-    (at -160.290546 175.49089 260.5)
+    (at -128.290546 175.49089 260.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614F0CC8)
@@ -9357,10 +9357,18 @@
     (pad 1 np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask))
   )
 
-  (gr_line (start 108.420679 165.644225) (end 103.09331 162.387902) (layer Dwgs.User) (width 0.15) (tstamp 63C13D21))
-  (gr_line (start -135.066685 162.380898) (end -140.394054 165.637221) (layer Dwgs.User) (width 0.15))
+  (gr_circle (center 0 292) (end 1.000004 292.000003) (layer Cmts.User) (width 0.15) (tstamp 63C24503))
+  (gr_line (start -158.5 292) (end 0 292) (layer Edge.Cuts) (width 0.05) (tstamp 63C24502))
+  (gr_line (start 0 292) (end 158.5 292) (layer Edge.Cuts) (width 0.05) (tstamp 63C24501))
+  (gr_circle (center 0 158) (end 1.000004 158.000003) (layer Cmts.User) (width 0.15) (tstamp 63C22E98))
+  (gr_line (start 0 158) (end 158.5 158) (layer Edge.Cuts) (width 0.05) (tstamp 63C22E93))
+  (gr_line (start -158.5 158) (end 0 158) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 158.5 158) (end 158.5 292) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start -158.5 158) (end -158.5 292) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 106.920679 165.644225) (end 101.59331 162.387902) (layer Dwgs.User) (width 0.15) (tstamp 63C13D21))
+  (gr_line (start -103.066685 162.380898) (end -108.394054 165.637221) (layer Dwgs.User) (width 0.15))
   (gr_line (start -135.284533 25.865652) (end -91.722361 36.324006) (layer Dwgs.User) (width 0.15) (tstamp 61C33DDC))
-  (gr_text "Chocofly v1.1 by vitvlkv\nhttps://github.com/vlkv/chocofly" (at -133.560255 245.848792 -13.5) (layer B.SilkS) (tstamp 61C33DDB)
+  (gr_text "Chocofly v1.1 by vitvlkv\nhttps://github.com/vlkv/chocofly" (at -101.560255 245.848792 -13.5) (layer B.SilkS) (tstamp 61C33DDB)
     (effects (font (size 2 2) (thickness 0.3)) (justify left mirror))
   )
   (dimension 341.4 (width 0.15) (layer Dwgs.User)
@@ -9391,7 +9399,7 @@
   (gr_line (start 170.7 4.1) (end 170.7 80.8) (layer Dwgs.User) (width 0.15))
   (gr_line (start 33.2 82.2) (end 169.8 82.200001) (layer Dwgs.User) (width 0.15))
   (gr_line (start 91.725467 36.324348) (end 135.287639 25.865994) (layer Dwgs.User) (width 0.15))
-  (gr_text "Chocofly v1.1 by vitvlkv\nhttps://github.com/vlkv/chocofly" (at 103.311872 245.544503 13.5) (layer F.SilkS) (tstamp 616A4E89)
+  (gr_text "Chocofly v1.1 by vitvlkv\nhttps://github.com/vlkv/chocofly" (at 101.811872 245.544503 13.5) (layer F.SilkS) (tstamp 616A4E89)
     (effects (font (size 2 2) (thickness 0.3)) (justify left))
   )
   (gr_circle (center 3.498313 56.333423) (end 4.498313 56.333423) (layer Cmts.User) (width 0.15) (tstamp 616A0B51))
