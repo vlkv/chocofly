@@ -18,6 +18,9 @@ Chocofly v1.
 ![The Chocofly keyboard v1 PCB](/images/chocofly_pcb_v1-0.jpg)
 Chocofly v1 PCB.
 
+![The Chocofly keyboard v2 PCB](/images/chocofly_pcb_v2-0.png)
+Chocofly v2 PCB.
+
 
 ## Support the project
 
