@@ -1901,23 +1901,23 @@ Wire Wire Line
 	5300 900  5300 850 
 NoConn ~ 1750 1650
 $Comp
-L Device:Jumper_NO_Small JP2
+L Device:Jumper_NC_Small JP2
 U 1 1 63D764A1
 P 2800 850
 F 0 "JP2" H 2850 900 50  0000 C CNN
 F 1 "Jumper_NC_Small" H 2800 971 50  0001 C CNN
-F 2 "footprints:avalanche_Jumper" H 2800 850 50  0001 C CNN
+F 2 "footprints:avalanche_Jumper_NC" H 2800 850 50  0001 C CNN
 F 3 "~" H 2800 850 50  0001 C CNN
 	1    2800 850 
 	-1   0    0    1   
 $EndComp
 $Comp
-L Device:Jumper_NO_Small JP1
+L Device:Jumper_NC_Small JP1
 U 1 1 63DA7A93
 P 2800 750
 F 0 "JP1" H 2850 800 50  0000 C CNN
 F 1 "Jumper_NC_Small" H 2800 871 50  0001 C CNN
-F 2 "footprints:avalanche_Jumper" H 2800 750 50  0001 C CNN
+F 2 "footprints:avalanche_Jumper_NC" H 2800 750 50  0001 C CNN
 F 3 "~" H 2800 750 50  0001 C CNN
 	1    2800 750 
 	-1   0    0    1   
