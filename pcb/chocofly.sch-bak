@@ -1989,652 +1989,652 @@ NoConn ~ 5050 1350
 Wire Wire Line
 	4750 1250 5050 1250
 $Comp
-L Mechanical:MountingHole H1
-U 1 1 63C67DDD
-P 7450 900
-F 0 "H1" H 7550 946 50  0000 L CNN
-F 1 "10mm" H 7550 855 50  0000 L CNN
-F 2 "footprints:hole_10mm" H 7450 900 50  0001 C CNN
-F 3 "~" H 7450 900 50  0001 C CNN
-	1    7450 900 
-	1    0    0    -1  
-$EndComp
-$Comp
 L Mechanical:MountingHole H2
 U 1 1 63C7212E
-P 7450 1100
-F 0 "H2" H 7550 1146 50  0000 L CNN
-F 1 "10mm" H 7550 1055 50  0000 L CNN
-F 2 "footprints:hole_10mm" H 7450 1100 50  0001 C CNN
-F 3 "~" H 7450 1100 50  0001 C CNN
-	1    7450 1100
+P 7100 650
+F 0 "H2" H 7200 696 50  0000 L CNN
+F 1 "10mm" H 7200 605 50  0000 L CNN
+F 2 "footprints:hole_10mm" H 7100 650 50  0001 C CNN
+F 3 "~" H 7100 650 50  0001 C CNN
+	1    7100 650 
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H3
 U 1 1 63C77D3C
-P 7450 1300
-F 0 "H3" H 7550 1346 50  0000 L CNN
-F 1 "10mm" H 7550 1255 50  0000 L CNN
-F 2 "footprints:hole_10mm" H 7450 1300 50  0001 C CNN
-F 3 "~" H 7450 1300 50  0001 C CNN
-	1    7450 1300
+P 7100 850
+F 0 "H3" H 7200 896 50  0000 L CNN
+F 1 "10mm" H 7200 805 50  0000 L CNN
+F 2 "footprints:hole_10mm" H 7100 850 50  0001 C CNN
+F 3 "~" H 7100 850 50  0001 C CNN
+	1    7100 850 
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H4
 U 1 1 63C80DFD
-P 8050 900
-F 0 "H4" H 8150 946 50  0000 L CNN
-F 1 "5mm" H 8150 855 50  0000 L CNN
-F 2 "footprints:hole_5mm" H 8050 900 50  0001 C CNN
-F 3 "~" H 8050 900 50  0001 C CNN
-	1    8050 900 
+P 7700 650
+F 0 "H4" H 7800 696 50  0000 L CNN
+F 1 "5mm" H 7800 605 50  0000 L CNN
+F 2 "footprints:hole_5mm" H 7700 650 50  0001 C CNN
+F 3 "~" H 7700 650 50  0001 C CNN
+	1    7700 650 
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H5
 U 1 1 63C87075
-P 8050 1100
-F 0 "H5" H 8150 1146 50  0000 L CNN
-F 1 "5mm" H 8150 1055 50  0000 L CNN
-F 2 "footprints:hole_5mm" H 8050 1100 50  0001 C CNN
-F 3 "~" H 8050 1100 50  0001 C CNN
-	1    8050 1100
+P 7700 850
+F 0 "H5" H 7800 896 50  0000 L CNN
+F 1 "5mm" H 7800 805 50  0000 L CNN
+F 2 "footprints:hole_5mm" H 7700 850 50  0001 C CNN
+F 3 "~" H 7700 850 50  0001 C CNN
+	1    7700 850 
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H6
 U 1 1 63C8CD2B
-P 8050 1300
-F 0 "H6" H 8150 1346 50  0000 L CNN
-F 1 "5mm" H 8150 1255 50  0000 L CNN
-F 2 "footprints:hole_5mm" H 8050 1300 50  0001 C CNN
-F 3 "~" H 8050 1300 50  0001 C CNN
-	1    8050 1300
+P 7700 1050
+F 0 "H6" H 7800 1096 50  0000 L CNN
+F 1 "5mm" H 7800 1005 50  0000 L CNN
+F 2 "footprints:hole_5mm" H 7700 1050 50  0001 C CNN
+F 3 "~" H 7700 1050 50  0001 C CNN
+	1    7700 1050
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H7
 U 1 1 63C93F0C
-P 8550 900
-F 0 "H7" H 8650 946 50  0000 L CNN
-F 1 "3mm" H 8650 855 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 8550 900 50  0001 C CNN
-F 3 "~" H 8550 900 50  0001 C CNN
-	1    8550 900 
+P 8200 650
+F 0 "H7" H 8300 696 50  0000 L CNN
+F 1 "3mm" H 8300 605 50  0000 L CNN
+F 2 "footprints:hole_3mm" H 8200 650 50  0001 C CNN
+F 3 "~" H 8200 650 50  0001 C CNN
+	1    8200 650 
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H8
 U 1 1 63C9A06F
-P 8550 1100
-F 0 "H8" H 8650 1146 50  0000 L CNN
-F 1 "3mm" H 8650 1055 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 8550 1100 50  0001 C CNN
-F 3 "~" H 8550 1100 50  0001 C CNN
-	1    8550 1100
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H9
-U 1 1 63C9FCBA
-P 8550 1300
-F 0 "H9" H 8650 1346 50  0000 L CNN
-F 1 "3mm" H 8650 1255 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 8550 1300 50  0001 C CNN
-F 3 "~" H 8550 1300 50  0001 C CNN
-	1    8550 1300
+P 8200 850
+F 0 "H8" H 8300 896 50  0000 L CNN
+F 1 "3mm" H 8300 805 50  0000 L CNN
+F 2 "footprints:hole_3mm" H 8200 850 50  0001 C CNN
+F 3 "~" H 8200 850 50  0001 C CNN
+	1    8200 850 
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H10
 U 1 1 63CA6189
-P 10000 900
-F 0 "H10" H 10100 946 50  0000 L CNN
-F 1 "2mm" H 10100 855 50  0000 L CNN
-F 2 "footprints:hole_2mm" H 10000 900 50  0001 C CNN
-F 3 "~" H 10000 900 50  0001 C CNN
-	1    10000 900 
+P 9650 650
+F 0 "H10" H 9750 696 50  0000 L CNN
+F 1 "2mm" H 9750 605 50  0000 L CNN
+F 2 "footprints:hole_2mm" H 9650 650 50  0001 C CNN
+F 3 "~" H 9650 650 50  0001 C CNN
+	1    9650 650 
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H11
 U 1 1 63CAC530
-P 10000 1100
-F 0 "H11" H 10100 1146 50  0000 L CNN
-F 1 "2mm" H 10100 1055 50  0000 L CNN
-F 2 "footprints:hole_2mm" H 10000 1100 50  0001 C CNN
-F 3 "~" H 10000 1100 50  0001 C CNN
-	1    10000 1100
+P 9650 850
+F 0 "H11" H 9750 896 50  0000 L CNN
+F 1 "2mm" H 9750 805 50  0000 L CNN
+F 2 "footprints:hole_2mm" H 9650 850 50  0001 C CNN
+F 3 "~" H 9650 850 50  0001 C CNN
+	1    9650 850 
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H12
 U 1 1 63CB20FA
-P 10000 1300
-F 0 "H12" H 10100 1346 50  0000 L CNN
-F 1 "2mm" H 10100 1255 50  0000 L CNN
-F 2 "footprints:hole_2mm" H 10000 1300 50  0001 C CNN
-F 3 "~" H 10000 1300 50  0001 C CNN
-	1    10000 1300
+P 9650 1050
+F 0 "H12" H 9750 1096 50  0000 L CNN
+F 1 "2mm" H 9750 1005 50  0000 L CNN
+F 2 "footprints:hole_2mm" H 9650 1050 50  0001 C CNN
+F 3 "~" H 9650 1050 50  0001 C CNN
+	1    9650 1050
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H13
 U 1 1 63CB865D
-P 10450 900
-F 0 "H13" H 10550 946 50  0000 L CNN
-F 1 "1mm" H 10550 855 50  0000 L CNN
-F 2 "footprints:hole_1mm" H 10450 900 50  0001 C CNN
-F 3 "~" H 10450 900 50  0001 C CNN
-	1    10450 900 
+P 10100 650
+F 0 "H13" H 10200 696 50  0000 L CNN
+F 1 "1mm" H 10200 605 50  0000 L CNN
+F 2 "footprints:hole_1mm" H 10100 650 50  0001 C CNN
+F 3 "~" H 10100 650 50  0001 C CNN
+	1    10100 650 
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H14
 U 1 1 63CBEE91
-P 10450 1100
-F 0 "H14" H 10550 1146 50  0000 L CNN
-F 1 "1mm" H 10550 1055 50  0000 L CNN
-F 2 "footprints:hole_1mm" H 10450 1100 50  0001 C CNN
-F 3 "~" H 10450 1100 50  0001 C CNN
-	1    10450 1100
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H17
-U 1 1 63D0CA75
-P 7000 1300
-F 0 "H17" H 7100 1346 50  0000 L CNN
-F 1 "15mm" H 7100 1255 50  0000 L CNN
-F 2 "footprints:hole_15mm" H 7000 1300 50  0001 C CNN
-F 3 "~" H 7000 1300 50  0001 C CNN
-	1    7000 1300
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H24
-U 1 1 63D2911B
-P 7450 1500
-F 0 "H24" H 7550 1546 50  0000 L CNN
-F 1 "10mm" H 7550 1455 50  0000 L CNN
-F 2 "footprints:hole_10mm" H 7450 1500 50  0001 C CNN
-F 3 "~" H 7450 1500 50  0001 C CNN
-	1    7450 1500
+P 10100 850
+F 0 "H14" H 10200 896 50  0000 L CNN
+F 1 "1mm" H 10200 805 50  0000 L CNN
+F 2 "footprints:hole_1mm" H 10100 850 50  0001 C CNN
+F 3 "~" H 10100 850 50  0001 C CNN
+	1    10100 850 
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H25
 U 1 1 63D29121
-P 7450 1700
-F 0 "H25" H 7550 1746 50  0000 L CNN
-F 1 "10mm" H 7550 1655 50  0000 L CNN
-F 2 "footprints:hole_10mm" H 7450 1700 50  0001 C CNN
-F 3 "~" H 7450 1700 50  0001 C CNN
-	1    7450 1700
+P 7100 1250
+F 0 "H25" H 7200 1296 50  0000 L CNN
+F 1 "10mm" H 7200 1205 50  0000 L CNN
+F 2 "footprints:hole_10mm" H 7100 1250 50  0001 C CNN
+F 3 "~" H 7100 1250 50  0001 C CNN
+	1    7100 1250
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H26
 U 1 1 63D29127
-P 7450 1900
-F 0 "H26" H 7550 1946 50  0000 L CNN
-F 1 "10mm" H 7550 1855 50  0000 L CNN
-F 2 "footprints:hole_10mm" H 7450 1900 50  0001 C CNN
-F 3 "~" H 7450 1900 50  0001 C CNN
-	1    7450 1900
+P 7100 1450
+F 0 "H26" H 7200 1496 50  0000 L CNN
+F 1 "10mm" H 7200 1405 50  0000 L CNN
+F 2 "footprints:hole_10mm" H 7100 1450 50  0001 C CNN
+F 3 "~" H 7100 1450 50  0001 C CNN
+	1    7100 1450
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H30
 U 1 1 63D2912D
-P 8050 1500
-F 0 "H30" H 8150 1546 50  0000 L CNN
-F 1 "5mm" H 8150 1455 50  0000 L CNN
-F 2 "footprints:hole_5mm" H 8050 1500 50  0001 C CNN
-F 3 "~" H 8050 1500 50  0001 C CNN
-	1    8050 1500
+P 7700 1250
+F 0 "H30" H 7800 1296 50  0000 L CNN
+F 1 "5mm" H 7800 1205 50  0000 L CNN
+F 2 "footprints:hole_5mm" H 7700 1250 50  0001 C CNN
+F 3 "~" H 7700 1250 50  0001 C CNN
+	1    7700 1250
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H31
 U 1 1 63D29133
-P 8050 1700
-F 0 "H31" H 8150 1746 50  0000 L CNN
-F 1 "5mm" H 8150 1655 50  0000 L CNN
-F 2 "footprints:hole_5mm" H 8050 1700 50  0001 C CNN
-F 3 "~" H 8050 1700 50  0001 C CNN
-	1    8050 1700
+P 7700 1450
+F 0 "H31" H 7800 1496 50  0000 L CNN
+F 1 "5mm" H 7800 1405 50  0000 L CNN
+F 2 "footprints:hole_5mm" H 7700 1450 50  0001 C CNN
+F 3 "~" H 7700 1450 50  0001 C CNN
+	1    7700 1450
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H32
 U 1 1 63D29139
-P 8050 1900
-F 0 "H32" H 8150 1946 50  0000 L CNN
-F 1 "5mm" H 8150 1855 50  0000 L CNN
-F 2 "footprints:hole_5mm" H 8050 1900 50  0001 C CNN
-F 3 "~" H 8050 1900 50  0001 C CNN
-	1    8050 1900
+P 7700 1650
+F 0 "H32" H 7800 1696 50  0000 L CNN
+F 1 "5mm" H 7800 1605 50  0000 L CNN
+F 2 "footprints:hole_5mm" H 7700 1650 50  0001 C CNN
+F 3 "~" H 7700 1650 50  0001 C CNN
+	1    7700 1650
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H36
 U 1 1 63D2913F
-P 8550 1500
-F 0 "H36" H 8650 1546 50  0000 L CNN
-F 1 "3mm" H 8650 1455 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 8550 1500 50  0001 C CNN
-F 3 "~" H 8550 1500 50  0001 C CNN
-	1    8550 1500
+P 8200 1250
+F 0 "H36" H 8300 1296 50  0000 L CNN
+F 1 "3mm" H 8300 1205 50  0000 L CNN
+F 2 "footprints:hole_3mm" H 8200 1250 50  0001 C CNN
+F 3 "~" H 8200 1250 50  0001 C CNN
+	1    8200 1250
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H37
 U 1 1 63D29145
-P 8550 1700
-F 0 "H37" H 8650 1746 50  0000 L CNN
-F 1 "3mm" H 8650 1655 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 8550 1700 50  0001 C CNN
-F 3 "~" H 8550 1700 50  0001 C CNN
-	1    8550 1700
+P 8200 1450
+F 0 "H37" H 8300 1496 50  0000 L CNN
+F 1 "3mm" H 8300 1405 50  0000 L CNN
+F 2 "footprints:hole_3mm" H 8200 1450 50  0001 C CNN
+F 3 "~" H 8200 1450 50  0001 C CNN
+	1    8200 1450
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H38
 U 1 1 63D2914B
-P 8550 1900
-F 0 "H38" H 8650 1946 50  0000 L CNN
-F 1 "3mm" H 8650 1855 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 8550 1900 50  0001 C CNN
-F 3 "~" H 8550 1900 50  0001 C CNN
-	1    8550 1900
+P 8200 1650
+F 0 "H38" H 8300 1696 50  0000 L CNN
+F 1 "3mm" H 8300 1605 50  0000 L CNN
+F 2 "footprints:hole_3mm" H 8200 1650 50  0001 C CNN
+F 3 "~" H 8200 1650 50  0001 C CNN
+	1    8200 1650
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H42
 U 1 1 63D29151
-P 10000 1500
-F 0 "H42" H 10100 1546 50  0000 L CNN
-F 1 "2mm" H 10100 1455 50  0000 L CNN
-F 2 "footprints:hole_2mm" H 10000 1500 50  0001 C CNN
-F 3 "~" H 10000 1500 50  0001 C CNN
-	1    10000 1500
+P 9650 1250
+F 0 "H42" H 9750 1296 50  0000 L CNN
+F 1 "2mm" H 9750 1205 50  0000 L CNN
+F 2 "footprints:hole_2mm" H 9650 1250 50  0001 C CNN
+F 3 "~" H 9650 1250 50  0001 C CNN
+	1    9650 1250
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H43
 U 1 1 63D29157
-P 10000 1700
-F 0 "H43" H 10100 1746 50  0000 L CNN
-F 1 "2mm" H 10100 1655 50  0000 L CNN
-F 2 "footprints:hole_2mm" H 10000 1700 50  0001 C CNN
-F 3 "~" H 10000 1700 50  0001 C CNN
-	1    10000 1700
+P 9650 1450
+F 0 "H43" H 9750 1496 50  0000 L CNN
+F 1 "2mm" H 9750 1405 50  0000 L CNN
+F 2 "footprints:hole_2mm" H 9650 1450 50  0001 C CNN
+F 3 "~" H 9650 1450 50  0001 C CNN
+	1    9650 1450
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H48
 U 1 1 63D29163
-P 10450 1500
-F 0 "H48" H 10550 1546 50  0000 L CNN
-F 1 "1mm" H 10550 1455 50  0000 L CNN
-F 2 "footprints:hole_1mm" H 10450 1500 50  0001 C CNN
-F 3 "~" H 10450 1500 50  0001 C CNN
-	1    10450 1500
+P 10100 1250
+F 0 "H48" H 10200 1296 50  0000 L CNN
+F 1 "1mm" H 10200 1205 50  0000 L CNN
+F 2 "footprints:hole_1mm" H 10100 1250 50  0001 C CNN
+F 3 "~" H 10100 1250 50  0001 C CNN
+	1    10100 1250
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H49
 U 1 1 63D29169
-P 10450 1700
-F 0 "H49" H 10550 1746 50  0000 L CNN
-F 1 "1mm" H 10550 1655 50  0000 L CNN
-F 2 "footprints:hole_1mm" H 10450 1700 50  0001 C CNN
-F 3 "~" H 10450 1700 50  0001 C CNN
-	1    10450 1700
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H19
-U 1 1 63D29175
-P 7000 1700
-F 0 "H19" H 7100 1746 50  0000 L CNN
-F 1 "15mm" H 7100 1655 50  0000 L CNN
-F 2 "footprints:hole_15mm" H 7000 1700 50  0001 C CNN
-F 3 "~" H 7000 1700 50  0001 C CNN
-	1    7000 1700
+P 10100 1450
+F 0 "H49" H 10200 1496 50  0000 L CNN
+F 1 "1mm" H 10200 1405 50  0000 L CNN
+F 2 "footprints:hole_1mm" H 10100 1450 50  0001 C CNN
+F 3 "~" H 10100 1450 50  0001 C CNN
+	1    10100 1450
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H27
 U 1 1 63D35D6C
-P 7450 2100
-F 0 "H27" H 7550 2146 50  0000 L CNN
-F 1 "10mm" H 7550 2055 50  0000 L CNN
-F 2 "footprints:hole_10mm" H 7450 2100 50  0001 C CNN
-F 3 "~" H 7450 2100 50  0001 C CNN
-	1    7450 2100
+P 7100 1650
+F 0 "H27" H 7200 1696 50  0000 L CNN
+F 1 "10mm" H 7200 1605 50  0000 L CNN
+F 2 "footprints:hole_10mm" H 7100 1650 50  0001 C CNN
+F 3 "~" H 7100 1650 50  0001 C CNN
+	1    7100 1650
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H28
 U 1 1 63D35D72
-P 7450 2300
-F 0 "H28" H 7550 2346 50  0000 L CNN
-F 1 "10mm" H 7550 2255 50  0000 L CNN
-F 2 "footprints:hole_10mm" H 7450 2300 50  0001 C CNN
-F 3 "~" H 7450 2300 50  0001 C CNN
-	1    7450 2300
+P 7100 1850
+F 0 "H28" H 7200 1896 50  0000 L CNN
+F 1 "10mm" H 7200 1805 50  0000 L CNN
+F 2 "footprints:hole_10mm" H 7100 1850 50  0001 C CNN
+F 3 "~" H 7100 1850 50  0001 C CNN
+	1    7100 1850
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H29
 U 1 1 63D35D78
-P 7450 2500
-F 0 "H29" H 7550 2546 50  0000 L CNN
-F 1 "10mm" H 7550 2455 50  0000 L CNN
-F 2 "footprints:hole_10mm" H 7450 2500 50  0001 C CNN
-F 3 "~" H 7450 2500 50  0001 C CNN
-	1    7450 2500
+P 7100 2050
+F 0 "H29" H 7200 2096 50  0000 L CNN
+F 1 "10mm" H 7200 2005 50  0000 L CNN
+F 2 "footprints:hole_10mm" H 7100 2050 50  0001 C CNN
+F 3 "~" H 7100 2050 50  0001 C CNN
+	1    7100 2050
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H33
 U 1 1 63D35D7E
-P 8050 2100
-F 0 "H33" H 8150 2146 50  0000 L CNN
-F 1 "5mm" H 8150 2055 50  0000 L CNN
-F 2 "footprints:hole_5mm" H 8050 2100 50  0001 C CNN
-F 3 "~" H 8050 2100 50  0001 C CNN
-	1    8050 2100
+P 7700 1850
+F 0 "H33" H 7800 1896 50  0000 L CNN
+F 1 "5mm" H 7800 1805 50  0000 L CNN
+F 2 "footprints:hole_5mm" H 7700 1850 50  0001 C CNN
+F 3 "~" H 7700 1850 50  0001 C CNN
+	1    7700 1850
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H34
 U 1 1 63D35D84
-P 8050 2300
-F 0 "H34" H 8150 2346 50  0000 L CNN
-F 1 "5mm" H 8150 2255 50  0000 L CNN
-F 2 "footprints:hole_5mm" H 8050 2300 50  0001 C CNN
-F 3 "~" H 8050 2300 50  0001 C CNN
-	1    8050 2300
+P 7700 2050
+F 0 "H34" H 7800 2096 50  0000 L CNN
+F 1 "5mm" H 7800 2005 50  0000 L CNN
+F 2 "footprints:hole_5mm" H 7700 2050 50  0001 C CNN
+F 3 "~" H 7700 2050 50  0001 C CNN
+	1    7700 2050
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H35
 U 1 1 63D35D8A
-P 8050 2500
-F 0 "H35" H 8150 2546 50  0000 L CNN
-F 1 "5mm" H 8150 2455 50  0000 L CNN
-F 2 "footprints:hole_5mm" H 8050 2500 50  0001 C CNN
-F 3 "~" H 8050 2500 50  0001 C CNN
-	1    8050 2500
+P 7700 2250
+F 0 "H35" H 7800 2296 50  0000 L CNN
+F 1 "5mm" H 7800 2205 50  0000 L CNN
+F 2 "footprints:hole_5mm" H 7700 2250 50  0001 C CNN
+F 3 "~" H 7700 2250 50  0001 C CNN
+	1    7700 2250
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H39
 U 1 1 63D35D90
-P 8550 2100
-F 0 "H39" H 8650 2146 50  0000 L CNN
-F 1 "3mm" H 8650 2055 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 8550 2100 50  0001 C CNN
-F 3 "~" H 8550 2100 50  0001 C CNN
-	1    8550 2100
+P 8200 1850
+F 0 "H39" H 8300 1896 50  0000 L CNN
+F 1 "3mm" H 8300 1805 50  0000 L CNN
+F 2 "footprints:hole_3mm" H 8200 1850 50  0001 C CNN
+F 3 "~" H 8200 1850 50  0001 C CNN
+	1    8200 1850
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H40
 U 1 1 63D35D96
-P 8550 2300
-F 0 "H40" H 8650 2346 50  0000 L CNN
-F 1 "3mm" H 8650 2255 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 8550 2300 50  0001 C CNN
-F 3 "~" H 8550 2300 50  0001 C CNN
-	1    8550 2300
+P 8200 2050
+F 0 "H40" H 8300 2096 50  0000 L CNN
+F 1 "3mm" H 8300 2005 50  0000 L CNN
+F 2 "footprints:hole_3mm" H 8200 2050 50  0001 C CNN
+F 3 "~" H 8200 2050 50  0001 C CNN
+	1    8200 2050
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H41
 U 1 1 63D35D9C
-P 8550 2500
-F 0 "H41" H 8650 2546 50  0000 L CNN
-F 1 "3mm" H 8650 2455 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 8550 2500 50  0001 C CNN
-F 3 "~" H 8550 2500 50  0001 C CNN
-	1    8550 2500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H45
-U 1 1 63D35DA2
-P 10000 2100
-F 0 "H45" H 10100 2146 50  0000 L CNN
-F 1 "2mm" H 10100 2055 50  0000 L CNN
-F 2 "footprints:hole_2mm" H 10000 2100 50  0001 C CNN
-F 3 "~" H 10000 2100 50  0001 C CNN
-	1    10000 2100
+P 8200 2250
+F 0 "H41" H 8300 2296 50  0000 L CNN
+F 1 "3mm" H 8300 2205 50  0000 L CNN
+F 2 "footprints:hole_3mm" H 8200 2250 50  0001 C CNN
+F 3 "~" H 8200 2250 50  0001 C CNN
+	1    8200 2250
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H46
 U 1 1 63D35DA8
-P 10000 2300
-F 0 "H46" H 10100 2346 50  0000 L CNN
-F 1 "2mm" H 10100 2255 50  0000 L CNN
-F 2 "footprints:hole_2mm" H 10000 2300 50  0001 C CNN
-F 3 "~" H 10000 2300 50  0001 C CNN
-	1    10000 2300
+P 9650 1650
+F 0 "H46" H 9750 1696 50  0000 L CNN
+F 1 "2mm" H 9750 1605 50  0000 L CNN
+F 2 "footprints:hole_2mm" H 9650 1650 50  0001 C CNN
+F 3 "~" H 9650 1650 50  0001 C CNN
+	1    9650 1650
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H50
 U 1 1 63D35DB4
-P 10450 1900
-F 0 "H50" H 10550 1946 50  0000 L CNN
-F 1 "1mm" H 10550 1855 50  0000 L CNN
-F 2 "footprints:hole_1mm" H 10450 1900 50  0001 C CNN
-F 3 "~" H 10450 1900 50  0001 C CNN
-	1    10450 1900
+P 10100 1650
+F 0 "H50" H 10200 1696 50  0000 L CNN
+F 1 "1mm" H 10200 1605 50  0000 L CNN
+F 2 "footprints:hole_1mm" H 10100 1650 50  0001 C CNN
+F 3 "~" H 10100 1650 50  0001 C CNN
+	1    10100 1650
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H51
 U 1 1 63D35DBA
-P 10450 2100
-F 0 "H51" H 10550 2146 50  0000 L CNN
-F 1 "1mm" H 10550 2055 50  0000 L CNN
-F 2 "footprints:hole_1mm" H 10450 2100 50  0001 C CNN
-F 3 "~" H 10450 2100 50  0001 C CNN
-	1    10450 2100
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H22
-U 1 1 63D35DC6
-P 7000 2300
-F 0 "H22" H 7100 2346 50  0000 L CNN
-F 1 "15mm" H 7100 2255 50  0000 L CNN
-F 2 "footprints:hole_15mm" H 7000 2300 50  0001 C CNN
-F 3 "~" H 7000 2300 50  0001 C CNN
-	1    7000 2300
+P 10100 1850
+F 0 "H51" H 10200 1896 50  0000 L CNN
+F 1 "1mm" H 10200 1805 50  0000 L CNN
+F 2 "footprints:hole_1mm" H 10100 1850 50  0001 C CNN
+F 3 "~" H 10100 1850 50  0001 C CNN
+	1    10100 1850
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H52
 U 1 1 63C4FDD7
-P 8550 2700
-F 0 "H52" H 8650 2746 50  0000 L CNN
-F 1 "3mm" H 8650 2655 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 8550 2700 50  0001 C CNN
-F 3 "~" H 8550 2700 50  0001 C CNN
-	1    8550 2700
+P 8200 2450
+F 0 "H52" H 8300 2496 50  0000 L CNN
+F 1 "3mm" H 8300 2405 50  0000 L CNN
+F 2 "footprints:hole_3mm" H 8200 2450 50  0001 C CNN
+F 3 "~" H 8200 2450 50  0001 C CNN
+	1    8200 2450
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H53
 U 1 1 63C4FDDD
-P 8550 2900
-F 0 "H53" H 8650 2946 50  0000 L CNN
-F 1 "3mm" H 8650 2855 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 8550 2900 50  0001 C CNN
-F 3 "~" H 8550 2900 50  0001 C CNN
-	1    8550 2900
+P 8200 2650
+F 0 "H53" H 8300 2696 50  0000 L CNN
+F 1 "3mm" H 8300 2605 50  0000 L CNN
+F 2 "footprints:hole_3mm" H 8200 2650 50  0001 C CNN
+F 3 "~" H 8200 2650 50  0001 C CNN
+	1    8200 2650
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H54
 U 1 1 63C4FDE3
-P 8550 3100
-F 0 "H54" H 8650 3146 50  0000 L CNN
-F 1 "3mm" H 8650 3055 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 8550 3100 50  0001 C CNN
-F 3 "~" H 8550 3100 50  0001 C CNN
-	1    8550 3100
+P 8200 2850
+F 0 "H54" H 8300 2896 50  0000 L CNN
+F 1 "3mm" H 8300 2805 50  0000 L CNN
+F 2 "footprints:hole_3mm" H 8200 2850 50  0001 C CNN
+F 3 "~" H 8200 2850 50  0001 C CNN
+	1    8200 2850
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H55
 U 1 1 63C4FDE9
-P 8550 3300
-F 0 "H55" H 8650 3346 50  0000 L CNN
-F 1 "3mm" H 8650 3255 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 8550 3300 50  0001 C CNN
-F 3 "~" H 8550 3300 50  0001 C CNN
-	1    8550 3300
+P 8200 3050
+F 0 "H55" H 8300 3096 50  0000 L CNN
+F 1 "3mm" H 8300 3005 50  0000 L CNN
+F 2 "footprints:hole_3mm" H 8200 3050 50  0001 C CNN
+F 3 "~" H 8200 3050 50  0001 C CNN
+	1    8200 3050
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H56
 U 1 1 63C4FDEF
-P 8550 3500
-F 0 "H56" H 8650 3546 50  0000 L CNN
-F 1 "3mm" H 8650 3455 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 8550 3500 50  0001 C CNN
-F 3 "~" H 8550 3500 50  0001 C CNN
-	1    8550 3500
+P 8700 650
+F 0 "H56" H 8800 696 50  0000 L CNN
+F 1 "3mm" H 8800 605 50  0000 L CNN
+F 2 "footprints:hole_3mm" H 8700 650 50  0001 C CNN
+F 3 "~" H 8700 650 50  0001 C CNN
+	1    8700 650 
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H57
 U 1 1 63CE0035
-P 9050 900
-F 0 "H57" H 9150 946 50  0000 L CNN
-F 1 "3mm" H 9150 855 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 9050 900 50  0001 C CNN
-F 3 "~" H 9050 900 50  0001 C CNN
-	1    9050 900 
+P 8700 850
+F 0 "H57" H 8800 896 50  0000 L CNN
+F 1 "3mm" H 8800 805 50  0000 L CNN
+F 2 "footprints:hole_3mm" H 8700 850 50  0001 C CNN
+F 3 "~" H 8700 850 50  0001 C CNN
+	1    8700 850 
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H58
 U 1 1 63CE003B
-P 9050 1100
-F 0 "H58" H 9150 1146 50  0000 L CNN
-F 1 "3mm" H 9150 1055 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 9050 1100 50  0001 C CNN
-F 3 "~" H 9050 1100 50  0001 C CNN
-	1    9050 1100
+P 8700 1050
+F 0 "H58" H 8800 1096 50  0000 L CNN
+F 1 "3mm" H 8800 1005 50  0000 L CNN
+F 2 "footprints:hole_3mm" H 8700 1050 50  0001 C CNN
+F 3 "~" H 8700 1050 50  0001 C CNN
+	1    8700 1050
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H59
 U 1 1 63CE0041
-P 9050 1300
-F 0 "H59" H 9150 1346 50  0000 L CNN
-F 1 "3mm" H 9150 1255 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 9050 1300 50  0001 C CNN
-F 3 "~" H 9050 1300 50  0001 C CNN
-	1    9050 1300
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H60
-U 1 1 63CE0047
-P 9050 1500
-F 0 "H60" H 9150 1546 50  0000 L CNN
-F 1 "3mm" H 9150 1455 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 9050 1500 50  0001 C CNN
-F 3 "~" H 9050 1500 50  0001 C CNN
-	1    9050 1500
+P 8700 1250
+F 0 "H59" H 8800 1296 50  0000 L CNN
+F 1 "3mm" H 8800 1205 50  0000 L CNN
+F 2 "footprints:hole_3mm" H 8700 1250 50  0001 C CNN
+F 3 "~" H 8700 1250 50  0001 C CNN
+	1    8700 1250
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H61
 U 1 1 63CE004D
-P 9050 1700
-F 0 "H61" H 9150 1746 50  0000 L CNN
-F 1 "3mm" H 9150 1655 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 9050 1700 50  0001 C CNN
-F 3 "~" H 9050 1700 50  0001 C CNN
-	1    9050 1700
+P 8700 1450
+F 0 "H61" H 8800 1496 50  0000 L CNN
+F 1 "3mm" H 8800 1405 50  0000 L CNN
+F 2 "footprints:hole_3mm" H 8700 1450 50  0001 C CNN
+F 3 "~" H 8700 1450 50  0001 C CNN
+	1    8700 1450
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H62
 U 1 1 63CE0053
-P 9050 1900
-F 0 "H62" H 9150 1946 50  0000 L CNN
-F 1 "3mm" H 9150 1855 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 9050 1900 50  0001 C CNN
-F 3 "~" H 9050 1900 50  0001 C CNN
-	1    9050 1900
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H63
-U 1 1 63CE0059
-P 9050 2100
-F 0 "H63" H 9150 2146 50  0000 L CNN
-F 1 "3mm" H 9150 2055 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 9050 2100 50  0001 C CNN
-F 3 "~" H 9050 2100 50  0001 C CNN
-	1    9050 2100
+P 8700 1650
+F 0 "H62" H 8800 1696 50  0000 L CNN
+F 1 "3mm" H 8800 1605 50  0000 L CNN
+F 2 "footprints:hole_3mm" H 8700 1650 50  0001 C CNN
+F 3 "~" H 8700 1650 50  0001 C CNN
+	1    8700 1650
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H67
 U 1 1 63CE9F29
-P 10450 1300
-F 0 "H67" H 10550 1346 50  0000 L CNN
-F 1 "1mm" H 10550 1255 50  0000 L CNN
-F 2 "footprints:hole_1mm" H 10450 1300 50  0001 C CNN
-F 3 "~" H 10450 1300 50  0001 C CNN
-	1    10450 1300
+P 10100 1050
+F 0 "H67" H 10200 1096 50  0000 L CNN
+F 1 "1mm" H 10200 1005 50  0000 L CNN
+F 2 "footprints:hole_1mm" H 10100 1050 50  0001 C CNN
+F 3 "~" H 10100 1050 50  0001 C CNN
+	1    10100 1050
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H64
-U 1 1 63CFF092
-P 10000 2700
-F 0 "H64" H 10100 2746 50  0000 L CNN
-F 1 "2mm" H 10100 2655 50  0000 L CNN
-F 2 "footprints:hole_2mm" H 10000 2700 50  0001 C CNN
-F 3 "~" H 10000 2700 50  0001 C CNN
-	1    10000 2700
+L Mechanical:MountingHole H1
+U 1 1 63C9DAAD
+P 7700 2450
+F 0 "H1" H 7800 2496 50  0000 L CNN
+F 1 "5mm" H 7800 2405 50  0000 L CNN
+F 2 "footprints:hole_5mm" H 7700 2450 50  0001 C CNN
+F 3 "~" H 7700 2450 50  0001 C CNN
+	1    7700 2450
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H65
-U 1 1 63CFF098
-P 10000 2900
-F 0 "H65" H 10100 2946 50  0000 L CNN
-F 1 "2mm" H 10100 2855 50  0000 L CNN
-F 2 "footprints:hole_2mm" H 10000 2900 50  0001 C CNN
-F 3 "~" H 10000 2900 50  0001 C CNN
-	1    10000 2900
+L Mechanical:MountingHole H15
+U 1 1 63CBD347
+P 9650 1850
+F 0 "H15" H 9750 1896 50  0000 L CNN
+F 1 "2mm" H 9750 1805 50  0000 L CNN
+F 2 "footprints:hole_2mm" H 9650 1850 50  0001 C CNN
+F 3 "~" H 9650 1850 50  0001 C CNN
+	1    9650 1850
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H66
-U 1 1 63CFF09E
-P 10000 3100
-F 0 "H66" H 10100 3146 50  0000 L CNN
-F 1 "2mm" H 10100 3055 50  0000 L CNN
-F 2 "footprints:hole_2mm" H 10000 3100 50  0001 C CNN
-F 3 "~" H 10000 3100 50  0001 C CNN
-	1    10000 3100
+L Mechanical:MountingHole H18
+U 1 1 63CC8DFD
+P 9650 2050
+F 0 "H18" H 9750 2096 50  0000 L CNN
+F 1 "2mm" H 9750 2005 50  0000 L CNN
+F 2 "footprints:hole_2mm" H 9650 2050 50  0001 C CNN
+F 3 "~" H 9650 2050 50  0001 C CNN
+	1    9650 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H20
+U 1 1 63CE26AB
+P 7700 2650
+F 0 "H20" H 7800 2696 50  0000 L CNN
+F 1 "5mm" H 7800 2605 50  0000 L CNN
+F 2 "footprints:hole_5mm" H 7700 2650 50  0001 C CNN
+F 3 "~" H 7700 2650 50  0001 C CNN
+	1    7700 2650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H23
+U 1 1 63CF62F6
+P 7100 2250
+F 0 "H23" H 7200 2296 50  0000 L CNN
+F 1 "10mm" H 7200 2205 50  0000 L CNN
+F 2 "footprints:hole_10mm" H 7100 2250 50  0001 C CNN
+F 3 "~" H 7100 2250 50  0001 C CNN
+	1    7100 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H44
+U 1 1 63CFC320
+P 7100 2450
+F 0 "H44" H 7200 2496 50  0000 L CNN
+F 1 "10mm" H 7200 2405 50  0000 L CNN
+F 2 "footprints:hole_10mm" H 7100 2450 50  0001 C CNN
+F 3 "~" H 7100 2450 50  0001 C CNN
+	1    7100 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H45
+U 1 1 63D1A347
+P 8200 1050
+F 0 "H45" H 8300 1096 50  0000 L CNN
+F 1 "3mm" H 8300 1005 50  0000 L CNN
+F 2 "footprints:hole_3mm" H 8200 1050 50  0001 C CNN
+F 3 "~" H 8200 1050 50  0001 C CNN
+	1    8200 1050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H47
+U 1 1 63D21D61
+P 8700 1850
+F 0 "H47" H 8800 1896 50  0000 L CNN
+F 1 "3mm" H 8800 1805 50  0000 L CNN
+F 2 "footprints:hole_3mm" H 8700 1850 50  0001 C CNN
+F 3 "~" H 8700 1850 50  0001 C CNN
+	1    8700 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H17
+U 1 1 63D3447C
+P 7700 2850
+F 0 "H17" H 7800 2896 50  0000 L CNN
+F 1 "5mm" H 7800 2805 50  0000 L CNN
+F 2 "footprints:hole_5mm" H 7700 2850 50  0001 C CNN
+F 3 "~" H 7700 2850 50  0001 C CNN
+	1    7700 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H9
+U 1 1 63E344D5
+P 9650 2250
+F 0 "H9" H 9750 2296 50  0000 L CNN
+F 1 "2mm" H 9750 2205 50  0000 L CNN
+F 2 "footprints:hole_2mm" H 9650 2250 50  0001 C CNN
+F 3 "~" H 9650 2250 50  0001 C CNN
+	1    9650 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H16
+U 1 1 63E344DB
+P 9650 2450
+F 0 "H16" H 9750 2496 50  0000 L CNN
+F 1 "2mm" H 9750 2405 50  0000 L CNN
+F 2 "footprints:hole_2mm" H 9650 2450 50  0001 C CNN
+F 3 "~" H 9650 2450 50  0001 C CNN
+	1    9650 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 63E47B89
+P 8700 2050
+F 0 "H?" H 8800 2096 50  0000 L CNN
+F 1 "3mm" H 8800 2005 50  0000 L CNN
+F 2 "footprints:hole_3mm" H 8700 2050 50  0001 C CNN
+F 3 "~" H 8700 2050 50  0001 C CNN
+	1    8700 2050
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC

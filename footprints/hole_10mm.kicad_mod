@@ -1,5 +1,5 @@
-(module hole_10mm (layer F.Cu) (tedit 63C3A9A0)
-  (fp_text reference REF** (at 0 1.5) (layer F.SilkS)
+(module hole_10mm (layer F.Cu) (tedit 63C442FC)
+  (fp_text reference REF** (at 0 1.5) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value hole_10mm (at 0 -1.5) (layer F.Fab) hide
