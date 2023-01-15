@@ -56,7 +56,7 @@ See similar https://github.com/vlkv/avalanche#build-instructions
 
 
 ## Firmware
-
+* Notes about the [default keyboard layout](https://github.com/vlkv/chocofly/blob/master/docs/layout.md).
 * [ZMK](https://github.com/vlkv/chocofly-zmk-config) for wireless builds.
 * [QMK](https://github.com/vlkv/qmk_firmware/tree/master/keyboards/chocofly) for wired builds.
 
