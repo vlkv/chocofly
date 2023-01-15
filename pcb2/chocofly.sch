@@ -19,7 +19,7 @@ U 1 1 614F025C
 P 1550 2250
 F 0 "SW1" H 1550 2443 50  0000 C CNN
 F 1 "SW_Push" H 1550 2444 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 1550 2450 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 1550 2450 50  0001 C CNN
 F 3 "~" H 1550 2450 50  0001 C CNN
 	1    1550 2250
 	1    0    0    -1  
@@ -47,7 +47,7 @@ U 1 1 614F674A
 P 2100 2250
 F 0 "SW2" H 2100 2443 50  0000 C CNN
 F 1 "SW_Push" H 2100 2444 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 2100 2450 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 2100 2450 50  0001 C CNN
 F 3 "~" H 2100 2450 50  0001 C CNN
 	1    2100 2250
 	1    0    0    -1  
@@ -76,7 +76,7 @@ U 1 1 6150471E
 P 2650 2250
 F 0 "SW3" H 2650 2443 50  0000 C CNN
 F 1 "SW_Push" H 2650 2444 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 2650 2450 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 2650 2450 50  0001 C CNN
 F 3 "~" H 2650 2450 50  0001 C CNN
 	1    2650 2250
 	1    0    0    -1  
@@ -108,7 +108,7 @@ U 1 1 61529B2F
 P 1550 2850
 F 0 "SW7" H 1550 3043 50  0000 C CNN
 F 1 "SW_Push" H 1550 3044 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 1550 3050 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 1550 3050 50  0001 C CNN
 F 3 "~" H 1550 3050 50  0001 C CNN
 	1    1550 2850
 	1    0    0    -1  
@@ -132,7 +132,7 @@ U 1 1 61529B3D
 P 2100 2850
 F 0 "SW8" H 2100 3043 50  0000 C CNN
 F 1 "SW_Push" H 2100 3044 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 2100 3050 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 2100 3050 50  0001 C CNN
 F 3 "~" H 2100 3050 50  0001 C CNN
 	1    2100 2850
 	1    0    0    -1  
@@ -157,7 +157,7 @@ U 1 1 61529B4D
 P 2650 2850
 F 0 "SW9" H 2650 3043 50  0000 C CNN
 F 1 "SW_Push" H 2650 3044 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 2650 3050 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 2650 3050 50  0001 C CNN
 F 3 "~" H 2650 3050 50  0001 C CNN
 	1    2650 2850
 	1    0    0    -1  
@@ -192,7 +192,7 @@ U 1 1 6153203B
 P 1550 3450
 F 0 "SW14" H 1550 3643 50  0000 C CNN
 F 1 "SW_Push" H 1550 3644 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 1550 3650 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 1550 3650 50  0001 C CNN
 F 3 "~" H 1550 3650 50  0001 C CNN
 	1    1550 3450
 	1    0    0    -1  
@@ -216,7 +216,7 @@ U 1 1 61532049
 P 2100 3450
 F 0 "SW15" H 2100 3643 50  0000 C CNN
 F 1 "SW_Push" H 2100 3644 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 2100 3650 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 2100 3650 50  0001 C CNN
 F 3 "~" H 2100 3650 50  0001 C CNN
 	1    2100 3450
 	1    0    0    -1  
@@ -241,7 +241,7 @@ U 1 1 61532059
 P 2650 3450
 F 0 "SW16" H 2650 3643 50  0000 C CNN
 F 1 "SW_Push" H 2650 3644 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 2650 3650 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 2650 3650 50  0001 C CNN
 F 3 "~" H 2650 3650 50  0001 C CNN
 	1    2650 3450
 	1    0    0    -1  
@@ -264,7 +264,7 @@ U 1 1 61532068
 P 3200 3450
 F 0 "SW17" H 3200 3643 50  0000 C CNN
 F 1 "SW_Push" H 3200 3644 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 3200 3650 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 3200 3650 50  0001 C CNN
 F 3 "~" H 3200 3650 50  0001 C CNN
 	1    3200 3450
 	1    0    0    -1  
@@ -286,7 +286,7 @@ U 1 1 61532075
 P 4300 3450
 F 0 "SW18" H 4300 3643 50  0000 C CNN
 F 1 "SW_Push" H 4300 3644 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 4300 3650 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 4300 3650 50  0001 C CNN
 F 3 "~" H 4300 3650 50  0001 C CNN
 	1    4300 3450
 	1    0    0    -1  
@@ -308,7 +308,7 @@ U 1 1 61532082
 P 4850 3450
 F 0 "SW19" H 4850 3643 50  0000 C CNN
 F 1 "SW_Push" H 4850 3644 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 4850 3650 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 4850 3650 50  0001 C CNN
 F 3 "~" H 4850 3650 50  0001 C CNN
 	1    4850 3450
 	1    0    0    -1  
@@ -332,7 +332,7 @@ U 1 1 6153B5B1
 P 1550 4050
 F 0 "SW22" H 1550 4243 50  0000 C CNN
 F 1 "SW_Push" H 1550 4244 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 1550 4250 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 1550 4250 50  0001 C CNN
 F 3 "~" H 1550 4250 50  0001 C CNN
 	1    1550 4050
 	1    0    0    -1  
@@ -345,7 +345,7 @@ U 1 1 6153B5BF
 P 2100 4050
 F 0 "SW23" H 2100 4243 50  0000 C CNN
 F 1 "SW_Push" H 2100 4244 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 2100 4250 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 2100 4250 50  0001 C CNN
 F 3 "~" H 2100 4250 50  0001 C CNN
 	1    2100 4050
 	1    0    0    -1  
@@ -370,7 +370,7 @@ U 1 1 6153B5CF
 P 2650 4050
 F 0 "SW24" H 2650 4243 50  0000 C CNN
 F 1 "SW_Push" H 2650 4244 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 2650 4250 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 2650 4250 50  0001 C CNN
 F 3 "~" H 2650 4250 50  0001 C CNN
 	1    2650 4050
 	1    0    0    -1  
@@ -393,7 +393,7 @@ U 1 1 6153B5DE
 P 3200 4050
 F 0 "SW25" H 3200 4243 50  0000 C CNN
 F 1 "SW_Push" H 3200 4244 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 3200 4250 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 3200 4250 50  0001 C CNN
 F 3 "~" H 3200 4250 50  0001 C CNN
 	1    3200 4050
 	1    0    0    -1  
@@ -415,7 +415,7 @@ U 1 1 6153B5EB
 P 4300 4050
 F 0 "SW26" H 4300 4243 50  0000 C CNN
 F 1 "SW_Push" H 4300 4244 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 4300 4250 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 4300 4250 50  0001 C CNN
 F 3 "~" H 4300 4250 50  0001 C CNN
 	1    4300 4050
 	1    0    0    -1  
@@ -437,7 +437,7 @@ U 1 1 6153B5F8
 P 4850 4050
 F 0 "SW27" H 4850 4243 50  0000 C CNN
 F 1 "SW_Push" H 4850 4244 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 4850 4250 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 4850 4250 50  0001 C CNN
 F 3 "~" H 4850 4250 50  0001 C CNN
 	1    4850 4050
 	1    0    0    -1  
@@ -461,7 +461,7 @@ U 1 1 6154EE77
 P 1550 4650
 F 0 "SW30" H 1550 4843 50  0000 C CNN
 F 1 "SW_Push" H 1550 4844 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 1550 4850 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 1550 4850 50  0001 C CNN
 F 3 "~" H 1550 4850 50  0001 C CNN
 	1    1550 4650
 	1    0    0    -1  
@@ -488,7 +488,7 @@ U 1 1 6154EE95
 P 2650 4650
 F 0 "SW32" H 2650 4843 50  0000 C CNN
 F 1 "SW_Push" H 2650 4844 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 2650 4850 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 2650 4850 50  0001 C CNN
 F 3 "~" H 2650 4850 50  0001 C CNN
 	1    2650 4650
 	1    0    0    -1  
@@ -499,7 +499,7 @@ U 1 1 6154EEA4
 P 3200 4650
 F 0 "SW33" H 3200 4843 50  0000 C CNN
 F 1 "SW_Push" H 3200 4844 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 3200 4850 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 3200 4850 50  0001 C CNN
 F 3 "~" H 3200 4850 50  0001 C CNN
 	1    3200 4650
 	1    0    0    -1  
@@ -521,7 +521,7 @@ U 1 1 6154EEB1
 P 4300 4650
 F 0 "SW34" H 4300 4843 50  0000 C CNN
 F 1 "SW_Push" H 4300 4844 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 4300 4850 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 4300 4850 50  0001 C CNN
 F 3 "~" H 4300 4850 50  0001 C CNN
 	1    4300 4650
 	1    0    0    -1  
@@ -543,7 +543,7 @@ U 1 1 6154EEBE
 P 4850 4650
 F 0 "SW35" H 4850 4843 50  0000 C CNN
 F 1 "SW_Push" H 4850 4844 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 4850 4850 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 4850 4850 50  0001 C CNN
 F 3 "~" H 4850 4850 50  0001 C CNN
 	1    4850 4650
 	1    0    0    -1  
@@ -657,7 +657,7 @@ U 1 1 61529B76
 P 4850 2850
 F 0 "SW11" H 4850 3043 50  0000 C CNN
 F 1 "SW_Push" H 4850 3044 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 4850 3050 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 4850 3050 50  0001 C CNN
 F 3 "~" H 4850 3050 50  0001 C CNN
 	1    4850 2850
 	1    0    0    -1  
@@ -673,7 +673,7 @@ U 1 1 6150BF45
 P 4850 2250
 F 0 "SW4" H 4850 2443 50  0000 C CNN
 F 1 "SW_Push" H 4850 2444 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 4850 2450 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 4850 2450 50  0001 C CNN
 F 3 "~" H 4850 2450 50  0001 C CNN
 	1    4850 2250
 	1    0    0    -1  
@@ -711,7 +711,7 @@ U 1 1 61530C37
 P 2100 4650
 F 0 "SW31" H 2100 4843 50  0000 C CNN
 F 1 "SW_Push" H 2100 4844 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 2100 4850 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 2100 4850 50  0001 C CNN
 F 3 "~" H 2100 4850 50  0001 C CNN
 	1    2100 4650
 	1    0    0    -1  
@@ -765,7 +765,7 @@ U 1 1 619F3129
 P 5400 4650
 F 0 "SW36" H 5400 4843 50  0000 C CNN
 F 1 "SW_Push" H 5400 4844 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 5400 4850 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 5400 4850 50  0001 C CNN
 F 3 "~" H 5400 4850 50  0001 C CNN
 	1    5400 4650
 	1    0    0    -1  
@@ -819,7 +819,7 @@ U 1 1 619F3094
 P 5950 4650
 F 0 "SW37" H 5950 4843 50  0000 C CNN
 F 1 "SW_Push" H 5950 4844 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 5950 4850 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 5950 4850 50  0001 C CNN
 F 3 "~" H 5950 4850 50  0001 C CNN
 	1    5950 4650
 	1    0    0    -1  
@@ -841,7 +841,7 @@ U 1 1 619F3052
 P 5950 4050
 F 0 "SW29" H 5950 4243 50  0000 C CNN
 F 1 "SW_Push" H 5950 4244 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 5950 4250 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 5950 4250 50  0001 C CNN
 F 3 "~" H 5950 4250 50  0001 C CNN
 	1    5950 4050
 	1    0    0    -1  
@@ -863,7 +863,7 @@ U 1 1 619F3044
 P 5400 4050
 F 0 "SW28" H 5400 4243 50  0000 C CNN
 F 1 "SW_Push" H 5400 4244 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 5400 4250 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 5400 4250 50  0001 C CNN
 F 3 "~" H 5400 4250 50  0001 C CNN
 	1    5400 4050
 	1    0    0    -1  
@@ -885,7 +885,7 @@ U 1 1 619F3004
 P 5950 3450
 F 0 "SW21" H 5950 3643 50  0000 C CNN
 F 1 "SW_Push" H 5950 3644 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 5950 3650 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 5950 3650 50  0001 C CNN
 F 3 "~" H 5950 3650 50  0001 C CNN
 	1    5950 3450
 	1    0    0    -1  
@@ -907,7 +907,7 @@ U 1 1 619F2FF6
 P 5400 3450
 F 0 "SW20" H 5400 3643 50  0000 C CNN
 F 1 "SW_Push" H 5400 3644 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 5400 3650 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 5400 3650 50  0001 C CNN
 F 3 "~" H 5400 3650 50  0001 C CNN
 	1    5400 3450
 	1    0    0    -1  
@@ -929,7 +929,7 @@ U 1 1 619F2FC2
 P 5950 2850
 F 0 "SW13" H 5950 3043 50  0000 C CNN
 F 1 "SW_Push" H 5950 3044 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 5950 3050 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 5950 3050 50  0001 C CNN
 F 3 "~" H 5950 3050 50  0001 C CNN
 	1    5950 2850
 	1    0    0    -1  
@@ -951,7 +951,7 @@ U 1 1 619F2FB4
 P 5400 2850
 F 0 "SW12" H 5400 3043 50  0000 C CNN
 F 1 "SW_Push" H 5400 3044 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 5400 3050 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 5400 3050 50  0001 C CNN
 F 3 "~" H 5400 3050 50  0001 C CNN
 	1    5400 2850
 	1    0    0    -1  
@@ -977,7 +977,7 @@ U 1 1 619F2F7B
 P 5950 2250
 F 0 "SW6" H 5950 2443 50  0000 C CNN
 F 1 "SW_Push" H 5950 2444 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 5950 2450 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 5950 2450 50  0001 C CNN
 F 3 "~" H 5950 2450 50  0001 C CNN
 	1    5950 2250
 	1    0    0    -1  
@@ -1003,7 +1003,7 @@ U 1 1 619F2F6B
 P 5400 2250
 F 0 "SW5" H 5400 2443 50  0000 C CNN
 F 1 "SW_Push" H 5400 2444 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 5400 2450 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 5400 2450 50  0001 C CNN
 F 3 "~" H 5400 2450 50  0001 C CNN
 	1    5400 2250
 	1    0    0    -1  
@@ -1026,7 +1026,7 @@ U 1 1 61662475
 P 1550 5250
 F 0 "SW38" H 1550 5443 50  0000 C CNN
 F 1 "SW_Push" H 1550 5444 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 1550 5450 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 1550 5450 50  0001 C CNN
 F 3 "~" H 1550 5450 50  0001 C CNN
 	1    1550 5250
 	1    0    0    -1  
@@ -1053,7 +1053,7 @@ U 1 1 61662484
 P 2650 5250
 F 0 "SW40" H 2650 5443 50  0000 C CNN
 F 1 "SW_Push" H 2650 5444 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 2650 5450 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 2650 5450 50  0001 C CNN
 F 3 "~" H 2650 5450 50  0001 C CNN
 	1    2650 5250
 	1    0    0    -1  
@@ -1064,7 +1064,7 @@ U 1 1 6166248A
 P 3200 5250
 F 0 "SW41" H 3200 5443 50  0000 C CNN
 F 1 "SW_Push" H 3200 5444 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 3200 5450 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 3200 5450 50  0001 C CNN
 F 3 "~" H 3200 5450 50  0001 C CNN
 	1    3200 5250
 	1    0    0    -1  
@@ -1086,7 +1086,7 @@ U 1 1 61662496
 P 4300 5250
 F 0 "SW42" H 4300 5443 50  0000 C CNN
 F 1 "SW_Push" H 4300 5444 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 4300 5450 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 4300 5450 50  0001 C CNN
 F 3 "~" H 4300 5450 50  0001 C CNN
 	1    4300 5250
 	1    0    0    -1  
@@ -1108,7 +1108,7 @@ U 1 1 616624A2
 P 4850 5250
 F 0 "SW43" H 4850 5443 50  0000 C CNN
 F 1 "SW_Push" H 4850 5444 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 4850 5450 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 4850 5450 50  0001 C CNN
 F 3 "~" H 4850 5450 50  0001 C CNN
 	1    4850 5250
 	1    0    0    -1  
@@ -1157,7 +1157,7 @@ U 1 1 616624BE
 P 2100 5250
 F 0 "SW39" H 2100 5443 50  0000 C CNN
 F 1 "SW_Push" H 2100 5444 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 2100 5450 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 2100 5450 50  0001 C CNN
 F 3 "~" H 2100 5450 50  0001 C CNN
 	1    2100 5250
 	1    0    0    -1  
@@ -1201,7 +1201,7 @@ U 1 1 616624F5
 P 5400 5250
 F 0 "SW44" H 5400 5443 50  0000 C CNN
 F 1 "SW_Push" H 5400 5444 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 5400 5450 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 5400 5450 50  0001 C CNN
 F 3 "~" H 5400 5450 50  0001 C CNN
 	1    5400 5250
 	1    0    0    -1  
@@ -1227,7 +1227,7 @@ U 1 1 61662522
 P 5950 5250
 F 0 "SW45" H 5950 5443 50  0000 C CNN
 F 1 "SW_Push" H 5950 5444 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 5950 5450 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 5950 5450 50  0001 C CNN
 F 3 "~" H 5950 5450 50  0001 C CNN
 	1    5950 5250
 	1    0    0    -1  
@@ -1238,7 +1238,7 @@ U 1 1 61676B55
 P 1550 5850
 F 0 "SW46" H 1550 6043 50  0000 C CNN
 F 1 "SW_Push" H 1550 6044 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 1550 6050 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 1550 6050 50  0001 C CNN
 F 3 "~" H 1550 6050 50  0001 C CNN
 	1    1550 5850
 	1    0    0    -1  
@@ -1265,7 +1265,7 @@ U 1 1 61676B64
 P 2650 5850
 F 0 "SW48" H 2650 6043 50  0000 C CNN
 F 1 "SW_Push" H 2650 6044 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 2650 6050 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 2650 6050 50  0001 C CNN
 F 3 "~" H 2650 6050 50  0001 C CNN
 	1    2650 5850
 	1    0    0    -1  
@@ -1276,7 +1276,7 @@ U 1 1 61676B6A
 P 3200 5850
 F 0 "SW49" H 3200 6043 50  0000 C CNN
 F 1 "SW_Push" H 3200 6044 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 3200 6050 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 3200 6050 50  0001 C CNN
 F 3 "~" H 3200 6050 50  0001 C CNN
 	1    3200 5850
 	1    0    0    -1  
@@ -1298,7 +1298,7 @@ U 1 1 61676B76
 P 4300 5850
 F 0 "SW50" H 4300 6043 50  0000 C CNN
 F 1 "SW_Push" H 4300 6044 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 4300 6050 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 4300 6050 50  0001 C CNN
 F 3 "~" H 4300 6050 50  0001 C CNN
 	1    4300 5850
 	1    0    0    -1  
@@ -1320,7 +1320,7 @@ U 1 1 61676B82
 P 4850 5850
 F 0 "SW51" H 4850 6043 50  0000 C CNN
 F 1 "SW_Push" H 4850 6044 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 4850 6050 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 4850 6050 50  0001 C CNN
 F 3 "~" H 4850 6050 50  0001 C CNN
 	1    4850 5850
 	1    0    0    -1  
@@ -1369,7 +1369,7 @@ U 1 1 61676B9E
 P 2100 5850
 F 0 "SW47" H 2100 6043 50  0000 C CNN
 F 1 "SW_Push" H 2100 6044 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 2100 6050 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 2100 6050 50  0001 C CNN
 F 3 "~" H 2100 6050 50  0001 C CNN
 	1    2100 5850
 	1    0    0    -1  
@@ -1413,7 +1413,7 @@ U 1 1 61676BD5
 P 5400 5850
 F 0 "SW52" H 5400 6043 50  0000 C CNN
 F 1 "SW_Push" H 5400 6044 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 5400 6050 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 5400 6050 50  0001 C CNN
 F 3 "~" H 5400 6050 50  0001 C CNN
 	1    5400 5850
 	1    0    0    -1  
@@ -1439,7 +1439,7 @@ U 1 1 61676C02
 P 5950 5850
 F 0 "SW53" H 5950 6043 50  0000 C CNN
 F 1 "SW_Push" H 5950 6044 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 5950 6050 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 5950 6050 50  0001 C CNN
 F 3 "~" H 5950 6050 50  0001 C CNN
 	1    5950 5850
 	1    0    0    -1  
@@ -1450,7 +1450,7 @@ U 1 1 61696782
 P 1550 6450
 F 0 "SW54" H 1550 6643 50  0000 C CNN
 F 1 "SW_Push" H 1550 6644 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 1550 6650 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 1550 6650 50  0001 C CNN
 F 3 "~" H 1550 6650 50  0001 C CNN
 	1    1550 6450
 	1    0    0    -1  
@@ -1477,7 +1477,7 @@ U 1 1 61696791
 P 2650 6450
 F 0 "SW56" H 2650 6643 50  0000 C CNN
 F 1 "SW_Push" H 2650 6644 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 2650 6650 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 2650 6650 50  0001 C CNN
 F 3 "~" H 2650 6650 50  0001 C CNN
 	1    2650 6450
 	1    0    0    -1  
@@ -1488,7 +1488,7 @@ U 1 1 61696797
 P 3200 6450
 F 0 "SW57" H 3200 6643 50  0000 C CNN
 F 1 "SW_Push" H 3200 6644 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 3200 6650 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 3200 6650 50  0001 C CNN
 F 3 "~" H 3200 6650 50  0001 C CNN
 	1    3200 6450
 	1    0    0    -1  
@@ -1499,7 +1499,7 @@ U 1 1 616967AF
 P 4850 6450
 F 0 "SW59" H 4850 6643 50  0000 C CNN
 F 1 "SW_Push" H 4850 6644 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 4850 6650 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 4850 6650 50  0001 C CNN
 F 3 "~" H 4850 6650 50  0001 C CNN
 	1    4850 6450
 	1    0    0    -1  
@@ -1540,7 +1540,7 @@ U 1 1 616967CB
 P 2100 6450
 F 0 "SW55" H 2100 6643 50  0000 C CNN
 F 1 "SW_Push" H 2100 6644 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 2100 6650 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 2100 6650 50  0001 C CNN
 F 3 "~" H 2100 6650 50  0001 C CNN
 	1    2100 6450
 	1    0    0    -1  
@@ -1584,7 +1584,7 @@ U 1 1 61696802
 P 5400 6450
 F 0 "SW60" H 5400 6643 50  0000 C CNN
 F 1 "SW_Push" H 5400 6644 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 5400 6650 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 5400 6650 50  0001 C CNN
 F 3 "~" H 5400 6650 50  0001 C CNN
 	1    5400 6450
 	1    0    0    -1  
@@ -1610,7 +1610,7 @@ U 1 1 6169682F
 P 5950 6450
 F 0 "SW61" H 5950 6643 50  0000 C CNN
 F 1 "SW_Push" H 5950 6644 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 5950 6650 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 5950 6650 50  0001 C CNN
 F 3 "~" H 5950 6650 50  0001 C CNN
 	1    5950 6450
 	1    0    0    -1  
@@ -1672,14 +1672,14 @@ Connection ~ 2850 5850
 Connection ~ 3400 5850
 Wire Wire Line
 	3400 1950 3400 2850
-Text GLabel 2700 850  0    50   Input ~ 0
+Text GLabel 2900 850  0    50   Input ~ 0
 encB
-Text GLabel 2700 750  0    50   Input ~ 0
+Text GLabel 2900 750  0    50   Input ~ 0
 encA
 Wire Wire Line
 	3000 2450 3000 2850
 Wire Wire Line
-	4500 1950 4500 2850
+	4500 1950 4500 3450
 Wire Wire Line
 	2450 2550 4650 2550
 Connection ~ 2450 2550
@@ -1689,7 +1689,7 @@ Wire Wire Line
 Connection ~ 3000 3150
 Connection ~ 4650 3150
 Wire Wire Line
-	3000 3150 4100 3150
+	3000 3150 4650 3150
 Wire Wire Line
 	3000 6750 4100 6750
 Wire Wire Line
@@ -1712,7 +1712,7 @@ U 1 1 61D55066
 P 4300 6450
 F 0 "SW58" H 4300 6643 50  0000 C CNN
 F 1 "SW_Push" H 4300 6644 50  0001 C CNN
-F 2 "footprints:Kailh_socket_PG1350_optional_mkultra" H 4300 6650 50  0001 C CNN
+F 2 "footprints:Kailh_socket_PG1350_optional_chosfox" H 4300 6650 50  0001 C CNN
 F 3 "~" H 4300 6650 50  0001 C CNN
 	1    4300 6450
 	1    0    0    -1  
@@ -1853,6 +1853,160 @@ Wire Wire Line
 	9550 4150 9550 4000
 Connection ~ 9550 4000
 $Comp
+L Mechanical:MountingHole H1
+U 1 1 6153F96B
+P 7600 950
+F 0 "H1" H 7700 996 50  0000 L CNN
+F 1 "MountingHole" H 7700 905 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 7600 950 50  0001 C CNN
+F 3 "~" H 7600 950 50  0001 C CNN
+	1    7600 950 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H11
+U 1 1 6154EEAB
+P 7600 1550
+F 0 "H11" H 7700 1596 50  0000 L CNN
+F 1 "MountingHole" H 7700 1505 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 7600 1550 50  0001 C CNN
+F 3 "~" H 7600 1550 50  0001 C CNN
+	1    7600 1550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H20
+U 1 1 6155DE5B
+P 7600 2150
+F 0 "H20" H 7700 2196 50  0000 L CNN
+F 1 "MountingHole" H 7700 2105 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 7600 2150 50  0001 C CNN
+F 3 "~" H 7600 2150 50  0001 C CNN
+	1    7600 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 6158B5E4
+P 8400 950
+F 0 "H2" H 8500 996 50  0000 L CNN
+F 1 "MountingHole" H 8500 905 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 8400 950 50  0001 C CNN
+F 3 "~" H 8400 950 50  0001 C CNN
+	1    8400 950 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H6
+U 1 1 6158B5EA
+P 8400 1150
+F 0 "H6" H 8500 1196 50  0000 L CNN
+F 1 "MountingHole" H 8500 1105 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 8400 1150 50  0001 C CNN
+F 3 "~" H 8400 1150 50  0001 C CNN
+	1    8400 1150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H12
+U 1 1 6158B5F6
+P 8400 1550
+F 0 "H12" H 8500 1596 50  0000 L CNN
+F 1 "MountingHole" H 8500 1505 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 8400 1550 50  0001 C CNN
+F 3 "~" H 8400 1550 50  0001 C CNN
+	1    8400 1550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H15
+U 1 1 6158B5FC
+P 8400 1750
+F 0 "H15" H 8500 1796 50  0000 L CNN
+F 1 "MountingHole" H 8500 1705 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 8400 1750 50  0001 C CNN
+F 3 "~" H 8400 1750 50  0001 C CNN
+	1    8400 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H18
+U 1 1 6158B602
+P 8400 1950
+F 0 "H18" H 8500 1996 50  0000 L CNN
+F 1 "MountingHole" H 8500 1905 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 8400 1950 50  0001 C CNN
+F 3 "~" H 8400 1950 50  0001 C CNN
+	1    8400 1950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 61591EB2
+P 9200 950
+F 0 "H3" H 9300 996 50  0000 L CNN
+F 1 "MountingHole" H 9300 905 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 9200 950 50  0001 C CNN
+F 3 "~" H 9200 950 50  0001 C CNN
+	1    9200 950 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H10
+U 1 1 61591EBE
+P 9200 1350
+F 0 "H10" H 9300 1396 50  0000 L CNN
+F 1 "MountingHole" H 9300 1305 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 9200 1350 50  0001 C CNN
+F 3 "~" H 9200 1350 50  0001 C CNN
+	1    9200 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H13
+U 1 1 61591EC4
+P 9200 1550
+F 0 "H13" H 9300 1596 50  0000 L CNN
+F 1 "MountingHole" H 9300 1505 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 9200 1550 50  0001 C CNN
+F 3 "~" H 9200 1550 50  0001 C CNN
+	1    9200 1550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H16
+U 1 1 61591ECA
+P 9200 1750
+F 0 "H16" H 9300 1796 50  0000 L CNN
+F 1 "MountingHole" H 9300 1705 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 9200 1750 50  0001 C CNN
+F 3 "~" H 9200 1750 50  0001 C CNN
+	1    9200 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H22
+U 1 1 61591ED6
+P 9200 2150
+F 0 "H22" H 9300 2196 50  0000 L CNN
+F 1 "MountingHole" H 9300 2105 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 9200 2150 50  0001 C CNN
+F 3 "~" H 9200 2150 50  0001 C CNN
+	1    9200 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 6159B775
+P 7600 1750
+F 0 "H4" H 7700 1796 50  0000 L CNN
+F 1 "MountingHole" H 7700 1705 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 7600 1750 50  0001 C CNN
+F 3 "~" H 7600 1750 50  0001 C CNN
+	1    7600 1750
+	1    0    0    -1  
+$EndComp
+$Comp
 L evqwgd001:EVQWGD001 ENC1
 U 1 1 615A9AC4
 P 3550 850
@@ -1873,768 +2027,26 @@ Wire Wire Line
 	3450 550  3900 550 
 Wire Wire Line
 	3000 2450 3900 2450
+$Comp
+L Mechanical:MountingHole H21
+U 1 1 6158B608
+P 8400 2150
+F 0 "H21" H 8500 2196 50  0000 L CNN
+F 1 "MountingHole" H 8500 2105 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 8400 2150 50  0001 C CNN
+F 3 "~" H 8400 2150 50  0001 C CNN
+	1    8400 2150
+	1    0    0    -1  
+$EndComp
 NoConn ~ 3200 1050
+Wire Wire Line
+	3900 550  3900 2450
+Wire Wire Line
+	4000 600  4000 2850
 Wire Wire Line
 	2900 850  3200 850 
 Wire Wire Line
 	2900 950  3200 950 
 Wire Wire Line
 	2900 750  3200 750 
-Text GLabel 4750 1150 0    50   Input ~ 0
-encB
-Text GLabel 4750 1050 0    50   Input ~ 0
-encA
-$Comp
-L evqwgd001:EVQWGD001 ENC2
-U 1 1 63C5D79B
-P 5400 1150
-F 0 "ENC2" H 5678 1204 50  0000 L CNN
-F 1 "EVQWGD001" H 5678 1113 50  0000 L CNN
-F 2 "footprints:EVQWGD001" H 5400 1150 50  0001 C CNN
-F 3 "" H 5400 1150 50  0001 C CNN
-	1    5400 1150
-	1    0    0    -1  
-$EndComp
-Text GLabel 4750 1250 0    50   Input ~ 0
-GND
-Wire Wire Line
-	5300 900  5300 850 
-NoConn ~ 1750 1650
-$Comp
-L Device:Jumper_NC_Small JP2
-U 1 1 63D764A1
-P 2800 850
-F 0 "JP2" H 2850 900 50  0000 C CNN
-F 1 "Jumper_NC_Small" H 2800 971 50  0001 C CNN
-F 2 "footprints:avalanche_Jumper_NC" H 2800 850 50  0001 C CNN
-F 3 "~" H 2800 850 50  0001 C CNN
-	1    2800 850 
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:Jumper_NC_Small JP1
-U 1 1 63DA7A93
-P 2800 750
-F 0 "JP1" H 2850 800 50  0000 C CNN
-F 1 "Jumper_NC_Small" H 2800 871 50  0001 C CNN
-F 2 "footprints:avalanche_Jumper_NC" H 2800 750 50  0001 C CNN
-F 3 "~" H 2800 750 50  0001 C CNN
-	1    2800 750 
-	-1   0    0    1   
-$EndComp
-$Comp
-L Diode:1N4148 D62
-U 1 1 63DE32C4
-P 4100 3000
-F 0 "D62" V 4100 2920 50  0000 R CNN
-F 1 "1N4148" H 4100 3126 50  0001 C CNN
-F 2 "footprints:diode_TH_SMD" H 4100 2825 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4100 3000 50  0001 C CNN
-	1    4100 3000
-	0    -1   -1   0   
-$EndComp
-Connection ~ 4100 3150
-Wire Wire Line
-	4100 3150 4650 3150
-Wire Wire Line
-	3900 550  3900 2450
-Wire Wire Line
-	4000 600  4000 2850
-Wire Wire Line
-	4300 2850 4500 2850
-Connection ~ 4500 2850
-Wire Wire Line
-	4500 2850 4500 3450
-Wire Wire Line
-	5300 850  4100 850 
-Wire Wire Line
-	4100 850  4100 2850
-Wire Wire Line
-	5400 900  5400 750 
-Wire Wire Line
-	5400 750  4300 750 
-Wire Wire Line
-	4300 750  4300 2850
-$Comp
-L Device:Jumper_NO_Small JP4
-U 1 1 63EC2670
-P 4900 1150
-F 0 "JP4" H 4950 1200 50  0000 C CNN
-F 1 "Jumper_NC_Small" H 4900 1271 50  0001 C CNN
-F 2 "footprints:avalanche_Jumper" H 4900 1150 50  0001 C CNN
-F 3 "~" H 4900 1150 50  0001 C CNN
-	1    4900 1150
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:Jumper_NO_Small JP3
-U 1 1 63EC2676
-P 4900 1050
-F 0 "JP3" H 4950 1100 50  0000 C CNN
-F 1 "Jumper_NC_Small" H 4900 1171 50  0001 C CNN
-F 2 "footprints:avalanche_Jumper" H 4900 1050 50  0001 C CNN
-F 3 "~" H 4900 1050 50  0001 C CNN
-	1    4900 1050
-	-1   0    0    1   
-$EndComp
-Wire Wire Line
-	5050 1050 5000 1050
-Wire Wire Line
-	4800 1050 4750 1050
-Wire Wire Line
-	4800 1150 4750 1150
-Wire Wire Line
-	5050 1150 5000 1150
-NoConn ~ 5050 1350
-Wire Wire Line
-	4750 1250 5050 1250
-$Comp
-L Mechanical:MountingHole H2
-U 1 1 63C7212E
-P 7100 650
-F 0 "H2" H 7200 696 50  0000 L CNN
-F 1 "10mm" H 7200 605 50  0000 L CNN
-F 2 "footprints:hole_10mm" H 7100 650 50  0001 C CNN
-F 3 "~" H 7100 650 50  0001 C CNN
-	1    7100 650 
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H3
-U 1 1 63C77D3C
-P 7100 850
-F 0 "H3" H 7200 896 50  0000 L CNN
-F 1 "10mm" H 7200 805 50  0000 L CNN
-F 2 "footprints:hole_10mm" H 7100 850 50  0001 C CNN
-F 3 "~" H 7100 850 50  0001 C CNN
-	1    7100 850 
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H4
-U 1 1 63C80DFD
-P 7700 650
-F 0 "H4" H 7800 696 50  0000 L CNN
-F 1 "5mm" H 7800 605 50  0000 L CNN
-F 2 "footprints:hole_5mm" H 7700 650 50  0001 C CNN
-F 3 "~" H 7700 650 50  0001 C CNN
-	1    7700 650 
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H5
-U 1 1 63C87075
-P 7700 850
-F 0 "H5" H 7800 896 50  0000 L CNN
-F 1 "5mm" H 7800 805 50  0000 L CNN
-F 2 "footprints:hole_5mm" H 7700 850 50  0001 C CNN
-F 3 "~" H 7700 850 50  0001 C CNN
-	1    7700 850 
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H6
-U 1 1 63C8CD2B
-P 7700 1050
-F 0 "H6" H 7800 1096 50  0000 L CNN
-F 1 "5mm" H 7800 1005 50  0000 L CNN
-F 2 "footprints:hole_5mm" H 7700 1050 50  0001 C CNN
-F 3 "~" H 7700 1050 50  0001 C CNN
-	1    7700 1050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H7
-U 1 1 63C93F0C
-P 8200 650
-F 0 "H7" H 8300 696 50  0000 L CNN
-F 1 "3mm" H 8300 605 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 8200 650 50  0001 C CNN
-F 3 "~" H 8200 650 50  0001 C CNN
-	1    8200 650 
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H8
-U 1 1 63C9A06F
-P 8200 850
-F 0 "H8" H 8300 896 50  0000 L CNN
-F 1 "3mm" H 8300 805 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 8200 850 50  0001 C CNN
-F 3 "~" H 8200 850 50  0001 C CNN
-	1    8200 850 
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H10
-U 1 1 63CA6189
-P 9650 650
-F 0 "H10" H 9750 696 50  0000 L CNN
-F 1 "2mm" H 9750 605 50  0000 L CNN
-F 2 "footprints:hole_2mm" H 9650 650 50  0001 C CNN
-F 3 "~" H 9650 650 50  0001 C CNN
-	1    9650 650 
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H11
-U 1 1 63CAC530
-P 9650 850
-F 0 "H11" H 9750 896 50  0000 L CNN
-F 1 "2mm" H 9750 805 50  0000 L CNN
-F 2 "footprints:hole_2mm" H 9650 850 50  0001 C CNN
-F 3 "~" H 9650 850 50  0001 C CNN
-	1    9650 850 
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H12
-U 1 1 63CB20FA
-P 9650 1050
-F 0 "H12" H 9750 1096 50  0000 L CNN
-F 1 "2mm" H 9750 1005 50  0000 L CNN
-F 2 "footprints:hole_2mm" H 9650 1050 50  0001 C CNN
-F 3 "~" H 9650 1050 50  0001 C CNN
-	1    9650 1050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H13
-U 1 1 63CB865D
-P 10100 650
-F 0 "H13" H 10200 696 50  0000 L CNN
-F 1 "1mm" H 10200 605 50  0000 L CNN
-F 2 "footprints:hole_1mm" H 10100 650 50  0001 C CNN
-F 3 "~" H 10100 650 50  0001 C CNN
-	1    10100 650 
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H14
-U 1 1 63CBEE91
-P 10100 850
-F 0 "H14" H 10200 896 50  0000 L CNN
-F 1 "1mm" H 10200 805 50  0000 L CNN
-F 2 "footprints:hole_1mm" H 10100 850 50  0001 C CNN
-F 3 "~" H 10100 850 50  0001 C CNN
-	1    10100 850 
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H25
-U 1 1 63D29121
-P 7100 1250
-F 0 "H25" H 7200 1296 50  0000 L CNN
-F 1 "10mm" H 7200 1205 50  0000 L CNN
-F 2 "footprints:hole_10mm" H 7100 1250 50  0001 C CNN
-F 3 "~" H 7100 1250 50  0001 C CNN
-	1    7100 1250
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H26
-U 1 1 63D29127
-P 7100 1450
-F 0 "H26" H 7200 1496 50  0000 L CNN
-F 1 "10mm" H 7200 1405 50  0000 L CNN
-F 2 "footprints:hole_10mm" H 7100 1450 50  0001 C CNN
-F 3 "~" H 7100 1450 50  0001 C CNN
-	1    7100 1450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H30
-U 1 1 63D2912D
-P 7700 1250
-F 0 "H30" H 7800 1296 50  0000 L CNN
-F 1 "5mm" H 7800 1205 50  0000 L CNN
-F 2 "footprints:hole_5mm" H 7700 1250 50  0001 C CNN
-F 3 "~" H 7700 1250 50  0001 C CNN
-	1    7700 1250
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H31
-U 1 1 63D29133
-P 7700 1450
-F 0 "H31" H 7800 1496 50  0000 L CNN
-F 1 "5mm" H 7800 1405 50  0000 L CNN
-F 2 "footprints:hole_5mm" H 7700 1450 50  0001 C CNN
-F 3 "~" H 7700 1450 50  0001 C CNN
-	1    7700 1450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H32
-U 1 1 63D29139
-P 7700 1650
-F 0 "H32" H 7800 1696 50  0000 L CNN
-F 1 "5mm" H 7800 1605 50  0000 L CNN
-F 2 "footprints:hole_5mm" H 7700 1650 50  0001 C CNN
-F 3 "~" H 7700 1650 50  0001 C CNN
-	1    7700 1650
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H36
-U 1 1 63D2913F
-P 8200 1250
-F 0 "H36" H 8300 1296 50  0000 L CNN
-F 1 "3mm" H 8300 1205 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 8200 1250 50  0001 C CNN
-F 3 "~" H 8200 1250 50  0001 C CNN
-	1    8200 1250
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H37
-U 1 1 63D29145
-P 8200 1450
-F 0 "H37" H 8300 1496 50  0000 L CNN
-F 1 "3mm" H 8300 1405 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 8200 1450 50  0001 C CNN
-F 3 "~" H 8200 1450 50  0001 C CNN
-	1    8200 1450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H38
-U 1 1 63D2914B
-P 8200 1650
-F 0 "H38" H 8300 1696 50  0000 L CNN
-F 1 "3mm" H 8300 1605 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 8200 1650 50  0001 C CNN
-F 3 "~" H 8200 1650 50  0001 C CNN
-	1    8200 1650
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H42
-U 1 1 63D29151
-P 9650 1250
-F 0 "H42" H 9750 1296 50  0000 L CNN
-F 1 "2mm" H 9750 1205 50  0000 L CNN
-F 2 "footprints:hole_2mm" H 9650 1250 50  0001 C CNN
-F 3 "~" H 9650 1250 50  0001 C CNN
-	1    9650 1250
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H43
-U 1 1 63D29157
-P 9650 1450
-F 0 "H43" H 9750 1496 50  0000 L CNN
-F 1 "2mm" H 9750 1405 50  0000 L CNN
-F 2 "footprints:hole_2mm" H 9650 1450 50  0001 C CNN
-F 3 "~" H 9650 1450 50  0001 C CNN
-	1    9650 1450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H48
-U 1 1 63D29163
-P 10100 1250
-F 0 "H48" H 10200 1296 50  0000 L CNN
-F 1 "1mm" H 10200 1205 50  0000 L CNN
-F 2 "footprints:hole_1mm" H 10100 1250 50  0001 C CNN
-F 3 "~" H 10100 1250 50  0001 C CNN
-	1    10100 1250
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H49
-U 1 1 63D29169
-P 10100 1450
-F 0 "H49" H 10200 1496 50  0000 L CNN
-F 1 "1mm" H 10200 1405 50  0000 L CNN
-F 2 "footprints:hole_1mm" H 10100 1450 50  0001 C CNN
-F 3 "~" H 10100 1450 50  0001 C CNN
-	1    10100 1450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H27
-U 1 1 63D35D6C
-P 7100 1650
-F 0 "H27" H 7200 1696 50  0000 L CNN
-F 1 "10mm" H 7200 1605 50  0000 L CNN
-F 2 "footprints:hole_10mm" H 7100 1650 50  0001 C CNN
-F 3 "~" H 7100 1650 50  0001 C CNN
-	1    7100 1650
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H28
-U 1 1 63D35D72
-P 7100 1850
-F 0 "H28" H 7200 1896 50  0000 L CNN
-F 1 "10mm" H 7200 1805 50  0000 L CNN
-F 2 "footprints:hole_10mm" H 7100 1850 50  0001 C CNN
-F 3 "~" H 7100 1850 50  0001 C CNN
-	1    7100 1850
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H29
-U 1 1 63D35D78
-P 7100 2050
-F 0 "H29" H 7200 2096 50  0000 L CNN
-F 1 "10mm" H 7200 2005 50  0000 L CNN
-F 2 "footprints:hole_10mm" H 7100 2050 50  0001 C CNN
-F 3 "~" H 7100 2050 50  0001 C CNN
-	1    7100 2050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H33
-U 1 1 63D35D7E
-P 7700 1850
-F 0 "H33" H 7800 1896 50  0000 L CNN
-F 1 "5mm" H 7800 1805 50  0000 L CNN
-F 2 "footprints:hole_5mm" H 7700 1850 50  0001 C CNN
-F 3 "~" H 7700 1850 50  0001 C CNN
-	1    7700 1850
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H34
-U 1 1 63D35D84
-P 7700 2050
-F 0 "H34" H 7800 2096 50  0000 L CNN
-F 1 "5mm" H 7800 2005 50  0000 L CNN
-F 2 "footprints:hole_5mm" H 7700 2050 50  0001 C CNN
-F 3 "~" H 7700 2050 50  0001 C CNN
-	1    7700 2050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H35
-U 1 1 63D35D8A
-P 7700 2250
-F 0 "H35" H 7800 2296 50  0000 L CNN
-F 1 "5mm" H 7800 2205 50  0000 L CNN
-F 2 "footprints:hole_5mm" H 7700 2250 50  0001 C CNN
-F 3 "~" H 7700 2250 50  0001 C CNN
-	1    7700 2250
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H39
-U 1 1 63D35D90
-P 8200 1850
-F 0 "H39" H 8300 1896 50  0000 L CNN
-F 1 "3mm" H 8300 1805 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 8200 1850 50  0001 C CNN
-F 3 "~" H 8200 1850 50  0001 C CNN
-	1    8200 1850
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H40
-U 1 1 63D35D96
-P 8200 2050
-F 0 "H40" H 8300 2096 50  0000 L CNN
-F 1 "3mm" H 8300 2005 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 8200 2050 50  0001 C CNN
-F 3 "~" H 8200 2050 50  0001 C CNN
-	1    8200 2050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H41
-U 1 1 63D35D9C
-P 8200 2250
-F 0 "H41" H 8300 2296 50  0000 L CNN
-F 1 "3mm" H 8300 2205 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 8200 2250 50  0001 C CNN
-F 3 "~" H 8200 2250 50  0001 C CNN
-	1    8200 2250
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H46
-U 1 1 63D35DA8
-P 9650 1650
-F 0 "H46" H 9750 1696 50  0000 L CNN
-F 1 "2mm" H 9750 1605 50  0000 L CNN
-F 2 "footprints:hole_2mm" H 9650 1650 50  0001 C CNN
-F 3 "~" H 9650 1650 50  0001 C CNN
-	1    9650 1650
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H50
-U 1 1 63D35DB4
-P 10100 1650
-F 0 "H50" H 10200 1696 50  0000 L CNN
-F 1 "1mm" H 10200 1605 50  0000 L CNN
-F 2 "footprints:hole_1mm" H 10100 1650 50  0001 C CNN
-F 3 "~" H 10100 1650 50  0001 C CNN
-	1    10100 1650
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H51
-U 1 1 63D35DBA
-P 10100 1850
-F 0 "H51" H 10200 1896 50  0000 L CNN
-F 1 "1mm" H 10200 1805 50  0000 L CNN
-F 2 "footprints:hole_1mm" H 10100 1850 50  0001 C CNN
-F 3 "~" H 10100 1850 50  0001 C CNN
-	1    10100 1850
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H52
-U 1 1 63C4FDD7
-P 8200 2450
-F 0 "H52" H 8300 2496 50  0000 L CNN
-F 1 "3mm" H 8300 2405 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 8200 2450 50  0001 C CNN
-F 3 "~" H 8200 2450 50  0001 C CNN
-	1    8200 2450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H53
-U 1 1 63C4FDDD
-P 8200 2650
-F 0 "H53" H 8300 2696 50  0000 L CNN
-F 1 "3mm" H 8300 2605 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 8200 2650 50  0001 C CNN
-F 3 "~" H 8200 2650 50  0001 C CNN
-	1    8200 2650
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H54
-U 1 1 63C4FDE3
-P 8200 2850
-F 0 "H54" H 8300 2896 50  0000 L CNN
-F 1 "3mm" H 8300 2805 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 8200 2850 50  0001 C CNN
-F 3 "~" H 8200 2850 50  0001 C CNN
-	1    8200 2850
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H55
-U 1 1 63C4FDE9
-P 8200 3050
-F 0 "H55" H 8300 3096 50  0000 L CNN
-F 1 "3mm" H 8300 3005 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 8200 3050 50  0001 C CNN
-F 3 "~" H 8200 3050 50  0001 C CNN
-	1    8200 3050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H56
-U 1 1 63C4FDEF
-P 8700 650
-F 0 "H56" H 8800 696 50  0000 L CNN
-F 1 "3mm" H 8800 605 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 8700 650 50  0001 C CNN
-F 3 "~" H 8700 650 50  0001 C CNN
-	1    8700 650 
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H57
-U 1 1 63CE0035
-P 8700 850
-F 0 "H57" H 8800 896 50  0000 L CNN
-F 1 "3mm" H 8800 805 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 8700 850 50  0001 C CNN
-F 3 "~" H 8700 850 50  0001 C CNN
-	1    8700 850 
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H58
-U 1 1 63CE003B
-P 8700 1050
-F 0 "H58" H 8800 1096 50  0000 L CNN
-F 1 "3mm" H 8800 1005 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 8700 1050 50  0001 C CNN
-F 3 "~" H 8700 1050 50  0001 C CNN
-	1    8700 1050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H59
-U 1 1 63CE0041
-P 8700 1250
-F 0 "H59" H 8800 1296 50  0000 L CNN
-F 1 "3mm" H 8800 1205 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 8700 1250 50  0001 C CNN
-F 3 "~" H 8700 1250 50  0001 C CNN
-	1    8700 1250
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H61
-U 1 1 63CE004D
-P 8700 1450
-F 0 "H61" H 8800 1496 50  0000 L CNN
-F 1 "3mm" H 8800 1405 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 8700 1450 50  0001 C CNN
-F 3 "~" H 8700 1450 50  0001 C CNN
-	1    8700 1450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H62
-U 1 1 63CE0053
-P 8700 1650
-F 0 "H62" H 8800 1696 50  0000 L CNN
-F 1 "3mm" H 8800 1605 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 8700 1650 50  0001 C CNN
-F 3 "~" H 8700 1650 50  0001 C CNN
-	1    8700 1650
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H67
-U 1 1 63CE9F29
-P 10100 1050
-F 0 "H67" H 10200 1096 50  0000 L CNN
-F 1 "1mm" H 10200 1005 50  0000 L CNN
-F 2 "footprints:hole_1mm" H 10100 1050 50  0001 C CNN
-F 3 "~" H 10100 1050 50  0001 C CNN
-	1    10100 1050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H1
-U 1 1 63C9DAAD
-P 7700 2450
-F 0 "H1" H 7800 2496 50  0000 L CNN
-F 1 "5mm" H 7800 2405 50  0000 L CNN
-F 2 "footprints:hole_5mm" H 7700 2450 50  0001 C CNN
-F 3 "~" H 7700 2450 50  0001 C CNN
-	1    7700 2450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H15
-U 1 1 63CBD347
-P 9650 1850
-F 0 "H15" H 9750 1896 50  0000 L CNN
-F 1 "2mm" H 9750 1805 50  0000 L CNN
-F 2 "footprints:hole_2mm" H 9650 1850 50  0001 C CNN
-F 3 "~" H 9650 1850 50  0001 C CNN
-	1    9650 1850
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H18
-U 1 1 63CC8DFD
-P 9650 2050
-F 0 "H18" H 9750 2096 50  0000 L CNN
-F 1 "2mm" H 9750 2005 50  0000 L CNN
-F 2 "footprints:hole_2mm" H 9650 2050 50  0001 C CNN
-F 3 "~" H 9650 2050 50  0001 C CNN
-	1    9650 2050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H20
-U 1 1 63CE26AB
-P 7700 2650
-F 0 "H20" H 7800 2696 50  0000 L CNN
-F 1 "5mm" H 7800 2605 50  0000 L CNN
-F 2 "footprints:hole_5mm" H 7700 2650 50  0001 C CNN
-F 3 "~" H 7700 2650 50  0001 C CNN
-	1    7700 2650
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H23
-U 1 1 63CF62F6
-P 7100 2250
-F 0 "H23" H 7200 2296 50  0000 L CNN
-F 1 "10mm" H 7200 2205 50  0000 L CNN
-F 2 "footprints:hole_10mm" H 7100 2250 50  0001 C CNN
-F 3 "~" H 7100 2250 50  0001 C CNN
-	1    7100 2250
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H44
-U 1 1 63CFC320
-P 7100 2450
-F 0 "H44" H 7200 2496 50  0000 L CNN
-F 1 "10mm" H 7200 2405 50  0000 L CNN
-F 2 "footprints:hole_10mm" H 7100 2450 50  0001 C CNN
-F 3 "~" H 7100 2450 50  0001 C CNN
-	1    7100 2450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H45
-U 1 1 63D1A347
-P 8200 1050
-F 0 "H45" H 8300 1096 50  0000 L CNN
-F 1 "3mm" H 8300 1005 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 8200 1050 50  0001 C CNN
-F 3 "~" H 8200 1050 50  0001 C CNN
-	1    8200 1050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H47
-U 1 1 63D21D61
-P 8700 1850
-F 0 "H47" H 8800 1896 50  0000 L CNN
-F 1 "3mm" H 8800 1805 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 8700 1850 50  0001 C CNN
-F 3 "~" H 8700 1850 50  0001 C CNN
-	1    8700 1850
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H17
-U 1 1 63D3447C
-P 7700 2850
-F 0 "H17" H 7800 2896 50  0000 L CNN
-F 1 "5mm" H 7800 2805 50  0000 L CNN
-F 2 "footprints:hole_5mm" H 7700 2850 50  0001 C CNN
-F 3 "~" H 7700 2850 50  0001 C CNN
-	1    7700 2850
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H9
-U 1 1 63E344D5
-P 9650 2250
-F 0 "H9" H 9750 2296 50  0000 L CNN
-F 1 "2mm" H 9750 2205 50  0000 L CNN
-F 2 "footprints:hole_2mm" H 9650 2250 50  0001 C CNN
-F 3 "~" H 9650 2250 50  0001 C CNN
-	1    9650 2250
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H16
-U 1 1 63E344DB
-P 9650 2450
-F 0 "H16" H 9750 2496 50  0000 L CNN
-F 1 "2mm" H 9750 2405 50  0000 L CNN
-F 2 "footprints:hole_2mm" H 9650 2450 50  0001 C CNN
-F 3 "~" H 9650 2450 50  0001 C CNN
-	1    9650 2450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H19
-U 1 1 63E47B89
-P 8700 2050
-F 0 "H19" H 8800 2096 50  0000 L CNN
-F 1 "3mm" H 8800 2005 50  0000 L CNN
-F 2 "footprints:hole_3mm" H 8700 2050 50  0001 C CNN
-F 3 "~" H 8700 2050 50  0001 C CNN
-	1    8700 2050
-	1    0    0    -1  
-$EndComp
 $EndSCHEMATC
