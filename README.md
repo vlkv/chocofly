@@ -34,7 +34,7 @@ TODO.
 
 ## Gerber files
 * [Version 2.0]().
-  * [PCB](https://github.com/vlkv/chocofly/blob/v2.0/pcb/chocofly_v2_0_pcb.zip) Status: not tested yet. I have ordered production of the first batch of them, waiting...
+  * [PCB](https://github.com/vlkv/chocofly/blob/v2.0/pcb/chocofly_v2_0_pcb.zip) Status: tested, OK.
 * [Version 1.1](https://github.com/vlkv/chocofly/tree/v1.1).
   * [PCB](https://github.com/vlkv/chocofly/blob/v1.1/pcb/chocofly_v1_1_pcb.zip).
   * [top cover](https://github.com/vlkv/chocofly/blob/v1.0/top_cover/chocofly_v1_0_top_cover.zip) (Same as v1.0).
