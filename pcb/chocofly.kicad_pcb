@@ -56555,7 +56555,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "02db71de-33bc-4c62-9ec0-e4859bdd5275")
-		(at 69.261387 759.115915 13.5)
+		(at 69.261387 758.397029 13.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -57381,7 +57381,7 @@
 			(uuid "b1d00437-0e81-4e75-95fb-4cf198a1331c")
 		)
 		(fp_line
-			(start 2.499998 -2.200001)
+			(start 2.499997 -2.200001)
 			(end 2.500002 -1.5)
 			(stroke
 				(width 0.15)
@@ -57401,7 +57401,7 @@
 			(uuid "f59ca7bd-d8de-4550-9850-9069b0dc89ca")
 		)
 		(fp_line
-			(start 7.000001 -6.200001)
+			(start 7.000001 -6.200002)
 			(end 2.5 -6.2)
 			(stroke
 				(width 0.15)
@@ -57412,7 +57412,7 @@
 		)
 		(fp_line
 			(start 7 -5.6)
-			(end 7.000001 -6.200001)
+			(end 7.000001 -6.200002)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -57433,7 +57433,7 @@
 		(fp_arc
 			(start 0.999999 -3.699999)
 			(mid 2.06066 -3.26066)
-			(end 2.499998 -2.200001)
+			(end 2.499997 -2.200001)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -57463,7 +57463,7 @@
 			(uuid "de37b625-de3d-47d2-b399-ec25778fbd1d")
 		)
 		(fp_line
-			(start -6.500001 -7.5)
+			(start -6.500002 -7.5)
 			(end -7.5 -7.499999)
 			(stroke
 				(width 0.15)
@@ -57474,7 +57474,7 @@
 		)
 		(fp_line
 			(start -7.499999 7.5)
-			(end -7.5 6.500001)
+			(end -7.5 6.500002)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -57504,7 +57504,7 @@
 		)
 		(fp_line
 			(start 7.499999 -7.5)
-			(end 7.5 -6.500001)
+			(end 7.5 -6.500002)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -57513,7 +57513,7 @@
 			(uuid "a1f7c3be-a387-4600-9a31-88ea349f635a")
 		)
 		(fp_line
-			(start 6.500001 7.5)
+			(start 6.500002 7.5)
 			(end 7.5 7.499999)
 			(stroke
 				(width 0.15)
@@ -57753,7 +57753,7 @@
 			(uuid "40c31856-4aed-4d3c-8e64-0f29550021b2")
 		)
 		(fp_line
-			(start 2.499998 -2.200001)
+			(start 2.499997 -2.200001)
 			(end 2.500002 -1.5)
 			(stroke
 				(width 0.15)
@@ -57773,7 +57773,7 @@
 			(uuid "b595337f-3167-495a-8d43-cf262b2196de")
 		)
 		(fp_line
-			(start 7.000001 -6.200001)
+			(start 7.000001 -6.200002)
 			(end 2.5 -6.2)
 			(stroke
 				(width 0.15)
@@ -57794,7 +57794,7 @@
 		)
 		(fp_line
 			(start 7.000002 -1.5)
-			(end 7.000001 -6.200001)
+			(end 7.000001 -6.200002)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -57825,7 +57825,7 @@
 		(fp_arc
 			(start 0.999999 -3.699999)
 			(mid 2.06066 -3.26066)
-			(end 2.499998 -2.200001)
+			(end 2.499997 -2.200001)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -57942,7 +57942,7 @@
 			(uuid "a42a93b2-2438-47d2-b8d1-39d25950f5fa")
 		)
 		(pad "2" thru_hole circle
-			(at -5.000001 3.800002 7.4)
+			(at -5.000001 3.800003 7.4)
 			(size 2.032 2.032)
 			(drill 1.27)
 			(layers "*.Cu" "*.Mask")
@@ -58661,7 +58661,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "06a15df2-4e84-4d78-a650-f47075a259fb")
-		(at 133.224087 714.169451 9.5)
+		(at 133.224087 713.450565 9.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -58836,7 +58836,7 @@
 		)
 		(fp_arc
 			(start 0.999999 -3.7)
-			(mid 2.06066 -3.26066)
+			(mid 2.060659 -3.260661)
 			(end 2.5 -2.200001)
 			(stroke
 				(width 0.15)
@@ -58857,7 +58857,7 @@
 			(uuid "181cfccd-29a4-40f1-be46-a21191589475")
 		)
 		(fp_line
-			(start -7.499997 -6.5)
+			(start -7.499996 -6.5)
 			(end -7.5 -7.499999)
 			(stroke
 				(width 0.15)
@@ -58888,7 +58888,7 @@
 		)
 		(fp_line
 			(start -7.499999 7.5)
-			(end -6.5 7.499997)
+			(end -6.5 7.499996)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -58898,7 +58898,7 @@
 		)
 		(fp_line
 			(start 7.499999 -7.5)
-			(end 6.5 -7.499997)
+			(end 6.5 -7.499996)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -58927,7 +58927,7 @@
 			(uuid "11d1238f-cae5-4131-afc0-779c2a9efbb0")
 		)
 		(fp_line
-			(start 7.499997 6.5)
+			(start 7.499996 6.5)
 			(end 7.5 7.499999)
 			(stroke
 				(width 0.15)
@@ -59228,7 +59228,7 @@
 		)
 		(fp_arc
 			(start 0.999999 -3.7)
-			(mid 2.06066 -3.26066)
+			(mid 2.060659 -3.260661)
 			(end 2.5 -2.200001)
 			(stroke
 				(width 0.15)
@@ -60065,7 +60065,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "08531a0c-57fb-47a3-9cd2-50b7b6acfd59")
-		(at -73.438366 701.550275 -13.5)
+		(at -73.438366 700.831389 -13.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -61302,7 +61302,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "0adeab22-ac3c-4b88-b567-f0fed919dc24")
-		(at 91.038452 699.895906 13.5)
+		(at 91.038452 699.17702 13.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -62004,7 +62004,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "0c158410-2740-44eb-beca-87879c63e27e")
-		(at 73.438365 701.550275 13.5)
+		(at 73.438365 700.831389 13.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -63408,7 +63408,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "0cf91a42-f5e8-48c1-9da0-6719877ea410")
-		(at -99.209041 733.928853 -13.5)
+		(at -99.209041 733.209967 -13.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -65475,7 +65475,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "1075bbe4-05cf-4173-bc2c-cfcf362f2cc9")
-		(at 40.455922 714.096528 13.5)
+		(at 40.455922 713.377642 13.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -67199,7 +67199,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "147d9789-1ea3-4a11-ae29-271c32e577f1")
-		(at -48.626511 748.129475 -13.5)
+		(at -48.626511 747.410589 -13.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -67901,7 +67901,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "152c5454-c9ac-4d83-bb56-ec4bf6cd3b33")
-		(at 64.482833 780.810622 27)
+		(at 64.482833 780.091736 27)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -75270,7 +75270,7 @@
 		)
 		(fp_line
 			(start 7 -5.6)
-			(end 7.000001 -6.199998)
+			(end 7.000001 -6.199997)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -75279,7 +75279,7 @@
 			(uuid "56f208f1-6120-4736-9290-764755ff3722")
 		)
 		(fp_line
-			(start 7.000001 -6.199998)
+			(start 7.000001 -6.199997)
 			(end 2.5 -6.2)
 			(stroke
 				(width 0.15)
@@ -75632,7 +75632,7 @@
 		)
 		(fp_line
 			(start 7.000002 -1.499999)
-			(end 7.000001 -6.199998)
+			(end 7.000001 -6.199997)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -75651,7 +75651,7 @@
 			(uuid "df255ddc-3b04-40b5-b94b-1f0c849e2b4c")
 		)
 		(fp_line
-			(start 7.000001 -6.199998)
+			(start 7.000001 -6.199997)
 			(end 2.5 -6.2)
 			(stroke
 				(width 0.15)
@@ -78219,7 +78219,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "2503e4d7-b31e-4290-bf31-87fb2719f799")
-		(at 81.608953 735.583223 13.5)
+		(at 81.608953 734.864337 13.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -81027,7 +81027,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "26438c4a-9af6-4d72-ab22-7973edac2816")
-		(at 57.005505 708.066494 13.5)
+		(at 57.005505 707.347608 13.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -81729,7 +81729,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "264d39d6-e73f-461d-a1f0-76c90b1bc761")
-		(at 44.541216 731.113001 13.5)
+		(at 44.541216 730.394115 13.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -83794,7 +83794,7 @@
 		)
 		(fp_line
 			(start 7 -5.6)
-			(end 7.000001 -6.199998)
+			(end 7.000001 -6.199997)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -83803,7 +83803,7 @@
 			(uuid "69b360d9-19f5-4f61-ad94-0986cabf653c")
 		)
 		(fp_line
-			(start 7.000001 -6.199998)
+			(start 7.000001 -6.199997)
 			(end 2.5 -6.2)
 			(stroke
 				(width 0.15)
@@ -84156,7 +84156,7 @@
 		)
 		(fp_line
 			(start 7.000002 -1.499999)
-			(end 7.000001 -6.199998)
+			(end 7.000001 -6.199997)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -84175,7 +84175,7 @@
 			(uuid "1575ec1e-5c63-4cee-a57f-0e51d1cd5911")
 		)
 		(fp_line
-			(start 7.000001 -6.199998)
+			(start 7.000001 -6.199997)
 			(end 2.5 -6.2)
 			(stroke
 				(width 0.15)
@@ -84341,7 +84341,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "2a1c7ef8-c109-4f30-9da1-fb7647125027")
-		(at 121.740755 751.577779 9.5)
+		(at 121.740755 750.858893 9.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -84516,7 +84516,7 @@
 		)
 		(fp_arc
 			(start 0.999999 -3.7)
-			(mid 2.06066 -3.26066)
+			(mid 2.060659 -3.260661)
 			(end 2.5 -2.200001)
 			(stroke
 				(width 0.15)
@@ -84537,7 +84537,7 @@
 			(uuid "f290ba3c-b2e2-4eeb-9f96-405acc8d526b")
 		)
 		(fp_line
-			(start -7.499997 -6.5)
+			(start -7.499996 -6.5)
 			(end -7.5 -7.499999)
 			(stroke
 				(width 0.15)
@@ -84568,7 +84568,7 @@
 		)
 		(fp_line
 			(start -7.499999 7.5)
-			(end -6.5 7.499997)
+			(end -6.5 7.499996)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -84578,7 +84578,7 @@
 		)
 		(fp_line
 			(start 7.499999 -7.5)
-			(end 6.5 -7.499997)
+			(end 6.5 -7.499996)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -84607,7 +84607,7 @@
 			(uuid "36e377cf-7c52-4008-9528-333676f8f58a")
 		)
 		(fp_line
-			(start 7.499997 6.5)
+			(start 7.499996 6.5)
 			(end 7.5 7.499999)
 			(stroke
 				(width 0.15)
@@ -84908,7 +84908,7 @@
 		)
 		(fp_arc
 			(start 0.999999 -3.7)
-			(mid 2.06066 -3.26066)
+			(mid 2.060659 -3.260661)
 			(end 2.5 -2.200001)
 			(stroke
 				(width 0.15)
@@ -85565,7 +85565,7 @@
 		)
 		(fp_line
 			(start 7 -5.6)
-			(end 7.000001 -6.199998)
+			(end 7.000001 -6.199997)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -85574,7 +85574,7 @@
 			(uuid "6359825a-47ba-4584-8c3d-1f06426351bb")
 		)
 		(fp_line
-			(start 7.000001 -6.199998)
+			(start 7.000001 -6.199997)
 			(end 2.5 -6.2)
 			(stroke
 				(width 0.15)
@@ -85927,7 +85927,7 @@
 		)
 		(fp_line
 			(start 7.000002 -1.499999)
-			(end 7.000001 -6.199998)
+			(end 7.000001 -6.199997)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -85946,7 +85946,7 @@
 			(uuid "d25169e9-718e-4587-9f39-2e20a16b1f50")
 		)
 		(fp_line
-			(start 7.000001 -6.199998)
+			(start 7.000001 -6.199997)
 			(end 2.5 -6.2)
 			(stroke
 				(width 0.15)
@@ -86112,7 +86112,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "2b33bf92-a3ff-4d56-ab05-cbc2a5a17de0")
-		(at 61.090799 725.082968 13.5)
+		(at 61.090799 724.364082 13.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -86814,7 +86814,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "2c1f77de-9570-4c36-a931-5230d4bdf28f")
-		(at -52.711805 765.145949 -13.5)
+		(at -52.711805 764.427063 -13.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -87516,7 +87516,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "2c2ee2f3-330a-459e-a6de-b6cbd7314a1d")
-		(at 48.62651 748.129475 13.5)
+		(at 48.62651 747.410589 13.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -88218,7 +88218,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "2c5135e2-1c96-4aa3-9d4c-1f116cf3ab95")
-		(at 36.95738 778.301359 40.5)
+		(at 36.95738 777.582473 40.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -88920,7 +88920,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "2c577730-c83d-40fa-84b3-563ee2835410")
-		(at 136.11242 731.429448 9.5)
+		(at 136.11242 730.710562 9.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -89095,7 +89095,7 @@
 		)
 		(fp_arc
 			(start 0.999999 -3.7)
-			(mid 2.06066 -3.26066)
+			(mid 2.060659 -3.260661)
 			(end 2.5 -2.200001)
 			(stroke
 				(width 0.15)
@@ -89116,7 +89116,7 @@
 			(uuid "b2381365-4177-4b14-a78c-c0a76519f537")
 		)
 		(fp_line
-			(start -7.499997 -6.5)
+			(start -7.499996 -6.5)
 			(end -7.5 -7.499999)
 			(stroke
 				(width 0.15)
@@ -89147,7 +89147,7 @@
 		)
 		(fp_line
 			(start -7.499999 7.5)
-			(end -6.5 7.499997)
+			(end -6.5 7.499996)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -89157,7 +89157,7 @@
 		)
 		(fp_line
 			(start 7.499999 -7.5)
-			(end 6.5 -7.499997)
+			(end 6.5 -7.499996)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -89186,7 +89186,7 @@
 			(uuid "c3556f52-56bd-461a-bbd4-f64461e5061b")
 		)
 		(fp_line
-			(start 7.499997 6.5)
+			(start 7.499996 6.5)
 			(end 7.5 7.499999)
 			(stroke
 				(width 0.15)
@@ -89487,7 +89487,7 @@
 		)
 		(fp_arc
 			(start 0.999999 -3.7)
-			(mid 2.06066 -3.26066)
+			(mid 2.060659 -3.260661)
 			(end 2.5 -2.200001)
 			(stroke
 				(width 0.15)
@@ -90661,7 +90661,7 @@
 			(uuid "0dd95f53-c8fc-48b5-9aa4-d676d51d2853")
 		)
 		(fp_line
-			(start 2.499998 -2.200001)
+			(start 2.499997 -2.200001)
 			(end 2.500002 -1.5)
 			(stroke
 				(width 0.15)
@@ -90681,7 +90681,7 @@
 			(uuid "31bf9e43-3f51-4ac4-a2d2-38d0d1bef109")
 		)
 		(fp_line
-			(start 7.000001 -6.200001)
+			(start 7.000001 -6.200002)
 			(end 2.5 -6.2)
 			(stroke
 				(width 0.15)
@@ -90692,7 +90692,7 @@
 		)
 		(fp_line
 			(start 7 -5.6)
-			(end 7.000001 -6.200001)
+			(end 7.000001 -6.200002)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -90713,7 +90713,7 @@
 		(fp_arc
 			(start 0.999999 -3.699999)
 			(mid 2.06066 -3.26066)
-			(end 2.499998 -2.200001)
+			(end 2.499997 -2.200001)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -90743,7 +90743,7 @@
 			(uuid "d3e40e4c-d7bf-48ad-8b76-151978dc4b91")
 		)
 		(fp_line
-			(start -6.500001 -7.5)
+			(start -6.500002 -7.5)
 			(end -7.5 -7.499999)
 			(stroke
 				(width 0.15)
@@ -90754,7 +90754,7 @@
 		)
 		(fp_line
 			(start -7.499999 7.5)
-			(end -7.5 6.500001)
+			(end -7.5 6.500002)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -90784,7 +90784,7 @@
 		)
 		(fp_line
 			(start 7.499999 -7.5)
-			(end 7.5 -6.500001)
+			(end 7.5 -6.500002)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -90793,7 +90793,7 @@
 			(uuid "70776eb6-70fd-47c3-a626-bea1e211443a")
 		)
 		(fp_line
-			(start 6.500001 7.5)
+			(start 6.500002 7.5)
 			(end 7.5 7.499999)
 			(stroke
 				(width 0.15)
@@ -91033,7 +91033,7 @@
 			(uuid "11cfaff5-3a29-4b97-a894-e7f66b46bd37")
 		)
 		(fp_line
-			(start 2.499998 -2.200001)
+			(start 2.499997 -2.200001)
 			(end 2.500002 -1.5)
 			(stroke
 				(width 0.15)
@@ -91053,7 +91053,7 @@
 			(uuid "2af938f6-3b1b-4c25-bdee-a9f45a202611")
 		)
 		(fp_line
-			(start 7.000001 -6.200001)
+			(start 7.000001 -6.200002)
 			(end 2.5 -6.2)
 			(stroke
 				(width 0.15)
@@ -91074,7 +91074,7 @@
 		)
 		(fp_line
 			(start 7.000002 -1.5)
-			(end 7.000001 -6.200001)
+			(end 7.000001 -6.200002)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -91105,7 +91105,7 @@
 		(fp_arc
 			(start 0.999999 -3.699999)
 			(mid 2.06066 -3.26066)
-			(end 2.499998 -2.200001)
+			(end 2.499997 -2.200001)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -91222,7 +91222,7 @@
 			(uuid "68a1ec40-4972-46d4-98a4-c7784b0cfcb4")
 		)
 		(pad "2" thru_hole circle
-			(at -5.000001 3.800002 7.4)
+			(at -5.000001 3.800003 7.4)
 			(size 2.032 2.032)
 			(drill 1.27)
 			(layers "*.Cu" "*.Mask")
@@ -94479,7 +94479,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "397e95ad-78c0-4fdd-964c-75f334c434f4")
-		(at -36.95738 778.301359 -40.5)
+		(at -36.95738 777.582473 -40.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -95252,7 +95252,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "3a9c680e-41dc-4cde-804f-cfd4bc00cd62")
-		(at -95.123747 716.91238 -13.5)
+		(at -95.123747 716.193494 -13.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -98666,7 +98666,7 @@
 			(uuid "dda392a8-ddf4-4baa-a12f-c1794395798f")
 		)
 		(fp_line
-			(start 2.499998 -2.200001)
+			(start 2.499997 -2.200001)
 			(end 2.500002 -1.5)
 			(stroke
 				(width 0.15)
@@ -98686,7 +98686,7 @@
 			(uuid "8f396824-c492-4e2a-ab64-c7d2757fe246")
 		)
 		(fp_line
-			(start 7.000001 -6.200001)
+			(start 7.000001 -6.200002)
 			(end 2.5 -6.2)
 			(stroke
 				(width 0.15)
@@ -98697,7 +98697,7 @@
 		)
 		(fp_line
 			(start 7 -5.6)
-			(end 7.000001 -6.200001)
+			(end 7.000001 -6.200002)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -98718,7 +98718,7 @@
 		(fp_arc
 			(start 0.999999 -3.699999)
 			(mid 2.06066 -3.26066)
-			(end 2.499998 -2.200001)
+			(end 2.499997 -2.200001)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -98748,7 +98748,7 @@
 			(uuid "15bef20d-28e9-41f1-b00a-45499211a1b3")
 		)
 		(fp_line
-			(start -6.500001 -7.5)
+			(start -6.500002 -7.5)
 			(end -7.5 -7.499999)
 			(stroke
 				(width 0.15)
@@ -98759,7 +98759,7 @@
 		)
 		(fp_line
 			(start -7.499999 7.5)
-			(end -7.5 6.500001)
+			(end -7.5 6.500002)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -98789,7 +98789,7 @@
 		)
 		(fp_line
 			(start 7.499999 -7.5)
-			(end 7.5 -6.500001)
+			(end 7.5 -6.500002)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -98798,7 +98798,7 @@
 			(uuid "83b60d6c-f427-4200-a96e-895751b17f54")
 		)
 		(fp_line
-			(start 6.500001 7.5)
+			(start 6.500002 7.5)
 			(end 7.5 7.499999)
 			(stroke
 				(width 0.15)
@@ -99038,7 +99038,7 @@
 			(uuid "dc3900d5-f248-49d4-a808-95acba7384bd")
 		)
 		(fp_line
-			(start 2.499998 -2.200001)
+			(start 2.499997 -2.200001)
 			(end 2.500002 -1.5)
 			(stroke
 				(width 0.15)
@@ -99058,7 +99058,7 @@
 			(uuid "4dee47c4-d58e-4b1b-b73e-713dfb5f99c0")
 		)
 		(fp_line
-			(start 7.000001 -6.200001)
+			(start 7.000001 -6.200002)
 			(end 2.5 -6.2)
 			(stroke
 				(width 0.15)
@@ -99079,7 +99079,7 @@
 		)
 		(fp_line
 			(start 7.000002 -1.5)
-			(end 7.000001 -6.200001)
+			(end 7.000001 -6.200002)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -99110,7 +99110,7 @@
 		(fp_arc
 			(start 0.999999 -3.699999)
 			(mid 2.06066 -3.26066)
-			(end 2.499998 -2.200001)
+			(end 2.499997 -2.200001)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -99227,7 +99227,7 @@
 			(uuid "6a2ac42b-47f5-40a7-aa80-f60fd09e20db")
 		)
 		(pad "2" thru_hole circle
-			(at -5.000001 3.800002 7.4)
+			(at -5.000001 3.800003 7.4)
 			(size 2.032 2.032)
 			(drill 1.27)
 			(layers "*.Cu" "*.Mask")
@@ -99540,7 +99540,7 @@
 	(footprint "footprints:EVQWGD001"
 		(layer "F.Cu")
 		(uuid "41425acd-0206-4112-a4f9-d95d93a5fe9f")
-		(at 25.7544 765.184357 -139.5)
+		(at 25.7544 764.465471 -139.5)
 		(property "Reference" "SW44"
 			(at -0.249999 1.35 40.5)
 			(layer "F.Fab")
@@ -104736,7 +104736,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "49550259-9880-4cab-9c12-b864b906a36e")
-		(at 77.523659 718.566749 13.5)
+		(at 77.523659 717.847863 13.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -105438,7 +105438,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "4ba0f7b0-ef8a-461b-b711-794c3ffe09fe")
-		(at -48.32272 791.608465 -40.5)
+		(at -48.32272 790.889579 -40.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -106842,7 +106842,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "4dea5431-99da-4601-86fe-23feae4b68c9")
-		(at -81.608954 735.583223 -13.5)
+		(at -81.608954 734.864337 -13.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -110017,7 +110017,7 @@
 	(footprint "footprints:EVQWGD001"
 		(layer "F.Cu")
 		(uuid "57d96227-865f-4cc8-ad53-5aba6c99a000")
-		(at -25.754401 765.184357 139.5)
+		(at -25.754401 764.465471 139.5)
 		(property "Reference" "SW44"
 			(at -0.250001 1.35 139.5)
 			(layer "F.Fab")
@@ -111956,7 +111956,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "5edbe26f-7d07-41a9-8edc-47249c43023e")
-		(at 130.335753 696.909453 9.5)
+		(at 130.335753 696.190567 9.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -112131,7 +112131,7 @@
 		)
 		(fp_arc
 			(start 0.999999 -3.7)
-			(mid 2.06066 -3.26066)
+			(mid 2.060659 -3.260661)
 			(end 2.5 -2.200001)
 			(stroke
 				(width 0.15)
@@ -112152,7 +112152,7 @@
 			(uuid "59728ed1-d836-4072-92f8-90460f530e49")
 		)
 		(fp_line
-			(start -7.499997 -6.5)
+			(start -7.499996 -6.5)
 			(end -7.5 -7.499999)
 			(stroke
 				(width 0.15)
@@ -112183,7 +112183,7 @@
 		)
 		(fp_line
 			(start -7.499999 7.5)
-			(end -6.5 7.499997)
+			(end -6.5 7.499996)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -112193,7 +112193,7 @@
 		)
 		(fp_line
 			(start 7.499999 -7.5)
-			(end 6.5 -7.499997)
+			(end 6.5 -7.499996)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -112222,7 +112222,7 @@
 			(uuid "fbeace23-6d87-4279-8aaf-e020041abadc")
 		)
 		(fp_line
-			(start 7.499997 6.5)
+			(start 7.499996 6.5)
 			(end 7.5 7.499999)
 			(stroke
 				(width 0.15)
@@ -112523,7 +112523,7 @@
 		)
 		(fp_arc
 			(start 0.999999 -3.7)
-			(mid 2.06066 -3.26066)
+			(mid 2.060659 -3.260661)
 			(end 2.5 -2.200001)
 			(stroke
 				(width 0.15)
@@ -112658,7 +112658,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "5ee4b9d9-2789-4e52-bfca-e5d511d85e14")
-		(at -133.224087 714.169451 -9.5)
+		(at -133.224087 713.450565 -9.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -112855,7 +112855,7 @@
 		)
 		(fp_line
 			(start -7.499999 7.5)
-			(end -7.499999 6.500002)
+			(end -7.499999 6.500003)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -112884,7 +112884,7 @@
 			(uuid "172b2676-a70a-4d19-bfb1-c74341680e54")
 		)
 		(fp_line
-			(start -6.500002 -7.499999)
+			(start -6.500003 -7.499999)
 			(end -7.5 -7.499999)
 			(stroke
 				(width 0.15)
@@ -112894,7 +112894,7 @@
 			(uuid "2010a865-0e37-4982-acd1-3dfac0d5c1c8")
 		)
 		(fp_line
-			(start 6.500002 7.499999)
+			(start 6.500003 7.499999)
 			(end 7.5 7.499999)
 			(stroke
 				(width 0.15)
@@ -112925,7 +112925,7 @@
 		)
 		(fp_line
 			(start 7.499999 -7.5)
-			(end 7.499999 -6.500002)
+			(end 7.499999 -6.500003)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -113431,7 +113431,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "5f6a219e-301d-4883-879d-bcb706d552e5")
-		(at -103.294335 750.945327 -13.5)
+		(at -103.294335 750.226441 -13.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -114276,7 +114276,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "623580b4-28ce-410c-83eb-0b3780fee2f7")
-		(at -115.964089 717.057783 -9.5)
+		(at -115.964089 716.338897 -9.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -114473,7 +114473,7 @@
 		)
 		(fp_line
 			(start -7.499999 7.5)
-			(end -7.499999 6.500002)
+			(end -7.499999 6.500003)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -114502,7 +114502,7 @@
 			(uuid "ecbf3860-a68b-4a2b-b31b-b652f8f7106d")
 		)
 		(fp_line
-			(start -6.500002 -7.499999)
+			(start -6.500003 -7.499999)
 			(end -7.5 -7.499999)
 			(stroke
 				(width 0.15)
@@ -114512,7 +114512,7 @@
 			(uuid "6bd1f642-602c-4d22-a052-09b03ebad7e8")
 		)
 		(fp_line
-			(start 6.500002 7.499999)
+			(start 6.500003 7.499999)
 			(end 7.5 7.499999)
 			(stroke
 				(width 0.15)
@@ -114543,7 +114543,7 @@
 		)
 		(fp_line
 			(start 7.499999 -7.5)
-			(end 7.499999 -6.500002)
+			(end 7.499999 -6.500003)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -117084,7 +117084,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "653b8bfc-2028-4ed1-9eba-d71b0a625df8")
-		(at -139.000754 748.689446 -9.5)
+		(at -139.000754 747.97056 -9.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -117281,7 +117281,7 @@
 		)
 		(fp_line
 			(start -7.499999 7.5)
-			(end -7.499999 6.500002)
+			(end -7.499999 6.500003)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -117310,7 +117310,7 @@
 			(uuid "c635e2cd-8df9-4977-88af-7dc2fcb49d38")
 		)
 		(fp_line
-			(start -6.500002 -7.499999)
+			(start -6.500003 -7.499999)
 			(end -7.5 -7.499999)
 			(stroke
 				(width 0.15)
@@ -117320,7 +117320,7 @@
 			(uuid "0c60e9bf-5cb5-4b92-8925-21266e229d26")
 		)
 		(fp_line
-			(start 6.500002 7.499999)
+			(start 6.500003 7.499999)
 			(end 7.5 7.499999)
 			(stroke
 				(width 0.15)
@@ -117351,7 +117351,7 @@
 		)
 		(fp_line
 			(start 7.499999 -7.5)
-			(end 7.499999 -6.500002)
+			(end 7.499999 -6.500003)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -118488,7 +118488,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "67b729fa-e4ea-4cde-bb06-1d7b091cfe64")
-		(at -118.852423 734.317781 -9.5)
+		(at -118.852423 733.598895 -9.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -118685,7 +118685,7 @@
 		)
 		(fp_line
 			(start -7.499999 7.5)
-			(end -7.499999 6.500002)
+			(end -7.499999 6.500003)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -118714,7 +118714,7 @@
 			(uuid "9d6425fb-8295-46a1-8d90-d752342125a0")
 		)
 		(fp_line
-			(start -6.500002 -7.499999)
+			(start -6.500003 -7.499999)
 			(end -7.5 -7.499999)
 			(stroke
 				(width 0.15)
@@ -118724,7 +118724,7 @@
 			(uuid "2908014c-1235-458f-a6f3-19c8a215dfe2")
 		)
 		(fp_line
-			(start 6.500002 7.499999)
+			(start 6.500003 7.499999)
 			(end 7.5 7.499999)
 			(stroke
 				(width 0.15)
@@ -118755,7 +118755,7 @@
 		)
 		(fp_line
 			(start 7.499999 -7.5)
-			(end 7.499999 -6.500002)
+			(end 7.499999 -6.500003)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -119892,7 +119892,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "69183a95-7968-4370-b74c-68c5cefada5f")
-		(at 95.123746 716.91238 13.5)
+		(at 95.123746 716.193494 13.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -123769,7 +123769,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "6f5f4c5a-f3a7-4b96-960f-911e768625f0")
-		(at -65.176094 742.099441 -13.5)
+		(at -65.176094 741.380555 -13.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -126015,7 +126015,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "72456e36-551b-4a10-b56c-5363e7c04ebf")
-		(at 35.129817 805.880465 54)
+		(at 35.129817 805.161579 54)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -126789,7 +126789,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "743f3d70-1eae-4208-88e2-ff25ff40dfaf")
-		(at -136.112421 731.429448 -9.5)
+		(at -136.112421 730.710562 -9.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -126986,7 +126986,7 @@
 		)
 		(fp_line
 			(start -7.499999 7.5)
-			(end -7.499999 6.500002)
+			(end -7.499999 6.500003)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -127015,7 +127015,7 @@
 			(uuid "6e14eb32-d916-4179-81da-56a4f0843392")
 		)
 		(fp_line
-			(start -6.500002 -7.499999)
+			(start -6.500003 -7.499999)
 			(end -7.5 -7.499999)
 			(stroke
 				(width 0.15)
@@ -127025,7 +127025,7 @@
 			(uuid "b1d2226b-4b69-4842-a2c9-dabfbf2ec0cb")
 		)
 		(fp_line
-			(start 6.500002 7.499999)
+			(start 6.500003 7.499999)
 			(end 7.5 7.499999)
 			(stroke
 				(width 0.15)
@@ -127056,7 +127056,7 @@
 		)
 		(fp_line
 			(start 7.499999 -7.5)
-			(end 7.499999 -6.500002)
+			(end 7.499999 -6.500003)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -127787,7 +127787,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "7605b0a5-9957-4330-8499-733087455ace")
-		(at -77.52366 718.566749 -13.5)
+		(at -77.52366 717.847863 -13.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -130119,7 +130119,7 @@
 		)
 		(fp_line
 			(start 7 -5.6)
-			(end 7.000001 -6.199998)
+			(end 7.000001 -6.199997)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -130128,7 +130128,7 @@
 			(uuid "8ea6998e-9e43-4d99-80b5-c1c7f6ff4955")
 		)
 		(fp_line
-			(start 7.000001 -6.199998)
+			(start 7.000001 -6.199997)
 			(end 2.5 -6.2)
 			(stroke
 				(width 0.15)
@@ -130481,7 +130481,7 @@
 		)
 		(fp_line
 			(start 7.000002 -1.499999)
-			(end 7.000001 -6.199998)
+			(end 7.000001 -6.199997)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -130500,7 +130500,7 @@
 			(uuid "495822a6-8364-4ab5-b6d5-9de4b1ffdacc")
 		)
 		(fp_line
-			(start 7.000001 -6.199998)
+			(start 7.000001 -6.199997)
 			(end 2.5 -6.2)
 			(stroke
 				(width 0.15)
@@ -130666,7 +130666,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "7930f807-c5c3-47ed-a681-b475f25a77f1")
-		(at 82.717147 774.083628 13.5)
+		(at 82.717147 773.364742 13.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -135245,7 +135245,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "8319810f-2d26-436a-b5f2-32550c01be9a")
-		(at 65.176093 742.099441 13.5)
+		(at 65.176093 741.380555 13.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -135947,7 +135947,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "839f7fc8-9a33-48a1-8912-d52ffbc70ff0")
-		(at -20.97202 795.594222 -54)
+		(at -20.97202 794.875336 -54)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -139824,7 +139824,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "8ab6cc68-8ba6-4e0b-a327-6e945c961e47")
-		(at -113.075757 699.797785 -9.5)
+		(at -113.075757 699.078899 -9.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -140021,7 +140021,7 @@
 		)
 		(fp_line
 			(start -7.499999 7.5)
-			(end -7.499999 6.500002)
+			(end -7.499999 6.500003)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -140050,7 +140050,7 @@
 			(uuid "541d4cb1-5982-483a-803c-3f249ff567cd")
 		)
 		(fp_line
-			(start -6.500002 -7.499999)
+			(start -6.500003 -7.499999)
 			(end -7.5 -7.499999)
 			(stroke
 				(width 0.15)
@@ -140060,7 +140060,7 @@
 			(uuid "30161d2b-7994-4fa7-851f-8b0a1b93b175")
 		)
 		(fp_line
-			(start 6.500002 7.499999)
+			(start 6.500003 7.499999)
 			(end 7.5 7.499999)
 			(stroke
 				(width 0.15)
@@ -140091,7 +140091,7 @@
 		)
 		(fp_line
 			(start 7.499999 -7.5)
-			(end 7.499999 -6.500002)
+			(end 7.499999 -6.500003)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -141930,7 +141930,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "93a9f847-6485-4de3-ba8b-41fab55fa213")
-		(at 118.852422 734.317781 9.5)
+		(at 118.852422 733.598895 9.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -142105,7 +142105,7 @@
 		)
 		(fp_arc
 			(start 0.999999 -3.7)
-			(mid 2.06066 -3.26066)
+			(mid 2.060659 -3.260661)
 			(end 2.5 -2.200001)
 			(stroke
 				(width 0.15)
@@ -142126,7 +142126,7 @@
 			(uuid "67bc95ba-d269-4e05-8a1a-fbfb772d5d40")
 		)
 		(fp_line
-			(start -7.499997 -6.5)
+			(start -7.499996 -6.5)
 			(end -7.5 -7.499999)
 			(stroke
 				(width 0.15)
@@ -142157,7 +142157,7 @@
 		)
 		(fp_line
 			(start -7.499999 7.5)
-			(end -6.5 7.499997)
+			(end -6.5 7.499996)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -142167,7 +142167,7 @@
 		)
 		(fp_line
 			(start 7.499999 -7.5)
-			(end 6.5 -7.499997)
+			(end 6.5 -7.499996)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -142196,7 +142196,7 @@
 			(uuid "de38504c-1fbd-4376-b02f-d9f7b179957a")
 		)
 		(fp_line
-			(start 7.499997 6.5)
+			(start 7.499996 6.5)
 			(end 7.5 7.499999)
 			(stroke
 				(width 0.15)
@@ -142497,7 +142497,7 @@
 		)
 		(fp_arc
 			(start 0.999999 -3.7)
-			(mid 2.06066 -3.26066)
+			(mid 2.060659 -3.260661)
 			(end 2.5 -2.200001)
 			(stroke
 				(width 0.15)
@@ -143405,7 +143405,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "95c4400b-e5fa-4603-9820-63b296c7dd42")
-		(at 115.964088 717.057783 9.5)
+		(at 115.964088 716.338897 9.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -143580,7 +143580,7 @@
 		)
 		(fp_arc
 			(start 0.999999 -3.7)
-			(mid 2.06066 -3.26066)
+			(mid 2.060659 -3.260661)
 			(end 2.5 -2.200001)
 			(stroke
 				(width 0.15)
@@ -143601,7 +143601,7 @@
 			(uuid "d87ea8bc-0628-45a9-adf1-106babbf17e7")
 		)
 		(fp_line
-			(start -7.499997 -6.5)
+			(start -7.499996 -6.5)
 			(end -7.5 -7.499999)
 			(stroke
 				(width 0.15)
@@ -143632,7 +143632,7 @@
 		)
 		(fp_line
 			(start -7.499999 7.5)
-			(end -6.5 7.499997)
+			(end -6.5 7.499996)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -143642,7 +143642,7 @@
 		)
 		(fp_line
 			(start 7.499999 -7.5)
-			(end 6.5 -7.499997)
+			(end 6.5 -7.499996)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -143671,7 +143671,7 @@
 			(uuid "fbc4fea4-df75-4f98-88e5-97451e8f1e0e")
 		)
 		(fp_line
-			(start 7.499997 6.5)
+			(start 7.499996 6.5)
 			(end 7.5 7.499999)
 			(stroke
 				(width 0.15)
@@ -143972,7 +143972,7 @@
 		)
 		(fp_arc
 			(start 0.999999 -3.7)
-			(mid 2.06066 -3.26066)
+			(mid 2.060659 -3.260661)
 			(end 2.5 -2.200001)
 			(stroke
 				(width 0.15)
@@ -144951,7 +144951,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "9aad9abc-ce5c-4add-b824-a6f8e9a33d86")
-		(at 52.711804 765.145949 13.5)
+		(at 52.711804 764.427063 13.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -146188,7 +146188,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "9cbe24ce-ad8f-4a79-a5f5-4b3c39a40a7c")
-		(at -82.717148 774.083628 -13.5)
+		(at -82.717148 773.364742 -13.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -148720,7 +148720,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "a4be25e5-37aa-4fd0-97cf-ea1868389674")
-		(at -40.455923 714.096528 -13.5)
+		(at -40.455923 713.377642 -13.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -150195,7 +150195,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "a6e73feb-437e-4b49-87ac-27407bffbfc3")
-		(at 99.20904 733.928853 13.5)
+		(at 99.20904 733.209967 13.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -153867,7 +153867,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "b3e0c989-cbe6-4501-b663-f20cdacb31d5")
-		(at 85.694247 752.599696 13.5)
+		(at 85.694247 751.88081 13.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -157919,7 +157919,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "bce9e2cc-0f47-4823-b55e-3d5aea5da8c0")
-		(at 20.97202 795.594222 54)
+		(at 20.97202 794.875336 54)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -161011,7 +161011,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "c2c6c81f-7b98-425c-bdde-bfbf520cc19c")
-		(at -121.740756 751.577779 -9.5)
+		(at -121.740756 750.858893 -9.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -161208,7 +161208,7 @@
 		)
 		(fp_line
 			(start -7.499999 7.5)
-			(end -7.499999 6.500002)
+			(end -7.499999 6.500003)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -161237,7 +161237,7 @@
 			(uuid "fad26ee5-482d-4dea-ac34-805230a51191")
 		)
 		(fp_line
-			(start -6.500002 -7.499999)
+			(start -6.500003 -7.499999)
 			(end -7.5 -7.499999)
 			(stroke
 				(width 0.15)
@@ -161247,7 +161247,7 @@
 			(uuid "17316f57-b755-42ba-93d9-842e8b065fb1")
 		)
 		(fp_line
-			(start 6.500002 7.499999)
+			(start 6.500003 7.499999)
 			(end 7.5 7.499999)
 			(stroke
 				(width 0.15)
@@ -161278,7 +161278,7 @@
 		)
 		(fp_line
 			(start 7.499999 -7.5)
-			(end 7.499999 -6.500002)
+			(end 7.499999 -6.500003)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -162415,7 +162415,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "c3474292-445d-4147-8030-9d8842d24263")
-		(at -61.0908 725.082968 -13.5)
+		(at -61.0908 724.364082 -13.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -163117,7 +163117,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "c3b34195-2132-495c-ad32-ddee32e31d29")
-		(at 103.294334 750.945327 13.5)
+		(at 103.294334 750.226441 13.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -164817,7 +164817,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "c4af5ce7-762b-47cb-bfd4-dfb8a1d2448b")
-		(at -57.005506 708.066494 -13.5)
+		(at -57.005506 707.347608 -13.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -165519,7 +165519,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "c52dc214-df75-4395-b899-1e59fa36aed5")
-		(at -85.694248 752.599696 -13.5)
+		(at -85.694248 751.88081 -13.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -166773,7 +166773,7 @@
 			(uuid "b56e8d14-3c0d-42db-bd1a-31a3561a25d8")
 		)
 		(fp_line
-			(start 2.499998 -2.200001)
+			(start 2.499997 -2.200001)
 			(end 2.500002 -1.5)
 			(stroke
 				(width 0.15)
@@ -166793,7 +166793,7 @@
 			(uuid "5a961192-6bfe-4a3a-8ed6-7a5485e7c821")
 		)
 		(fp_line
-			(start 7.000001 -6.200001)
+			(start 7.000001 -6.200002)
 			(end 2.5 -6.2)
 			(stroke
 				(width 0.15)
@@ -166804,7 +166804,7 @@
 		)
 		(fp_line
 			(start 7 -5.6)
-			(end 7.000001 -6.200001)
+			(end 7.000001 -6.200002)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -166825,7 +166825,7 @@
 		(fp_arc
 			(start 0.999999 -3.699999)
 			(mid 2.06066 -3.26066)
-			(end 2.499998 -2.200001)
+			(end 2.499997 -2.200001)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -166855,7 +166855,7 @@
 			(uuid "51739231-b37d-4e62-9614-29293353cbcf")
 		)
 		(fp_line
-			(start -6.500001 -7.5)
+			(start -6.500002 -7.5)
 			(end -7.5 -7.499999)
 			(stroke
 				(width 0.15)
@@ -166866,7 +166866,7 @@
 		)
 		(fp_line
 			(start -7.499999 7.5)
-			(end -7.5 6.500001)
+			(end -7.5 6.500002)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -166896,7 +166896,7 @@
 		)
 		(fp_line
 			(start 7.499999 -7.5)
-			(end 7.5 -6.500001)
+			(end 7.5 -6.500002)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -166905,7 +166905,7 @@
 			(uuid "77c4e1de-5550-4e09-b87e-e4dfedef408a")
 		)
 		(fp_line
-			(start 6.500001 7.5)
+			(start 6.500002 7.5)
 			(end 7.5 7.499999)
 			(stroke
 				(width 0.15)
@@ -167145,7 +167145,7 @@
 			(uuid "1dd26fce-977e-4239-81ed-24f20cb58dd0")
 		)
 		(fp_line
-			(start 2.499998 -2.200001)
+			(start 2.499997 -2.200001)
 			(end 2.500002 -1.5)
 			(stroke
 				(width 0.15)
@@ -167165,7 +167165,7 @@
 			(uuid "a6c28bff-b664-4ff2-9987-aea0c73f312a")
 		)
 		(fp_line
-			(start 7.000001 -6.200001)
+			(start 7.000001 -6.200002)
 			(end 2.5 -6.2)
 			(stroke
 				(width 0.15)
@@ -167186,7 +167186,7 @@
 		)
 		(fp_line
 			(start 7.000002 -1.5)
-			(end 7.000001 -6.200001)
+			(end 7.000001 -6.200002)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -167217,7 +167217,7 @@
 		(fp_arc
 			(start 0.999999 -3.699999)
 			(mid 2.06066 -3.26066)
-			(end 2.499998 -2.200001)
+			(end 2.499997 -2.200001)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -167334,7 +167334,7 @@
 			(uuid "6af48fff-e4cb-49df-a4e4-50729e5287c0")
 		)
 		(pad "2" thru_hole circle
-			(at -5.000001 3.800002 7.4)
+			(at -5.000001 3.800003 7.4)
 			(size 2.032 2.032)
 			(drill 1.27)
 			(layers "*.Cu" "*.Mask")
@@ -167351,7 +167351,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "c754efe9-35ac-4aa9-a7d1-11d5610f86b3")
-		(at -44.541217 731.113001 -13.5)
+		(at -44.541217 730.394115 -13.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -169581,7 +169581,7 @@
 			(uuid "fe7fbad6-b1e9-4996-afdb-f74903563abe")
 		)
 		(fp_line
-			(start 2.499998 -2.200001)
+			(start 2.499997 -2.200001)
 			(end 2.500002 -1.5)
 			(stroke
 				(width 0.15)
@@ -169601,7 +169601,7 @@
 			(uuid "e9c38031-00a7-43c0-8ea2-fa1c9fb25e6d")
 		)
 		(fp_line
-			(start 7.000001 -6.200001)
+			(start 7.000001 -6.200002)
 			(end 2.5 -6.2)
 			(stroke
 				(width 0.15)
@@ -169612,7 +169612,7 @@
 		)
 		(fp_line
 			(start 7 -5.6)
-			(end 7.000001 -6.200001)
+			(end 7.000001 -6.200002)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -169633,7 +169633,7 @@
 		(fp_arc
 			(start 0.999999 -3.699999)
 			(mid 2.06066 -3.26066)
-			(end 2.499998 -2.200001)
+			(end 2.499997 -2.200001)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -169663,7 +169663,7 @@
 			(uuid "4ca69d9e-5cfe-4af4-bbe2-724a88bc866f")
 		)
 		(fp_line
-			(start -6.500001 -7.5)
+			(start -6.500002 -7.5)
 			(end -7.5 -7.499999)
 			(stroke
 				(width 0.15)
@@ -169674,7 +169674,7 @@
 		)
 		(fp_line
 			(start -7.499999 7.5)
-			(end -7.5 6.500001)
+			(end -7.5 6.500002)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -169704,7 +169704,7 @@
 		)
 		(fp_line
 			(start 7.499999 -7.5)
-			(end 7.5 -6.500001)
+			(end 7.5 -6.500002)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -169713,7 +169713,7 @@
 			(uuid "dbae9005-78da-47f5-904e-5bfc5233457a")
 		)
 		(fp_line
-			(start 6.500001 7.5)
+			(start 6.500002 7.5)
 			(end 7.5 7.499999)
 			(stroke
 				(width 0.15)
@@ -169953,7 +169953,7 @@
 			(uuid "292a0d84-48e3-44ad-8005-6415594fb08e")
 		)
 		(fp_line
-			(start 2.499998 -2.200001)
+			(start 2.499997 -2.200001)
 			(end 2.500002 -1.5)
 			(stroke
 				(width 0.15)
@@ -169973,7 +169973,7 @@
 			(uuid "e143c073-b292-4aea-931a-b8b44eeccc64")
 		)
 		(fp_line
-			(start 7.000001 -6.200001)
+			(start 7.000001 -6.200002)
 			(end 2.5 -6.2)
 			(stroke
 				(width 0.15)
@@ -169994,7 +169994,7 @@
 		)
 		(fp_line
 			(start 7.000002 -1.5)
-			(end 7.000001 -6.200001)
+			(end 7.000001 -6.200002)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -170025,7 +170025,7 @@
 		(fp_arc
 			(start 0.999999 -3.699999)
 			(mid 2.06066 -3.26066)
-			(end 2.499998 -2.200001)
+			(end 2.499997 -2.200001)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -170142,7 +170142,7 @@
 			(uuid "bfa39a90-6317-4205-a09c-1a39faef0b9e")
 		)
 		(pad "2" thru_hole circle
-			(at -5.000001 3.800002 7.4)
+			(at -5.000001 3.800003 7.4)
 			(size 2.032 2.032)
 			(drill 1.27)
 			(layers "*.Cu" "*.Mask")
@@ -171789,7 +171789,7 @@
 		)
 		(fp_line
 			(start 7 -5.6)
-			(end 7.000001 -6.199998)
+			(end 7.000001 -6.199997)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -171798,7 +171798,7 @@
 			(uuid "462fbd8f-6c59-41e9-85d9-b44d473bdfc9")
 		)
 		(fp_line
-			(start 7.000001 -6.199998)
+			(start 7.000001 -6.199997)
 			(end 2.5 -6.2)
 			(stroke
 				(width 0.15)
@@ -172151,7 +172151,7 @@
 		)
 		(fp_line
 			(start 7.000002 -1.499999)
-			(end 7.000001 -6.199998)
+			(end 7.000001 -6.199997)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -172170,7 +172170,7 @@
 			(uuid "ab947779-7d15-4261-8802-eac6e312b13a")
 		)
 		(fp_line
-			(start 7.000001 -6.199998)
+			(start 7.000001 -6.199997)
 			(end 2.5 -6.2)
 			(stroke
 				(width 0.15)
@@ -173038,7 +173038,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "d116b37d-5c08-4e50-a9b4-1caf87816af2")
-		(at 113.075756 699.797785 9.5)
+		(at 113.075756 699.078899 9.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -173213,7 +173213,7 @@
 		)
 		(fp_arc
 			(start 0.999999 -3.7)
-			(mid 2.06066 -3.26066)
+			(mid 2.060659 -3.260661)
 			(end 2.5 -2.200001)
 			(stroke
 				(width 0.15)
@@ -173234,7 +173234,7 @@
 			(uuid "5b6c9d69-f9db-4684-8b3d-e0241c7ada37")
 		)
 		(fp_line
-			(start -7.499997 -6.5)
+			(start -7.499996 -6.5)
 			(end -7.5 -7.499999)
 			(stroke
 				(width 0.15)
@@ -173265,7 +173265,7 @@
 		)
 		(fp_line
 			(start -7.499999 7.5)
-			(end -6.5 7.499997)
+			(end -6.5 7.499996)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -173275,7 +173275,7 @@
 		)
 		(fp_line
 			(start 7.499999 -7.5)
-			(end 6.5 -7.499997)
+			(end 6.5 -7.499996)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -173304,7 +173304,7 @@
 			(uuid "ef41e4c0-d504-4321-88b6-880fc7fdd790")
 		)
 		(fp_line
-			(start 7.499997 6.5)
+			(start 7.499996 6.5)
 			(end 7.5 7.499999)
 			(stroke
 				(width 0.15)
@@ -173605,7 +173605,7 @@
 		)
 		(fp_arc
 			(start 0.999999 -3.7)
-			(mid 2.06066 -3.26066)
+			(mid 2.060659 -3.260661)
 			(end 2.5 -2.200001)
 			(stroke
 				(width 0.15)
@@ -174442,7 +174442,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "d1e13a37-607b-4883-bd22-f352ec35e64b")
-		(at -35.129818 805.880465 -54)
+		(at -35.129818 805.161579 -54)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -175370,7 +175370,7 @@
 		)
 		(fp_line
 			(start 7 -5.6)
-			(end 7.000001 -6.199998)
+			(end 7.000001 -6.199997)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -175379,7 +175379,7 @@
 			(uuid "35f207a3-fffe-49c4-9f53-a49d8390db3c")
 		)
 		(fp_line
-			(start 7.000001 -6.199998)
+			(start 7.000001 -6.199997)
 			(end 2.5 -6.2)
 			(stroke
 				(width 0.15)
@@ -175732,7 +175732,7 @@
 		)
 		(fp_line
 			(start 7.000002 -1.499999)
-			(end 7.000001 -6.199998)
+			(end 7.000001 -6.199997)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -175751,7 +175751,7 @@
 			(uuid "3004eb94-74b0-4ee2-a002-b02891791f28")
 		)
 		(fp_line
-			(start 7.000001 -6.199998)
+			(start 7.000001 -6.199997)
 			(end 2.5 -6.2)
 			(stroke
 				(width 0.15)
@@ -176619,7 +176619,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "d70341a6-b164-439e-8959-918d14bbb30e")
-		(at 48.322719 791.608465 40.5)
+		(at 48.322719 790.889579 40.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -177321,7 +177321,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "d71ef839-4d5f-44c9-ac7c-4336bcca242e")
-		(at -64.482834 780.810622 -27)
+		(at -64.482834 780.091736 -27)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -183121,7 +183121,7 @@
 			(uuid "e08d322d-d235-457d-b250-45b401002b27")
 		)
 		(fp_line
-			(start 2.499998 -2.200001)
+			(start 2.499997 -2.200001)
 			(end 2.500002 -1.5)
 			(stroke
 				(width 0.15)
@@ -183141,7 +183141,7 @@
 			(uuid "230f5162-4814-4160-b9f5-82eacddf441d")
 		)
 		(fp_line
-			(start 7.000001 -6.200001)
+			(start 7.000001 -6.200002)
 			(end 2.5 -6.2)
 			(stroke
 				(width 0.15)
@@ -183152,7 +183152,7 @@
 		)
 		(fp_line
 			(start 7 -5.6)
-			(end 7.000001 -6.200001)
+			(end 7.000001 -6.200002)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -183173,7 +183173,7 @@
 		(fp_arc
 			(start 0.999999 -3.699999)
 			(mid 2.06066 -3.26066)
-			(end 2.499998 -2.200001)
+			(end 2.499997 -2.200001)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -183203,7 +183203,7 @@
 			(uuid "0718f746-2b30-4193-bb90-573ed35de8c6")
 		)
 		(fp_line
-			(start -6.500001 -7.5)
+			(start -6.500002 -7.5)
 			(end -7.5 -7.499999)
 			(stroke
 				(width 0.15)
@@ -183214,7 +183214,7 @@
 		)
 		(fp_line
 			(start -7.499999 7.5)
-			(end -7.5 6.500001)
+			(end -7.5 6.500002)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -183244,7 +183244,7 @@
 		)
 		(fp_line
 			(start 7.499999 -7.5)
-			(end 7.5 -6.500001)
+			(end 7.5 -6.500002)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -183253,7 +183253,7 @@
 			(uuid "f88e8285-6fb4-434c-8b81-7456c2eebdd2")
 		)
 		(fp_line
-			(start 6.500001 7.5)
+			(start 6.500002 7.5)
 			(end 7.5 7.499999)
 			(stroke
 				(width 0.15)
@@ -183493,7 +183493,7 @@
 			(uuid "ba4f85a2-141d-4913-98c5-3542b37bdb5c")
 		)
 		(fp_line
-			(start 2.499998 -2.200001)
+			(start 2.499997 -2.200001)
 			(end 2.500002 -1.5)
 			(stroke
 				(width 0.15)
@@ -183513,7 +183513,7 @@
 			(uuid "3e8308b4-bd33-4c8a-ad10-1e674d533fa6")
 		)
 		(fp_line
-			(start 7.000001 -6.200001)
+			(start 7.000001 -6.200002)
 			(end 2.5 -6.2)
 			(stroke
 				(width 0.15)
@@ -183534,7 +183534,7 @@
 		)
 		(fp_line
 			(start 7.000002 -1.5)
-			(end 7.000001 -6.200001)
+			(end 7.000001 -6.200002)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -183565,7 +183565,7 @@
 		(fp_arc
 			(start 0.999999 -3.699999)
 			(mid 2.06066 -3.26066)
-			(end 2.499998 -2.200001)
+			(end 2.499997 -2.200001)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -183682,7 +183682,7 @@
 			(uuid "85c0819b-0086-4613-ae5e-8e81a792ddc1")
 		)
 		(pad "2" thru_hole circle
-			(at -5.000001 3.800002 7.4)
+			(at -5.000001 3.800003 7.4)
 			(size 2.032 2.032)
 			(drill 1.27)
 			(layers "*.Cu" "*.Mask")
@@ -187903,7 +187903,7 @@
 			(uuid "7888e97d-314a-4228-8ddd-8cee7d1ce9f7")
 		)
 		(fp_line
-			(start 2.499998 -2.200001)
+			(start 2.499997 -2.200001)
 			(end 2.500002 -1.5)
 			(stroke
 				(width 0.15)
@@ -187923,7 +187923,7 @@
 			(uuid "2aff5c4b-b1f3-40a0-8a52-a5d8f525d3fc")
 		)
 		(fp_line
-			(start 7.000001 -6.200001)
+			(start 7.000001 -6.200002)
 			(end 2.5 -6.2)
 			(stroke
 				(width 0.15)
@@ -187934,7 +187934,7 @@
 		)
 		(fp_line
 			(start 7 -5.6)
-			(end 7.000001 -6.200001)
+			(end 7.000001 -6.200002)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -187955,7 +187955,7 @@
 		(fp_arc
 			(start 0.999999 -3.699999)
 			(mid 2.06066 -3.26066)
-			(end 2.499998 -2.200001)
+			(end 2.499997 -2.200001)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -187985,7 +187985,7 @@
 			(uuid "782431a0-c5fc-4f19-9475-26a0c6d95d19")
 		)
 		(fp_line
-			(start -6.500001 -7.5)
+			(start -6.500002 -7.5)
 			(end -7.5 -7.499999)
 			(stroke
 				(width 0.15)
@@ -187996,7 +187996,7 @@
 		)
 		(fp_line
 			(start -7.499999 7.5)
-			(end -7.5 6.500001)
+			(end -7.5 6.500002)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -188026,7 +188026,7 @@
 		)
 		(fp_line
 			(start 7.499999 -7.5)
-			(end 7.5 -6.500001)
+			(end 7.5 -6.500002)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -188035,7 +188035,7 @@
 			(uuid "8f4b9738-34c2-4bca-bcac-03492df619af")
 		)
 		(fp_line
-			(start 6.500001 7.5)
+			(start 6.500002 7.5)
 			(end 7.5 7.499999)
 			(stroke
 				(width 0.15)
@@ -188275,7 +188275,7 @@
 			(uuid "9381c444-28bc-4b32-ae88-e330384b5dca")
 		)
 		(fp_line
-			(start 2.499998 -2.200001)
+			(start 2.499997 -2.200001)
 			(end 2.500002 -1.5)
 			(stroke
 				(width 0.15)
@@ -188295,7 +188295,7 @@
 			(uuid "1133e71a-97f2-4c91-b334-5d04ffe7ba54")
 		)
 		(fp_line
-			(start 7.000001 -6.200001)
+			(start 7.000001 -6.200002)
 			(end 2.5 -6.2)
 			(stroke
 				(width 0.15)
@@ -188316,7 +188316,7 @@
 		)
 		(fp_line
 			(start 7.000002 -1.5)
-			(end 7.000001 -6.200001)
+			(end 7.000001 -6.200002)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -188347,7 +188347,7 @@
 		(fp_arc
 			(start 0.999999 -3.699999)
 			(mid 2.06066 -3.26066)
-			(end 2.499998 -2.200001)
+			(end 2.499997 -2.200001)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -188464,7 +188464,7 @@
 			(uuid "7d171b74-8570-452b-84f3-5b33f8ae1f8f")
 		)
 		(pad "2" thru_hole circle
-			(at -5.000001 3.800002 7.4)
+			(at -5.000001 3.800003 7.4)
 			(size 2.032 2.032)
 			(drill 1.27)
 			(layers "*.Cu" "*.Mask")
@@ -188676,7 +188676,7 @@
 			(uuid "81483b02-3f8a-4ecb-80a2-bd4830a86f77")
 		)
 		(fp_line
-			(start 2.499998 -2.200001)
+			(start 2.499997 -2.200001)
 			(end 2.500002 -1.5)
 			(stroke
 				(width 0.15)
@@ -188696,7 +188696,7 @@
 			(uuid "afc1ddc1-1b9f-4c26-bf5c-b577b4c09ba4")
 		)
 		(fp_line
-			(start 7.000001 -6.200001)
+			(start 7.000001 -6.200002)
 			(end 2.5 -6.2)
 			(stroke
 				(width 0.15)
@@ -188707,7 +188707,7 @@
 		)
 		(fp_line
 			(start 7 -5.6)
-			(end 7.000001 -6.200001)
+			(end 7.000001 -6.200002)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -188728,7 +188728,7 @@
 		(fp_arc
 			(start 0.999999 -3.699999)
 			(mid 2.06066 -3.26066)
-			(end 2.499998 -2.200001)
+			(end 2.499997 -2.200001)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -188758,7 +188758,7 @@
 			(uuid "2f35e321-61ba-47fe-af19-bb80f4d6a339")
 		)
 		(fp_line
-			(start -6.500001 -7.5)
+			(start -6.500002 -7.5)
 			(end -7.5 -7.499999)
 			(stroke
 				(width 0.15)
@@ -188769,7 +188769,7 @@
 		)
 		(fp_line
 			(start -7.499999 7.5)
-			(end -7.5 6.500001)
+			(end -7.5 6.500002)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -188799,7 +188799,7 @@
 		)
 		(fp_line
 			(start 7.499999 -7.5)
-			(end 7.5 -6.500001)
+			(end 7.5 -6.500002)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -188808,7 +188808,7 @@
 			(uuid "4265c169-88c9-4ee2-b007-2cf045b9ce5d")
 		)
 		(fp_line
-			(start 6.500001 7.5)
+			(start 6.500002 7.5)
 			(end 7.5 7.499999)
 			(stroke
 				(width 0.15)
@@ -189048,7 +189048,7 @@
 			(uuid "60545f4e-5a8e-4836-9bc2-e4dbc23eb391")
 		)
 		(fp_line
-			(start 2.499998 -2.200001)
+			(start 2.499997 -2.200001)
 			(end 2.500002 -1.5)
 			(stroke
 				(width 0.15)
@@ -189068,7 +189068,7 @@
 			(uuid "d533515b-9671-4caf-b4c0-fc13222b70e9")
 		)
 		(fp_line
-			(start 7.000001 -6.200001)
+			(start 7.000001 -6.200002)
 			(end 2.5 -6.2)
 			(stroke
 				(width 0.15)
@@ -189089,7 +189089,7 @@
 		)
 		(fp_line
 			(start 7.000002 -1.5)
-			(end 7.000001 -6.200001)
+			(end 7.000001 -6.200002)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -189120,7 +189120,7 @@
 		(fp_arc
 			(start 0.999999 -3.699999)
 			(mid 2.06066 -3.26066)
-			(end 2.499998 -2.200001)
+			(end 2.499997 -2.200001)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -189237,7 +189237,7 @@
 			(uuid "3454d580-1c5b-407e-af39-d1ee85c7ae57")
 		)
 		(pad "2" thru_hole circle
-			(at -5.000001 3.800002 7.4)
+			(at -5.000001 3.800003 7.4)
 			(size 2.032 2.032)
 			(drill 1.27)
 			(layers "*.Cu" "*.Mask")
@@ -190462,7 +190462,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "ededb9ee-116c-4ab3-a7d0-c514ffb50736")
-		(at -91.038453 699.895906 -13.5)
+		(at -91.038453 699.17702 -13.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -191390,7 +191390,7 @@
 		)
 		(fp_line
 			(start 7 -5.6)
-			(end 7.000001 -6.199998)
+			(end 7.000001 -6.199997)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -191399,7 +191399,7 @@
 			(uuid "3a68d54a-849b-486a-a208-25ae2f43bafc")
 		)
 		(fp_line
-			(start 7.000001 -6.199998)
+			(start 7.000001 -6.199997)
 			(end 2.5 -6.2)
 			(stroke
 				(width 0.15)
@@ -191752,7 +191752,7 @@
 		)
 		(fp_line
 			(start 7.000002 -1.499999)
-			(end 7.000001 -6.199998)
+			(end 7.000001 -6.199997)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -191771,7 +191771,7 @@
 			(uuid "11c9d329-879a-4fad-8547-892bbe9b40ef")
 		)
 		(fp_line
-			(start 7.000001 -6.199998)
+			(start 7.000001 -6.199997)
 			(end 2.5 -6.2)
 			(stroke
 				(width 0.15)
@@ -191937,7 +191937,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "f08fe19b-5c1b-483e-b265-8e264cc1b9c6")
-		(at -130.335754 696.909453 -9.5)
+		(at -130.335754 696.190567 -9.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -192134,7 +192134,7 @@
 		)
 		(fp_line
 			(start -7.499999 7.5)
-			(end -7.499999 6.500002)
+			(end -7.499999 6.500003)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -192163,7 +192163,7 @@
 			(uuid "426f7480-0b9a-4cee-8452-640d66a79c48")
 		)
 		(fp_line
-			(start -6.500002 -7.499999)
+			(start -6.500003 -7.499999)
 			(end -7.5 -7.499999)
 			(stroke
 				(width 0.15)
@@ -192173,7 +192173,7 @@
 			(uuid "525340e9-39eb-4fed-ba38-42ad2f11373c")
 		)
 		(fp_line
-			(start 6.500002 7.499999)
+			(start 6.500003 7.499999)
 			(end 7.5 7.499999)
 			(stroke
 				(width 0.15)
@@ -192204,7 +192204,7 @@
 		)
 		(fp_line
 			(start 7.499999 -7.5)
-			(end 7.499999 -6.500002)
+			(end 7.499999 -6.500003)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -194481,7 +194481,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "f472f4e7-5f7e-49b6-b56c-c55e35a13687")
-		(at -69.261388 759.115915 -13.5)
+		(at -69.261388 758.397029 -13.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -196884,7 +196884,7 @@
 		)
 		(fp_line
 			(start 7 -5.6)
-			(end 7.000001 -6.199998)
+			(end 7.000001 -6.199997)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -196893,7 +196893,7 @@
 			(uuid "c52cfc6d-4d72-467d-ac51-c5ad1cfaf2b8")
 		)
 		(fp_line
-			(start 7.000001 -6.199998)
+			(start 7.000001 -6.199997)
 			(end 2.5 -6.2)
 			(stroke
 				(width 0.15)
@@ -197246,7 +197246,7 @@
 		)
 		(fp_line
 			(start 7.000002 -1.499999)
-			(end 7.000001 -6.199998)
+			(end 7.000001 -6.199997)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -197265,7 +197265,7 @@
 			(uuid "92730a66-efbc-45b3-827f-b5f182e0a45d")
 		)
 		(fp_line
-			(start 7.000001 -6.199998)
+			(start 7.000001 -6.199997)
 			(end 2.5 -6.2)
 			(stroke
 				(width 0.15)
@@ -197502,7 +197502,7 @@
 	(footprint "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 		(layer "F.Cu")
 		(uuid "ff78bc99-6b53-4e13-8f70-47e5f06abbae")
-		(at 139.000753 748.689446 9.5)
+		(at 139.000753 747.97056 9.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "SW24"
@@ -197677,7 +197677,7 @@
 		)
 		(fp_arc
 			(start 0.999999 -3.7)
-			(mid 2.06066 -3.26066)
+			(mid 2.060659 -3.260661)
 			(end 2.5 -2.200001)
 			(stroke
 				(width 0.15)
@@ -197698,7 +197698,7 @@
 			(uuid "e993639f-2b72-449b-9600-d8e21e078e9f")
 		)
 		(fp_line
-			(start -7.499997 -6.5)
+			(start -7.499996 -6.5)
 			(end -7.5 -7.499999)
 			(stroke
 				(width 0.15)
@@ -197729,7 +197729,7 @@
 		)
 		(fp_line
 			(start -7.499999 7.5)
-			(end -6.5 7.499997)
+			(end -6.5 7.499996)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -197739,7 +197739,7 @@
 		)
 		(fp_line
 			(start 7.499999 -7.5)
-			(end 6.5 -7.499997)
+			(end 6.5 -7.499996)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -197768,7 +197768,7 @@
 			(uuid "186b5579-6567-447b-8c39-83a6e9e5beb4")
 		)
 		(fp_line
-			(start 7.499997 6.5)
+			(start 7.499996 6.5)
 			(end 7.5 7.499999)
 			(stroke
 				(width 0.15)
@@ -198069,7 +198069,7 @@
 		)
 		(fp_arc
 			(start 0.999999 -3.7)
-			(mid 2.06066 -3.26066)
+			(mid 2.060659 -3.260661)
 			(end 2.5 -2.200001)
 			(stroke
 				(width 0.15)
@@ -199827,8 +199827,8 @@
 		(uuid "073c8e3c-3d95-4ca4-b8d6-cd9923c99423")
 	)
 	(gr_line
-		(start -114.554923 761.651945)
-		(end -113.845219 757.410917)
+		(start -114.554923 760.933059)
+		(end -113.845219 756.692031)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -199870,8 +199870,8 @@
 		(uuid "15bcd41a-b512-4d01-b0aa-c129064c2f44")
 	)
 	(gr_line
-		(start -149.074919 686.835287)
-		(end 149.074919 686.835287)
+		(start -149.074919 686.116401)
+		(end 149.074919 686.116401)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -199941,6 +199941,16 @@
 		(layer "Cmts.User")
 		(uuid "3f9ad6fc-90d7-4822-a014-d4566dba06a4")
 	)
+	(gr_line
+		(start 0 805.561114)
+		(end 0 818.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "41eb8d75-7351-4870-9910-1c632ef9f078")
+	)
 	(gr_circle
 		(center 49.085334 -40.506049)
 		(end 50.585335 -40.50605)
@@ -200005,8 +200015,8 @@
 		(uuid "4b8d31fe-afec-4752-8e53-32aebbe245a5")
 	)
 	(gr_line
-		(start 149.074919 686.835287)
-		(end 154.922957 686.835287)
+		(start 149.074919 686.116401)
+		(end 154.922957 686.116401)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -200015,8 +200025,8 @@
 		(uuid "547ff471-071c-4bea-b51a-78d783946ba8")
 	)
 	(gr_line
-		(start 149.074919 684.602485)
-		(end 149.074919 686.835287)
+		(start 149.074919 683.883599)
+		(end 149.074919 686.116401)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -200025,8 +200035,8 @@
 		(uuid "5736c8c3-aaab-4310-a09e-6436faab4414")
 	)
 	(gr_line
-		(start 151.998938 685.718886)
-		(end 151.998938 685.718886)
+		(start 151.998938 685)
+		(end 151.998938 685)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -200056,8 +200066,8 @@
 		(uuid "5c79b1fe-2090-47f5-9b60-e78efc375cc1")
 	)
 	(gr_line
-		(start 149.074919 686.835287)
-		(end 149.074919 818.102485)
+		(start 149.074919 686.116401)
+		(end 149.074919 817.383599)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -200131,8 +200141,8 @@
 		(uuid "68fb6dc7-5cf1-4bf3-a697-2138218f8b4e")
 	)
 	(gr_line
-		(start 151.998938 686.835287)
-		(end 151.998938 685.718886)
+		(start 151.998938 686.116401)
+		(end 151.998938 685)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -200172,8 +200182,8 @@
 		(uuid "740dfcf5-7288-484c-88d8-f22ff878f850")
 	)
 	(gr_line
-		(start -149.074919 686.835287)
-		(end -149.074919 818.103402)
+		(start -149.074919 686.116401)
+		(end -149.074919 817.383599)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -200215,8 +200225,8 @@
 		(uuid "8131baab-b21a-45b9-b202-d42ce0741140")
 	)
 	(gr_line
-		(start 113.845218 757.410917)
-		(end 114.554922 761.651945)
+		(start 113.845218 756.692031)
+		(end 114.554922 760.933059)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -200235,8 +200245,8 @@
 		(uuid "854a6807-7f60-4e71-ac2c-9f25c2030f26")
 	)
 	(gr_line
-		(start -8.75 797.53)
-		(end 0 797.53)
+		(start -8.75 796.811114)
+		(end 0 796.811114)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -200319,8 +200329,8 @@
 		(uuid "9f84e2cc-f4d3-4275-b4d4-5b80542565a5")
 	)
 	(gr_line
-		(start -37.065596 818.102485)
-		(end 149.074919 818.102485)
+		(start -149.074919 817.383599)
+		(end 149.074919 817.383599)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -200435,8 +200445,8 @@
 		(uuid "bade26d3-cab8-436c-98c8-ab245644850a")
 	)
 	(gr_line
-		(start 0 806.28)
-		(end 0 797.53)
+		(start 0 805.561114)
+		(end 0 796.811114)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -200445,8 +200455,8 @@
 		(uuid "bbe6ac13-5f48-4050-b65e-62d1272766c0")
 	)
 	(gr_line
-		(start 0 797.53)
-		(end 0 788.78)
+		(start 0 796.811114)
+		(end 0 788.061114)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -200477,8 +200487,8 @@
 		(uuid "cd16f7a4-17ba-4459-8371-c385f1429fb6")
 	)
 	(gr_line
-		(start 0 797.53)
-		(end 8.75 797.53)
+		(start 0 796.811114)
+		(end 8.75 796.811114)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -200634,20 +200644,9 @@
 		(layer "Cmts.User")
 		(uuid "f0f48e0f-f364-4bf4-ac00-cf889f3a002d")
 	)
-	(gr_rect
-		(start -152.001062 685.718886)
-		(end 151.998938 819.218886)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(fill none)
-		(layer "Cmts.User")
-		(uuid "f0f751a5-de38-4066-b374-e460aac4d46d")
-	)
 	(gr_line
-		(start 149.074919 685.718886)
-		(end 151.998938 685.718886)
+		(start 149.074919 685)
+		(end 151.998938 685)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -200666,16 +200665,6 @@
 		(layer "Cmts.User")
 		(uuid "f7217b4c-3f28-49a5-876b-8fc653f99d5f")
 	)
-	(gr_line
-		(start -37.065596 818.102485)
-		(end -149.077043 818.102485)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Cmts.User")
-		(uuid "f7745995-1010-4df2-b6a5-f27e7507822a")
-	)
 	(gr_circle
 		(center 62.872872 250.459273)
 		(end 64.372874 250.459272)
@@ -200686,6 +200675,17 @@
 		(fill none)
 		(layer "Cmts.User")
 		(uuid "fb335e84-3139-4bb0-bda2-7fe68f3fb15d")
+	)
+	(gr_rect
+		(start -152 685)
+		(end 152 818.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "Eco2.User")
+		(uuid "f0f751a5-de38-4066-b374-e460aac4d46d")
 	)
 	(gr_line
 		(start -8.34 -18.34)
@@ -200982,8 +200982,8 @@
 		(uuid "03bb7df7-eefe-4ce4-a702-8e04fc65a923")
 	)
 	(gr_line
-		(start 37.768939 819.218874)
-		(end -0.001062 819.218886)
+		(start 37.768939 818.499988)
+		(end -0.001062 818.5)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -201032,9 +201032,9 @@
 		(uuid "15bc968f-9094-44ff-a9e2-49ae85bf8017")
 	)
 	(gr_arc
-		(start -37.771055 819.219092)
-		(mid -38.112821 819.196679)
-		(end -38.441063 819.098885)
+		(start -37.771055 818.500206)
+		(mid -38.112821 818.477793)
+		(end -38.441063 818.379999)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -201043,8 +201043,8 @@
 		(uuid "1930a548-2dd8-4e4f-8b8f-d8f27c652f76")
 	)
 	(gr_line
-		(start 79.098937 691.183403)
-		(end 16.54575 706.200976)
+		(start 79.098937 690.464517)
+		(end 16.54575 705.48209)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -201053,8 +201053,8 @@
 		(uuid "1c2f4cdc-dbc0-4218-958e-0ccbdc7d56e5")
 	)
 	(gr_line
-		(start 151.629225 705.07836)
-		(end 151.590998 705.047153)
+		(start 151.629225 704.359474)
+		(end 151.590998 704.328267)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -201063,8 +201063,8 @@
 		(uuid "20b7d409-d8cb-479e-aa3b-9a6f26b48e3a")
 	)
 	(gr_line
-		(start -152.001066 690.723405)
-		(end -152.001065 703.413402)
+		(start -152.001066 690.000003)
+		(end -152.001065 702.694516)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -201084,8 +201084,8 @@
 		(uuid "284306ed-dabc-485d-9d8b-7f1726da9263")
 	)
 	(gr_line
-		(start -152.001064 708.908889)
-		(end -152.001064 749.378886)
+		(start -152.001064 708.190003)
+		(end -152.001064 748.66)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -201094,9 +201094,9 @@
 		(uuid "2c570dd0-a7da-4d16-8c87-4110609fea23")
 	)
 	(gr_arc
-		(start 9.876354 722.095084)
-		(mid 9.340062 723.002797)
-		(end 8.338936 723.333402)
+		(start 9.876354 721.376198)
+		(mid 9.340062 722.283913)
+		(end 8.338936 722.614516)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -201115,9 +201115,9 @@
 		(uuid "3682f6bb-5d6a-467a-8884-4f0c3c77f143")
 	)
 	(gr_arc
-		(start -151.631352 705.07836)
-		(mid -151.878681 705.073861)
-		(end -152.001065 704.858886)
+		(start -151.631352 704.359474)
+		(mid -151.878681 704.354975)
+		(end -152.001065 704.14)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -201126,8 +201126,8 @@
 		(uuid "3875ece6-17f4-4fff-820e-c626d27ec298")
 	)
 	(gr_line
-		(start 146.998942 685.723403)
-		(end 112.998942 685.723403)
+		(start 146.998942 685)
+		(end 112.998942 685)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -201167,8 +201167,8 @@
 		(uuid "464032be-84f8-4a22-b552-ff3741f20b60")
 	)
 	(gr_line
-		(start -151.631352 705.07836)
-		(end -151.593125 705.047153)
+		(start -151.631352 704.359474)
+		(end -151.593125 704.328267)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -201198,8 +201198,8 @@
 		(uuid "4ab11967-e3ff-40a5-8c72-41adf071ee46")
 	)
 	(gr_line
-		(start 8.338936 723.333402)
-		(end -0.001064 723.333402)
+		(start 8.338936 722.614516)
+		(end -0.001064 722.614516)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -201218,9 +201218,9 @@
 		(uuid "4ce5dd0b-7e29-46f3-aa69-e3d978dd4a73")
 	)
 	(gr_arc
-		(start -152.001064 708.908889)
-		(mid -150.536601 705.373355)
-		(end -147.001069 703.908886)
+		(start -152.001064 708.190003)
+		(mid -150.536601 704.654469)
+		(end -147.001069 703.19)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -201260,8 +201260,8 @@
 		(uuid "56b7a2a7-1d3b-4830-86c0-980a076b503d")
 	)
 	(gr_line
-		(start 112.998942 685.723403)
-		(end 79.098937 691.183403)
+		(start 112.998942 685.004517)
+		(end 79.098937 690.464517)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -201270,9 +201270,9 @@
 		(uuid "59193e82-54b1-4048-92af-7d275ea2977e")
 	)
 	(gr_arc
-		(start 38.438941 819.098877)
-		(mid 38.110701 819.196671)
-		(end 37.768938 819.219086)
+		(start 38.438941 818.379991)
+		(mid 38.110702 818.477785)
+		(end 37.768938 818.5002)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -201281,8 +201281,8 @@
 		(uuid "603f39cb-02a3-4c25-b5e7-10c6eac0d0c8")
 	)
 	(gr_line
-		(start -38.441063 819.098885)
-		(end -142.233043 764.217787)
+		(start -38.441063 818.379999)
+		(end -142.233043 763.498901)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -201291,9 +201291,9 @@
 		(uuid "606ed110-6306-435e-9b3a-026bfef71036")
 	)
 	(gr_arc
-		(start -16.547877 706.200975)
-		(mid -14.121064 707.553402)
-		(end -12.79076 709.992412)
+		(start -16.547877 705.482089)
+		(mid -14.121064 706.834516)
+		(end -12.79076 709.273526)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -201312,9 +201312,9 @@
 		(uuid "622ecac9-8fd0-409d-8d75-10feb62773b7")
 	)
 	(gr_arc
-		(start 146.998942 703.908886)
-		(mid 150.534474 705.373355)
-		(end 151.998937 708.908889)
+		(start 146.998942 703.19)
+		(mid 150.534455 704.654481)
+		(end 151.998937 708.190003)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -201323,8 +201323,8 @@
 		(uuid "63b07d39-b398-47d1-b602-7f2bd16e8aeb")
 	)
 	(gr_line
-		(start -37.771063 819.218885)
-		(end -0.001062 819.218886)
+		(start -37.771063 818.499999)
+		(end -0.001062 818.5)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -201355,9 +201355,9 @@
 		(uuid "6b9ef351-cdbb-4179-9000-bb8a60e9e4f9")
 	)
 	(gr_arc
-		(start -142.233043 764.217787)
-		(mid -149.368688 757.516977)
-		(end -152.001064 748.088886)
+		(start -142.233043 763.498901)
+		(mid -149.368688 756.798091)
+		(end -152.001064 747.37)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -201377,8 +201377,8 @@
 		(uuid "7329badc-02c8-45e3-9b10-4cc2475d0245")
 	)
 	(gr_line
-		(start 9.876354 722.095084)
-		(end 12.788633 709.992413)
+		(start 9.876354 721.376198)
+		(end 12.788633 709.273527)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -201408,8 +201408,8 @@
 		(uuid "80239803-7e76-4944-84e7-92eabc654477")
 	)
 	(gr_line
-		(start -9.878481 722.095083)
-		(end -12.79076 709.992412)
+		(start -9.878481 721.376197)
+		(end -12.79076 709.273526)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -201439,8 +201439,8 @@
 		(uuid "88ded6b9-3c59-42be-83a3-bd7fff9e63de")
 	)
 	(gr_line
-		(start 151.998939 690.723406)
-		(end 151.998938 703.413402)
+		(start 151.998939 690.000003)
+		(end 151.998938 702.694516)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -201449,8 +201449,8 @@
 		(uuid "8961eaf3-d4df-4a32-a47b-6c6ee6dbf5d4")
 	)
 	(gr_line
-		(start 38.438941 819.098877)
-		(end 142.230921 764.21779)
+		(start 38.438941 818.379991)
+		(end 142.230921 763.498904)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -201459,9 +201459,9 @@
 		(uuid "8a3705ab-71a7-4ec2-8512-ccfddc92acd0")
 	)
 	(gr_arc
-		(start 146.998942 685.723403)
-		(mid 150.534474 687.187872)
-		(end 151.998939 690.723406)
+		(start 146.998942 685)
+		(mid 150.534449 686.464482)
+		(end 151.998939 690.000003)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -201470,8 +201470,8 @@
 		(uuid "91a18c65-a55a-47b1-8fad-c51e825eed4d")
 	)
 	(gr_line
-		(start 151.998937 708.908889)
-		(end 151.998936 749.378886)
+		(start 151.998937 708.190003)
+		(end 151.998936 748.66)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -201490,8 +201490,8 @@
 		(uuid "9be10f6e-9926-417d-be54-9000a7865a61")
 	)
 	(gr_line
-		(start -79.101064 691.183402)
-		(end -16.547877 706.200975)
+		(start -79.101064 690.464516)
+		(end -16.547877 705.482089)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -201511,9 +201511,9 @@
 		(uuid "9e0bcd8f-fa42-401b-ad21-2f0a1e1f92b9")
 	)
 	(gr_arc
-		(start -151.593125 705.047153)
-		(mid -149.533812 703.469659)
-		(end -147.001069 702.908886)
+		(start -151.593125 704.328267)
+		(mid -149.533812 702.750773)
+		(end -147.001069 702.19)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -201543,8 +201543,8 @@
 		(uuid "a5e14ebe-3f21-45d8-89e6-23d2d15aa6c2")
 	)
 	(gr_line
-		(start -113.001069 685.723402)
-		(end -79.101064 691.183402)
+		(start -113.001069 685.004516)
+		(end -79.101064 690.464516)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -201553,9 +201553,9 @@
 		(uuid "a9219ae6-b3ea-47fb-bfb4-3caed0b3f9dc")
 	)
 	(gr_arc
-		(start -8.341063 723.333401)
-		(mid -9.342191 723.002799)
-		(end -9.878481 722.095083)
+		(start -8.341063 722.614515)
+		(mid -9.342191 722.283913)
+		(end -9.878481 721.376197)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -201574,8 +201574,8 @@
 		(uuid "b79283b9-6237-44ea-8237-cef350d25c04")
 	)
 	(gr_line
-		(start -147.001069 685.723402)
-		(end -113.001069 685.723402)
+		(start -147.001069 685)
+		(end -113.001069 685)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -201646,9 +201646,9 @@
 		(uuid "cf4d826d-f0a0-4e47-b976-bf5842a4e8c7")
 	)
 	(gr_arc
-		(start 151.998936 748.088886)
-		(mid 149.366565 757.516978)
-		(end 142.230921 764.21779)
+		(start 151.998936 747.37)
+		(mid 149.366573 756.798103)
+		(end 142.230921 763.498904)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -201657,9 +201657,9 @@
 		(uuid "d3710308-b8dc-4b7b-84d9-3839d93f0624")
 	)
 	(gr_arc
-		(start 146.998942 702.908886)
-		(mid 149.531685 703.469659)
-		(end 151.590998 705.047153)
+		(start 146.998942 702.19)
+		(mid 149.531677 702.750785)
+		(end 151.590998 704.328267)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -201678,9 +201678,9 @@
 		(uuid "dbaf5466-4e3d-4ea8-aae6-7791a7ed5ed2")
 	)
 	(gr_arc
-		(start 12.788633 709.992413)
-		(mid 14.118939 707.553404)
-		(end 16.54575 706.200976)
+		(start 12.788633 709.273527)
+		(mid 14.118939 706.83452)
+		(end 16.54575 705.48209)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -201710,8 +201710,8 @@
 		(uuid "e1c56d60-ece7-4b01-b622-63601dde858f")
 	)
 	(gr_line
-		(start -147.001069 702.908886)
-		(end -147.001069 703.908886)
+		(start -147.001069 702.19)
+		(end -147.001069 703.19)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -201741,8 +201741,8 @@
 		(uuid "e5c2e4bc-38b5-4ede-aa97-368ef74a91ef")
 	)
 	(gr_line
-		(start -8.341063 723.333401)
-		(end -0.001063 723.333401)
+		(start -8.341063 722.614515)
+		(end -0.001063 722.614515)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -201803,9 +201803,9 @@
 		(uuid "f9dcb2f7-ef58-4e57-b62a-68bb666b93f7")
 	)
 	(gr_arc
-		(start -152.001066 690.723405)
-		(mid -150.536602 687.18787)
-		(end -147.001069 685.723402)
+		(start -152.001066 690.000003)
+		(mid -150.536602 686.464468)
+		(end -147.001069 685)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -201845,9 +201845,9 @@
 		(uuid "fdff45d2-2e3a-4f3c-bbf3-f81b889507bf")
 	)
 	(gr_arc
-		(start 151.998938 704.858886)
-		(mid 151.876554 705.073861)
-		(end 151.629225 705.07836)
+		(start 151.998938 704.14)
+		(mid 151.876553 704.355011)
+		(end 151.629225 704.359474)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -201856,8 +201856,8 @@
 		(uuid "ff83fb41-e337-4ba6-8e0b-8ed7b99e85e6")
 	)
 	(gr_line
-		(start 146.998942 702.908886)
-		(end 146.998942 703.908886)
+		(start 146.998942 702.19)
+		(end 146.998942 703.19)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -202130,11 +202130,11 @@
 		(layer "Cmts.User")
 		(uuid "6529f060-9c53-4bb6-b13f-ddf40c2cc5ba")
 		(pts
-			(xy -152.001062 819.218886) (xy 151.998938 819.218886)
+			(xy -152.001062 818.5) (xy 151.998938 818.5)
 		)
 		(height 9.834516)
 		(gr_text "304.0000 mm"
-			(at -0.001062 827.903402 0)
+			(at -0.001062 827.184516 0)
 			(layer "Cmts.User")
 			(uuid "6529f060-9c53-4bb6-b13f-ddf40c2cc5ba")
 			(effects
@@ -202295,11 +202295,11 @@
 		(layer "Cmts.User")
 		(uuid "d4f98959-9cfe-404c-9405-ba36b8ec9b04")
 		(pts
-			(xy 151.998938 819.218886) (xy 151.998938 685.718886)
+			(xy 151.998938 818.5) (xy 151.998938 685)
 		)
 		(height 13.354019)
 		(gr_text "133.5000 mm"
-			(at 164.202957 752.468886 90)
+			(at 164.202957 751.75 90)
 			(layer "Cmts.User")
 			(uuid "d4f98959-9cfe-404c-9405-ba36b8ec9b04")
 			(effects
