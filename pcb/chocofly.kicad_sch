@@ -1799,6 +1799,12 @@
 		(uuid "12de88ea-b908-4f47-b266-e6300f12338a")
 	)
 	(junction
+		(at 242.57 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "14512c14-0b60-4df3-a886-b64c97522d47")
+	)
+	(junction
 		(at 128.27 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2480,6 +2486,16 @@
 	)
 	(wire
 		(pts
+			(xy 247.65 96.52) (xy 247.65 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05676b0c-d15e-4fb0-a430-841f54e1985e")
+	)
+	(wire
+		(pts
 			(xy 132.08 171.45) (xy 146.05 171.45)
 		)
 		(stroke
@@ -2607,6 +2623,16 @@
 			(type default)
 		)
 		(uuid "190aeb88-fd4d-4a59-8b78-a9d373dda647")
+	)
+	(wire
+		(pts
+			(xy 241.3 96.52) (xy 242.57 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a48909a-25cb-4111-ba91-ee6eb7e5e647")
 	)
 	(wire
 		(pts
@@ -3007,6 +3033,16 @@
 			(type default)
 		)
 		(uuid "5fed0db6-cb40-4bcb-9074-4545ee675438")
+	)
+	(wire
+		(pts
+			(xy 257.81 96.52) (xy 265.43 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60c79db4-4d84-4f9a-944c-956bb54a6855")
 	)
 	(wire
 		(pts
@@ -3787,6 +3823,16 @@
 			(type default)
 		)
 		(uuid "df6cf0f4-2b03-420d-9413-8d094e5b8d37")
+	)
+	(wire
+		(pts
+			(xy 242.57 96.52) (xy 247.65 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dffdb099-dcbb-4559-a1bc-1d32ef8748a7")
 	)
 	(wire
 		(pts
@@ -5398,7 +5444,7 @@
 	)
 	(symbol
 		(lib_id "chocofly-rescue:i2c_pin-pin_pad")
-		(at 247.65 96.52 0)
+		(at 270.51 96.52 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5406,7 +5452,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00006151b959")
 		(property "Reference" "P1"
-			(at 249.682 95.4532 0)
+			(at 272.542 95.4532 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5415,7 +5461,7 @@
 			)
 		)
 		(property "Value" "battery+"
-			(at 249.682 97.7646 0)
+			(at 272.542 97.7646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5424,7 +5470,7 @@
 			)
 		)
 		(property "Footprint" "footprints:1pin_conn"
-			(at 247.65 96.52 0)
+			(at 270.51 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5433,7 +5479,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 247.65 96.52 0)
+			(at 270.51 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5442,7 +5488,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 247.65 96.52 0)
+			(at 270.51 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17763,6 +17809,85 @@
 			(project ""
 				(path "/db4dac64-1581-426b-b2ad-fbb21197bc47"
 					(reference "JP3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_DPDT_x2")
+		(at 252.73 93.98 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "946d1df1-52bb-4eb0-881e-af30234d6c11")
+		(property "Reference" "SW64"
+			(at 252.73 86.741 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Power"
+			(at 252.73 89.0524 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "footprints:Switch_MSK-12C01-07"
+			(at 252.73 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 252.73 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 252.73 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d783cc66-75b5-478c-ad98-4c42c2b94edc")
+		)
+		(pin "2"
+			(uuid "2b239f89-8825-429c-b346-ec2a980e2372")
+		)
+		(pin "3"
+			(uuid "9f8b32f7-4313-4fb1-808f-9397a37648a3")
+		)
+		(pin "4"
+			(uuid "621bb0fe-f9f6-429d-b404-8f02526711b1")
+		)
+		(pin "5"
+			(uuid "c0d927cb-b822-4db4-8611-5c6075f510ef")
+		)
+		(pin "6"
+			(uuid "f92209da-54c1-4300-b948-7776d8877ae0")
+		)
+		(instances
+			(project "chocofly"
+				(path "/db4dac64-1581-426b-b2ad-fbb21197bc47"
+					(reference "SW64")
 					(unit 1)
 				)
 			)
