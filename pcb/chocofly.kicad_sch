@@ -4874,7 +4874,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 39.37 52.07 0)
 			(effects
 				(font
@@ -5011,7 +5011,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 53.34 52.07 0)
 			(effects
 				(font
@@ -5148,7 +5148,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 67.31 52.07 0)
 			(effects
 				(font
@@ -5285,7 +5285,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 123.19 52.07 0)
 			(effects
 				(font
@@ -5554,7 +5554,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 39.37 67.31 0)
 			(effects
 				(font
@@ -5691,7 +5691,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 53.34 67.31 0)
 			(effects
 				(font
@@ -5828,7 +5828,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 67.31 67.31 0)
 			(effects
 				(font
@@ -6034,7 +6034,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 123.19 67.31 0)
 			(effects
 				(font
@@ -6171,7 +6171,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 53.34 113.03 0)
 			(effects
 				(font
@@ -6308,7 +6308,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 39.37 82.55 0)
 			(effects
 				(font
@@ -6445,7 +6445,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 53.34 82.55 0)
 			(effects
 				(font
@@ -6582,7 +6582,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 67.31 82.55 0)
 			(effects
 				(font
@@ -6719,7 +6719,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 81.28 82.55 0)
 			(effects
 				(font
@@ -6856,7 +6856,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 109.22 82.55 0)
 			(effects
 				(font
@@ -6993,7 +6993,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 123.19 82.55 0)
 			(effects
 				(font
@@ -7130,7 +7130,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 39.37 97.79 0)
 			(effects
 				(font
@@ -7267,7 +7267,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 53.34 97.79 0)
 			(effects
 				(font
@@ -7404,7 +7404,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 67.31 97.79 0)
 			(effects
 				(font
@@ -7541,7 +7541,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 81.28 97.79 0)
 			(effects
 				(font
@@ -7678,7 +7678,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 109.22 97.79 0)
 			(effects
 				(font
@@ -7815,7 +7815,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 123.19 97.79 0)
 			(effects
 				(font
@@ -7952,7 +7952,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 39.37 113.03 0)
 			(effects
 				(font
@@ -8089,7 +8089,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 67.31 113.03 0)
 			(effects
 				(font
@@ -8226,7 +8226,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 81.28 113.03 0)
 			(effects
 				(font
@@ -8363,7 +8363,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 109.22 113.03 0)
 			(effects
 				(font
@@ -8500,7 +8500,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 123.19 113.03 0)
 			(effects
 				(font
@@ -8997,7 +8997,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 39.37 128.27 0)
 			(effects
 				(font
@@ -9134,7 +9134,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 67.31 128.27 0)
 			(effects
 				(font
@@ -9202,7 +9202,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 81.28 128.27 0)
 			(effects
 				(font
@@ -9339,7 +9339,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 109.22 128.27 0)
 			(effects
 				(font
@@ -9476,7 +9476,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 123.19 128.27 0)
 			(effects
 				(font
@@ -9682,7 +9682,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 53.34 128.27 0)
 			(effects
 				(font
@@ -9888,7 +9888,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 137.16 128.27 0)
 			(effects
 				(font
@@ -10025,7 +10025,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 151.13 128.27 0)
 			(effects
 				(font
@@ -10093,7 +10093,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 39.37 143.51 0)
 			(effects
 				(font
@@ -10230,7 +10230,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 67.31 143.51 0)
 			(effects
 				(font
@@ -10298,7 +10298,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 81.28 143.51 0)
 			(effects
 				(font
@@ -10435,7 +10435,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 109.22 143.51 0)
 			(effects
 				(font
@@ -10572,7 +10572,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 123.19 143.51 0)
 			(effects
 				(font
@@ -10778,7 +10778,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 53.34 143.51 0)
 			(effects
 				(font
@@ -10984,7 +10984,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 137.16 143.51 0)
 			(effects
 				(font
@@ -11121,7 +11121,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 151.13 143.51 0)
 			(effects
 				(font
@@ -11189,7 +11189,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 39.37 158.75 0)
 			(effects
 				(font
@@ -11326,7 +11326,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 67.31 158.75 0)
 			(effects
 				(font
@@ -11394,7 +11394,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 81.28 158.75 0)
 			(effects
 				(font
@@ -11531,7 +11531,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 123.19 158.75 0)
 			(effects
 				(font
@@ -11737,7 +11737,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 53.34 158.75 0)
 			(effects
 				(font
@@ -11943,7 +11943,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 137.16 158.75 0)
 			(effects
 				(font
@@ -12080,7 +12080,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 151.13 158.75 0)
 			(effects
 				(font
@@ -12148,7 +12148,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 137.16 52.07 0)
 			(effects
 				(font
@@ -12285,7 +12285,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 151.13 52.07 0)
 			(effects
 				(font
@@ -12422,7 +12422,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 137.16 67.31 0)
 			(effects
 				(font
@@ -12559,7 +12559,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 151.13 67.31 0)
 			(effects
 				(font
@@ -12696,7 +12696,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 137.16 82.55 0)
 			(effects
 				(font
@@ -12833,7 +12833,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 151.13 82.55 0)
 			(effects
 				(font
@@ -12970,7 +12970,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 137.16 97.79 0)
 			(effects
 				(font
@@ -13107,7 +13107,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 151.13 97.79 0)
 			(effects
 				(font
@@ -13244,7 +13244,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 151.13 113.03 0)
 			(effects
 				(font
@@ -13381,7 +13381,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 137.16 113.03 0)
 			(effects
 				(font
@@ -13518,7 +13518,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Kailh_socket_PG1350_optional_mkultra"
+		(property "Footprint" "footprints:Kailh_socket_PG1350_chosfox_17_5mm"
 			(at 109.22 158.75 0)
 			(effects
 				(font

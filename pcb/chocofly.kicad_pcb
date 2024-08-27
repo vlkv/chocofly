@@ -11419,7 +11419,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at -6.5 -1.209999 -103.5)
+			(at -6.5 -1.209998 -103.5)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "3a70772f-a66a-4d83-89fe-99a808590447")
@@ -14837,7 +14837,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at -6.5 -1.209999 -103.5)
+			(at -6.5 -1.209998 -103.5)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "d0d3350e-1a7c-448e-98fd-83a010ebe769")
@@ -23589,7 +23589,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at -6.5 -1.209999 -103.5)
+			(at -6.5 -1.209998 -103.5)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "3d0b43fd-87b6-4b66-b6a9-588a27ac8e17")
@@ -24358,7 +24358,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at -6.5 -1.209999 -103.5)
+			(at -6.5 -1.209998 -103.5)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "604d7b26-03d8-4254-88e4-a3bc05606444")
@@ -26045,7 +26045,7 @@
 		(at -133.224087 713.450565 -9.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
-		(property "Reference" "SW24"
+		(property "Reference" "SW14"
 			(at -0.000001 -8.255 170.5)
 			(layer "F.SilkS")
 			(uuid "fd1efeaf-1510-471d-8b7a-3450fafa56fa")
@@ -27684,7 +27684,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at -6.5 -1.209999 -103.5)
+			(at -6.5 -1.209998 -103.5)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "e436bea7-8d55-488b-add2-7e78b1925bd3")
@@ -27754,7 +27754,7 @@
 		(at -115.964089 716.338897 -9.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount")
 		(tags "kailh,choc")
-		(property "Reference" "SW24"
+		(property "Reference" "SW22"
 			(at -0.000001 -8.255 170.5)
 			(layer "F.SilkS")
 			(uuid "ceffd0c7-ab6e-402b-8e3a-006f923aac07")
@@ -29698,7 +29698,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at -6.5 -1.209999 -103.5)
+			(at -6.5 -1.209998 -103.5)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "9a23c8fc-10d7-493e-96b8-2ae149f4dc8c")
@@ -31407,7 +31407,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at -6.5 -1.209999 -103.5)
+			(at -6.5 -1.209998 -103.5)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "80484581-18ff-4387-93dd-8419c6d1471b")
@@ -35832,7 +35832,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at -6.5 -1.209999 -103.5)
+			(at -6.5 -1.209998 -103.5)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "de63b324-a3a8-4314-8fa9-3f264d2ad503")
@@ -39603,7 +39603,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at -6.5 -1.209999 -103.5)
+			(at -6.5 -1.209998 -103.5)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "14a48c26-1233-4d19-8f50-c87972d7921e")
@@ -42929,7 +42929,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at -6.5 -1.209999 -103.5)
+			(at -6.5 -1.209998 -103.5)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "d744f67b-fe52-4d95-97b4-e9c294099054")
@@ -44241,7 +44241,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at -6.5 -1.209999 -103.5)
+			(at -6.5 -1.209998 -103.5)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "bc34bc7f-29bb-44aa-bdaa-4e6e41bf60bb")
@@ -44546,7 +44546,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at -6.5 -1.209999 -103.5)
+			(at -6.5 -1.209998 -103.5)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "926f9c42-97b6-4db4-a9fd-82d9b1a3eef6")
@@ -48401,7 +48401,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at -6.5 -1.209999 -103.5)
+			(at -6.5 -1.209998 -103.5)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "1cf4f5b0-5cdc-4e38-98a7-59dc6b9d59a1")
@@ -53528,7 +53528,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at -6.5 -1.209999 -103.5)
+			(at -6.5 -1.209998 -103.5)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "bc1b23ff-59be-4371-bbca-907ff2894c73")
@@ -54138,7 +54138,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at -6.5 -1.209999 -103.5)
+			(at -6.5 -1.209998 -103.5)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "92c954de-1d35-4f32-a325-ae95eb05b1bc")
@@ -58765,7 +58765,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at -6.5 -1.209999 -103.5)
+			(at -6.5 -1.209998 -103.5)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "0005f592-9d77-4023-873b-4cf112a94332")
@@ -61062,8 +61062,8 @@
 		(at -126.038256 723.524729 -99.5)
 		(descr "Resitance 3 pas")
 		(tags "R")
-		(property "Reference" "D22"
-			(at -3.55 1.75 -99.5)
+		(property "Reference" "D14"
+			(at -3.55 1.75 80.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5612ee9d-431a-42ca-baf9-c6ab5a82af22")
@@ -61075,7 +61075,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at -3.55 -1.6 -99.5)
+			(at -3.55 -1.6 80.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "62d79707-7537-4d24-aa1c-4460e68b344f")
@@ -61087,7 +61087,7 @@
 			)
 		)
 		(property "Footprint" "footprints:diode_TH_SMD"
-			(at -3.55 0 -99.5)
+			(at -3.55 0 80.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e48abb8c-6b3d-428f-82db-3f6c4714635d")
@@ -61099,7 +61099,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at -3.55 0 -99.5)
+			(at -3.55 0 80.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4788287f-ebda-496a-8cac-7c39dde0ce3b")
@@ -61111,7 +61111,7 @@
 			)
 		)
 		(property "Description" ""
-			(at -3.55 0 -99.5)
+			(at -3.55 0 80.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "25e44ff6-d21d-4201-9803-914281c7666a")
@@ -63006,7 +63006,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at -6.5 -1.209999 -103.5)
+			(at -6.5 -1.209998 -103.5)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "8fe3ab4a-8eb8-4403-8a3d-082870de1e4f")
