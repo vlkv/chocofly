@@ -1,4 +1,5 @@
 (fp_lib_table
-  (lib (name footprints)(type KiCad)(uri /home/vitvlkv/chocofly/footprints)(options "")(descr ""))
-  (lib (name keyswitches)(type KiCad)(uri /home/vitvlkv/keyswitches.pretty)(options "")(descr ""))
+  (version 7)
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/../footprints")(options "")(descr ""))
+  (lib (name "keyswitches")(type "KiCad")(uri "${KIPRJMOD}/../keyswitches.pretty")(options "")(descr ""))
 )

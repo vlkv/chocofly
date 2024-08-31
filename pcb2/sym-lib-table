@@ -1,6 +1,0 @@
-(sym_lib_table
-  (lib (name promicro_2)(type Legacy)(uri /home/vitvlkv/chocofly/symbols/promicro_2.lib)(options "")(descr ""))
-  (lib (name promicro)(type Legacy)(uri /home/vitvlkv/chocofly/symbols/promicro.lib)(options "")(descr ""))
-  (lib (name pin_pad)(type Legacy)(uri /home/vitvlkv/chocofly/symbols/pin_pad.lib)(options "")(descr ""))
-  (lib (name evqwgd001)(type Legacy)(uri /home/vitvlkv/chocofly/symbols/evqwgd001.lib)(options "")(descr ""))
-)
