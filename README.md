@@ -7,19 +7,20 @@ The main idea of the Chocofly is to be [thin](https://imgur.com/a/kJ5HPdX) and s
 
 Notable features:
 - Kailh Choc V1 switches support (both hotswap and non-hotswap - in one PCB).
-- Not very common 19x18mm switch spacing, which gives even gaps between the switches horizontally and vertically,
-  but keeping the overal size similar to layouts with Cherry MX spacing.
 - Non-agressive column stagger with just a little bit fan-angled 5th and 6th columns.
 - Fancy-shmancy "flying" design.
 
-![The Chocofly keyboard v1](/images/chocofly_v1-0.jpg)
-Chocofly v1.
+![The Chocofly keyboard v3 PCB](/images/chocofly_pcb_v3-0_B.jpeg)
+Chocofly v3 PCB.
+
+![The Chocofly keyboard v2 PCB](/images/chocofly_pcb_v2-0.png)
+Chocofly v2 PCB.
 
 ![The Chocofly keyboard v1 PCB](/images/chocofly_pcb_v1-0.jpg)
 Chocofly v1 PCB.
 
-![The Chocofly keyboard v2 PCB](/images/chocofly_pcb_v2-0.png)
-Chocofly v2 PCB.
+![The Chocofly keyboard v1](/images/chocofly_v1-0.jpg)
+Chocofly v1.
 
 
 ## Support the project
@@ -33,8 +34,12 @@ TODO.
 
 
 ## Gerber files
-* [Version 2.0]().
+* [Version 3.0](https://github.com/vlkv/chocofly/tree/v3.0).
+  * [PCB](https://github.com/vlkv/chocofly/blob/v2.0/pcb/chocofly_v3_0_pcb.zip) Status: testing...
+  * 17.5x17.5mm switch spacing (for Chosfox keycaps).
+* [Version 2.0](https://github.com/vlkv/chocofly/tree/v2.0).
   * [PCB](https://github.com/vlkv/chocofly/blob/v2.0/pcb/chocofly_v2_0_pcb.zip) Status: tested, OK.
+  * 19x18mm switch spacing (for MKUltra keycaps, Chosfox will fit too).
 * [Version 1.1](https://github.com/vlkv/chocofly/tree/v1.1).
   * [PCB](https://github.com/vlkv/chocofly/blob/v1.1/pcb/chocofly_v1_1_pcb.zip).
   * [top cover](https://github.com/vlkv/chocofly/blob/v1.0/top_cover/chocofly_v1_0_top_cover.zip) (Same as v1.0).
