@@ -36,9 +36,11 @@ TODO.
 ## Gerber files
 * [Version 3.0](https://github.com/vlkv/chocofly/tree/v3.0).
   * [PCB](https://github.com/vlkv/chocofly/blob/v2.0/pcb/chocofly_v3_0_pcb.zip) Status: testing...
+  * Dimensions 304x133.5mm
   * 17.5x17.5mm switch spacing (for Chosfox keycaps).
 * [Version 2.0](https://github.com/vlkv/chocofly/tree/v2.0).
   * [PCB](https://github.com/vlkv/chocofly/blob/v2.0/pcb/chocofly_v2_0_pcb.zip) Status: tested, OK.
+  * Dimensions: 317x133.4mm (or 317x116.7mm without number row)
   * 19x18mm switch spacing (for MKUltra keycaps, Chosfox will fit too).
 * [Version 1.1](https://github.com/vlkv/chocofly/tree/v1.1).
   * [PCB](https://github.com/vlkv/chocofly/blob/v1.1/pcb/chocofly_v1_1_pcb.zip).
