@@ -23,11 +23,6 @@ Chocofly v1 PCB.
 Chocofly v1.
 
 
-## Support the project
-
-To support this project, you may donate via PayPal link [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=99MYK4CNR8DP2).
-
-
 ## Layout tester
 
 TODO.
