@@ -56,10 +56,14 @@ Is [here](parts_list.md).
 
 ## Build instructions
 
-TODO.
-
 See similar https://github.com/vlkv/avalanche#build-instructions
 
+A few tips specific to the Chocofly:
+- You have to make the bottom of the keyboad as flat as possible. Because you will need to glue rubber sheen on it. That is why you better
+  * cut the switches' legs before soldering. Insert the switch into its place, cut the legs to the optimal length, then solder them.
+  * do not cut the central plastic shafts of the switches!
+  * use SMD diodes instead of throgh-hole ones.
+- Using 2mm think PCB should be a better option than 1.6mm, because it will hide the switches' shafts too.
 
 ## Firmware
 * Notes about the [default keyboard layout](https://github.com/vlkv/chocofly/blob/master/docs/layout.md).
