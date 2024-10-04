@@ -30,7 +30,7 @@ TODO.
 
 ## Gerber files
 * [Version 3.0](https://github.com/vlkv/chocofly/tree/v3.0).
-  * [PCB](https://github.com/vlkv/chocofly/blob/v2.0/pcb/chocofly_v3_0_pcb.zip) Status: tested, OK.
+  * [PCB](https://github.com/vlkv/chocofly/blob/v3.0/pcb/chocofly_v3_0_pcb.zip) Status: tested, OK.
   * Dimensions 304x133.5mm (or 304x116.2mm without number row)
   * 17.5x17.5mm switch spacing (for Chosfox keycaps).
 * [Version 2.0](https://github.com/vlkv/chocofly/tree/v2.0).
