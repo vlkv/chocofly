@@ -1,4 +1,4 @@
-23798740321333691
+23800476587974114
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -96643,6 +96643,13 @@ CherryMX_MidHeight_Hotswap_1u
 2
 footprints
 EVQWGD001
+
+
+0
+6
+6
+footprints
+EVQWGD001_for_mx
 
 
 0
