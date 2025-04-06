@@ -1,4 +1,0 @@
-(fp_lib_table
-  (lib (name footprints)(type KiCad)(uri /home/vitvlkv/thinkb/footprints)(options "")(descr ""))
-  (lib (name EVQWGD001_Hole)(type KiCad)(uri /home/vitvlkv/thinkb/footprints/EVQWGD001_Hole.pretty)(options "")(descr ""))
-)
