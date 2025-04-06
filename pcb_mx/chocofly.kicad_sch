@@ -552,6 +552,264 @@
 				)
 			)
 		)
+		(symbol "chocofly-rescue:EVQWGD001-evqwgd001"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "SW"
+				(at 3.81 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "evqwgd001_EVQWGD001"
+				(at 0 -8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "EVQWGD001-evqwgd001_0_1"
+				(rectangle
+					(start -6.35 3.81)
+					(end 6.35 -6.35)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 -5.08) (xy 5.08 -5.08)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 -3.81) (xy 5.08 -3.81)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 -2.54) (xy 5.08 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 -1.27) (xy 5.08 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 0) (xy 5.08 0)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 1.27) (xy 5.08 1.27)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 2.54) (xy 5.08 2.54)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "EVQWGD001-evqwgd001_1_1"
+				(pin output line
+					(at -8.89 2.54 0)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -8.89 0 0)
+					(length 2.54)
+					(name "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -8.89 -2.54 0)
+					(length 2.54)
+					(name "C"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "C"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -8.89 -5.08 0)
+					(length 2.54)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -2.54 6.35 270)
+					(length 2.54)
+					(name "S1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "S1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 0 6.35 270)
+					(length 2.54)
+					(name "S2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "S2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "chocofly-rescue:ProMicro_2-promicro"
 			(pin_names
 				(offset 1.016)
@@ -1555,6 +1813,12 @@
 		(uuid "8df2d207-16d8-4492-9e67-203cc07cc2b8")
 	)
 	(junction
+		(at 86.36 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9366c8d7-1359-4ce0-b845-ba1f0152d327")
+	)
+	(junction
 		(at 48.26 156.21)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1765,6 +2029,12 @@
 		(uuid "e639f1cf-2373-4892-9672-6157d37bdec8")
 	)
 	(junction
+		(at 76.2 80.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ec77f4ed-7d9d-488d-8ab5-3070d0927d8a")
+	)
+	(junction
 		(at 86.36 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1783,12 +2053,8 @@
 		(uuid "f9908da5-cbd9-43f5-85a6-4f1f73a2d953")
 	)
 	(no_connect
-		(at 185.42 93.98)
-		(uuid "04924c95-206b-4950-af40-7dc82ce975b4")
-	)
-	(no_connect
-		(at 185.42 96.52)
-		(uuid "c7857876-7b15-43dc-8965-d52a952cbc95")
+		(at 77.47 29.21)
+		(uuid "7f0474a3-f305-46ac-9c6f-59a7f81b8562")
 	)
 	(no_connect
 		(at 218.44 101.6)
@@ -1894,6 +2160,16 @@
 	)
 	(wire
 		(pts
+			(xy 86.36 17.78) (xy 97.79 17.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f2814e2-2603-4f5e-8203-86c70e71ddfa")
+	)
+	(wire
+		(pts
 			(xy 27.94 80.01) (xy 34.29 80.01)
 		)
 		(stroke
@@ -1981,6 +2257,16 @@
 			(type default)
 		)
 		(uuid "1fd84556-d48a-4a43-bc6f-f7d4e11da089")
+	)
+	(wire
+		(pts
+			(xy 97.79 41.91) (xy 80.01 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20bbf1f9-3d3c-4ff2-9a7d-7d58f7efd17b")
 	)
 	(wire
 		(pts
@@ -2094,6 +2380,16 @@
 	)
 	(wire
 		(pts
+			(xy 69.85 26.67) (xy 77.47 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4378a3d1-c561-45d3-8403-4b3766c695f8")
+	)
+	(wire
+		(pts
 			(xy 48.26 125.73) (xy 62.23 125.73)
 		)
 		(stroke
@@ -2101,6 +2397,16 @@
 			(type default)
 		)
 		(uuid "447538db-5d03-45ef-be6d-7647e7cc165a")
+	)
+	(wire
+		(pts
+			(xy 76.2 39.37) (xy 76.2 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44abd5bd-351d-45a7-ad6a-012af95aadd8")
 	)
 	(wire
 		(pts
@@ -2244,7 +2550,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 49.53) (xy 86.36 87.63)
+			(xy 86.36 49.53) (xy 86.36 72.39)
 		)
 		(stroke
 			(width 0)
@@ -2354,6 +2660,16 @@
 	)
 	(wire
 		(pts
+			(xy 95.25 39.37) (xy 76.2 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6777c553-c30d-4afc-bea0-eab9a192ae78")
+	)
+	(wire
+		(pts
 			(xy 58.42 148.59) (xy 58.42 163.83)
 		)
 		(stroke
@@ -2391,6 +2707,16 @@
 			(type default)
 		)
 		(uuid "6cf9a130-14cb-443b-8222-7f7988e7e169")
+	)
+	(wire
+		(pts
+			(xy 97.79 17.78) (xy 97.79 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d8697ab-4799-4a13-a75e-d173de498894")
 	)
 	(wire
 		(pts
@@ -2444,6 +2770,16 @@
 	)
 	(wire
 		(pts
+			(xy 95.25 16.51) (xy 95.25 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "730f051a-7649-4468-a86c-45a55f075990")
+	)
+	(wire
+		(pts
 			(xy 142.24 133.35) (xy 142.24 148.59)
 		)
 		(stroke
@@ -2474,7 +2810,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 80.01) (xy 118.11 80.01)
+			(xy 62.23 80.01) (xy 76.2 80.01)
 		)
 		(stroke
 			(width 0)
@@ -2564,6 +2900,16 @@
 	)
 	(wire
 		(pts
+			(xy 80.01 72.39) (xy 86.36 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e26a3dc-1086-4bc2-b8a4-4b2dda6272de")
+	)
+	(wire
+		(pts
 			(xy 242.57 101.6) (xy 232.41 101.6)
 		)
 		(stroke
@@ -2581,6 +2927,16 @@
 			(type default)
 		)
 		(uuid "8f14e731-e265-4622-8634-bfd5e91bf541")
+	)
+	(wire
+		(pts
+			(xy 80.01 41.91) (xy 80.01 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "90b0e5a2-6b6d-40b1-a848-b2dcab933aca")
 	)
 	(wire
 		(pts
@@ -2764,6 +3120,16 @@
 	)
 	(wire
 		(pts
+			(xy 83.82 16.51) (xy 95.25 16.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0190b87-9c2f-4636-8e0c-5d103cd9a919")
+	)
+	(wire
+		(pts
 			(xy 128.27 133.35) (xy 128.27 148.59)
 		)
 		(stroke
@@ -2791,6 +3157,16 @@
 			(type default)
 		)
 		(uuid "b85b492c-8eb0-4722-8c97-3a76bf92d94a")
+	)
+	(wire
+		(pts
+			(xy 83.82 17.78) (xy 83.82 16.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc22ee25-53cf-4665-9549-b358cfe4cb0d")
 	)
 	(wire
 		(pts
@@ -2824,6 +3200,26 @@
 	)
 	(wire
 		(pts
+			(xy 76.2 80.01) (xy 118.11 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2ed7292-6bea-4cc4-b55d-2164e4a0bead")
+	)
+	(wire
+		(pts
+			(xy 69.85 21.59) (xy 77.47 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8badf53-6793-45fa-9b86-564d892d9c42")
+	)
+	(wire
+		(pts
 			(xy 218.44 93.98) (xy 232.41 93.98)
 		)
 		(stroke
@@ -2831,6 +3227,16 @@
 			(type default)
 		)
 		(uuid "ca46273b-6ad7-4bd4-aa04-d0e40b061821")
+	)
+	(wire
+		(pts
+			(xy 86.36 72.39) (xy 86.36 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca955c56-5328-4aba-813f-3561ae939483")
 	)
 	(wire
 		(pts
@@ -3034,6 +3440,16 @@
 	)
 	(wire
 		(pts
+			(xy 69.85 24.13) (xy 77.47 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f578f93d-815f-4ff4-99f5-15ffd4797b2d")
+	)
+	(wire
+		(pts
 			(xy 72.39 118.11) (xy 72.39 133.35)
 		)
 		(stroke
@@ -3091,6 +3507,26 @@
 			(type default)
 		)
 		(uuid "fda4dd76-637e-484a-8c4e-b139f2a50a92")
+	)
+	(global_label "encB"
+		(shape input)
+		(at 185.42 96.52 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "003a551d-1c4b-462e-8a94-190abdea8188")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 185.42 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "row4"
 		(shape input)
@@ -3254,6 +3690,26 @@
 	)
 	(global_label "GND"
 		(shape input)
+		(at 69.85 26.67 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2ed9a20c-d2e4-44a3-be44-c918dc1cff33")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 69.85 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
 		(at 185.42 101.6 180)
 		(effects
 			(font
@@ -3324,6 +3780,26 @@
 		(uuid "42613e7f-aec5-4af9-843a-42e730a04113")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 185.42 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "encA"
+		(shape input)
+		(at 69.85 21.59 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4fdbd4c3-9b27-425a-b62d-5a37ae7926f5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 69.85 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3572,6 +4048,26 @@
 			)
 		)
 	)
+	(global_label "encB"
+		(shape input)
+		(at 69.85 24.13 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b8c55af5-cc6d-4650-be93-e7b65e7c351d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 69.85 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "col7"
 		(shape input)
 		(at 156.21 49.53 90)
@@ -3664,6 +4160,26 @@
 		(uuid "d77fad6c-2050-4b9f-8598-d428bbf9dce8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 218.44 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "encA"
+		(shape input)
+		(at 185.42 93.98 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d79c20fc-7111-4e4e-890c-c232f27c86c3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 185.42 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12438,6 +12954,156 @@
 			(project ""
 				(path "/db4dac64-1581-426b-b2ad-fbb21197bc47"
 					(reference "D58")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "chocofly-rescue:EVQWGD001-evqwgd001")
+		(at 86.36 24.13 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "327cf602-bb10-4c29-bfb2-02a7f569b8cc")
+		(property "Reference" "ENC1"
+			(at 93.4212 22.7584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "EVQWGD001"
+			(at 93.4212 25.0698 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "footprints:EVQWGD001"
+			(at 86.36 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 86.36 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 86.36 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "A"
+			(uuid "53119868-c94c-4206-99bd-13ffc59a6896")
+		)
+		(pin "B"
+			(uuid "2d3d5b27-bcfd-4da0-abcf-3f1ee560c08a")
+		)
+		(pin "C"
+			(uuid "2f92f10f-e262-4f0f-9f90-341984d42e80")
+		)
+		(pin "NC"
+			(uuid "e2e87a37-5ba0-47a5-a1e7-46409f7e3837")
+		)
+		(pin "S1"
+			(uuid "d18d3ff4-0b0c-4186-b145-dcc149109655")
+		)
+		(pin "S2"
+			(uuid "495ab730-e551-4e8e-803c-245565bf1563")
+		)
+		(instances
+			(project "chocofly"
+				(path "/db4dac64-1581-426b-b2ad-fbb21197bc47"
+					(reference "ENC1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148")
+		(at 76.2 76.2 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5e32de34-b388-4fcc-a8d8-15f814c02115")
+		(property "Reference" "D10"
+			(at 78.232 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148"
+			(at 72.9996 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "footprints:diode_TH_SMD"
+			(at 80.645 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 76.2 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 76.2 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "81b3762e-9021-427b-aa42-3b4cf821e6a4")
+		)
+		(pin "2"
+			(uuid "8afa4c2d-006f-44d9-9ef2-f9951db2a2d3")
+		)
+		(instances
+			(project "chocofly"
+				(path "/db4dac64-1581-426b-b2ad-fbb21197bc47"
+					(reference "D10")
 					(unit 1)
 				)
 			)
