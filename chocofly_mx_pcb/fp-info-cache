@@ -1,4 +1,4 @@
-23800488373538909
+23807465792346158
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -96656,6 +96656,13 @@ EVQWGD001_for_mx
 6
 6
 footprints
+Hole_for_EVQWGD001
+
+
+0
+0
+0
+footprints
 Kailh_socket_PG1350_chosfox_17_2mm
 Kailh "Choc" PG1350 keyswitch with optional socket mount
 kailh,choc
@@ -96691,6 +96698,13 @@ kailh,choc
 4
 2
 footprints
+MyCherryMX_1u
+
+
+0
+16
+2
+footprints
 ProMicro
 
 
@@ -96698,7 +96712,21 @@ ProMicro
 24
 24
 footprints
+SW_Cherry_MX_1.00u_PCB
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+2
+2
+footprints
 Switch_Hole
+
+
+0
+0
+0
+footprints
+Switch_Hole2
 
 
 0
