@@ -1,7 +1,7 @@
 (kicad_pcb
-	(version 20240108)
+	(version 20260206)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "10.0")
 	(general
 		(thickness 1.6)
 		(legacy_teardrops no)
@@ -9,59 +9,72 @@
 	(paper "A4")
 	(layers
 		(0 "F.Cu" signal)
-		(31 "B.Cu" signal)
-		(32 "B.Adhes" user "B.Adhesive")
-		(33 "F.Adhes" user "F.Adhesive")
-		(34 "B.Paste" user)
-		(35 "F.Paste" user)
-		(36 "B.SilkS" user "B.Silkscreen")
-		(37 "F.SilkS" user "F.Silkscreen")
-		(38 "B.Mask" user)
-		(39 "F.Mask" user)
-		(40 "Dwgs.User" user "User.Drawings")
-		(41 "Cmts.User" user "User.Comments")
-		(42 "Eco1.User" user "User.Eco1")
-		(43 "Eco2.User" user "User.Eco2")
-		(44 "Edge.Cuts" user)
-		(45 "Margin" user)
-		(46 "B.CrtYd" user "B.Courtyard")
-		(47 "F.CrtYd" user "F.Courtyard")
-		(48 "B.Fab" user)
-		(49 "F.Fab" user)
+		(2 "B.Cu" signal)
+		(9 "F.Adhes" user "F.Adhesive")
+		(11 "B.Adhes" user "B.Adhesive")
+		(13 "F.Paste" user)
+		(15 "B.Paste" user)
+		(5 "F.SilkS" user "F.Silkscreen")
+		(7 "B.SilkS" user "B.Silkscreen")
+		(1 "F.Mask" user)
+		(3 "B.Mask" user)
+		(17 "Dwgs.User" user "User.Drawings")
+		(19 "Cmts.User" user "User.Comments")
+		(21 "Eco1.User" user "User.Eco1")
+		(23 "Eco2.User" user "User.Eco2")
+		(25 "Edge.Cuts" user)
+		(27 "Margin" user)
+		(31 "F.CrtYd" user "F.Courtyard")
+		(29 "B.CrtYd" user "B.Courtyard")
+		(35 "F.Fab" user)
+		(33 "B.Fab" user)
 	)
 	(setup
 		(pad_to_mask_clearance 0)
 		(allow_soldermask_bridges_in_footprints no)
+		(tenting
+			(front yes)
+			(back yes)
+		)
+		(covering
+			(front no)
+			(back no)
+		)
+		(plugging
+			(front no)
+			(back no)
+		)
+		(capping no)
+		(filling no)
 		(pcbplotparams
-			(layerselection 0x00010fc_ffffffff)
-			(plot_on_all_layers_selection 0x0000000_00000000)
+			(layerselection 0x00000000_00000000_55555555_5755f5ff)
+			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
 			(usegerberextensions yes)
 			(usegerberattributes yes)
 			(usegerberadvancedattributes yes)
 			(creategerberjobfile yes)
-			(dashed_line_dash_ratio 12.000000)
-			(dashed_line_gap_ratio 3.000000)
+			(dashed_line_dash_ratio 12)
+			(dashed_line_gap_ratio 3)
 			(svgprecision 4)
 			(plotframeref no)
-			(viasonmask no)
 			(mode 1)
 			(useauxorigin no)
-			(hpglpennumber 1)
-			(hpglpenspeed 20)
-			(hpglpendiameter 15.000000)
 			(pdf_front_fp_property_popups yes)
 			(pdf_back_fp_property_popups yes)
+			(pdf_metadata yes)
+			(pdf_single_document no)
 			(dxfpolygonmode yes)
 			(dxfimperialunits yes)
 			(dxfusepcbnewfont yes)
 			(psnegative no)
 			(psa4output no)
-			(plotreference yes)
-			(plotvalue yes)
-			(plotfptext yes)
-			(plotinvisibletext no)
+			(plot_black_and_white yes)
 			(sketchpadsonfab no)
+			(plotpadnumbers no)
+			(hidednponfab no)
+			(sketchdnponfab yes)
+			(crossoutdnponfab yes)
 			(subtractmaskfromsilk yes)
 			(outputformat 1)
 			(mirror no)
@@ -70,13 +83,12 @@
 			(outputdirectory "Gerbers")
 		)
 	)
-	(net 0 "")
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
 		(uuid "04830fd6-0941-4e81-a5bc-8380f1f1fa74")
 		(at 44.035298 409.177259 13.5)
 		(property "Reference" "SW11"
-			(at -0.97 0.28 -166.5)
+			(at -0.97 0.28 193.5)
 			(layer "Dwgs.User")
 			(hide yes)
 			(uuid "8c69ed2a-652e-4281-b0f2-7012f5a7ba0f")
@@ -88,25 +100,13 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at -0.72 -3.67 -166.5)
+			(at -0.72 -3.67 193.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b5fcb8d0-2552-40f2-aee5-03ea66fcc979")
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 13.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "7c502697-2987-429a-b1b1-300a98e5df07")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -139,6 +139,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.500001 -9)
@@ -439,6 +440,7 @@
 			(layer "Edge.Cuts")
 			(uuid "5f57d46a-3217-46d0-8579-7f10e6cf4d4b")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
@@ -468,20 +470,8 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 -13.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "362f0da4-885c-4df9-97df-c0f9231f0e30")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Datasheet" ""
-			(at 0 0 -13.5)
+			(at 0 0 346.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bfbd915c-d2cc-497d-baf8-8d399eb0013b")
@@ -493,7 +483,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -13.5)
+			(at 0 0 346.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a2ffeb4c-e7b9-429a-8927-dd6b6325cfb7")
@@ -508,6 +498,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.500001 9)
 			(end -9.5 -9)
@@ -808,6 +799,7 @@
 			(layer "Edge.Cuts")
 			(uuid "7e934c01-d2ae-425d-9e51-faeba0968d1a")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
@@ -837,20 +829,8 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 -13.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "bd05efbc-d175-43bc-8bf3-8e4a501be03b")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Datasheet" ""
-			(at 0 0 -13.5)
+			(at 0 0 346.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1555a26e-6d6e-4447-8c15-9260c45c6e9b")
@@ -862,7 +842,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -13.5)
+			(at 0 0 346.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c38b230c-cefd-4fa1-ad94-381bbd0c325c")
@@ -877,6 +857,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.500001 9)
 			(end -9.5 -9)
@@ -1177,6 +1158,7 @@
 			(layer "Edge.Cuts")
 			(uuid "d387c82d-f94c-427e-b177-5a1da53d3249")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2"
 		(layer "F.Cu")
@@ -1204,19 +1186,6 @@
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5e06e30b-695f-4ec8-8d6d-a2ba1aa8e108")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -1252,6 +1221,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
 			(end 2.2 0)
@@ -1259,7 +1229,7 @@
 				(width 0.15)
 				(type solid)
 			)
-			(fill none)
+			(fill no)
 			(layer "Cmts.User")
 			(uuid "96277cde-0ea4-4940-a273-dcd0cd33848b")
 		)
@@ -1270,7 +1240,7 @@
 				(width 0.05)
 				(type solid)
 			)
-			(fill none)
+			(fill no)
 			(layer "F.CrtYd")
 			(uuid "98db60fe-096c-4977-9f61-d9980b8ab4a2")
 		)
@@ -1281,6 +1251,7 @@
 			(layers "*.Cu" "*.Mask")
 			(uuid "af949cd5-7d3b-47c8-bacc-6eba4d6fb411")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
@@ -1310,20 +1281,8 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 -9.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "88ed2f3e-28c4-4348-b0ef-8a63d230dd53")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Datasheet" ""
-			(at 0 0 -9.5)
+			(at 0 0 350.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a82bc3a5-8086-49b8-b9b2-8b4f7ce5a777")
@@ -1335,7 +1294,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -9.5)
+			(at 0 0 350.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9d67cf24-ee29-4720-9f97-0b7d0c82cc56")
@@ -1350,6 +1309,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.5 -9)
@@ -1619,7 +1579,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy 6.898007 -6.840477) (xy 6.863982 -6.881092) (xy 6.818158 -6.921454) (xy 6.761558 -6.95085)
+				(xy 6.898007 -6.840477) (xy 6.863982 -6.881092) (xy 6.818157 -6.921454) (xy 6.761558 -6.95085)
 			)
 			(stroke
 				(width 0.2)
@@ -1650,6 +1610,7 @@
 			(layer "Edge.Cuts")
 			(uuid "818d460d-ecd7-4374-8bd2-2926d3111705")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2"
 		(layer "F.Cu")
@@ -1677,19 +1638,6 @@
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "54e57641-2e1c-42eb-bd13-b7aceb0e2df9")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -1725,6 +1673,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
 			(end 2.2 0)
@@ -1732,7 +1681,7 @@
 				(width 0.15)
 				(type solid)
 			)
-			(fill none)
+			(fill no)
 			(layer "Cmts.User")
 			(uuid "3cc9274c-f2c6-4824-84ad-9fa911ce01ba")
 		)
@@ -1743,7 +1692,7 @@
 				(width 0.05)
 				(type solid)
 			)
-			(fill none)
+			(fill no)
 			(layer "F.CrtYd")
 			(uuid "ee621373-c802-4ccf-bc43-02e99d35ca17")
 		)
@@ -1765,6 +1714,7 @@
 			(layers "*.Cu" "*.Mask")
 			(uuid "1216671f-3252-45c1-aa6d-8a4132bee01c")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2"
 		(layer "F.Cu")
@@ -1792,19 +1742,6 @@
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "cafec578-49b9-40a5-92fb-a2d423a3a76a")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -1840,6 +1777,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
 			(end 2.2 0)
@@ -1847,7 +1785,7 @@
 				(width 0.15)
 				(type solid)
 			)
-			(fill none)
+			(fill no)
 			(layer "Cmts.User")
 			(uuid "ad07ff63-300c-4004-98f7-68b7dc462960")
 		)
@@ -1858,7 +1796,7 @@
 				(width 0.05)
 				(type solid)
 			)
-			(fill none)
+			(fill no)
 			(layer "F.CrtYd")
 			(uuid "9d447e4c-37be-4160-a78b-85570f1f07d2")
 		)
@@ -1880,6 +1818,7 @@
 			(layers "*.Cu" "*.Mask")
 			(uuid "6d39e98d-bebb-4e3d-9d4c-c498acbf96bf")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2"
 		(layer "F.Cu")
@@ -1907,19 +1846,6 @@
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "9d737f25-556c-4d85-922b-f7af75cb4dab")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -1955,6 +1881,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
 			(end 2.2 0)
@@ -1962,7 +1889,7 @@
 				(width 0.15)
 				(type solid)
 			)
-			(fill none)
+			(fill no)
 			(layer "Cmts.User")
 			(uuid "248f08de-a8ad-420d-9243-fa30bdfb0fab")
 		)
@@ -1973,7 +1900,7 @@
 				(width 0.05)
 				(type solid)
 			)
-			(fill none)
+			(fill no)
 			(layer "F.CrtYd")
 			(uuid "80192ec7-e3c8-4514-93d7-869291c33248")
 		)
@@ -1995,13 +1922,14 @@
 			(layers "*.Cu" "*.Mask")
 			(uuid "ad59f66d-30b0-4f51-8d0c-888b2d05c90d")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
 		(uuid "28b4a330-358e-4437-ac92-66363666728b")
 		(at 132.498137 449.774893 9.5)
 		(property "Reference" "SW10"
-			(at -0.97 0.28 -170.5)
+			(at -0.97 0.28 189.5)
 			(layer "Dwgs.User")
 			(hide yes)
 			(uuid "7c1ae85f-89fe-4001-8e78-b983489a3415")
@@ -2013,25 +1941,13 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at -0.72 -3.67 -170.5)
+			(at -0.72 -3.67 189.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4f67a1e5-d648-43b1-ab42-6708662cb611")
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 9.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "14a3d75a-8331-4f91-9efe-7076877bbfaf")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -2064,6 +1980,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.5 -9)
@@ -2146,7 +2063,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy -6.992755 -6.632458) (xy -7 -6.58629) (xy -7 -6.542413) (xy -7 -6.5)
+				(xy -6.992755 -6.632458) (xy -7 -6.58629) (xy -7 -6.542414) (xy -7 -6.5)
 			)
 			(stroke
 				(width 0.2)
@@ -2223,7 +2140,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy -6.898008 6.840478) (xy -6.863982 6.881093) (xy -6.818159 6.921455) (xy -6.761558 6.95085)
+				(xy -6.898008 6.840478) (xy -6.863982 6.881093) (xy -6.818158 6.921455) (xy -6.761558 6.95085)
 			)
 			(stroke
 				(width 0.2)
@@ -2245,7 +2162,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy -6.632458 6.992756) (xy -6.58629 7) (xy -6.542413 7) (xy -6.5 7)
+				(xy -6.632458 6.992756) (xy -6.58629 7) (xy -6.542414 7) (xy -6.5 7)
 			)
 			(stroke
 				(width 0.2)
@@ -2256,7 +2173,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy 6.632457 -6.992755) (xy 6.58629 -7) (xy 6.542413 -7) (xy 6.5 -7)
+				(xy 6.632457 -6.992755) (xy 6.58629 -7) (xy 6.542414 -7) (xy 6.5 -7)
 			)
 			(stroke
 				(width 0.2)
@@ -2355,7 +2272,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy 6.992755 6.632458) (xy 7 6.58629) (xy 7 6.542413) (xy 7 6.5)
+				(xy 6.992755 6.632458) (xy 7 6.58629) (xy 7 6.542414) (xy 7 6.5)
 			)
 			(stroke
 				(width 0.2)
@@ -2364,6 +2281,7 @@
 			(layer "Edge.Cuts")
 			(uuid "324e66b8-3b70-42e1-951a-7abe48d154fe")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2"
 		(layer "F.Cu")
@@ -2391,19 +2309,6 @@
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "850eb785-2a16-499d-82c2-42241055f498")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -2439,6 +2344,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
 			(end 2.2 0)
@@ -2446,7 +2352,7 @@
 				(width 0.15)
 				(type solid)
 			)
-			(fill none)
+			(fill no)
 			(layer "Cmts.User")
 			(uuid "7e89029d-609d-4a46-aa0c-6d725fad52e6")
 		)
@@ -2457,7 +2363,7 @@
 				(width 0.05)
 				(type solid)
 			)
-			(fill none)
+			(fill no)
 			(layer "F.CrtYd")
 			(uuid "12534732-ebb6-4916-af44-3e6f578a6a19")
 		)
@@ -2479,6 +2385,7 @@
 			(layers "*.Cu" "*.Mask")
 			(uuid "d76a7c56-1a14-4838-90fb-0062852e5598")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
@@ -2508,20 +2415,8 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 -13.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f037a750-f93f-47c1-aca8-cfb13d8b9be9")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Datasheet" ""
-			(at 0 0 -13.5)
+			(at 0 0 346.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8df2cf0b-15cc-4b1c-b461-fab8851e66e5")
@@ -2533,7 +2428,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -13.5)
+			(at 0 0 346.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "457fb189-c47f-4e4f-9fa5-d41ea82b0ddb")
@@ -2548,6 +2443,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.500001 9)
 			(end -9.5 -9)
@@ -2848,13 +2744,14 @@
 			(layer "Edge.Cuts")
 			(uuid "3e5a5490-616e-4d74-825a-ef1ac1e18890")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
 		(uuid "35beef83-3621-4cdc-b320-6dad4b90ea3c")
 		(at 148.142721 427.841996 9.5)
 		(property "Reference" "SW37"
-			(at -0.97 0.28 -170.5)
+			(at -0.97 0.28 189.5)
 			(layer "Dwgs.User")
 			(hide yes)
 			(uuid "36ab937d-65f6-46c3-8471-1e33c5e86331")
@@ -2866,25 +2763,13 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at -0.72 -3.67 -170.5)
+			(at -0.72 -3.67 189.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "244af45d-babf-4dca-9432-b5255704e857")
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 9.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "bc5a2270-1aff-42cf-93eb-bad115e1e54f")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -2917,6 +2802,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.5 -9)
@@ -2999,7 +2885,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy -6.992755 -6.632458) (xy -7 -6.58629) (xy -7 -6.542413) (xy -7 -6.5)
+				(xy -6.992755 -6.632458) (xy -7 -6.58629) (xy -7 -6.542414) (xy -7 -6.5)
 			)
 			(stroke
 				(width 0.2)
@@ -3076,7 +2962,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy -6.898008 6.840478) (xy -6.863982 6.881093) (xy -6.818159 6.921455) (xy -6.761558 6.95085)
+				(xy -6.898008 6.840478) (xy -6.863982 6.881093) (xy -6.818158 6.921455) (xy -6.761558 6.95085)
 			)
 			(stroke
 				(width 0.2)
@@ -3098,7 +2984,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy -6.632458 6.992756) (xy -6.58629 7) (xy -6.542413 7) (xy -6.5 7)
+				(xy -6.632458 6.992756) (xy -6.58629 7) (xy -6.542414 7) (xy -6.5 7)
 			)
 			(stroke
 				(width 0.2)
@@ -3109,7 +2995,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy 6.632457 -6.992755) (xy 6.58629 -7) (xy 6.542413 -7) (xy 6.5 -7)
+				(xy 6.632457 -6.992755) (xy 6.58629 -7) (xy 6.542414 -7) (xy 6.5 -7)
 			)
 			(stroke
 				(width 0.2)
@@ -3208,7 +3094,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy 6.992755 6.632458) (xy 7 6.58629) (xy 7 6.542413) (xy 7 6.5)
+				(xy 6.992755 6.632458) (xy 7 6.58629) (xy 7 6.542414) (xy 7 6.5)
 			)
 			(stroke
 				(width 0.2)
@@ -3217,13 +3103,14 @@
 			(layer "Edge.Cuts")
 			(uuid "a69b2f4c-d578-43a9-bfc1-efa6c58f8f18")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
 		(uuid "36684d88-70c9-43ac-861d-95a1361925be")
 		(at 144.998565 409.053256 9.5)
 		(property "Reference" "SW21"
-			(at -0.97 0.28 -170.5)
+			(at -0.97 0.28 189.5)
 			(layer "Dwgs.User")
 			(hide yes)
 			(uuid "cd272920-b388-4d68-bcf7-49e629d2e532")
@@ -3235,25 +3122,13 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at -0.72 -3.67 -170.5)
+			(at -0.72 -3.67 189.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "430d6a5c-6c7a-4de4-ad7d-1c4b445b6716")
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 9.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3448e558-326d-464f-b968-039b6dc0b167")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -3286,6 +3161,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.5 -9)
@@ -3368,7 +3244,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy -6.992755 -6.632458) (xy -7 -6.58629) (xy -7 -6.542413) (xy -7 -6.5)
+				(xy -6.992755 -6.632458) (xy -7 -6.58629) (xy -7 -6.542414) (xy -7 -6.5)
 			)
 			(stroke
 				(width 0.2)
@@ -3445,7 +3321,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy -6.898008 6.840478) (xy -6.863982 6.881093) (xy -6.818159 6.921455) (xy -6.761558 6.95085)
+				(xy -6.898008 6.840478) (xy -6.863982 6.881093) (xy -6.818158 6.921455) (xy -6.761558 6.95085)
 			)
 			(stroke
 				(width 0.2)
@@ -3467,7 +3343,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy -6.632458 6.992756) (xy -6.58629 7) (xy -6.542413 7) (xy -6.5 7)
+				(xy -6.632458 6.992756) (xy -6.58629 7) (xy -6.542414 7) (xy -6.5 7)
 			)
 			(stroke
 				(width 0.2)
@@ -3478,7 +3354,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy 6.632457 -6.992755) (xy 6.58629 -7) (xy 6.542413 -7) (xy 6.5 -7)
+				(xy 6.632457 -6.992755) (xy 6.58629 -7) (xy 6.542414 -7) (xy 6.5 -7)
 			)
 			(stroke
 				(width 0.2)
@@ -3577,7 +3453,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy 6.992755 6.632458) (xy 7 6.58629) (xy 7 6.542413) (xy 7 6.5)
+				(xy 6.992755 6.632458) (xy 7 6.58629) (xy 7 6.542414) (xy 7 6.5)
 			)
 			(stroke
 				(width 0.2)
@@ -3586,13 +3462,14 @@
 			(layer "Edge.Cuts")
 			(uuid "c0ea08ee-5ca9-4664-9103-4b586509c963")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
 		(uuid "3d6b8397-b961-453a-94c7-b2c517d6e021")
 		(at 151.286878 446.630737 9.5)
 		(property "Reference" "SW53"
-			(at -0.97 0.28 -170.5)
+			(at -0.97 0.28 189.5)
 			(layer "Dwgs.User")
 			(hide yes)
 			(uuid "97b31b8f-31dd-4e7b-bf53-9896cc0231da")
@@ -3604,25 +3481,13 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at -0.72 -3.67 -170.5)
+			(at -0.72 -3.67 189.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "542e6533-caa9-4146-b2cf-341c15d009c1")
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 9.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "ed1645e9-fe39-43cf-a9bb-56fe636f1cf3")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -3655,6 +3520,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.5 -9)
@@ -3737,7 +3603,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy -6.992755 -6.632458) (xy -7 -6.58629) (xy -7 -6.542413) (xy -7 -6.5)
+				(xy -6.992755 -6.632458) (xy -7 -6.58629) (xy -7 -6.542414) (xy -7 -6.5)
 			)
 			(stroke
 				(width 0.2)
@@ -3814,7 +3680,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy -6.898008 6.840478) (xy -6.863982 6.881093) (xy -6.818159 6.921455) (xy -6.761558 6.95085)
+				(xy -6.898008 6.840478) (xy -6.863982 6.881093) (xy -6.818158 6.921455) (xy -6.761558 6.95085)
 			)
 			(stroke
 				(width 0.2)
@@ -3836,7 +3702,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy -6.632458 6.992756) (xy -6.58629 7) (xy -6.542413 7) (xy -6.5 7)
+				(xy -6.632458 6.992756) (xy -6.58629 7) (xy -6.542414 7) (xy -6.5 7)
 			)
 			(stroke
 				(width 0.2)
@@ -3847,7 +3713,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy 6.632457 -6.992755) (xy 6.58629 -7) (xy 6.542413 -7) (xy 6.5 -7)
+				(xy 6.632457 -6.992755) (xy 6.58629 -7) (xy 6.542414 -7) (xy 6.5 -7)
 			)
 			(stroke
 				(width 0.2)
@@ -3946,7 +3812,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy 6.992755 6.632458) (xy 7 6.58629) (xy 7 6.542413) (xy 7 6.5)
+				(xy 6.992755 6.632458) (xy 7 6.58629) (xy 7 6.542414) (xy 7 6.5)
 			)
 			(stroke
 				(width 0.2)
@@ -3955,13 +3821,14 @@
 			(layer "Edge.Cuts")
 			(uuid "9fc865fb-8ff7-4fd6-b11b-586727173f85")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
 		(uuid "3dd02d50-7d54-4154-a277-e01264fed713")
 		(at 40.226827 479.067669 40.5)
 		(property "Reference" "SW26"
-			(at -0.97 0.28 -139.5)
+			(at -0.97 0.28 220.5)
 			(layer "Dwgs.User")
 			(hide yes)
 			(uuid "b9058cfe-a158-44dc-abc1-2e7583d1e125")
@@ -3973,25 +3840,13 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at -0.72 -3.67 -139.5)
+			(at -0.72 -3.67 220.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "db1870af-96da-4c19-9197-fb8d8c42ba4c")
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 40.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d2c7b3d5-aa8c-48ee-952a-93b0b5bb3203")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -4024,6 +3879,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.5 -9)
@@ -4324,6 +4180,7 @@
 			(layer "Edge.Cuts")
 			(uuid "ec404f3e-e959-48f0-bbbb-863619904dd4")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
@@ -4353,20 +4210,8 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 -13.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d2b645f8-17ba-4783-82ca-ff87c6a4c9c9")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Datasheet" ""
-			(at 0 0 -13.5)
+			(at 0 0 346.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "add8eac5-83a8-426e-ad2e-4b69bdc71bfd")
@@ -4378,7 +4223,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -13.5)
+			(at 0 0 346.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "971c0ef6-8820-41e6-9ef3-1b84516535f3")
@@ -4393,6 +4238,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.500001 9)
 			(end -9.5 -9)
@@ -4693,13 +4539,14 @@
 			(layer "Edge.Cuts")
 			(uuid "08faa3e4-86b0-4881-8a81-bd9f992b4e56")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
 		(uuid "47d1e8c1-2def-470b-bd3c-9ca7a9a428ec")
 		(at 84.479222 414.430973 13.5)
 		(property "Reference" "SW28"
-			(at -0.97 0.28 -166.5)
+			(at -0.97 0.28 193.5)
 			(layer "Dwgs.User")
 			(hide yes)
 			(uuid "f70e4eb0-df5f-4f36-bbb6-49250ca83069")
@@ -4711,25 +4558,13 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at -0.72 -3.67 -166.5)
+			(at -0.72 -3.67 193.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "56c23e0a-47de-462c-9795-6daecc566079")
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 13.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "607f5b1c-355f-44ea-b4ca-4789eb8b3ebf")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -4762,6 +4597,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.500001 -9)
@@ -5062,13 +4898,14 @@
 			(layer "Edge.Cuts")
 			(uuid "2066f676-54da-4209-a615-f9e0994c9037")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
 		(uuid "5192685b-fa5f-4bd2-9ec7-aaec23be7ff3")
 		(at 38.241315 509.090076 54)
 		(property "Reference" "SW34"
-			(at -0.97 0.28 -126)
+			(at -0.97 0.28 234)
 			(layer "Dwgs.User")
 			(hide yes)
 			(uuid "45c139c7-1052-4114-8e22-35567163e316")
@@ -5080,25 +4917,13 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at -0.72 -3.67 -126)
+			(at -0.72 -3.67 234)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9ad0b6f7-369d-4a4c-8895-c65f2aef2df2")
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 54)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3f2d8bcb-9a5e-47b8-93df-614c714ba885")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -5131,6 +4956,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 9.5 -9)
 			(end -9.5 -9)
@@ -5431,6 +5257,7 @@
 			(layer "Edge.Cuts")
 			(uuid "23b44600-29cc-4052-843c-c4de09a532e2")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
@@ -5460,20 +5287,8 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 -40.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a395169c-215b-4f58-a858-982918deb26e")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Datasheet" ""
-			(at 0 0 -40.5)
+			(at 0 0 319.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e53ed387-c86e-4f39-b21a-d2ea9154483e")
@@ -5485,7 +5300,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -40.5)
+			(at 0 0 319.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e8af6b0f-fe74-4cf6-b85c-a4c5eb558c66")
@@ -5500,6 +5315,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.5 -9)
@@ -5800,6 +5616,7 @@
 			(layer "Edge.Cuts")
 			(uuid "f6209475-c471-41d8-a815-a4aaaf1b593e")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2"
 		(layer "F.Cu")
@@ -5827,19 +5644,6 @@
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "03615e44-adc5-4de7-a72b-d82a901b057b")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -5875,6 +5679,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
 			(end 2.2 0)
@@ -5882,7 +5687,7 @@
 				(width 0.15)
 				(type solid)
 			)
-			(fill none)
+			(fill no)
 			(layer "Cmts.User")
 			(uuid "5b8c583b-ffa2-48f5-a8d8-7881137fe2f3")
 		)
@@ -5893,7 +5698,7 @@
 				(width 0.05)
 				(type solid)
 			)
-			(fill none)
+			(fill no)
 			(layer "F.CrtYd")
 			(uuid "c711cd75-0918-4461-ab56-70a36a489be2")
 		)
@@ -5915,6 +5720,7 @@
 			(layers "*.Cu" "*.Mask")
 			(uuid "8a78d297-d6ee-4587-8ba0-c6b6ed98e9f2")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
@@ -5944,20 +5750,8 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 -9.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "dd920b61-96e4-413e-b6fd-6182c9fb4aa8")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Datasheet" ""
-			(at 0 0 -9.5)
+			(at 0 0 350.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ae29cf65-7aad-4e87-b501-87d5cf30528a")
@@ -5969,7 +5763,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -9.5)
+			(at 0 0 350.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "04bd465f-eadd-44ce-bd88-c909148c1cb8")
@@ -5984,6 +5778,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.5 -9)
@@ -6253,7 +6048,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy 6.898007 -6.840477) (xy 6.863982 -6.881092) (xy 6.818158 -6.921454) (xy 6.761558 -6.95085)
+				(xy 6.898007 -6.840477) (xy 6.863982 -6.881092) (xy 6.818157 -6.921454) (xy 6.761558 -6.95085)
 			)
 			(stroke
 				(width 0.2)
@@ -6284,13 +6079,14 @@
 			(layer "Edge.Cuts")
 			(uuid "882afd95-7729-49dc-9269-baf598948206")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
 		(uuid "611db474-8389-47b7-8a02-46ac843c9a04")
 		(at 52.598812 493.553401 40.5)
 		(property "Reference" "SW42"
-			(at -0.97 0.28 -139.5)
+			(at -0.97 0.28 220.5)
 			(layer "Dwgs.User")
 			(hide yes)
 			(uuid "1c1ea785-1a45-439a-b6f7-6f4ed308f416")
@@ -6302,25 +6098,13 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at -0.72 -3.67 -139.5)
+			(at -0.72 -3.67 220.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "dd1fae8c-11c6-497b-ada3-e14bf42179e7")
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 40.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e4cef586-7ad2-4e4d-bc01-1cd93cab9308")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -6353,6 +6137,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.5 -9)
@@ -6653,6 +6438,7 @@
 			(layer "Edge.Cuts")
 			(uuid "58fd6ccd-d087-4e26-97b9-e531714c9e4c")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2"
 		(layer "F.Cu")
@@ -6680,19 +6466,6 @@
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "7e28f6b2-a530-4dc2-be72-7f53e212805b")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -6728,6 +6501,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
 			(end 2.2 0)
@@ -6735,7 +6509,7 @@
 				(width 0.15)
 				(type solid)
 			)
-			(fill none)
+			(fill no)
 			(layer "Cmts.User")
 			(uuid "1232317d-b208-4304-8563-ca3efb67f637")
 		)
@@ -6746,7 +6520,7 @@
 				(width 0.05)
 				(type solid)
 			)
-			(fill none)
+			(fill no)
 			(layer "F.CrtYd")
 			(uuid "6e72ad5f-2727-4d51-84cf-d7dbf113e361")
 		)
@@ -6768,6 +6542,7 @@
 			(layers "*.Cu" "*.Mask")
 			(uuid "8499617e-0391-4cbf-9bfd-c647a7e682a6")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
@@ -6797,20 +6572,8 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 -9.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c3932d88-742c-4bb5-a8fe-4d17993f78e8")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Datasheet" ""
-			(at 0 0 -9.5)
+			(at 0 0 350.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "19dc0886-9bcf-45a8-b42c-bbd8357d3ab8")
@@ -6822,7 +6585,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -9.5)
+			(at 0 0 350.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9422cf9e-0b8d-4d82-a729-8709737a3352")
@@ -6837,6 +6600,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.5 -9)
@@ -7106,7 +6870,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy 6.898007 -6.840477) (xy 6.863982 -6.881092) (xy 6.818158 -6.921454) (xy 6.761558 -6.95085)
+				(xy 6.898007 -6.840477) (xy 6.863982 -6.881092) (xy 6.818157 -6.921454) (xy 6.761558 -6.95085)
 			)
 			(stroke
 				(width 0.2)
@@ -7137,13 +6901,14 @@
 			(layer "Edge.Cuts")
 			(uuid "bd0335cd-6f06-443a-9008-2f865ea3c347")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
 		(uuid "67964801-1e08-4dbc-ad70-94b122809f2a")
 		(at 62.092054 402.785385 13.5)
 		(property "Reference" "SW4"
-			(at -0.97 0.28 -166.5)
+			(at -0.97 0.28 193.5)
 			(layer "Dwgs.User")
 			(hide yes)
 			(uuid "48533e65-dc6f-4742-9dcf-8589eeaa0a43")
@@ -7155,25 +6920,13 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at -0.72 -3.67 -166.5)
+			(at -0.72 -3.67 193.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "22068081-08cb-47a1-a783-18e8ae8b0733")
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 13.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f1b0fc5c-a30c-47e1-b9d4-0ee6038a85e5")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -7206,6 +6959,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.500001 -9)
@@ -7506,6 +7260,7 @@
 			(layer "Edge.Cuts")
 			(uuid "bf1dfdc3-f30d-4bbc-9b6a-816c2d666e60")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
@@ -7535,20 +7290,8 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 -13.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "768258bc-4e3e-48cf-a71d-a0f2d79b2a3e")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Datasheet" ""
-			(at 0 0 -13.5)
+			(at 0 0 346.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2ad12b87-01b8-4dcc-9bdf-acef9713d587")
@@ -7560,7 +7303,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -13.5)
+			(at 0 0 346.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2643f3d7-8b20-4769-b2ef-17f327c6cec9")
@@ -7575,6 +7318,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.500001 9)
 			(end -9.5 -9)
@@ -7875,13 +7619,14 @@
 			(layer "Edge.Cuts")
 			(uuid "c5565592-535a-4cd9-8bab-b8963d3877de")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
 		(uuid "6d01ecf3-7161-4d3a-a15d-bb2956b859ed")
 		(at 99.139348 393.891117 13.5)
 		(property "Reference" "SW5"
-			(at -0.97 0.28 -166.5)
+			(at -0.97 0.28 193.5)
 			(layer "Dwgs.User")
 			(hide yes)
 			(uuid "b75baa74-ceca-4bd9-b6b8-d7d129f53726")
@@ -7893,25 +7638,13 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at -0.72 -3.67 -166.5)
+			(at -0.72 -3.67 193.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2d4dd5cf-d657-488d-a1a1-1b52e7749fb1")
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 13.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "ab1722a0-f735-40e7-a4f3-f5b25a878a04")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -7944,6 +7677,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.500001 -9)
@@ -8244,13 +7978,14 @@
 			(layer "Edge.Cuts")
 			(uuid "e3c012ff-d378-4f44-8494-d6aa3b347be6")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
 		(uuid "7541c1f0-7da3-441d-8282-7ead4deaac07")
 		(at 141.854408 390.264515 9.5)
 		(property "Reference" "SW6"
-			(at -0.97 0.28 -170.5)
+			(at -0.97 0.28 189.5)
 			(layer "Dwgs.User")
 			(hide yes)
 			(uuid "efc8fbba-691a-463f-a560-94ca5816ec7c")
@@ -8262,25 +7997,13 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at -0.72 -3.67 -170.5)
+			(at -0.72 -3.67 189.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "73888950-9ea3-4d29-8512-fd1d3d073052")
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 9.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "985bc9c9-1fb9-45f8-8bc2-cb3721c1108a")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -8313,6 +8036,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.5 -9)
@@ -8395,7 +8119,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy -6.992755 -6.632458) (xy -7 -6.58629) (xy -7 -6.542413) (xy -7 -6.5)
+				(xy -6.992755 -6.632458) (xy -7 -6.58629) (xy -7 -6.542414) (xy -7 -6.5)
 			)
 			(stroke
 				(width 0.2)
@@ -8472,7 +8196,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy -6.898008 6.840478) (xy -6.863982 6.881093) (xy -6.818159 6.921455) (xy -6.761558 6.95085)
+				(xy -6.898008 6.840478) (xy -6.863982 6.881093) (xy -6.818158 6.921455) (xy -6.761558 6.95085)
 			)
 			(stroke
 				(width 0.2)
@@ -8494,7 +8218,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy -6.632458 6.992756) (xy -6.58629 7) (xy -6.542413 7) (xy -6.5 7)
+				(xy -6.632458 6.992756) (xy -6.58629 7) (xy -6.542414 7) (xy -6.5 7)
 			)
 			(stroke
 				(width 0.2)
@@ -8505,7 +8229,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy 6.632457 -6.992755) (xy 6.58629 -7) (xy 6.542413 -7) (xy 6.5 -7)
+				(xy 6.632457 -6.992755) (xy 6.58629 -7) (xy 6.542414 -7) (xy 6.5 -7)
 			)
 			(stroke
 				(width 0.2)
@@ -8604,7 +8328,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy 6.992755 6.632458) (xy 7 6.58629) (xy 7 6.542413) (xy 7 6.5)
+				(xy 6.992755 6.632458) (xy 7 6.58629) (xy 7 6.542414) (xy 7 6.5)
 			)
 			(stroke
 				(width 0.2)
@@ -8613,6 +8337,7 @@
 			(layer "Edge.Cuts")
 			(uuid "f7bf5534-3e88-4cc3-8c12-ad78cdb12309")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
@@ -8642,20 +8367,8 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 -9.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "6e2c2581-5a84-490b-8c71-76f2787190f2")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Datasheet" ""
-			(at 0 0 -9.5)
+			(at 0 0 350.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f58cad03-390b-4d3a-82c0-522a754eff92")
@@ -8667,7 +8380,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -9.5)
+			(at 0 0 350.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e13b1c79-9946-4cc1-9e60-c0c0df4dbc7b")
@@ -8682,6 +8395,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.5 -9)
@@ -8951,7 +8665,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy 6.898007 -6.840477) (xy 6.863982 -6.881092) (xy 6.818158 -6.921454) (xy 6.761558 -6.95085)
+				(xy 6.898007 -6.840477) (xy 6.863982 -6.881092) (xy 6.818157 -6.921454) (xy 6.761558 -6.95085)
 			)
 			(stroke
 				(width 0.2)
@@ -8982,13 +8696,14 @@
 			(layer "Edge.Cuts")
 			(uuid "d6d2a6bf-89a8-4bd1-835e-66dfdab470c1")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
 		(uuid "7ea4b1cd-aa3b-41d2-87f2-cd28e2319b32")
 		(at 93.37349 451.478267 13.5)
 		(property "Reference" "SW60"
-			(at -0.97 0.28 -166.5)
+			(at -0.97 0.28 193.5)
 			(layer "Dwgs.User")
 			(hide yes)
 			(uuid "734bb226-9374-419c-9f4c-3e698f46099b")
@@ -9000,25 +8715,13 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at -0.72 -3.67 -166.5)
+			(at -0.72 -3.67 193.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7ec2cf1c-6cd3-467d-b1b0-7874f1a14ca9")
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 13.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0b054635-7413-410b-9ce8-ddb46ddfb68b")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -9051,6 +8754,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.500001 -9)
@@ -9351,13 +9055,14 @@
 			(layer "Edge.Cuts")
 			(uuid "f2de7c62-3488-4fb4-bbaf-12e263cf9eb7")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
 		(uuid "7fa32aff-fb69-425d-b980-a6e992ca9c36")
 		(at 90.029165 474.49135 13.5)
 		(property "Reference" "SW58"
-			(at -0.97 0.28 -166.5)
+			(at -0.97 0.28 193.5)
 			(layer "Dwgs.User")
 			(hide yes)
 			(uuid "f27623e0-ae0d-43c3-8a10-570a6d62f292")
@@ -9369,25 +9074,13 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at -0.72 -3.67 -166.5)
+			(at -0.72 -3.67 193.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "66bb06ee-b83a-4bd3-800c-3ce9e3594638")
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 13.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3c81a8e2-767f-42a7-97cc-0cfa4196f0dc")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -9420,6 +9113,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.500001 -9)
@@ -9720,6 +9414,7 @@
 			(layer "Edge.Cuts")
 			(uuid "4e65fb9c-b394-4c23-b16f-5f689617976d")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
@@ -9749,20 +9444,8 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 -13.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a9e7e321-6e09-4a83-86a7-7a86bd70e0fa")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Datasheet" ""
-			(at 0 0 -13.5)
+			(at 0 0 346.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8b47a7fc-b343-4344-8c76-20483434c181")
@@ -9774,7 +9457,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -13.5)
+			(at 0 0 346.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4b064b4b-821d-4631-8e66-ceeb724d0eab")
@@ -9789,6 +9472,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.500001 9)
 			(end -9.5 -9)
@@ -10089,13 +9773,14 @@
 			(layer "Edge.Cuts")
 			(uuid "910561b6-1219-4883-8029-cd20e42841f4")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
 		(uuid "8656e09f-bec1-4fc7-a61e-6a64e692279a")
 		(at 108.033616 430.938411 13.5)
 		(property "Reference" "SW36"
-			(at -0.97 0.28 -166.5)
+			(at -0.97 0.28 193.5)
 			(layer "Dwgs.User")
 			(hide yes)
 			(uuid "8672dbaa-f3ff-49c1-9e27-bee56610df70")
@@ -10107,25 +9792,13 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at -0.72 -3.67 -166.5)
+			(at -0.72 -3.67 193.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "661d5d09-2b2f-45fb-8801-a488ab7dc7ee")
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 13.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8baa759f-525c-407a-8ab6-e212804dc3d9")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -10158,6 +9831,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.500001 -9)
@@ -10458,6 +10132,7 @@
 			(layer "Edge.Cuts")
 			(uuid "2d1fd8cd-9a57-4ec4-8037-8ee80c93e969")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2"
 		(layer "F.Cu")
@@ -10485,19 +10160,6 @@
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "feec378f-6609-4e2b-ad6b-f369c1a3f7f8")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -10533,6 +10195,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
 			(end 2.2 0)
@@ -10540,7 +10203,7 @@
 				(width 0.15)
 				(type solid)
 			)
-			(fill none)
+			(fill no)
 			(layer "Cmts.User")
 			(uuid "393c60c0-8aa9-4d85-8429-7f84b20b1a76")
 		)
@@ -10551,7 +10214,7 @@
 				(width 0.05)
 				(type solid)
 			)
-			(fill none)
+			(fill no)
 			(layer "F.CrtYd")
 			(uuid "8bae8dd2-228a-4c8d-b618-9f26e1f8b897")
 		)
@@ -10573,13 +10236,14 @@
 			(layers "*.Cu" "*.Mask")
 			(uuid "501a28c6-b330-49d0-9049-bea022237ffd")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
 		(uuid "8e844c40-fc0d-4e2d-9241-a059b44ab62d")
 		(at 88.926356 432.95462 13.5)
 		(property "Reference" "SW44"
-			(at -0.97 0.28 -166.5)
+			(at -0.97 0.28 193.5)
 			(layer "Dwgs.User")
 			(hide yes)
 			(uuid "e7ddd969-695b-4d11-9040-090b7aa9a0f0")
@@ -10591,25 +10255,13 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at -0.72 -3.67 -166.5)
+			(at -0.72 -3.67 193.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "153ef436-66cf-4822-9884-1ffa3fe2ea3c")
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 13.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f9ba66b5-f0aa-470f-a606-e0949ed5c7a1")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -10642,6 +10294,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.500001 -9)
@@ -10942,6 +10595,7 @@
 			(layer "Edge.Cuts")
 			(uuid "dcbfe350-abca-48aa-9024-91436651c9e9")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2"
 		(layer "F.Cu")
@@ -10969,19 +10623,6 @@
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "03295b1f-87bf-4d7b-bdd7-a085f97937a9")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -11017,6 +10658,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
 			(end 2.2 0)
@@ -11024,7 +10666,7 @@
 				(width 0.15)
 				(type solid)
 			)
-			(fill none)
+			(fill no)
 			(layer "Cmts.User")
 			(uuid "8a5ffec5-6868-483a-8cc7-9fe2e31790fe")
 		)
@@ -11035,7 +10677,7 @@
 				(width 0.05)
 				(type solid)
 			)
-			(fill none)
+			(fill no)
 			(layer "F.CrtYd")
 			(uuid "6a05677b-8421-4267-8bc3-54b84076cb84")
 		)
@@ -11057,6 +10699,7 @@
 			(layers "*.Cu" "*.Mask")
 			(uuid "1ba369b8-124e-40c8-b0c6-6b84a7518500")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2"
 		(layer "F.Cu")
@@ -11084,19 +10727,6 @@
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "acae3cdc-ce56-4632-9d25-10d58ba72bf1")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -11132,6 +10762,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
 			(end 2.2 0)
@@ -11139,7 +10770,7 @@
 				(width 0.15)
 				(type solid)
 			)
-			(fill none)
+			(fill no)
 			(layer "Cmts.User")
 			(uuid "45d19e95-c209-41c4-806a-a4ff6b9f0f4c")
 		)
@@ -11150,7 +10781,7 @@
 				(width 0.05)
 				(type solid)
 			)
-			(fill none)
+			(fill no)
 			(layer "F.CrtYd")
 			(uuid "bfaf4a77-90ad-473e-9b69-84b2a01b874a")
 		)
@@ -11172,13 +10803,14 @@
 			(layers "*.Cu" "*.Mask")
 			(uuid "b82c29ae-dec3-43a8-a8a9-104daa211529")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
 		(uuid "a152a7f7-6c9c-42e7-8d6e-f7f7a43fb7ac")
 		(at 129.353981 430.986153 9.5)
 		(property "Reference" "SW45"
-			(at -0.97 0.28 -170.5)
+			(at -0.97 0.28 189.5)
 			(layer "Dwgs.User")
 			(hide yes)
 			(uuid "0dd65785-e35d-406f-ae2d-05ae34a40629")
@@ -11190,25 +10822,13 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at -0.72 -3.67 -170.5)
+			(at -0.72 -3.67 189.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f00ab367-88ed-4017-bb96-390e9f065b72")
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 9.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "64a2c0b9-2799-42e4-aa69-bf71d1c25831")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -11241,6 +10861,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.5 -9)
@@ -11323,7 +10944,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy -6.992755 -6.632458) (xy -7 -6.58629) (xy -7 -6.542413) (xy -7 -6.5)
+				(xy -6.992755 -6.632458) (xy -7 -6.58629) (xy -7 -6.542414) (xy -7 -6.5)
 			)
 			(stroke
 				(width 0.2)
@@ -11400,7 +11021,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy -6.898008 6.840478) (xy -6.863982 6.881093) (xy -6.818159 6.921455) (xy -6.761558 6.95085)
+				(xy -6.898008 6.840478) (xy -6.863982 6.881093) (xy -6.818158 6.921455) (xy -6.761558 6.95085)
 			)
 			(stroke
 				(width 0.2)
@@ -11422,7 +11043,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy -6.632458 6.992756) (xy -6.58629 7) (xy -6.542413 7) (xy -6.5 7)
+				(xy -6.632458 6.992756) (xy -6.58629 7) (xy -6.542414 7) (xy -6.5 7)
 			)
 			(stroke
 				(width 0.2)
@@ -11433,7 +11054,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy 6.632457 -6.992755) (xy 6.58629 -7) (xy 6.542413 -7) (xy 6.5 -7)
+				(xy 6.632457 -6.992755) (xy 6.58629 -7) (xy 6.542414 -7) (xy 6.5 -7)
 			)
 			(stroke
 				(width 0.2)
@@ -11532,7 +11153,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy 6.992755 6.632458) (xy 7 6.58629) (xy 7 6.542413) (xy 7 6.5)
+				(xy 6.992755 6.632458) (xy 7 6.58629) (xy 7 6.542414) (xy 7 6.5)
 			)
 			(stroke
 				(width 0.2)
@@ -11541,6 +11162,7 @@
 			(layer "Edge.Cuts")
 			(uuid "cfd94837-bc4b-46b8-8561-80f631424d5b")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
@@ -11570,20 +11192,8 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 -40.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b93c515b-cc27-4fa4-a992-cc6335ddfc37")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Datasheet" ""
-			(at 0 0 -40.5)
+			(at 0 0 319.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "97379520-c41c-4af2-97d9-c859d120f987")
@@ -11595,7 +11205,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -40.5)
+			(at 0 0 319.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "332438fb-216e-4fc4-a9fd-46729e01ca9b")
@@ -11610,6 +11220,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.5 -9)
@@ -11910,13 +11521,14 @@
 			(layer "Edge.Cuts")
 			(uuid "b34ed6af-39c9-47e4-85fd-fe9370299f4d")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
 		(uuid "a9429238-b4bf-45bd-9fec-91a5f713ff58")
 		(at 70.986322 439.832679 13.5)
 		(property "Reference" "SW35"
-			(at -0.97 0.28 -166.5)
+			(at -0.97 0.28 193.5)
 			(layer "Dwgs.User")
 			(hide yes)
 			(uuid "3e0403cb-e04c-42a5-a920-9cfc8837095f")
@@ -11928,25 +11540,13 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at -0.72 -3.67 -166.5)
+			(at -0.72 -3.67 193.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ccef9e52-517f-4c58-803e-b91310e60164")
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 13.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "6c4f8d7f-8828-4220-85e2-71a965c93b06")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -11979,6 +11579,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.500001 -9)
@@ -12279,6 +11880,7 @@
 			(layer "Edge.Cuts")
 			(uuid "37c905cd-7cdd-4fc4-b507-caa430ce76b8")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2"
 		(layer "F.Cu")
@@ -12306,19 +11908,6 @@
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "91f2231b-e553-43fb-9fd7-6580df73b8b2")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -12354,6 +11943,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
 			(end 2.2 0)
@@ -12361,7 +11951,7 @@
 				(width 0.15)
 				(type solid)
 			)
-			(fill none)
+			(fill no)
 			(layer "Cmts.User")
 			(uuid "baa56e77-88ff-40ff-9c93-9e1e8081bc04")
 		)
@@ -12372,7 +11962,7 @@
 				(width 0.05)
 				(type solid)
 			)
-			(fill none)
+			(fill no)
 			(layer "F.CrtYd")
 			(uuid "85912a99-568a-4bed-bb52-0877597f31c2")
 		)
@@ -12394,6 +11984,7 @@
 			(layers "*.Cu" "*.Mask")
 			(uuid "89b46295-615a-4033-bacb-83b0bcc85ffd")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
@@ -12423,20 +12014,8 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 -9.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "446c3c65-c5da-4a17-84b0-72e24c72987b")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Datasheet" ""
-			(at 0 0 -9.5)
+			(at 0 0 350.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1c059c34-6c3d-471d-ad09-7d12be3bed31")
@@ -12448,7 +12027,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -9.5)
+			(at 0 0 350.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7b539c77-ff0e-4b0c-9f09-fff9809369e7")
@@ -12463,6 +12042,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.5 -9)
@@ -12732,7 +12312,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy 6.898007 -6.840477) (xy 6.863982 -6.881092) (xy 6.818158 -6.921454) (xy 6.761558 -6.95085)
+				(xy 6.898007 -6.840477) (xy 6.863982 -6.881092) (xy 6.818157 -6.921454) (xy 6.761558 -6.95085)
 			)
 			(stroke
 				(width 0.2)
@@ -12763,6 +12343,7 @@
 			(layer "Edge.Cuts")
 			(uuid "7a16635b-50a3-43b1-adc4-e85d753eeb22")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2"
 		(layer "F.Cu")
@@ -12790,19 +12371,6 @@
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "ae6ed1af-7662-48a3-82e4-e37d5a103a27")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -12838,6 +12406,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
 			(end 2.2 0)
@@ -12845,7 +12414,7 @@
 				(width 0.15)
 				(type solid)
 			)
-			(fill none)
+			(fill no)
 			(layer "Cmts.User")
 			(uuid "cd939ae5-5988-427c-82af-910f15e32cb2")
 		)
@@ -12856,7 +12425,7 @@
 				(width 0.05)
 				(type solid)
 			)
-			(fill none)
+			(fill no)
 			(layer "F.CrtYd")
 			(uuid "3ab0fa77-3a9d-47ea-9245-d79b9c8dc11d")
 		)
@@ -12878,13 +12447,14 @@
 			(layers "*.Cu" "*.Mask")
 			(uuid "bd6c575c-580f-4bb5-b1e3-ef7f53092735")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
 		(uuid "aef4a29a-b556-49f3-98ac-a2b4033b4116")
 		(at 22.829542 497.892766 54)
 		(property "Reference" "SW18"
-			(at -0.97 0.28 -126)
+			(at -0.97 0.28 234)
 			(layer "Dwgs.User")
 			(hide yes)
 			(uuid "51c4d396-60c3-4ddd-88a8-66e071c5e48c")
@@ -12896,25 +12466,13 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at -0.72 -3.67 -126)
+			(at -0.72 -3.67 234)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "66bf778f-a6c4-4377-84f9-8f089f1714ff")
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 54)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "dc746f38-85e8-483c-9e9f-862c39ecd33b")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -12947,6 +12505,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 9.5 -9)
 			(end -9.5 -9)
@@ -13247,13 +12806,14 @@
 			(layer "Edge.Cuts")
 			(uuid "770617f4-5f2c-4cf8-bb54-0008dded4be1")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
 		(uuid "af75981c-47fd-4177-be2d-bd0a4b56bddb")
 		(at 123.065667 393.408672 9.5)
 		(property "Reference" "SW13"
-			(at -0.97 0.28 -170.5)
+			(at -0.97 0.28 189.5)
 			(layer "Dwgs.User")
 			(hide yes)
 			(uuid "a79e5897-54f0-4b21-9b1d-65afe486256e")
@@ -13265,25 +12825,13 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at -0.72 -3.67 -170.5)
+			(at -0.72 -3.67 189.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "18183886-9449-4f0b-9004-2533701f8afd")
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 9.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "ec8e84cf-1e07-49f6-901e-3653b0adfc5d")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -13316,6 +12864,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.5 -9)
@@ -13398,7 +12947,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy -6.992755 -6.632458) (xy -7 -6.58629) (xy -7 -6.542413) (xy -7 -6.5)
+				(xy -6.992755 -6.632458) (xy -7 -6.58629) (xy -7 -6.542414) (xy -7 -6.5)
 			)
 			(stroke
 				(width 0.2)
@@ -13475,7 +13024,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy -6.898008 6.840478) (xy -6.863982 6.881093) (xy -6.818159 6.921455) (xy -6.761558 6.95085)
+				(xy -6.898008 6.840478) (xy -6.863982 6.881093) (xy -6.818158 6.921455) (xy -6.761558 6.95085)
 			)
 			(stroke
 				(width 0.2)
@@ -13497,7 +13046,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy -6.632458 6.992756) (xy -6.58629 7) (xy -6.542413 7) (xy -6.5 7)
+				(xy -6.632458 6.992756) (xy -6.58629 7) (xy -6.542414 7) (xy -6.5 7)
 			)
 			(stroke
 				(width 0.2)
@@ -13508,7 +13057,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy 6.632457 -6.992755) (xy 6.58629 -7) (xy 6.542413 -7) (xy 6.5 -7)
+				(xy 6.632457 -6.992755) (xy 6.58629 -7) (xy 6.542414 -7) (xy 6.5 -7)
 			)
 			(stroke
 				(width 0.2)
@@ -13607,7 +13156,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy 6.992755 6.632458) (xy 7 6.58629) (xy 7 6.542413) (xy 7 6.5)
+				(xy 6.992755 6.632458) (xy 7 6.58629) (xy 7 6.542414) (xy 7 6.5)
 			)
 			(stroke
 				(width 0.2)
@@ -13616,6 +13165,7 @@
 			(layer "Edge.Cuts")
 			(uuid "31eb3069-e06a-4908-a809-59015691f6e2")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
@@ -13645,20 +13195,8 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 -13.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "ddf72958-8eeb-4365-9b5d-036b11fcd1dd")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Datasheet" ""
-			(at 0 0 -13.5)
+			(at 0 0 346.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "351df562-d8ae-4ed6-8d70-0efdf77aabd1")
@@ -13670,7 +13208,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -13.5)
+			(at 0 0 346.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9d81f14b-41fc-41c0-94e7-dd42d4b25da9")
@@ -13685,6 +13223,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.500001 9)
 			(end -9.5 -9)
@@ -13985,6 +13524,7 @@
 			(layer "Edge.Cuts")
 			(uuid "bc8caf57-b856-4762-b01c-0e890dcf5b36")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
@@ -14014,20 +13554,8 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 -13.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4bd992db-a48b-4bf4-acbf-3eb9145fcfe0")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Datasheet" ""
-			(at 0 0 -13.5)
+			(at 0 0 346.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6c39160d-76dc-4e48-bf34-77224e50076a")
@@ -14039,7 +13567,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -13.5)
+			(at 0 0 346.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6b327157-602b-4597-9d2f-b3ed3ec7341e")
@@ -14054,6 +13582,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.500001 9)
 			(end -9.5 -9)
@@ -14354,6 +13883,7 @@
 			(layer "Edge.Cuts")
 			(uuid "0fbfa2ed-7c98-4f38-b001-3e44e9ec4a59")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2"
 		(layer "F.Cu")
@@ -14381,19 +13911,6 @@
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "83e61a37-3002-4e45-8478-962e7f22ac95")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -14429,6 +13946,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
 			(end 2.2 0)
@@ -14436,7 +13954,7 @@
 				(width 0.15)
 				(type solid)
 			)
-			(fill none)
+			(fill no)
 			(layer "Cmts.User")
 			(uuid "1903efbc-2762-4a80-b051-8c4a810adb19")
 		)
@@ -14447,7 +13965,7 @@
 				(width 0.05)
 				(type solid)
 			)
-			(fill none)
+			(fill no)
 			(layer "F.CrtYd")
 			(uuid "745caccd-52fe-44bd-b173-d212199aae93")
 		)
@@ -14469,13 +13987,14 @@
 			(layers "*.Cu" "*.Mask")
 			(uuid "5a7804fa-f18a-4648-a792-c2ddd584434e")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
 		(uuid "b1e08dbf-f668-409b-80ff-3e0be1aaeace")
 		(at 112.48075 449.462058 13.5)
 		(property "Reference" "SW52"
-			(at -0.97 0.28 -166.5)
+			(at -0.97 0.28 193.5)
 			(layer "Dwgs.User")
 			(hide yes)
 			(uuid "5caa185e-98e2-41e2-b382-f8c4905a4deb")
@@ -14487,25 +14006,13 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at -0.72 -3.67 -166.5)
+			(at -0.72 -3.67 193.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "61237de1-bd92-4f7b-94f2-0a743e2f7809")
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 13.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "087e92d7-dc25-4aaf-8d9f-248d868f082a")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -14538,6 +14045,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.500001 -9)
@@ -14838,6 +14346,7 @@
 			(layer "Edge.Cuts")
 			(uuid "3667ddaa-305c-408e-b9d0-c05e62273529")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
@@ -14867,20 +14376,8 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 -9.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "7f35fd62-e97c-41b6-9b38-b8da293c925f")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Datasheet" ""
-			(at 0 0 -9.5)
+			(at 0 0 350.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a6161a30-6390-4aaf-bcfa-f54cfedcb699")
@@ -14892,7 +14389,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -9.5)
+			(at 0 0 350.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "45dc457a-4fc2-4669-b98f-1cf8f8963846")
@@ -14907,6 +14404,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.5 -9)
@@ -15176,7 +14674,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy 6.898007 -6.840477) (xy 6.863982 -6.881092) (xy 6.818158 -6.921454) (xy 6.761558 -6.95085)
+				(xy 6.898007 -6.840477) (xy 6.863982 -6.881092) (xy 6.818157 -6.921454) (xy 6.761558 -6.95085)
 			)
 			(stroke
 				(width 0.2)
@@ -15207,6 +14705,7 @@
 			(layer "Edge.Cuts")
 			(uuid "cf567f78-5fed-4919-870a-0b89faa9aa9f")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
@@ -15236,20 +14735,8 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 -9.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "1ffae6ca-3b82-4718-a007-b1a55828dc6d")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Datasheet" ""
-			(at 0 0 -9.5)
+			(at 0 0 350.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f1376eca-d88f-428a-8bba-781d2fe052b3")
@@ -15261,7 +14748,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -9.5)
+			(at 0 0 350.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b83d8992-530e-45cd-8e82-c1fc4fe2450b")
@@ -15276,6 +14763,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.5 -9)
@@ -15545,7 +15033,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy 6.898007 -6.840477) (xy 6.863982 -6.881092) (xy 6.818158 -6.921454) (xy 6.761558 -6.95085)
+				(xy 6.898007 -6.840477) (xy 6.863982 -6.881092) (xy 6.818157 -6.921454) (xy 6.761558 -6.95085)
 			)
 			(stroke
 				(width 0.2)
@@ -15576,6 +15064,7 @@
 			(layer "Edge.Cuts")
 			(uuid "010ae710-9524-482b-b83e-047102c4993a")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
@@ -15605,20 +15094,8 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 -54)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e75a496e-b001-47af-98c2-dd28ba05cdba")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Datasheet" ""
-			(at 0 0 -54)
+			(at 0 0 306)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "316d3cb7-d748-4af9-bfa3-342306b28ad7")
@@ -15630,7 +15107,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -54)
+			(at 0 0 306)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "65cc8287-af3a-43bb-83d8-de76af4086f0")
@@ -15645,6 +15122,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.5 -9)
@@ -15945,6 +15423,7 @@
 			(layer "Edge.Cuts")
 			(uuid "d1c1ba5e-44fb-4783-b094-83afc76ed439")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
@@ -15974,20 +15453,8 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 -13.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "12e212bc-f24f-48ed-aa03-466811e85ce3")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Datasheet" ""
-			(at 0 0 -13.5)
+			(at 0 0 346.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "741e38f3-670b-4860-8e84-cb5dc3da8f74")
@@ -15999,7 +15466,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -13.5)
+			(at 0 0 346.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0701ed0d-61fa-4b5a-b9f2-c6d2cf9da6ac")
@@ -16014,6 +15481,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.500001 9)
 			(end -9.5 -9)
@@ -16314,6 +15782,7 @@
 			(layer "Edge.Cuts")
 			(uuid "ec6a12fc-d0fb-487d-8ee4-f7d24482dc21")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
@@ -16343,20 +15812,8 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 -13.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4cdf2a1b-e2ac-4995-982e-5d4205dbd9da")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Datasheet" ""
-			(at 0 0 -13.5)
+			(at 0 0 346.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e91151fa-a36a-42fe-a226-e5d1f4ec7d1b")
@@ -16368,7 +15825,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -13.5)
+			(at 0 0 346.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "96ed4333-b875-4509-abfa-8a3b6f71c0c0")
@@ -16383,6 +15840,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.500001 9)
 			(end -9.5 -9)
@@ -16683,13 +16141,14 @@
 			(layer "Edge.Cuts")
 			(uuid "5f9050b8-75b9-4466-a720-fcc6865fb8e3")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
 		(uuid "baccd08e-c525-4db1-8ae8-808dde466dba")
 		(at 126.209824 412.197412 9.5)
 		(property "Reference" "SW29"
-			(at -0.97 0.28 -170.5)
+			(at -0.97 0.28 189.5)
 			(layer "Dwgs.User")
 			(hide yes)
 			(uuid "92a7b315-04cd-410c-991d-b128985b448e")
@@ -16701,25 +16160,13 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at -0.72 -3.67 -170.5)
+			(at -0.72 -3.67 189.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "18aaec10-fd07-4d5b-b10b-75565890126f")
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 9.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "2cb1a118-cf71-4ed6-ab4f-aed823badb27")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -16752,6 +16199,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.5 -9)
@@ -16834,7 +16282,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy -6.992755 -6.632458) (xy -7 -6.58629) (xy -7 -6.542413) (xy -7 -6.5)
+				(xy -6.992755 -6.632458) (xy -7 -6.58629) (xy -7 -6.542414) (xy -7 -6.5)
 			)
 			(stroke
 				(width 0.2)
@@ -16911,7 +16359,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy -6.898008 6.840478) (xy -6.863982 6.881093) (xy -6.818159 6.921455) (xy -6.761558 6.95085)
+				(xy -6.898008 6.840478) (xy -6.863982 6.881093) (xy -6.818158 6.921455) (xy -6.761558 6.95085)
 			)
 			(stroke
 				(width 0.2)
@@ -16933,7 +16381,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy -6.632458 6.992756) (xy -6.58629 7) (xy -6.542413 7) (xy -6.5 7)
+				(xy -6.632458 6.992756) (xy -6.58629 7) (xy -6.542414 7) (xy -6.5 7)
 			)
 			(stroke
 				(width 0.2)
@@ -16944,7 +16392,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy 6.632457 -6.992755) (xy 6.58629 -7) (xy 6.542413 -7) (xy 6.5 -7)
+				(xy 6.632457 -6.992755) (xy 6.58629 -7) (xy 6.542414 -7) (xy 6.5 -7)
 			)
 			(stroke
 				(width 0.2)
@@ -17043,7 +16491,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy 6.992755 6.632458) (xy 7 6.58629) (xy 7 6.542413) (xy 7 6.5)
+				(xy 6.992755 6.632458) (xy 7 6.58629) (xy 7 6.542414) (xy 7 6.5)
 			)
 			(stroke
 				(width 0.2)
@@ -17052,13 +16500,14 @@
 			(layer "Edge.Cuts")
 			(uuid "eb1563de-5e82-4c12-a237-302aba0c667a")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
 		(uuid "c20b1d7d-9c7e-479f-9297-b3e2131ce956")
 		(at 66.539188 421.309032 13.5)
 		(property "Reference" "SW19"
-			(at -0.97 0.28 -166.5)
+			(at -0.97 0.28 193.5)
 			(layer "Dwgs.User")
 			(hide yes)
 			(uuid "eda03fb5-ffdc-4af4-89be-28ddef1710dd")
@@ -17070,25 +16519,13 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at -0.72 -3.67 -166.5)
+			(at -0.72 -3.67 193.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "13de9d82-bc03-42bc-ab89-5e6eb7aadbac")
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 13.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "bc1bb577-1819-46a1-848a-98b792460b0d")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -17121,6 +16558,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.500001 -9)
@@ -17421,13 +16859,14 @@
 			(layer "Edge.Cuts")
 			(uuid "8c20e48c-2573-4e68-bc4c-1c88729695b7")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
 		(uuid "c31e28a6-1fb1-4f3e-9aca-1d8b7d79a52a")
 		(at 52.929566 446.224553 13.5)
 		(property "Reference" "SW43"
-			(at -0.97 0.28 -166.5)
+			(at -0.97 0.28 193.5)
 			(layer "Dwgs.User")
 			(hide yes)
 			(uuid "97235ef5-1530-413f-9363-f0d4257ae3ba")
@@ -17439,25 +16878,13 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at -0.72 -3.67 -166.5)
+			(at -0.72 -3.67 193.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f63dc222-5972-48d5-a5b7-a75c3566d674")
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 13.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "ed85a9a3-cec9-433a-b4a9-85697d066d7b")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -17490,6 +16917,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.500001 -9)
@@ -17790,6 +17218,7 @@
 			(layer "Edge.Cuts")
 			(uuid "d5543121-4582-4955-8d62-3428ebd2ffda")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
@@ -17819,20 +17248,8 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 -13.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "aebf3e4d-8bea-4787-a842-5bd7244d83e7")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Datasheet" ""
-			(at 0 0 -13.5)
+			(at 0 0 346.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c797ddc3-78f3-4527-bc44-7c3318f53b91")
@@ -17844,7 +17261,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -13.5)
+			(at 0 0 346.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4ea19ff8-de63-46eb-9915-a2a4edf39d55")
@@ -17859,6 +17276,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.500001 9)
 			(end -9.5 -9)
@@ -18159,6 +17577,7 @@
 			(layer "Edge.Cuts")
 			(uuid "7c171bd8-b373-4ca8-a4df-0a71ad67e0fc")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
@@ -18188,20 +17607,8 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 -13.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a866bdc4-bceb-4e23-9701-024df205997c")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Datasheet" ""
-			(at 0 0 -13.5)
+			(at 0 0 346.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "789cc530-e6f8-418e-863e-b46c4aa93d4a")
@@ -18213,7 +17620,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -13.5)
+			(at 0 0 346.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f1b19fa8-5427-41fe-af88-221f1557ceea")
@@ -18228,6 +17635,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.500001 9)
 			(end -9.5 -9)
@@ -18528,6 +17936,7 @@
 			(layer "Edge.Cuts")
 			(uuid "f8b03487-55fa-48fd-bc33-2af73f8fbc0c")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Hole_for_EVQWGD001"
 		(layer "F.Cu")
@@ -18553,18 +17962,6 @@
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "footprints:Hole_for_EVQWGD001"
-			(at 0 0 139.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f742d54b-c2a0-4811-96d6-2bc13d0f4f32")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -18597,6 +17994,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 9 -8.5)
 			(end -9 -8.499999)
@@ -18688,6 +18086,7 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
@@ -18717,20 +18116,8 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 -13.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "fac31d46-51fc-4ac0-8cc4-eefcebd48577")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Datasheet" ""
-			(at 0 0 -13.5)
+			(at 0 0 346.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b8f2c3ed-370d-4e01-9fd0-fb56dd6ef3ad")
@@ -18742,7 +18129,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -13.5)
+			(at 0 0 346.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b1b3e3e1-d29e-4996-9136-3b8eaf0e10ec")
@@ -18757,6 +18144,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.500001 9)
 			(end -9.5 -9)
@@ -19057,6 +18445,7 @@
 			(layer "Edge.Cuts")
 			(uuid "a9f6a0b9-b8be-4dcb-9dfe-682923f93a3a")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
@@ -19086,20 +18475,8 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 -54)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "87dc10ac-98bf-4979-8614-626ce66fac58")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Datasheet" ""
-			(at 0 0 -54)
+			(at 0 0 306)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "633ab524-de79-483f-a7fa-36b50233af16")
@@ -19111,7 +18488,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -54)
+			(at 0 0 306)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b967a65f-8941-4c5d-9d7e-17bdf7d8bd33")
@@ -19126,6 +18503,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.5 -9)
@@ -19426,6 +18804,7 @@
 			(layer "Edge.Cuts")
 			(uuid "e4ab04d2-50a5-457c-afa2-53ed33e03d41")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
@@ -19455,20 +18834,8 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 -13.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f949aa0a-199d-40cb-ab6f-fe49e0328345")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Datasheet" ""
-			(at 0 0 -13.5)
+			(at 0 0 346.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ccd78694-9154-4616-a782-75073ea76eb1")
@@ -19480,7 +18847,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -13.5)
+			(at 0 0 346.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "beee7df4-c8a7-43eb-9e07-77e409d97f54")
@@ -19495,6 +18862,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.500001 9)
 			(end -9.5 -9)
@@ -19795,13 +19163,14 @@
 			(layer "Edge.Cuts")
 			(uuid "29a4aa84-b0a1-4d6e-b5bb-b6d0c4f4fa51")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
 		(uuid "d8fe8fe1-63ad-4cef-80e5-db63f4120915")
 		(at 75.433456 458.356326 13.5)
 		(property "Reference" "SW51"
-			(at -0.97 0.28 -166.5)
+			(at -0.97 0.28 193.5)
 			(layer "Dwgs.User")
 			(hide yes)
 			(uuid "974f6928-4f0d-4c67-9dc1-d8aa6b7f8cd4")
@@ -19813,25 +19182,13 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at -0.72 -3.67 -166.5)
+			(at -0.72 -3.67 193.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "17b6e16e-e640-483a-b084-5d0439a1bdb5")
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 13.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4d07ea4a-1dd8-4c34-a718-e6b5a19b56a9")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -19864,6 +19221,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.500001 -9)
@@ -20164,13 +19522,14 @@
 			(layer "Edge.Cuts")
 			(uuid "fb48e355-70ad-4a17-a221-e4dc842b4cdb")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
 		(uuid "df81ab00-c64e-48b1-a5f7-45f0fe83ab0a")
 		(at 80.032087 395.907326 13.5)
 		(property "Reference" "SW12"
-			(at -0.97 0.28 -166.5)
+			(at -0.97 0.28 193.5)
 			(layer "Dwgs.User")
 			(hide yes)
 			(uuid "9bee8e01-b8f9-454a-bc0b-6ce4f78a5dca")
@@ -20182,25 +19541,13 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at -0.72 -3.67 -166.5)
+			(at -0.72 -3.67 193.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "06157e15-2b59-465d-ac0a-1520b6077951")
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 13.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5aa0c498-cb52-444b-8008-dc40a20b7594")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -20233,6 +19580,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.500001 -9)
@@ -20533,6 +19881,7 @@
 			(layer "Edge.Cuts")
 			(uuid "a3f84fd5-4728-47a7-81bd-ea935edc90bf")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2"
 		(layer "F.Cu")
@@ -20560,19 +19909,6 @@
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "dfd91b2c-50f3-4c53-ba05-a886353333f0")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -20608,6 +19944,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
 			(end 2.2 0)
@@ -20615,7 +19952,7 @@
 				(width 0.15)
 				(type solid)
 			)
-			(fill none)
+			(fill no)
 			(layer "Cmts.User")
 			(uuid "dccd2a71-db03-4fd3-adf6-1dfaadad5aa5")
 		)
@@ -20626,7 +19963,7 @@
 				(width 0.05)
 				(type solid)
 			)
-			(fill none)
+			(fill no)
 			(layer "F.CrtYd")
 			(uuid "884e5120-aaa4-43ee-aa85-a5b9390a5efb")
 		)
@@ -20648,6 +19985,7 @@
 			(layers "*.Cu" "*.Mask")
 			(uuid "061ed240-c4eb-4088-b562-b17119d83f72")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
@@ -20677,20 +20015,8 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 -13.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c5650fb0-b9cf-4687-803b-50c64b6aed7b")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Datasheet" ""
-			(at 0 0 -13.5)
+			(at 0 0 346.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "89cf222d-0fbf-487d-98fe-ee84f8a4a599")
@@ -20702,7 +20028,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -13.5)
+			(at 0 0 346.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5e5e9a9f-fba1-4e34-bfb2-c89744c95a2f")
@@ -20717,6 +20043,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.500001 9)
 			(end -9.5 -9)
@@ -21017,13 +20344,14 @@
 			(layer "Edge.Cuts")
 			(uuid "8c17d5e1-6c74-4f81-83bd-b81bcf35a7b8")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
 		(uuid "e4b067ef-7194-4982-ba67-34068bdf0c22")
 		(at 70.188368 481.806967 27)
 		(property "Reference" "SW50"
-			(at -0.97 0.28 -153)
+			(at -0.97 0.28 207)
 			(layer "Dwgs.User")
 			(hide yes)
 			(uuid "7ea575e8-8d53-45dc-8eaa-5aaa571afb7c")
@@ -21035,25 +20363,13 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at -0.72 -3.67 -153)
+			(at -0.72 -3.67 207)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "93d4d518-1280-4dd5-b220-dc818743158a")
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 27)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "690a5d17-5f74-4abb-ae8a-522020dc2d6b")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -21086,6 +20402,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.499999 9)
 			(end -9.5 -9)
@@ -21386,6 +20703,7 @@
 			(layer "Edge.Cuts")
 			(uuid "fa881c0d-c029-4240-aa69-c6c626e11c5c")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2"
 		(layer "F.Cu")
@@ -21413,19 +20731,6 @@
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "18806f7a-937c-4687-ba53-f55e9c1c5e83")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -21461,6 +20766,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
 			(end 2.2 0)
@@ -21468,7 +20774,7 @@
 				(width 0.15)
 				(type solid)
 			)
-			(fill none)
+			(fill no)
 			(layer "Cmts.User")
 			(uuid "a65888ed-4b45-4ab3-8f32-aff33e79a6fc")
 		)
@@ -21479,7 +20785,7 @@
 				(width 0.05)
 				(type solid)
 			)
-			(fill none)
+			(fill no)
 			(layer "F.CrtYd")
 			(uuid "58b9fc9d-e578-4253-9747-cab987ba2d09")
 		)
@@ -21501,13 +20807,14 @@
 			(layers "*.Cu" "*.Mask")
 			(uuid "a28b400f-584f-457c-ba94-23c9db048e9c")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
 		(uuid "e6b557d6-b9db-4c44-9a3f-142bc5457c76")
 		(at 57.3767 464.7482 13.5)
 		(property "Reference" "SW59"
-			(at -0.97 0.28 -166.5)
+			(at -0.97 0.28 193.5)
 			(layer "Dwgs.User")
 			(hide yes)
 			(uuid "c01e856e-17fb-4349-9f18-0b17ba55a556")
@@ -21519,25 +20826,13 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at -0.72 -3.67 -166.5)
+			(at -0.72 -3.67 193.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ec4f2543-149e-4572-b227-af4f6b8a561e")
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 13.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "bd99d407-11c3-4988-9c14-21ce5e6df2f7")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -21570,6 +20865,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.500001 -9)
@@ -21870,13 +21166,14 @@
 			(layer "Edge.Cuts")
 			(uuid "592057a1-75f0-46b6-944d-28a7f0e1238a")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
 		(uuid "ebc689d3-b216-41ef-9254-8b2d53463cce")
 		(at 48.482432 427.700906 13.5)
 		(property "Reference" "SW27"
-			(at -0.97 0.28 -166.5)
+			(at -0.97 0.28 193.5)
 			(layer "Dwgs.User")
 			(hide yes)
 			(uuid "259c554e-3617-41b7-b38d-4d6ff5f9f9b9")
@@ -21888,25 +21185,13 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at -0.72 -3.67 -166.5)
+			(at -0.72 -3.67 193.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b575a89b-94ff-4fc3-8511-a4a2be68a188")
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 13.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "db7f5e90-e131-44ba-a31b-8c0b609dfae4")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -21939,6 +21224,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.500001 -9)
@@ -22239,6 +21525,7 @@
 			(layer "Edge.Cuts")
 			(uuid "5983f4b7-e989-47f1-b3f5-9c60838799c2")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
@@ -22268,20 +21555,8 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 -27)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "54c5f4dc-cb4b-4535-be08-30b0c9599cff")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Datasheet" ""
-			(at 0 0 -27)
+			(at 0 0 333)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cbe5857a-536f-40fb-8dfe-186a7683d613")
@@ -22293,7 +21568,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -27)
+			(at 0 0 333)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a163b98c-a790-43b3-a0b1-4b8e3d524801")
@@ -22308,6 +21583,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.499999 -9)
@@ -22608,6 +21884,7 @@
 			(layer "Edge.Cuts")
 			(uuid "3c514a1e-8c79-45d1-aa3d-858cddbdeaf4")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
@@ -22637,20 +21914,8 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 -13.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3b48f140-041e-4fab-aef7-3077a7ea2c23")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Datasheet" ""
-			(at 0 0 -13.5)
+			(at 0 0 346.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5624df88-9ce4-4cb4-ada4-e88815ebacb2")
@@ -22662,7 +21927,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -13.5)
+			(at 0 0 346.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "783e18b3-fc79-47c2-8159-37828e5852d8")
@@ -22677,6 +21942,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.500001 9)
 			(end -9.5 -9)
@@ -22977,6 +22243,7 @@
 			(layer "Edge.Cuts")
 			(uuid "33ae9570-3a4a-4c49-bc9a-e6908a02a388")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
@@ -23006,20 +22273,8 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 -13.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "05a15286-7572-4ea1-9e91-1a49059394ff")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Datasheet" ""
-			(at 0 0 -13.5)
+			(at 0 0 346.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4f1a85cb-1fe7-4e78-a1ad-121e6f593d1e")
@@ -23031,7 +22286,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -13.5)
+			(at 0 0 346.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d450dc97-2e01-4e8b-b48e-5a39d3df0b69")
@@ -23046,6 +22301,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.500001 9)
 			(end -9.5 -9)
@@ -23346,6 +22602,7 @@
 			(layer "Edge.Cuts")
 			(uuid "539f477b-2979-4427-8668-e207c4071037")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
@@ -23375,20 +22632,8 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 -9.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b4af658e-efd0-4125-bdc1-fcbd415e9c98")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Datasheet" ""
-			(at 0 0 -9.5)
+			(at 0 0 350.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b62aba5e-f748-4520-aa2c-1608efa483f2")
@@ -23400,7 +22645,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -9.5)
+			(at 0 0 350.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2aae88fa-15b2-4e5f-8ebf-3c1eb61946f9")
@@ -23415,6 +22660,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.5 -9)
@@ -23684,7 +22930,7 @@
 		)
 		(fp_curve
 			(pts
-				(xy 6.898007 -6.840477) (xy 6.863982 -6.881092) (xy 6.818158 -6.921454) (xy 6.761558 -6.95085)
+				(xy 6.898007 -6.840477) (xy 6.863982 -6.881092) (xy 6.818157 -6.921454) (xy 6.761558 -6.95085)
 			)
 			(stroke
 				(width 0.2)
@@ -23715,6 +22961,7 @@
 			(layer "Edge.Cuts")
 			(uuid "289f0280-6f69-4444-859d-ccbf941b3e29")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2"
 		(layer "F.Cu")
@@ -23742,19 +22989,6 @@
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "74401cd1-5f88-4443-9082-f23a0853da17")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -23790,6 +23024,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
 			(end 2.2 0)
@@ -23797,7 +23032,7 @@
 				(width 0.15)
 				(type solid)
 			)
-			(fill none)
+			(fill no)
 			(layer "Cmts.User")
 			(uuid "1e8b6359-1321-49f0-b9a4-40346fb98c14")
 		)
@@ -23808,7 +23043,7 @@
 				(width 0.05)
 				(type solid)
 			)
-			(fill none)
+			(fill no)
 			(layer "F.CrtYd")
 			(uuid "462741e2-3a35-40df-86b4-320736531fb5")
 		)
@@ -23830,13 +23065,14 @@
 			(layers "*.Cu" "*.Mask")
 			(uuid "2707dea7-ae0e-4b4a-887b-ef20da990a3c")
 		)
+		(embedded_fonts no)
 	)
 	(footprint "footprints:Switch_Hole2"
 		(layer "F.Cu")
 		(uuid "fe9679b2-3e15-49e1-be95-605ea402712d")
 		(at 103.586482 412.414764 13.5)
 		(property "Reference" "SW20"
-			(at -0.97 0.28 -166.5)
+			(at -0.97 0.28 193.5)
 			(layer "Dwgs.User")
 			(hide yes)
 			(uuid "563d2117-7e59-4d74-8475-d0d70d97138d")
@@ -23848,25 +23084,13 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at -0.72 -3.67 -166.5)
+			(at -0.72 -3.67 193.5)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6fcae385-6398-4cb9-b9c9-e846c4c87b5c")
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "footprints:Switch_Hole2"
-			(at 0 0 13.5)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8a3de41d-5fee-45e6-86b7-a8d175a5c687")
-			(effects
-				(font
-					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -23899,6 +23123,7 @@
 		(sheetname "Root")
 		(sheetfile "chocofly.kicad_sch")
 		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -9.5 9)
 			(end -9.500001 -9)
@@ -24199,141 +23424,7 @@
 			(layer "Edge.Cuts")
 			(uuid "e7cc3671-b799-4261-92b7-51e7353dc3dd")
 		)
-	)
-	(gr_circle
-		(center 0 500)
-		(end 2 500)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(fill none)
-		(layer "Dwgs.User")
-		(uuid "08c0d589-445b-40fb-aaf6-9acaafbdfad5")
-	)
-	(gr_line
-		(start -100.411747 439.992876)
-		(end -100.995359 442.423801)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "0b8e4887-d206-4183-8907-38fa150bdb0b")
-	)
-	(gr_line
-		(start 54.782021 473.109952)
-		(end 56.075056 477.210934)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "2055f680-3af6-441a-bd86-3e337aca3493")
-	)
-	(gr_line
-		(start -74.350946 468.995869)
-		(end -78.543774 467.453093)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "209cac39-ffa1-4d03-b38a-46e16656fb77")
-	)
-	(gr_line
-		(start 55.053797 414.270775)
-		(end 55.520689 416.215515)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "2bbf4827-c284-4744-9008-1753cc3f24b2")
-	)
-	(gr_line
-		(start 91.517477 402.945583)
-		(end 92.101091 405.376507)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "2f0f3283-39bd-404a-a3a1-d980acae7e8e")
-	)
-	(gr_line
-		(start 0 500)
-		(end 9.525 500)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "39d7706b-01ce-4891-a525-326404c5115e")
-	)
-	(gr_line
-		(start 74.350945 468.995869)
-		(end 78.543775 467.453093)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "439fe6bf-abac-4664-adf1-c6e97ff3ed3d")
-	)
-	(gr_poly
-		(pts
-			(xy 14.425983 463.525061) (xy 28.911716 451.153076) (xy 41.283701 465.63881) (xy 26.797968 478.010794)
-		)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(fill none)
-		(layer "Dwgs.User")
-		(uuid "495df2f7-a1e3-4c53-90dc-1421adafb077")
-	)
-	(gr_poly
-		(pts
-			(xy -28.911716 451.153076) (xy -14.425983 463.525061) (xy -26.797968 478.010795) (xy -41.283701 465.638809)
-		)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(fill none)
-		(layer "Dwgs.User")
-		(uuid "4ca25f15-57de-489b-95cd-a2ab5f436272")
-	)
-	(gr_line
-		(start -55.053797 414.270776)
-		(end -55.520688 416.215515)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "721b17ea-7ed6-4ad7-9e0d-2edb4f057524")
-	)
-	(gr_line
-		(start 63.948066 451.318069)
-		(end 64.414957 453.262809)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "789529c7-0200-4063-9c0a-6cb310a2114b")
-	)
-	(gr_line
-		(start 100.411747 439.992877)
-		(end 100.995359 442.423801)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "9ebcbea2-210d-4b3f-9c1d-1a32df6890ef")
+		(embedded_fonts no)
 	)
 	(gr_line
 		(start -124.675845 460.741341)
@@ -24346,44 +23437,14 @@
 		(uuid "b4428107-18fe-467e-ab2c-69794f510d2d")
 	)
 	(gr_line
-		(start -36.134083 495.785534)
-		(end -39.169953 492.496526)
+		(start -100.411747 439.992876)
+		(end -100.995359 442.423801)
 		(stroke
 			(width 0.1)
 			(type default)
 		)
 		(layer "Dwgs.User")
-		(uuid "bbbb8ddc-0a9f-425a-ac00-abb6ae30a55f")
-	)
-	(gr_line
-		(start -63.948065 451.31807)
-		(end -64.414956 453.262809)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "bf0cd2ac-5c9b-47d1-8889-8c3813a74f2c")
-	)
-	(gr_line
-		(start 39.169953 492.496526)
-		(end 36.134083 495.785534)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "c37effbc-ef16-4695-986b-ea14c75a8de6")
-	)
-	(gr_line
-		(start 0 500)
-		(end -9.525 500)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "cd0ebf36-6f8f-4aa1-9be5-ace0abe0397c")
+		(uuid "0b8e4887-d206-4183-8907-38fa150bdb0b")
 	)
 	(gr_line
 		(start -91.517478 402.945582)
@@ -24396,25 +23457,169 @@
 		(uuid "f169c8c5-c709-4f59-bca6-02ac5c28fae1")
 	)
 	(gr_line
-		(start 40.348549 523.894617)
-		(end 161.51 523.894617)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Cmts.User")
-		(uuid "8b90e058-3e13-4aac-9764-f821da6c5f5f")
-	)
-	(gr_circle
-		(center -72.993831 407.392717)
-		(end -71.493831 407.392717)
+		(start -74.350946 468.995869)
+		(end -78.543774 467.453093)
 		(stroke
 			(width 0.1)
 			(type default)
 		)
-		(fill none)
-		(layer "Cmts.User")
-		(uuid "adb15913-3c6e-4e1d-8a7a-39a32cc42258")
+		(layer "Dwgs.User")
+		(uuid "209cac39-ffa1-4d03-b38a-46e16656fb77")
+	)
+	(gr_line
+		(start -63.948065 451.31807)
+		(end -64.414956 453.262809)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "bf0cd2ac-5c9b-47d1-8889-8c3813a74f2c")
+	)
+	(gr_line
+		(start -55.053797 414.270776)
+		(end -55.520688 416.215515)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "721b17ea-7ed6-4ad7-9e0d-2edb4f057524")
+	)
+	(gr_line
+		(start -36.134083 495.785534)
+		(end -39.169953 492.496526)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "bbbb8ddc-0a9f-425a-ac00-abb6ae30a55f")
+	)
+	(gr_poly
+		(pts
+			(xy -28.911716 451.153076) (xy -14.425983 463.525061) (xy -26.797968 478.010795) (xy -41.283701 465.638809)
+		)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "4ca25f15-57de-489b-95cd-a2ab5f436272")
+	)
+	(gr_poly
+		(pts
+			(xy 14.425983 463.525061) (xy 28.911716 451.153076) (xy 41.283701 465.63881) (xy 26.797968 478.010794)
+		)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "495df2f7-a1e3-4c53-90dc-1421adafb077")
+	)
+	(gr_line
+		(start 0 500)
+		(end -9.525 500)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "cd0ebf36-6f8f-4aa1-9be5-ace0abe0397c")
+	)
+	(gr_circle
+		(center 0 500)
+		(end 2 500)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "08c0d589-445b-40fb-aaf6-9acaafbdfad5")
+	)
+	(gr_line
+		(start 0 500)
+		(end 9.525 500)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "39d7706b-01ce-4891-a525-326404c5115e")
+	)
+	(gr_line
+		(start 39.169953 492.496526)
+		(end 36.134083 495.785534)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "c37effbc-ef16-4695-986b-ea14c75a8de6")
+	)
+	(gr_line
+		(start 54.782021 473.109952)
+		(end 56.075056 477.210934)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "2055f680-3af6-441a-bd86-3e337aca3493")
+	)
+	(gr_line
+		(start 55.053797 414.270775)
+		(end 55.520689 416.215515)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "2bbf4827-c284-4744-9008-1753cc3f24b2")
+	)
+	(gr_line
+		(start 63.948066 451.318069)
+		(end 64.414957 453.262809)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "789529c7-0200-4063-9c0a-6cb310a2114b")
+	)
+	(gr_line
+		(start 74.350945 468.995869)
+		(end 78.543775 467.453093)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "439fe6bf-abac-4664-adf1-c6e97ff3ed3d")
+	)
+	(gr_line
+		(start 91.517477 402.945583)
+		(end 92.101091 405.376507)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "2f0f3283-39bd-404a-a3a1-d980acae7e8e")
+	)
+	(gr_line
+		(start 100.411747 439.992877)
+		(end 100.995359 442.423801)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "9ebcbea2-210d-4b3f-9c1d-1a32df6890ef")
 	)
 	(gr_circle
 		(center -91.517478 402.945582)
@@ -24423,9 +23628,20 @@
 			(width 0.1)
 			(type default)
 		)
-		(fill none)
+		(fill no)
 		(layer "Cmts.User")
 		(uuid "d58df235-69f1-4f0c-8958-8e30214685bb")
+	)
+	(gr_circle
+		(center -72.993831 407.392717)
+		(end -71.493831 407.392717)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "Cmts.User")
+		(uuid "adb15913-3c6e-4e1d-8a7a-39a32cc42258")
 	)
 	(gr_line
 		(start 0 523.97)
@@ -24438,45 +23654,14 @@
 		(uuid "efdd3710-c83f-4b6a-b32f-80a9e2f178e8")
 	)
 	(gr_line
-		(start 160.192248 377.798065)
-		(end 115.392248 377.798065)
+		(start 40.348549 523.894617)
+		(end 161.51 523.894617)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
-		(layer "Edge.Cuts")
-		(uuid "01c35d8a-1d6e-4345-a70a-8c49273b04f8")
-	)
-	(gr_arc
-		(start 165.194182 453.293372)
-		(mid 164.606899 455.620749)
-		(end 163.00693 457.410073)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "06cdff78-d8c8-4816-8ef7-e77c60eb79e9")
-	)
-	(gr_line
-		(start -14.952857 401.044567)
-		(end -10.377328 420.103017)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "16d8dadb-70f4-4330-abc7-f6f3dd2480d8")
-	)
-	(gr_line
-		(start -40.348549 523.894617)
-		(end 0 523.894617)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "1ca58f43-f722-4b4b-922e-ebce6973bc7f")
+		(layer "Cmts.User")
+		(uuid "8b90e058-3e13-4aac-9764-f821da6c5f5f")
 	)
 	(gr_arc
 		(start -165.194183 382.8)
@@ -24490,99 +23675,6 @@
 		(uuid "21720e6b-b0f0-40c4-8d4d-4dea9d203222")
 	)
 	(gr_line
-		(start 9.123984 421.131025)
-		(end 9.203984 421.131025)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "349de12c-1af9-40a4-b938-44196bcaba23")
-	)
-	(gr_arc
-		(start 41.071064 523.711965)
-		(mid 40.721216 523.848422)
-		(end 40.348549 523.894616)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "3eda4d6b-e62a-4bd8-969b-890fba9ade91")
-	)
-	(gr_arc
-		(start -9.203984 421.131025)
-		(mid -9.93 420.878522)
-		(end -10.342646 420.23)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "40cadb76-bc78-46c9-bf9c-bddd501b18b7")
-	)
-	(gr_line
-		(start -41.071064 523.711965)
-		(end -163.00688 457.41)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "4c21a3d6-2acd-475e-b733-2fa3e165a753")
-	)
-	(gr_line
-		(start -67.03 387.69)
-		(end -101.354946 379.450577)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "56697c5a-8188-4024-8358-5e80985d16d3")
-	)
-	(gr_line
-		(start 0 421.131025)
-		(end 9.123984 421.131025)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "6450570a-63e2-420c-ba55-a946a280daa5")
-	)
-	(gr_line
-		(start -14.98 400.93)
-		(end -14.952857 401.044567)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "67f8a038-8220-45cc-b9b2-08a7fafd8dec")
-	)
-	(gr_arc
-		(start -40.348549 523.894616)
-		(mid -40.721216 523.848422)
-		(end -41.071064 523.711965)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "6960e3c1-5614-42fa-8499-481792c762b9")
-	)
-	(gr_line
-		(start -15.921778 399.963171)
-		(end -15.980579 399.945882)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "764c638f-dc6c-4edd-ae49-ccdd4c067b6e")
-	)
-	(gr_line
 		(start -165.194183 453.293372)
 		(end -165.194183 382.8)
 		(stroke
@@ -24593,45 +23685,25 @@
 		(uuid "7ac84349-c264-4d61-a928-5085f79ddf49")
 	)
 	(gr_arc
-		(start 10.342646 420.23)
-		(mid 9.93 420.878522)
-		(end 9.203984 421.131025)
+		(start -163.00693 457.410073)
+		(mid -164.606899 455.620749)
+		(end -165.194182 453.293372)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(layer "Edge.Cuts")
-		(uuid "80f5b84e-5f5b-497e-a9a1-bcbe0fe1fd7e")
+		(uuid "e8c0f21f-947b-481f-bc9f-c09eb50b391d")
 	)
 	(gr_line
-		(start -10.342646 420.23)
-		(end -10.377328 420.103017)
+		(start -160.192248 377.798065)
+		(end -115.392248 377.798065)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(layer "Edge.Cuts")
-		(uuid "85a768cd-cdd1-4cd7-84cd-e5e5039be6f3")
-	)
-	(gr_line
-		(start 115.16158 377.798066)
-		(end 115.392248 377.798065)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "87fbb9a0-1661-4fa7-9dc7-50f523d536aa")
-	)
-	(gr_line
-		(start 41.071064 523.711965)
-		(end 163.00688 457.41)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "8aee2afe-484f-4955-8ccc-64d9965b6985")
+		(uuid "c75fb8a9-1105-424a-90bc-12a198629b47")
 	)
 	(gr_line
 		(start -115.16158 377.798066)
@@ -24655,24 +23727,75 @@
 		(uuid "8f334e28-547e-4d35-b4d5-7e90e4f5f110")
 	)
 	(gr_line
-		(start 67.03 387.69)
-		(end 15.980579 399.945882)
+		(start -101.354946 379.450577)
+		(end -101.499913 379.415914)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(layer "Edge.Cuts")
-		(uuid "91ed8dfb-f826-43a2-968d-f8b2a014c6a0")
+		(uuid "b9565b50-c482-4adb-9da9-b497dd824e29")
 	)
 	(gr_line
-		(start 67.03 387.69)
-		(end 101.354946 379.450577)
+		(start -67.03 387.69)
+		(end -101.354946 379.450577)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(layer "Edge.Cuts")
-		(uuid "9864d42c-60a8-4624-b956-01416fd2ae3f")
+		(uuid "56697c5a-8188-4024-8358-5e80985d16d3")
+	)
+	(gr_line
+		(start -67.03 387.69)
+		(end -15.980579 399.945882)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "d1432474-1f86-4e44-964c-0fe2de72cf22")
+	)
+	(gr_line
+		(start -41.071064 523.711965)
+		(end -163.00688 457.41)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "4c21a3d6-2acd-475e-b733-2fa3e165a753")
+	)
+	(gr_arc
+		(start -40.348549 523.894616)
+		(mid -40.721216 523.848422)
+		(end -41.071064 523.711965)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "6960e3c1-5614-42fa-8499-481792c762b9")
+	)
+	(gr_line
+		(start -40.348549 523.894617)
+		(end 0 523.894617)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "1ca58f43-f722-4b4b-922e-ebce6973bc7f")
+	)
+	(gr_line
+		(start -15.921778 399.963171)
+		(end -15.980579 399.945882)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "764c638f-dc6c-4edd-ae49-ccdd4c067b6e")
 	)
 	(gr_arc
 		(start -15.921778 399.963171)
@@ -24685,47 +23808,97 @@
 		(layer "Edge.Cuts")
 		(uuid "ab6ddb37-8b79-490a-9a97-991404479337")
 	)
-	(gr_arc
-		(start 160.192248 377.798065)
-		(mid 163.72915 379.263098)
-		(end 165.194183 382.8)
+	(gr_line
+		(start -14.98 400.93)
+		(end -14.952857 401.044567)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(layer "Edge.Cuts")
-		(uuid "af1fa9ce-c9ab-4926-a560-8d47d38cf808")
-	)
-	(gr_arc
-		(start 14.98 400.93)
-		(mid 15.308591 400.307974)
-		(end 15.921778 399.963171)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "b82472e7-fcd2-4a78-a52f-ed0cf80df614")
+		(uuid "67f8a038-8220-45cc-b9b2-08a7fafd8dec")
 	)
 	(gr_line
-		(start -101.354946 379.450577)
-		(end -101.499913 379.415914)
+		(start -14.952857 401.044567)
+		(end -10.377328 420.103017)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(layer "Edge.Cuts")
-		(uuid "b9565b50-c482-4adb-9da9-b497dd824e29")
+		(uuid "16d8dadb-70f4-4330-abc7-f6f3dd2480d8")
 	)
 	(gr_line
-		(start 15.921778 399.963171)
-		(end 15.980579 399.945882)
+		(start -10.342646 420.23)
+		(end -10.377328 420.103017)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(layer "Edge.Cuts")
-		(uuid "ba4d0b84-fca0-482e-b0c0-9f39f14f1c38")
+		(uuid "85a768cd-cdd1-4cd7-84cd-e5e5039be6f3")
+	)
+	(gr_arc
+		(start -9.203984 421.131025)
+		(mid -9.93 420.878522)
+		(end -10.342646 420.23)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "40cadb76-bc78-46c9-bf9c-bddd501b18b7")
+	)
+	(gr_line
+		(start -9.123984 421.131025)
+		(end -9.203984 421.131025)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "e3df8326-9258-43fe-8591-0d7eb6c5516d")
+	)
+	(gr_line
+		(start 0 421.131025)
+		(end -9.123984 421.131025)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "f5a6883b-5f23-45a9-adcf-8e60d6519a99")
+	)
+	(gr_line
+		(start 0 421.131025)
+		(end 9.123984 421.131025)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "6450570a-63e2-420c-ba55-a946a280daa5")
+	)
+	(gr_line
+		(start 9.123984 421.131025)
+		(end 9.203984 421.131025)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "349de12c-1af9-40a4-b938-44196bcaba23")
+	)
+	(gr_arc
+		(start 10.342646 420.23)
+		(mid 9.93 420.878522)
+		(end 9.203984 421.131025)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "80f5b84e-5f5b-497e-a9a1-bcbe0fe1fd7e")
 	)
 	(gr_line
 		(start 10.342646 420.23)
@@ -24748,26 +23921,6 @@
 		(uuid "c62fbe7d-b9cd-46e6-8778-af95e5a41308")
 	)
 	(gr_line
-		(start -160.192248 377.798065)
-		(end -115.392248 377.798065)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "c75fb8a9-1105-424a-90bc-12a198629b47")
-	)
-	(gr_line
-		(start -67.03 387.69)
-		(end -15.980579 399.945882)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "d1432474-1f86-4e44-964c-0fe2de72cf22")
-	)
-	(gr_line
 		(start 14.98 400.93)
 		(end 14.952857 401.044567)
 		(stroke
@@ -24776,6 +23929,27 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "d65d07d6-0db2-4ec2-abd5-f275cbf038e0")
+	)
+	(gr_arc
+		(start 14.98 400.93)
+		(mid 15.308591 400.307974)
+		(end 15.921778 399.963171)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "b82472e7-fcd2-4a78-a52f-ed0cf80df614")
+	)
+	(gr_line
+		(start 15.921778 399.963171)
+		(end 15.980579 399.945882)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "ba4d0b84-fca0-482e-b0c0-9f39f14f1c38")
 	)
 	(gr_line
 		(start 40.348549 523.894617)
@@ -24786,6 +23960,47 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "d7c11c55-33e7-4649-bff3-5d4e3de4c276")
+	)
+	(gr_arc
+		(start 41.071064 523.711965)
+		(mid 40.721216 523.848422)
+		(end 40.348549 523.894616)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "3eda4d6b-e62a-4bd8-969b-890fba9ade91")
+	)
+	(gr_line
+		(start 41.071064 523.711965)
+		(end 163.00688 457.41)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "8aee2afe-484f-4955-8ccc-64d9965b6985")
+	)
+	(gr_line
+		(start 67.03 387.69)
+		(end 15.980579 399.945882)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "91ed8dfb-f826-43a2-968d-f8b2a014c6a0")
+	)
+	(gr_line
+		(start 67.03 387.69)
+		(end 101.354946 379.450577)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "9864d42c-60a8-4624-b956-01416fd2ae3f")
 	)
 	(gr_line
 		(start 101.354946 379.450577)
@@ -24809,25 +24024,46 @@
 		(uuid "e3d4a364-89d9-431e-bc54-0626e4ef1c17")
 	)
 	(gr_line
-		(start -9.123984 421.131025)
-		(end -9.203984 421.131025)
+		(start 115.16158 377.798066)
+		(end 115.392248 377.798065)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(layer "Edge.Cuts")
-		(uuid "e3df8326-9258-43fe-8591-0d7eb6c5516d")
+		(uuid "87fbb9a0-1661-4fa7-9dc7-50f523d536aa")
+	)
+	(gr_line
+		(start 160.192248 377.798065)
+		(end 115.392248 377.798065)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "01c35d8a-1d6e-4345-a70a-8c49273b04f8")
 	)
 	(gr_arc
-		(start -163.00693 457.410073)
-		(mid -164.606899 455.620749)
-		(end -165.194182 453.293372)
+		(start 160.192248 377.798065)
+		(mid 163.72915 379.263098)
+		(end 165.194183 382.8)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(layer "Edge.Cuts")
-		(uuid "e8c0f21f-947b-481f-bc9f-c09eb50b391d")
+		(uuid "af1fa9ce-c9ab-4926-a560-8d47d38cf808")
+	)
+	(gr_arc
+		(start 165.194182 453.293372)
+		(mid 164.606899 455.620749)
+		(end 163.00693 457.410073)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "06cdff78-d8c8-4816-8ef7-e77c60eb79e9")
 	)
 	(gr_line
 		(start 165.194183 453.293372)
@@ -24839,20 +24075,22 @@
 		(layer "Edge.Cuts")
 		(uuid "f275ba3b-470f-4ef0-a180-b3b1de1d5cb8")
 	)
-	(gr_line
-		(start 0 421.131025)
-		(end -9.123984 421.131025)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "f5a6883b-5f23-45a9-adcf-8e60d6519a99")
-	)
 	(gr_text "Angles (in degrees):\n* Main columns angle 13,5 (from vertical)\n* Thumb cluster angle 13.5\n* Pinky cluster angle 9.5 (from vertical)\n* Pinky cluster angle 4 (from main columns)\nStagger offsets (from center outwards):\n* 0 mm (col T)\n* up 2 mm (col R)\n* up 2.5 mm (col E)\n* down 2 mm (col W)\n* down 4.3 mm (col Q and col TAB)\n"
 		(at -159.19 512.1 0)
 		(layer "Cmts.User")
 		(uuid "21992305-79e2-4e72-a33e-7599021a5ce2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left)
+		)
+	)
+	(gr_text "ATTENTION: Need 1.2 mm plate thikness otherwise switches won't click in."
+		(at -120.35 524.53 0)
+		(layer "Cmts.User")
+		(uuid "4747ef75-8fa7-448b-a2f2-a32f2fce88e8")
 		(effects
 			(font
 				(size 1 1)
@@ -24880,6 +24118,22 @@
 			(xy -165.194183 453.293372) (xy 165.194183 453.293372)
 		)
 		(height 85.416628)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
 		(gr_text "330.3884 mm"
 			(at 0 537.56 0)
 			(layer "Cmts.User")
@@ -24891,6 +24145,15 @@
 				)
 			)
 		)
+	)
+	(dimension
+		(type aligned)
+		(layer "Cmts.User")
+		(uuid "d11ab04b-7d0e-4880-8c84-f4e9c7031dfb")
+		(pts
+			(xy 160.192248 377.798065) (xy 160.192248 523.89)
+		)
+		(height -18.077752)
 		(format
 			(prefix "")
 			(suffix "")
@@ -24902,17 +24165,11 @@
 			(thickness 0.1)
 			(arrow_length 1.27)
 			(text_position_mode 0)
+			(arrow_direction outward)
 			(extension_height 0.58642)
-			(extension_offset 0.5) keep_text_aligned)
-	)
-	(dimension
-		(type aligned)
-		(layer "Cmts.User")
-		(uuid "d11ab04b-7d0e-4880-8c84-f4e9c7031dfb")
-		(pts
-			(xy 160.192248 377.798065) (xy 160.192248 523.89)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
 		)
-		(height -18.077752)
 		(gr_text "146.0919 mm"
 			(at 177.12 450.844033 90)
 			(layer "Cmts.User")
@@ -24924,26 +24181,13 @@
 				)
 			)
 		)
-		(format
-			(prefix "")
-			(suffix "")
-			(units 3)
-			(units_format 1)
-			(precision 4)
-		)
-		(style
-			(thickness 0.1)
-			(arrow_length 1.27)
-			(text_position_mode 0)
-			(extension_height 0.58642)
-			(extension_offset 0.5) keep_text_aligned)
 	)
 	(segment
 		(start -8.18 465)
 		(end -8.27 465)
 		(width 0.25)
 		(layer "B.Cu")
-		(net 0)
+		(net "")
 		(uuid "229b0a46-20ee-48ff-a04f-e29ac1ebf61f")
 	)
 	(segment
@@ -24951,7 +24195,7 @@
 		(end -8.18 464.91)
 		(width 0.25)
 		(layer "B.Cu")
-		(net 0)
+		(net "")
 		(uuid "48365e68-21d0-4735-a4e7-b8b0e2a92a5f")
 	)
 	(segment
@@ -24959,7 +24203,8 @@
 		(end -8.18 465)
 		(width 0.25)
 		(layer "B.Cu")
-		(net 0)
+		(net "")
 		(uuid "afb31e43-d112-49e4-9429-c9bea04ac9f4")
 	)
+	(embedded_fonts no)
 )
